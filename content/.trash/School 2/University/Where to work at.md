@@ -1,0 +1,15 @@
+- Amazon
+- Apple
+- Discord
+- GitHub
+- Google
+- HashiCorp
+- IBM
+- LinkedIn
+- Microsoft
+- Netflix
+- Pinterest
+- Shopify
+- Spotify
+- Stripe
+- Twillio
