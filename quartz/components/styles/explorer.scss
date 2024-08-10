@@ -73,6 +73,7 @@ button#explorer {
     & li > a {
       color: var(--dark);
       opacity: 0.75;
+      font-weight: 300;
       pointer-events: all;
     }
   }
@@ -91,6 +92,7 @@ svg {
   display: flex;
   align-items: center;
   user-select: none;
+  font-weight: 400;
 
   & div > a {
     color: var(--secondary);
