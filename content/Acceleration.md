@@ -12,7 +12,6 @@ TARGET DECK: Grade 11::SPH3U1::Unit 1 - Kinematics
 ---
 
 # Acceleration #flashcard
-THIS SHOULD BE CHANGED
 How quickly an object's [[velocity]] changes over time. It is also the the **rate of change** of [[velocity]].
 <!--ID: 1718370433205-->
 
