@@ -2,9 +2,9 @@
 CreatedAt: 2024-03-21
 MOC: "[[Business MOC]]"
 tags:
-  - Unit-1
+- Unit-1
 aliases:
-  - Accountants
+- Accountants
 TARGET DECK: Grade 11::BAF3M1::Unit 1
 ---
 

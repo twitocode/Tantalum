@@ -39,11 +39,11 @@
 - [x] Samsara
 
 ### Sacred Places
-- [ ] Temples and Shrines 
-	- [ ] The Stupa,
-	- [x]  The Pagoda,
-	- [x]  The Monastery,
-	- [x]  Theravadin Shrine
+- [ ] Temples and Shrines
+- [ ] The Stupa,
+- [x]  The Pagoda,
+- [x]  The Monastery,
+- [x]  Theravadin Shrine
 
 ### Important Doctrines
 - [ ] The Three Jewels

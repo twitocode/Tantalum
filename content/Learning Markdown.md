@@ -12,20 +12,20 @@
 > This is a blockquote
 
 1. This is a ordered list
-	1. a
-		1. b
+1. a
+1. b
 
 - This is an unordered list
-	- a
-		- b
+- a
+- b
 
 - [x] This is a tasklist
-	- [ ] a
-		- [ ] b
+- [ ] a
+- [ ] b
 
 ```csharp
 public static void Main(string[] args) {
-	Console.Writeline("This is a codeblock")
+Console.Writeline("This is a codeblock")
 }
 ```
 
@@ -48,8 +48,8 @@ Automatic URL linking - http://www.example.com
 > This is a callout
 
 ```dataview
-TABLE 
-FROM #ClassNote 
+TABLE
+FROM #ClassNote
 WHERE file.name != "Class Note Template"
 ```
 

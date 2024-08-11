@@ -1,0 +1,23 @@
+- [x] Muhammad
+- [x] Muslim
+- [x] Allah (99 Names)
+- [x] Abraham, Hagar and Ishmael
+- [ ] Mecca
+- [x] Kaaba
+- [x] Medina
+- [x] Mosque
+- [x] Minaret
+- [ ] Mihrab
+- [x] Ramadan
+- [x] Eid al-Fitr/Eid al-Adha
+- [x] Zakat
+- [x] The Qur’an
+- [x] Hadith
+- [x] Sunna
+- [x] Shariah Law (3 sources for determining Shariah Law)
+- [x] Women’s clothing
+- [x] The Five Pillars of Islam
+- [x] Muslim dietary laws (Halal)
+- [x] Sunni vs Shia
+- [x] Prayer (and direction)
+- [x] Prophets in Islam (Role of Jesus)

@@ -2,7 +2,7 @@
 CreatedAt: 2024-04-19
 MOC: "[[Business MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 aliases:
 ---
 # Accounting Errors

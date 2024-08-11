@@ -2,11 +2,11 @@
 CreatedAt: 2024-03-26
 MOC: "[[Physics MOC]]"
 tags:
-  - Unit-1
+- Unit-1
 TARGET DECK: Grade 11::SPH3U1::Unit 1 - Kinematics
 ---
 
-# Kinematics #flashcard 
+# Kinematics
 The study of how objects move
 <!--ID: 1718370433075-->
 
@@ -18,7 +18,7 @@ It can be expressed in degrees on a compass, as compass points (north, south, ea
 
 ## Types of Quantities
 ### Scalar $V$
-A quantity that has magnitude (size) only. 
+A quantity that has magnitude (size) only.
 
 > [!Example] Distance
 > ![[Untitled.png]]

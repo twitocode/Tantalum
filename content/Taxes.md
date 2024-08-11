@@ -2,11 +2,11 @@
 CreatedAt: 2024-04-24
 MOC: "[[Business MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 aliases:
-  - GST
-  - PST
-  - HST
+- GST
+- PST
+- HST
 TARGET DECK: Grade 11::BAF3M1::Unit 3
 ---
 # Taxes
@@ -14,7 +14,7 @@ TARGET DECK: Grade 11::BAF3M1::Unit 3
 **GST** - Good and Services Tax 5% - Federal Government Tax
 **PST** - Provincial Sales Tax - 8% - Provincial Government Tax
 
-## HST #flashcard 
+## HST
 **Harmonized Sales Tax** - 13% (includes both the provincial and federal taxes)
 It is applied to most good and services. At the end of each quarter, the HST collected is reduced by any HST paid and then remitted to the Receive General of Canada.
 <!--ID: 1718216451499-->
@@ -27,16 +27,16 @@ It means that the company or consumer does not have to pay any taxes on a purcha
 Taxes a company collects from  selling good/services are recorded in a separate acount called **HST Payable**. It is a **Liability** account because it is money that the company owes to the government. It has a **Credit** balance.
 
 Cash
-	Membership Fees
-	HST Payable
+Membership Fees
+HST Payable
 
 
 ### HST Refundable/Recoverable
-Taxes a company pays when **it buys** good and services is recorded in a separate account called **HST Refundable**. It is a **Contra Liability** account because it reduced a liability account (HST Payable). It is listed in the liabilities section of the balance sheet, however it has a **Debit balance**. 
+Taxes a company pays when **it buys** good and services is recorded in a separate account called **HST Refundable**. It is a **Contra Liability** account because it reduced a liability account (HST Payable). It is listed in the liabilities section of the balance sheet, however it has a **Debit balance**.
 
 Equipment
 HST Refundable
-	Accounts Payable
+Accounts Payable
 
 ### Liabilities Section Example
 In this example, The total is $16500, not $16800

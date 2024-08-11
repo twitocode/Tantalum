@@ -2,10 +2,10 @@
 CreatedAt: 2024-04-30
 MOC: "[[Religion MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 aliases:
-  - Divorce
-  - Hijab
+- Divorce
+- Hijab
 TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 ---
 # Women in Islam
@@ -13,7 +13,7 @@ Islam is one of the most progressive supporters of women's liberation. It is why
 
 In the [[Islam's Sacred Books|Qu'ran]], **men and women are equal**
 
-## Women's Clothing #flashcard 
+## Women's Clothing
 Women wear **hijab**, loose fitting clothes, and ankles and wrists should be covered
 **Veils** over the face like the niquab, wearing an all-enveloping robe like the burka, and wearing socks and gloves. They may practice a form of female seclusion called purdah.
 ![[Pasted image 20240624160408.png]]

@@ -2,19 +2,19 @@
 CreatedAt: 2024-05-14
 MOC: "[[Physics MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 aliases:
-  - Proton-Proton Chain
+- Proton-Proton Chain
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 
-# Nuclear Fusion #flashcard 
+# Nuclear Fusion
 A nuclear reaction in which the nuclei of two atoms fuse to form another element. In nature, it happens in stars
 ![[Pasted image 20240515092655.png]]
 <!--ID: 1716814411667-->
 
 
-> [!INFO] 
+> [!INFO]
 > In order for nuclear fusion to occur, the fusing nuclei must **have enough kinetic energy to overcome the repulsive electrostatic force** between them
 
 ## Nuclear Stability
@@ -31,7 +31,7 @@ Usually hydrogen is used for fusion while Uranium is used for fission
 
 ## Fusion Processes
 
-### Proton-Proton Chain #flashcard 
+### Proton-Proton Chain
 Four hydrogen nuclei fuse to form one helium-4 atom
 Occurs in stars the of our sun and smaller
 $$4(^1_{1}H) \to ^4_{2}He + 2(^0_{+1}e) + energy$$

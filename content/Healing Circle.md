@@ -2,13 +2,13 @@
 CreatedAt: 2024-04-08
 MOC: "[[Religion MOC]]"
 tags:
-  - Unit-2
+- Unit-2
 aliases:
-  - Medicine Wheel
+- Medicine Wheel
 TARGET DECK: Grade 11::HRT3M1::Unit 2 - Indigenous Spirituality
 ---
 
-# Healing Circle #flashcard 
+# Healing Circle
 The purpose is to begin the healing process, promote understanding, solve problems, build trust, and respect each other and self. [[Sacred Indigenous People|Elders]] and teachers teach lessons about the sanctity of life and guides to inner self. People use it for violence, addictions, poverty, etc.
 The ceremony begins with a [[Indigenous Ceremonies|Smudging]].
 Certain items can be placed in the middle
@@ -20,7 +20,7 @@ Certain items can be placed in the middle
 <!--ID: 1718379550425-->
 
 
-## Medicine Wheel #flashcard 
+## Medicine Wheel
 The circle represents the continuous cycle of life and the connection among all species.
 The Powers of the four directions organize everything that exists
 - Seasons - winter, spring, summer fall

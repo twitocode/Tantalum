@@ -57,14 +57,14 @@ Group 3: Reconciliation and Historical Context
 - [ ] Rising Indigenous Population in Canada
 - [ ] History – when Indigenous people first came to Canada
 
-Short Answer Concepts: 
+Short Answer Concepts:
 
 - [x] Four Sacred Medicines
 - [x] The Seven Grandfather Teachings
 - [x] Residential Schools
 - [x] Saint Kateri Tekakwitha
 - [x] The Medicine Wheel
-- [x] Potlatch Ceremony 
+- [x] Potlatch Ceremony
 - [x] Smudging Ceremony
 - [x] The Truth and Reconciliation Commission
 - [ ] TED TALK: We are all connected with nature (role of nature/the environment)

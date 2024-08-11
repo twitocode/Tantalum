@@ -1,0 +1,107 @@
+**MOC**:: [[MOC/Code MOC]]
+# Brainstoming
+-------
+- Types
+    - Blogs
+    - eCommerce
+    - Portfolio
+    - Social Media
+    - Online Communication - Chat
+    - Email Clients
+    - Maps
+    - Video Streaming
+    - Trackers
+    - Galleries
+    - Password Manager
+- Genres
+    - Productivity
+    - Academics
+    - Gaming
+    - Informational
+    - Health
+    - Tool
+    - Music
+    - Security
+    - Financial
+- Technologies
+    - Backend - JavaScript
+        - MongoDB - Mongoose
+        - PostgreSQL - TypeORM
+        - NestJS
+        - Express
+        - GraphQL
+        - BcryptJS
+        - PassportJS - OAuth
+        - Swagger
+    - Frontend - JavaScript
+        - React
+        - React-Query
+        - Zustand | Redux Toolkit
+        - NextJS
+        - React-Hook-Form
+        - Apollo Client
+    - Backend & Frontend
+        - GraphQL
+        - Session | JWT
+        - [Socket.IO](http://Socket.IO)
+        - Prisma
+    - C#
+        - [ASP.NET](http://ASP.NET) Core
+        - Mediatr
+        - Entity Framework Core
+        - FluentValidation
+        - FluentAssertions
+        - Npgsql
+- Hosting
+    - Heroku - Servers
+    - Vercel - NextJS
+    - Netlify - React Apps
+- Frameworks & Languages
+    - Desktop
+        - C# - Avalonia, Uno, .NET Maui, Blazor Hybrid, UWP
+        - Rust - Druid, Iced, Tauri
+        - JavaScript - Electron, Tauri, Meteor.js
+        - Go - Wails
+    - Mobile
+        - JavaScript - React Native, Ionic
+        - C# - .NET Maui
+        - Dart - Flutter
+    - Web
+        - JavaScript - Svelte, React
+        - C# - Blazor, Razor Pages
+        - Rust - Yew
+    - Server
+        - JavaScript - Express, Nest.js, Apollo Server
+        - C# - [ASP.NET](http://ASP.NET) Core
+        - Rust - Rocket
+        - Go - Mux/Chi + Standard Library, Gin, Fiber, Echo
+    - **Prefered Stacks**
+        - Main
+            - Desktop -
+            - Mobile -
+            - Web - Svelte
+            - Server -
+
+# What I know
+- C#
+- Typescript
+- React
+- Svelte
+- NextJS
+- TailwindCSS
+- .NET
+- NestJS
+- MongoDB
+
+# What I want to learn
+- PostgreSQL
+- Golang
+- GraphQL
+- Flutter
+- Docker
+- Tauri
+- Github Actions
+- Redis
+- Rust
+- Vite
+- Web Assembly

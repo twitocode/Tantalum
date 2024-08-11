@@ -2,12 +2,12 @@
 CreatedAt: 2024-04-28
 MOC: "[[Physics MOC]]"
 tags:
-  - Unit-3
-aliases: 
+- Unit-3
+aliases:
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 
-# The Law of Conservation of Energy #flashcard 
+# The Law of Conservation of Energy
 $$E_{i} = E_{f}$$
 - **The total amount of energy in the universe is conserved**.
 - There is a certain total amount of energy in the universe, and **this total never changes**.
@@ -19,7 +19,7 @@ $$E_{i} = E_{f}$$
 
 ![[Pasted image 20240428131133.png]]
 
-## Energy Transformations #flashcard 
+## Energy Transformations
 The change of one form or type of energy into another.
 <!--ID: 1715895327924-->
 

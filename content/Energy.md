@@ -2,18 +2,18 @@
 CreatedAt: 2024-04-28
 MOC: "[[Physics MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 aliases:
-  - Potential Energy
-  - Radiant Energy
-  - Sound Energy
-  - Chemical Potential Energy
-  - Electrical Potential Energy
-  - Energy Efficiency
+- Potential Energy
+- Radiant Energy
+- Sound Energy
+- Chemical Potential Energy
+- Electrical Potential Energy
+- Energy Efficiency
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 
-# Energy #flashcard
+# Energy
 The ability to do work
 <!--ID: 1715686825827-->
 
@@ -29,7 +29,7 @@ The ability to do work
 | Sound                       | The energy in **sound waves**                                                                                                                                |
 | [[Thermal Energy\|Thermal]] | The energy associated with the **movement and interactions of the particles** in an object (The total kinetic and potential energy of an object's particles) |
 
-### Potential Energy #flashcard 
+### Potential Energy
 The ability of an object to do work because of its position or the arrangement of its parts. It may be considered **a stored from of energy**.
 <!--ID: 1715686690943-->
 
@@ -42,7 +42,7 @@ The ability of an object to do work because of its position or the arrangement o
 | Nuclear                              | The potential energy stored in the **nucleus of an atom**                               |
 | Electrical                           | The potential energy associated with **electric charges**                               |
 
-## Energy Efficiency #flashcard 
+## Energy Efficiency
 The ratio of the amount of useful energy produced ($E_{out}$) to the amount of energy used ($E_{in}$)
 $$\text{\% eff} = \frac{E_{out}}{E_{in}} \cdot 100$$
 $E_{out}$ is the useful energy output

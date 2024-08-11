@@ -75,17 +75,17 @@
 - [x] Rabbis
 
 1. **Topics of importance to understand:**
-    
-    - [x] 5 Books of the Torah & sacred writings
-    - [x] **Shabbat rituals** – why is Shabbat so important to the Jewish faith? (handout in package on Shabbat)
-    - [x] **Orthodox, Conservative and Reform Jews** (differences in how they view their place in society, Sabbath practices, Position on the Laws & Torah, Worship practices of men and women)
-    - [x] **Rites of Passage** – Know one in detail (See Life Cycle note handout – eg. Bar/Bat Mitzvah)
-    - [x] **Jewish Synagogue functions** – house of worship and study
-    - [x] **Kosher** (Dietary Laws – which types of foods are allowed/forbidden)
-    - [x] What is a **Covenant** – What significance do covenants have to people of the Jewish faith? Explain an example of a covenant within Jewish history (Who was involved, what was promised & what was the symbol)
-    - [x] **Anti-Semitism** – Instance(s) of persecution of Jews through the centuries and explain the reasons for the persecution.
-    - [x] **Abraham** Importance – who were Sarah, Hagar, Ishmael & Isaac?
-    - [x] **Moses** Importance – why was he respected above all other in the Torah?
-    - [x] **ARK** – importance
-    - [ ] **Irena Sendler** – Importance
-    - [ ] **Maximilian Kolbe** – Importance
+
+- [x] 5 Books of the Torah & sacred writings
+- [x] **Shabbat rituals** – why is Shabbat so important to the Jewish faith? (handout in package on Shabbat)
+- [x] **Orthodox, Conservative and Reform Jews** (differences in how they view their place in society, Sabbath practices, Position on the Laws & Torah, Worship practices of men and women)
+- [x] **Rites of Passage** – Know one in detail (See Life Cycle note handout – eg. Bar/Bat Mitzvah)
+- [x] **Jewish Synagogue functions** – house of worship and study
+- [x] **Kosher** (Dietary Laws – which types of foods are allowed/forbidden)
+- [x] What is a **Covenant** – What significance do covenants have to people of the Jewish faith? Explain an example of a covenant within Jewish history (Who was involved, what was promised & what was the symbol)
+- [x] **Anti-Semitism** – Instance(s) of persecution of Jews through the centuries and explain the reasons for the persecution.
+- [x] **Abraham** Importance – who were Sarah, Hagar, Ishmael & Isaac?
+- [x] **Moses** Importance – why was he respected above all other in the Torah?
+- [x] **ARK** – importance
+- [ ] **Irena Sendler** – Importance
+- [ ] **Maximilian Kolbe** – Importance

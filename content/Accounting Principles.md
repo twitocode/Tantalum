@@ -2,7 +2,7 @@
 CreatedAt: 2024-03-24
 MOC: "[[Business MOC]]"
 tags:
-  - NoUnit
+- NoUnit
 aliases: []
 ---
 # Accounting Principles

@@ -2,23 +2,23 @@
 CreatedAt: 2024-05-02
 MOC: "[[Religion MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 aliases:
-  - Allah
-  - Angels
-  - Djinna
-  - Holy Book
-  - Prophets
-  - Day of Judgement
-  - Predestination
-  - Shayton
+- Allah
+- Angels
+- Djinna
+- Holy Book
+- Prophets
+- Day of Judgement
+- Predestination
+- Shayton
 TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 ---
 # Six Essential Beliefs of Islam
 
 
-## Allah #flashcard 
-The one, merciful, infinite, compassionate, mighty, has no equal, is pure spirit.  The creator of and provider. Knows the past, present and future, but does not act to alter or change it. **Allah desired unconditional submission to his will, anything less equals eternal damnation** 
+## Allah
+The one, merciful, infinite, compassionate, mighty, has no equal, is pure spirit.  The creator of and provider. Knows the past, present and future, but does not act to alter or change it. **Allah desired unconditional submission to his will, anything less equals eternal damnation**
 <!--ID: 1718379549899-->
 
 
@@ -35,13 +35,13 @@ Meant to act as a guiding light - messengers recorded them to show their respect
 2. Torah
 3. Psalm
 4. Gospel of Jesus
-5. **Something like that** 
+5. **Something like that**
 ## Prophets
-They are messengers of God. **Muslims acknowledge 25 prophets. [[Islam Prophets|Muhammad]] is the last**  
+They are messengers of God. **Muslims acknowledge 25 prophets. [[Islam Prophets|Muhammad]] is the last**
 
 ## Day of Judgement
 At the end of the world, the body will be resurrected. Allah will judge you depending on your actions in your life.
 
 ## Predestination
 The belief in an all-powerful force that rules the universe and knows all things leads one to believe that people have no choice in life.
-Allah allows humanity to make choices in areas in which they will be judged. 
+Allah allows humanity to make choices in areas in which they will be judged.

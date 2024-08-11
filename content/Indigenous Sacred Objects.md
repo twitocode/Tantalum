@@ -2,22 +2,22 @@
 CreatedAt: 2024-04-08
 MOC: "[[Religion MOC]]"
 tags:
-  - Unit-2
+- Unit-2
 aliases:
-  - Drum
-  - Drums
-  - Eagle Feathers
-  - Eagle Feather
-  - Sweetgrass
-  - Cedar
-  - Sage
-  - Tobacco
-  - Totems
+- Drum
+- Drums
+- Eagle Feathers
+- Eagle Feather
+- Sweetgrass
+- Cedar
+- Sage
+- Tobacco
+- Totems
 TARGET DECK: Grade 11::HRT3M1::Unit 2 - Indigenous Spirituality
 ---
 # Indigenous Sacred Objects
 
-## What are the 4 sacred medicines? #flashcard 
+## What are the 4 sacred medicines?
 1. Sweetgrass
 2. Cedar
 3. Tobacco
@@ -35,7 +35,7 @@ Represents power and protection. It symbolizes the power of words and communicat
 - Used in talking circles
 - Whoever holds the feather can speak and the rest must listen
 
-## Sweetgrass #flashcard 
+## Sweetgrass
 The sacred [[Indigenous Rituals|hair]] of Mother Earth. Its aroma reminds people of the gentleness, love, and kindness she has for the people.
 ### Uses
 - [[Indigenous Ceremonies|Smudging]] and purifying
@@ -45,7 +45,7 @@ The sacred [[Indigenous Rituals|hair]] of Mother Earth. Its aroma reminds people
 <!--ID: 1718379550242-->
 
 
-## Cedar #flashcard 
+## Cedar
 Calls the attention of the spirits to the offering that is made. It is also a form of protection
 ### Uses
 - Purify the home
@@ -58,7 +58,7 @@ Calls the attention of the spirits to the offering that is made. It is also a fo
 <!--ID: 1718379550255-->
 
 
-## Sage #flashcard 
+## Sage
 Used to release what is troubling the mind and removing negative energy
 ### Uses
 - Prepare people for ceremonies and teachings
@@ -68,7 +68,7 @@ Used to release what is troubling the mind and removing negative energy
 <!--ID: 1718379550266-->
 
 
-## Tobacco #flashcard 
+## Tobacco
 It is the main activator of all spirits. It allows us to communicate with the spiritual world. We communicate our thoughts and feelings through tobacco as we pray for ourselves, our family, relatives, and others
 ### Uses
 - An offering for everything and in every ceremony
@@ -78,7 +78,7 @@ It is the main activator of all spirits. It allows us to communicate with the sp
 <!--ID: 1718379550279-->
 
 
-## Totems #flashcard 
+## Totems
 They recorded the stories of tribes that raised them. They were made of cedar. Each figure represented an element of a story.
 ![[Pasted image 20240614112731.png]]
 <!--ID: 1718379550294-->

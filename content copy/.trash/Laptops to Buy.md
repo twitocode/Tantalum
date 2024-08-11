@@ -1,0 +1,3 @@
+[Lenovo Yoga 7i](https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-2-in-1-series/yoga-7-14itl5/88ygc701456?orgRef=https%253A%252F%252Fwww.google.com%252F)
+[Dell XPS 13](https://www.dell.com/en-ca/shop/portables-et-ultrabooks/xps-13-laptop/spd/xps-13-9315-laptop/nxps139315_s200me)
+[Dell XPS 15](https://www.dell.com/en-ca/shop/portables-et-ultrabooks/new-xps-15-laptop/spd/xps-15-9530-laptop/caexchbts9530gdbp)

@@ -14,4 +14,4 @@
 # Advantages of [[Svelte]]
 - Newer
 - Better syntax
-- Don't need as many packages because everything is built in 
+- Don't need as many packages because everything is built in

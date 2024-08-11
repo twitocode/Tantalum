@@ -2,7 +2,7 @@
 CreatedAt: 2024-03-19
 MOC: "[[Business MOC]]"
 tags:
-  - Unit-2
+- Unit-2
 ---
 # Report Form Balance Sheet
 A [[Balance Sheet]] that records [[Assets]], [[Liabilities]] and [[Owner's Equity]] vertically

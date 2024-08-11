@@ -2,11 +2,11 @@
 CreatedAt: 2024-03-26
 MOC: "[[Physics MOC]]"
 tags:
-  - Unit-1
+- Unit-1
 TARGET DECK: Grade 11::SPH3U1::Unit 1 - Kinematics
 ---
 
-# Displacement #flashcard 
+# Displacement
 
 The change in an object's [[Position]]
 $$

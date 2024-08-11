@@ -2,13 +2,13 @@
 CreatedAt: 2024-05-04
 MOC: "[[Religion MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 aliases:
-  - Fatwa
+- Fatwa
 TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 ---
 
-# Shariah #flashcard 
+# Shariah
 
 - set of moral codes that Muslims follow
 - set out by Allah

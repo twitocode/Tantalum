@@ -2,13 +2,13 @@
 CreatedAt: 2024-04-29
 MOC: "[[Physics MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 aliases:
-  - Energy Rating
-  - Watt
+- Energy Rating
+- Watt
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
-# Power #flashcard 
+# Power
 The **rate at which [[energy]] is transformed**; or the **rate at which [[Mechanical Work|Work]] is done**
 $$P = \frac{\Delta E}{\Delta t}$$
 Power is measured in Watts ($W$) (Joules per second)
@@ -18,7 +18,7 @@ In this case, the amount of work is the same, only the time is changing.
 
 
 ## Energy Ratings
-The energy used (transformed) by an electrical appliance, $\Delta{E}$ 
+The energy used (transformed) by an electrical appliance, $\Delta{E}$
 the amount of electrical energy used is usually measured in kilowatt hours ($kWh$)
 <!--ID: 1715096173007-->
 

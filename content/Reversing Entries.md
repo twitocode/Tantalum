@@ -2,8 +2,8 @@
 CreatedAt: 2024-06-15
 MOC: "[[Business MOC]]"
 tags:
-  - Unit-6
-aliases: 
+- Unit-6
+aliases:
 TARGET DECK: Grade 11::BAF3M1::Unit 6
 ---
 

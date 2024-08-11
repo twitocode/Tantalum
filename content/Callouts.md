@@ -24,7 +24,7 @@ gf
 let name = ""
 
 export const getName = (name: string) => {
-	return name;
+return name;
 }
 
 console.log(getName(name))
@@ -39,11 +39,11 @@ console.log(getName(name))
 - water
 
 1. Hello
-	1. I
-		1. am
-			1. under
-				1. the
-					1. water
+1. I
+1. am
+1. under
+1. the
+1. water
 
 | Hello | Brother |
 | ------|--------|
@@ -54,7 +54,7 @@ console.log(getName(name))
 
 ```dataviewjs
 dv.table(["Game", "Banner"], dv.pages("#Game").map((p) => {
-	return [p.file.name, `<img src=${p.banner} />`]
+return [p.file.name, `<img src=${p.banner} />`]
 }))
 ```
 

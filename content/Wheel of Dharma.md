@@ -2,18 +2,18 @@
 CreatedAt: 2024-06-11
 MOC: "[[Religion MOC]]"
 tags:
-  - Unit-5
+- Unit-5
 aliases:
-  - Mandala
+- Mandala
 TARGET DECK: Grade 11::HRT3M1::Unit 5 - Buddhism
 ---
 
-# Wheel of Dharma (Dharmacakra) #flashcard 
+# Wheel of Dharma (Dharmacakra)
 The eight spokes of it represent the eight-fold path. Associated with the [[Buddhism General Information|Buddha]]'s first sermon. It symbolizes setting in motion of his career as a missionary.
 <!--ID: 1718200311863-->
 
 
-## Eight-Fold Path #flashcard 
+## Eight-Fold Path
 1. Right thinking or understanding
 2. Right thought or intention
 3. Right speech
@@ -26,7 +26,7 @@ The eight spokes of it represent the eight-fold path. Associated with the [[Budd
 <!--ID: 1718200311867-->
 
 
-## Mandala #flashcard 
+## Mandala
 A circular object or diagram that is used to help mediation. It is often illustrated with symbols to represent life and the universe.
 ![[Pasted image 20240611131329.png]]
 <!--ID: 1718200311870-->

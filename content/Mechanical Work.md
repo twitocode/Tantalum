@@ -2,13 +2,13 @@
 CreatedAt: 2024-04-28
 MOC: "[[Physics MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 aliases:
-  - Work
+- Work
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 
-# Mechanical Work #flashcard 
+# Mechanical Work
 The [[energy]] transferred to an object by a force applied over a measured distance
 $$W = F\Delta d$$
 <!--ID: 1715686690918-->

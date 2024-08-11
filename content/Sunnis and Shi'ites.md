@@ -2,27 +2,27 @@
 CreatedAt: 2024-04-30
 MOC: "[[Religion MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 aliases:
-  - Sunni
-  - Shi'ites
-  - Sufi
-  - Imam
+- Sunni
+- Shi'ites
+- Sufi
+- Imam
 TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 ---
 # Sunnis and Shi'ites
 
-## Sunnis #flashcard 
+## Sunnis
 "Well-todden path".
 - The largest Islamic Group
 - More conservative
 - Believe that **Caliph** (spiritual and secular successor to [[Islam Prophets|Muhammad]]) must be a member of [[Islam Prophets|Muhammad]]'s tribe (the Koresh)
-- The **Caliph** is elected. 
+- The **Caliph** is elected.
 - The Sunnis believe that each individual has a direct relationship with [[Six Essential Beliefs of Islam|Allah]]
 <!--ID: 1718379549856-->
 
 
-## Shias #flashcard 
+## Shias
 - **Split from the Sunnis** over leadership
 - **Ali (Father of Fatimah) is the first Imam**
 - Husayn (Ali’s younger son) atoned from the sins of Muslims by dying in battle therefore he is viewed as a martyr among the Shias

@@ -2,7 +2,7 @@
 CreatedAt: 2024-03-26
 MOC: "[[Business MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 ---
 # Opening Entry
 The first entry in the [[General Journal]] (the one that starts the company). It records the [[assets]] , [[liabilities]], and [[owner's equity]] o the business when it first begins operation.

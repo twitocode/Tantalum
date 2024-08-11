@@ -2,7 +2,7 @@
 CreatedAt: 2024-04-08
 MOC: "[[Religion MOC]]"
 tags:
-  - Unit-2
+- Unit-2
 aliases:
 ---
 # Seven Grandfather Teachings

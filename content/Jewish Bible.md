@@ -2,17 +2,17 @@
 CreatedAt: 2024-06-03
 MOC: "[[Religion MOC]]"
 tags:
-  - Unit-4
+- Unit-4
 aliases:
-  - Torah
-  - Talmud
-  - Tanakh
+- Torah
+- Talmud
+- Tanakh
 TARGET DECK: Grade 11::HRT3M1::Unit 4
 ---
 
 # Jewish Bible
 
-## Torah #flashcard 
+## Torah
 The most important section of the bible. Written on scrolls. Includes the first 5 books, the *ten commandments*.
 1. Genesis
 2. Exodus
@@ -22,7 +22,7 @@ The most important section of the bible. Written on scrolls. Includes the first 
 <!--ID: 1717596861424-->
 
 
-## Talmud #flashcard 
+## Talmud
 - Do not commit **idolatry**
 - Do not commit **blasphemy**
 - Do not commit **murder**
@@ -34,8 +34,8 @@ The most important section of the bible. Written on scrolls. Includes the first 
 
 
 
-## Tanakh #flashcard 
-Larger book of scripture. Not written on scrolls. 
+## Tanakh
+Larger book of scripture. Not written on scrolls.
 An acronym for:
 - Torah Law
 - Nievi'im (Prophets)

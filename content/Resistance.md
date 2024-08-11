@@ -2,19 +2,19 @@
 CreatedAt: 2024-05-27
 MOC: "[[Physics MOC]]"
 tags:
-  - Unit-4
+- Unit-4
 aliases:
-  - Ohm's Law
+- Ohm's Law
 TARGET DECK: Grade 11::SPH3U1::Unit 4 - Electricity
 ---
 
-# Resistance ($R$) #flashcard 
+# Resistance ($R$)
 
 A measure of the opposition to the flow of Current
 <!--ID: 1717163511430-->
 
 
-## Resistor #flashcard 
+## Resistor
 A device that has a specific resistance value. As charges move through a resistor, the resistor removed energy from he charges and converts it to another type of energy, usually [[Thermal Energy]]
 <!--ID: 1717163511432-->
 

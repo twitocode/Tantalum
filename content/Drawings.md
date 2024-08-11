@@ -2,7 +2,7 @@
 CreatedAt: 2024-03-19
 MOC: "[[Business MOC]]"
 tags:
-  - Unit-2
+- Unit-2
 ---
 # Drawings
 An account that records the withdrawal of [[Assets]] from the business by the owner for personal use

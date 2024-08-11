@@ -2,7 +2,7 @@
 CreatedAt: 2024-04-19
 MOC: "[[Physics MOC]]"
 tags:
-  - Unit-2
+- Unit-2
 aliases:
 ---
 # Tension

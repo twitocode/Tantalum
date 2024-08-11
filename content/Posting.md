@@ -2,11 +2,11 @@
 CreatedAt: 2024-03-26
 MOC: "[[Business MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 TARGET DECK: Grade 11::BAF3M1::Unit 3
 ---
 
-# Posting #flashcard 
+# Posting
 The transfer of information from the journal to the ledger
 ## PR
 Posting Reference.

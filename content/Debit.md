@@ -2,12 +2,12 @@
 CreatedAt: 2024-03-19
 MOC: "[[Business MOC]]"
 tags:
-  - Unit-1
+- Unit-1
 aliases:
-  - Debit
-  - Credit
-  - Creditors
-  - Debitors
+- Debit
+- Credit
+- Creditors
+- Debitors
 ---
 # Debit
 Money owed to you by a person or business

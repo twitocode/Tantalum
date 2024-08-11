@@ -2,7 +2,7 @@
 CreatedAt: 2024-03-18
 MOC: "[[Business MOC]]"
 tags:
-  - Unit-2
+- Unit-2
 ---
 # Net Income & Loss
 The difference between the total [[Revenue]] and total [[Expenses]]

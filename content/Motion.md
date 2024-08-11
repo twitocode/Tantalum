@@ -2,23 +2,23 @@
 CreatedAt: 2024-03-26
 MOC: "[[Physics MOC]]"
 tags:
-  - Unit-1
+- Unit-1
 aliases:
-  - Projectile Motion
-  - Position Time Graph
-  - Velocity Time Graph
-  - Acceleration Time Graph
+- Projectile Motion
+- Position Time Graph
+- Velocity Time Graph
+- Acceleration Time Graph
 TARGET DECK: Grade 11::SPH3U1::Unit 1 - Kinematics
 ---
 
-# Motion #flashcard 
+# Motion
 A change in the location of an object, as measured by and observer
 <!--ID: 1718370433056-->
 
 
 ## Graphs
 
-### Position Time #flashcard 
+### Position Time
 ![[Pasted image 20240326130445.png]]
 Constant [[velocity]], where slope is equal to the [[velocity]]
 ![[Pasted image 20240326130502.png]]
@@ -26,13 +26,13 @@ Exponential, [[velocity]] is not constant, meaning it is [[Acceleration|accelera
 <!--ID: 1718370433058-->
 
 
-### Velocity Time #flashcard 
+### Velocity Time
 ![[Pasted image 20240326130608.png]]
 Constant [[Acceleration]]. Slope is equal to the [[Acceleration]]. The area under the graph during the time interval is [[Displacement]]
 <!--ID: 1718376822793-->
 
 
-### Acceleration Time #flashcard 
+### Acceleration Time
 ![[Pasted image 20240326130717.png]]
 Area under the graph during the time interval is [[Velocity]]
 <!--ID: 1718370433061-->
@@ -48,19 +48,19 @@ Area under the graph during the time interval is [[Velocity]]
 2. Find [[Distance]] using Pythagorean's Theorem
 3. Find angle using SOH CAH TOA
 
-### Formulas for Motion in 2 directions #flashcard 
+### Formulas for Motion in 2 directions
 $$ \Delta \vec{d}_{x} = \Delta \vec{d} \cos \theta$$
 $$ \Delta \vec{d}_{y} = \Delta \vec{d} \sin \theta$$
 ![[Pasted image 20240326131327.png]]
 <!--ID: 1718370433063-->
 
 
-## Projectiles #flashcard 
+## Projectiles
 Any object that moves in response to [[Gravity]] along a two-dimensional curved trajectory
 ___
 ### Key Details
 - Horizontal and vertical motion are **independent**.
-- Horizontal motion ($\vec{V}_{av}$) is **constant**. Meaning there is no [[Acceleration]]. 
+- Horizontal motion ($\vec{V}_{av}$) is **constant**. Meaning there is no [[Acceleration]].
 - Vertical Motion ($\vec{V}_{i}$, $\vec{V}_{f}$) is not constant. There is [[Acceleration]] due to gravity.
 <!--ID: 1718370433065-->
 
@@ -81,7 +81,7 @@ $\Delta t$ is the same for both horizontal and vertical motion
 > [!IMPORTANT]
 > You must set which directions are positive
 > ![[Pasted image 20240327084341.png]]
-> 
+>
 
 
 

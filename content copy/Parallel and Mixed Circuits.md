@@ -1,0 +1,18 @@
+---
+CreatedAt: 2024-06-10
+MOC: "[[Physics MOC]]"
+tags:
+  - Unit-4
+aliases:
+  - Junctions
+TARGET DECK: Grade 11::SPH3U1::Unit 4 - Electricity
+---
+
+# Parallel and Mixed Circuits #flashcard 
+Has more than one path for current to follow. If one load stops working, the rest still work if they are on a different path.
+![[Pasted image 20240610115057.png]]
+<!--ID: 1718124839353-->
+
+
+## Junctions
+The point at which the paths split.

@@ -2,7 +2,7 @@
 CreatedAt: 2024-04-30
 MOC: "[[Business MOC]]"
 tags:
-  - Unit-1
+- Unit-1
 aliases:
 ---
 # Continuing Concern Principle

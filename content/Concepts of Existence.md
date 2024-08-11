@@ -2,15 +2,15 @@
 CreatedAt: 2024-06-12
 MOC: "[[Religion MOC]]"
 tags:
-  - Unit-5
+- Unit-5
 aliases:
-  - Samsara
+- Samsara
 TARGET DECK: Grade 11::HRT3M1::Unit 5 - Buddhism
 ---
 
 # Concepts of Existence
 
 
-## Samsara #flashcard 
+## Samsara
 The process of reincarnation. (Law of birth, death, and rebirth)
 <!--ID: 1718216451551-->

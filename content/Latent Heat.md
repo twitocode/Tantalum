@@ -2,30 +2,30 @@
 CreatedAt: 2024-05-13
 MOC: "[[Physics MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 aliases:
-  - Latent heat of fusion
-  - Latent Heat of vaporization
+- Latent heat of fusion
+- Latent Heat of vaporization
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 
-# Latent Heat #flashcard 
+# Latent Heat
 The total [[thermal energy]] absorbed or released when a substance changes state (measured in $J$)
 <!--ID: 1715686690935-->
 
 
-## Latent heat of fusion #flashcard 
- The amount of [[thermal energy]] required to change a solid into a liquid or liquid into a solid
- $$Q = mL_{f}$$
- $L_{f}$ is the specific latent heat of fusion (J/kg)
+## Latent heat of fusion
+The amount of [[thermal energy]] required to change a solid into a liquid or liquid into a solid
+$$Q = mL_{f}$$
+$L_{f}$ is the specific latent heat of fusion (J/kg)
 <!--ID: 1715686933429-->
 
 
-## Latent heat of vaporization #flashcard 
+## Latent heat of vaporization
 The amount of [[thermal energy]] required to change a liquid into a gas or a gas into a liquid
 $$Q = mL_{v}$$
- $L_{v}$ is the specific latent heat of vaporization (J/kg)
- 
+$L_{v}$ is the specific latent heat of vaporization (J/kg)
+
 <!--ID: 1715686913194-->
 
 

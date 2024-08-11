@@ -2,9 +2,9 @@
 CreatedAt: 2024-06-11
 MOC: "[[Physics MOC]]"
 tags:
-  - Unit-4
+- Unit-4
 aliases:
-  - Electromagnet
+- Electromagnet
 TARGET DECK: Grade 11::SPH3U1::Unit 4 - Electricity
 ---
 
@@ -18,7 +18,7 @@ The strength increases by:
 
 ## Electromagnets
 A device that has a magnetic field produced by an electric current
-They can be switched on and off. 
+They can be switched on and off.
 
 
 ## Right Hand Rule for Solenoids

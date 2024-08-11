@@ -2,13 +2,13 @@
 CreatedAt: 2024-06-07
 MOC: "[[Business MOC]]"
 tags:
-  - Unit-6
+- Unit-6
 aliases:
-  - Allowance for Bad Debts
+- Allowance for Bad Debts
 TARGET DECK: Grade 11::BAF3M1::Unit 6
 ---
 
-# Bad Debts #flashcard 
+# Bad Debts
 Amounts owed to a company but will not be collected. It has a 0 balance throughout the [[Fiscal Period]]. Balance is reduced to zero at the end of the [[Fiscal Period]]
 <!--ID: 1717769566665-->
 
@@ -25,7 +25,7 @@ In this case we recorded that we made $100000 but we do not think that $2000 of 
 
 It can be estimated by **using a percentage of Net Sales**
 
-## Allowance for Bad Debts #flashcard 
+## Allowance for Bad Debts
 A contra asset account that reduces [[Accounts Receivable]]. Found in the [[Classified Financial Statements|Current Assets]] section of the balance sheet.
 <!--ID: 1717769566667-->
 
@@ -65,8 +65,8 @@ A contra asset account that reduces [[Accounts Receivable]]. Found in the [[Clas
 Must **take into consideration any amount that is in the allowance for bad debts accounts** already before making the adjustments for Bad Debts
 
 > [!INFO] TLDR
-> Allowance for Bad Debts is **Credit** = Subtract it 
-> Allowance for Bad Debts is **Debit** = Add it 
+> Allowance for Bad Debts is **Credit** = Subtract it
+> Allowance for Bad Debts is **Debit** = Add it
 
 
 Allowance for Bad Debts = 500 Credit

@@ -2,14 +2,14 @@
 CreatedAt: 2024-05-13
 MOC: "[[Physics MOC]]"
 tags:
-  - Unit-3
+- Unit-3
 aliases:
-  - Isotopes
-  - Radioisotopes
-  - Neutral Atoms
-  - Stable Nuclei
-  - Unstable Nuclei
-  - Atomic Mass Units
+- Isotopes
+- Radioisotopes
+- Neutral Atoms
+- Stable Nuclei
+- Unstable Nuclei
+- Atomic Mass Units
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 
@@ -40,14 +40,14 @@ $1 u = 1.66 \cdot 10^{-27} kg$
 | Proton   | 1.672 622 x 10-27 | 1.007 276        |
 | Neutron  | 1.674 927 x 10-27 | 1.008 665        |
 
-## Neutral Atoms #flashcard 
+## Neutral Atoms
 When the number of protons and neutrons in an atom is the same, it is called a neutral atom.
 <!--ID: 1715895328051-->
 
 
-## Antiparticles #flashcard 
+## Antiparticles
 **Particles that have the same mass but opposite charge**
-When a particle and its antiparticle meet, they annihilate each other into pure  
+When a particle and its antiparticle meet, they annihilate each other into pure
 energy
 ![[Pasted image 20240513103531.png]]
 <!--ID: 1715895328057-->
@@ -61,7 +61,7 @@ energy
 | Neutron  | Antineutron  |
 | Electron | Positron     |
 
-## What are Isotopes? #flashcard 
+## What are Isotopes?
 A form of an element that has the same number of protons, but different numbers of neutrons
 <!--ID: 1715895328062-->
 
@@ -69,7 +69,7 @@ A form of an element that has the same number of protons, but different numbers 
 ### Stable Nuclei
 Remain in the same form with the same number of protons and neutrons **forever**
 ### Unstable Nuclei
-Has too few or too many neutrons; The atom will exist for a while, but will eventually break up;  
+Has too few or too many neutrons; The atom will exist for a while, but will eventually break up;
 
 
 > [!INFO] In relation to Mass
@@ -82,9 +82,9 @@ Has too few or too many neutrons; The atom will exist for a while, but will even
 
 ![[Pasted image 20240513100025.png]]
 
-## What are Radioisotopes? #flashcard 
+## What are Radioisotopes?
 An unstable isotope that spontaneously changes its nuclear structure and releases energy in the form of radiation
-If an nucleus has more then 83 protons, no number of neutrons can hold it together forever  
+If an nucleus has more then 83 protons, no number of neutrons can hold it together forever
 <!--ID: 1715895328068-->
 
 
