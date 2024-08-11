@@ -35,7 +35,7 @@ Allow [[Thermal Energy]] to pass through them easily an quickly
 
 
 ## What are Thermal Insulators?
-Do not allow [[thermal energy]] pass through them easily
+Do not allow [[Thermal Energy]] pass through them easily
 <!--ID: 1715096493392-->
 
 
@@ -56,7 +56,7 @@ The amount of energy needed to increase the [[Thermal Energy|temperature]] of a 
 ![[Pasted image 20240503100211.png]]
 
 # What is Quantity of Heat $Q$?
-The total amount of [[thermal energy]] transferred from a warmer substance to a colder substance
+The total amount of [[Thermal Energy]] transferred from a warmer substance to a colder substance
 >
 $$Q = mc\Delta T$$
 $Q$ is measured in Joules

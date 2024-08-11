@@ -8,7 +8,7 @@ TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 
 # Nuclear Fission
-The reaction in which a massive nucleus splits into two or more lighter nuclei. This is the reaction used in nuclear reactors to produce [[thermal energy]] and then electricity.
+The reaction in which a massive nucleus splits into two or more lighter nuclei. This is the reaction used in nuclear reactors to produce [[Thermal Energy]] and then electricity.
 ![[Pasted image 20240514093409.png]]
 <!--ID: 1716814411692-->
 
