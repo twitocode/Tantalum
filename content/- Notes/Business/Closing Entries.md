@@ -16,7 +16,7 @@ When one [[Fiscal Period]] ends and a new one begins, the revenue, expense, and 
 
 ## Purpose of Closing Entries
 It reduces the revenue, expense, and drawings accounts to zero so that they are ready for the next fiscal period.
-Closing entries update the owner's equity account in the [[general ledger]].
+Closing entries update the owner's equity account in the [[General Ledger]].
 <!--ID: 1715177054134-->
 
 
