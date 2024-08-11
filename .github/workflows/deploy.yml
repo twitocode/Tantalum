@@ -1,11 +1,11 @@
 name: Deploy Quartz site to GitHub Pages
 
 on:
-  push:
-    branches:
-      - v4
+  #push:
+  #  branches:
+  #    - v4
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0/30 * * * *"
 
 permissions:
   contents: read
