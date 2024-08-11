@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"180b1ca29e8665fb","x":-380,"y":-220,"width":250,"height":60,"type":"text","text":"What even is this??\n"},
-		{"id":"6659ca24b9cecf19","x":-20,"y":-290,"width":250,"height":200,"type":"text","text":"I want this topic to make sense to me because i Hate vegan gains and he i such a bad person that thinks that bodybuilding is good as long as you like dogs and cats"}
-	],
-	"edges":[
-		{"id":"fd2f9717a2843473","fromNode":"180b1ca29e8665fb","fromSide":"right","toNode":"6659ca24b9cecf19","toSide":"left"}
-	]
-}
