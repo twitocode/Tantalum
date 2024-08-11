@@ -5,7 +5,7 @@ tags:
 - Unit-3
 ---
 # Opening Entry
-The first entry in the [[General Journal]] (the one that starts the company). It records the [[assets]] , [[liabilities]], and [[owner's equity]] o the business when it first begins operation.
+The first entry in the [[General Journal]] (the one that starts the company). It records the [[Assets]] , [[liabilities]], and [[owner's equity]] o the business when it first begins operation.
 
 ![[Pasted image 20240326100352.png]]
 
