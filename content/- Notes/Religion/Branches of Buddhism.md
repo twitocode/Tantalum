@@ -1,0 +1,25 @@
+---
+CreatedAt: 2024-06-11
+MOC: "[[Religion MOC]]"
+tags:
+- Unit-5
+aliases:
+- Theravada
+- Mahayana
+- Vajrayana
+- Zen
+TARGET DECK: Grade 11::HRT3M1::Unit 5 - Buddhism
+---
+
+# Branches of Buddhism
+
+## Theravada
+
+## Mahayana
+<!--ID: 1718200311903-->
+
+
+## Vajrayana
+
+## Zen
+<!--ID: 1718200311905-->

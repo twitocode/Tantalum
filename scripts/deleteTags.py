@@ -1,11 +1,14 @@
 import os
 
 def main():
-  os.chdir("./content")
+  os.chdir("./content/- Notes/Physics")
   files = os.listdir()
-
+  
   for file in files:
     if (file[0] == "." or file[0] == "-"):
+      continue
+
+    if (not os.path.isfile(file) and os.path.isdir(file)):
       continue
     
     with open(file, 'r', encoding="utf8") as f:

@@ -1,4 +1,7 @@
-# Index
+---
+title: Tantalum OS
+---
+
 - [ ] Learn C++
 - [ ] Delve into Machine Learning
 - [ ] Delve into Embedded Systems (Arduino)

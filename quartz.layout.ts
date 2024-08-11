@@ -23,7 +23,7 @@ const leftGlobalComponents = [
 const rightGlobalComponents = [
   Component.Graph({ localGraph: { showTags: false }, globalGraph: { showTags: false } }),
   Component.Backlinks(),
-  Component.DesktopOnly(Component.RecentNotes({ limit: 3, showTags: false })),
+  Component.DesktopOnly(Component.RecentNotes({ limit: 5, showTags: false })),
 ]
 
 // components for pages that display a single page (e.g. a single note)
