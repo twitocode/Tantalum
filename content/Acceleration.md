@@ -17,5 +17,6 @@ How quickly an object's [[velocity]] changes over time. It is also the the **rat
 
 
 $$\vec{a}_{av} = \frac{\vec{v}_{f} - \vec{v}_{i}}{\Delta t}$$
+$$a(t) = v'(t) = s''(t)$$
 It is measured in $m/s^2$
 
