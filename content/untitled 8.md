@@ -1,0 +1,27 @@
+- [x] Indigenous
+- [x] Vision Quest
+- [x] The Great Spirit
+- [x] Medicine Wheel
+- [x] Four Sacred Medicines
+- [x] Sweat Lodge
+- [x] Smudging
+- [x] Powwow
+- [x] Pipe Ceremony/Sacred Pipe
+- [x] First Nations/Inuit/Metis
+- [ ] Seven Grandfather Teachings
+- [x] Wampum
+- [x] Turtle Island
+- [ ] Time as 'circular'
+- [ ] Circle (as a sacred symbol)
+- [x] Elder
+- [x] Shaman
+- [x] Residential Schools and Assimilation
+- [ ] Cultural Appropriation
+- [ ] Hair (3 strands and importance)
+- [ ] Naming Ritual
+- [x] Truth and Reconciliation Commission
+- [x] Potlatch
+- [ ] Inukshuk
+- [x] Totem Poles
+- [x] Dish with One Spoon
+- [x] The Healing Circle

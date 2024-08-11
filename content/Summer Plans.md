@@ -1,0 +1,4 @@
+- [x] Get to HV in [[GTNH]]
+- [x] Complete some playthroughs of Stellaris
+- [ ] Complete Arkham Origins
+- [x] Re-learn C++
