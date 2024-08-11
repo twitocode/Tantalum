@@ -9,7 +9,7 @@ aliases:
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 # Power
-The **rate at which [[energy]] is transformed**; or the **rate at which [[Mechanical Work|Work]] is done**
+The **rate at which [[Energy]] is transformed**; or the **rate at which [[Mechanical Work|Work]] is done**
 $$P = \frac{\Delta E}{\Delta t}$$
 Power is measured in Watts ($W$) (Joules per second)
 ![[Figure_08_07_02a.jpg]]

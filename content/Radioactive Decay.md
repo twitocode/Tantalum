@@ -40,7 +40,7 @@ When unstable isotopes try to balance themselves by getting rid of their excess 
 
 
 ## Radiation
-The emission of [[energy]] in the form of waves or fast-moving particles
+The emission of [[Energy]] in the form of waves or fast-moving particles
 The higher the frequency of an electromagnetic-wave, the more energy it carries
 ![[Pasted image 20240513170621.png]]
 <!--ID: 1715895327953-->
