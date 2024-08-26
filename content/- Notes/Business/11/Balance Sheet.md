@@ -7,7 +7,7 @@ TARGET DECK: Grade 11::BAF3M1::Unit 1
 ---
 
 # Balance Sheet
-A [[financial statement]] that lists the [[Assets]], [[Liabilities]], and [[Owner's Equity]] of a person/business at a particular point in time.
+A [[Financial Statement]] that lists the [[Assets]], [[Liabilities]], and [[Owner's Equity]] of a person/business at a particular point in time.
 <!--ID: 1718216451577-->
 
 

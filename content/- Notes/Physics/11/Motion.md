@@ -20,9 +20,9 @@ A change in the location of an object, as measured by and observer
 
 ### Position Time
 ![[Pasted image 20240326130445.png]]
-Constant [[velocity]], where slope is equal to the [[velocity]]
+Constant [[Velocity]], where slope is equal to the [[Velocity]]
 ![[Pasted image 20240326130502.png]]
-Exponential, [[velocity]] is not constant, meaning it is [[Acceleration|accelerating]].
+Exponential, [[Velocity]] is not constant, meaning it is [[Acceleration|accelerating]].
 <!--ID: 1718370433058-->
 
 

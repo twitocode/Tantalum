@@ -39,7 +39,7 @@ The **average Kinetic Energy** of the particles in an object
 <!--ID: 1715096750915-->
 
 
-### Why can't we measure [[thermal energy]]?
+### Why can't we measure [[Thermal Energy]]?
 We cannot measure the total amount of thermal energy in an object because it is impossible to measure the kinetic and potential energy of every particle within the object.
 <!--ID: 1715096750918-->
 

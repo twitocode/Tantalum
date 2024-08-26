@@ -56,9 +56,9 @@ It always points towards the center of the earth.
 <!--ID: 1714135053561-->
 
 
-##  Magnitude of the force of [[gravity]] on an object
+##  Magnitude of the force of [[Gravity]] on an object
 $$\vec{F}_{g} = m\vec{g}$$
-$\vec{F}_{g}$ is the force of [[gravity]] in newtons ($N$),
+$\vec{F}_{g}$ is the force of [[Gravity]] in newtons ($N$),
 $m$ is the [[Gravity|mass]] in $kg$.
 $\vec{g}$ is the gravity constant ($9.8N/kg$ [Down])
 ## Free Body Diagrams (FBD)

@@ -7,8 +7,8 @@ TARGET DECK: Grade 11::SPH3U1::Unit 1 - Kinematics
 ---
 
 # Velocity
-The total [[displacement]] of an object in [[motion]] divided by the total time taken for that [[motion]].
-It describes the change in [[position]] over time.
+The total [[Displacement]] of an object in [[Motion]] divided by the total time taken for that [[Motion]].
+It describes the change in [[Position]] over time.
 It is a **Vectory Quantity**
 $$\vec{v}_{av} = \frac{\Delta \vec{d}}{\Delta t} $$
 <!--ID: 1718370433040-->

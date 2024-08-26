@@ -20,7 +20,7 @@ The rate of gravity does not depend on Mass. Objects of the same Mass fall at th
 $$\vec{F}_{g} = m\vec{g}$$
 ___
 The negative indicates [[Acceleration|deceleration]]
-The [[acceleration]] always stays the same, [[Velocity]] increases or decreases depending on the direction
+The [[Acceleration]] always stays the same, [[Velocity]] increases or decreases depending on the direction
 <!--ID: 1718370433081-->
 
 

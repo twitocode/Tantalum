@@ -9,7 +9,7 @@ TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 
 # Mechanical Work
-The [[energy]] transferred to an object by a force applied over a measured distance
+The [[Energy]] transferred to an object by a force applied over a measured distance
 $$W = F\Delta d$$
 <!--ID: 1715686690918-->
 
