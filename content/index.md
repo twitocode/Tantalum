@@ -2,10 +2,10 @@
 title: Tantalum OS
 ---
 
-- [ ] Learn C++
+- [x] Learn C++
 - [ ] Delve into Machine Learning
 - [ ] Delve into Embedded Systems (Arduino)
-- [ ] Delve into Graphics Programming
+- [x] Delve into Graphics Programming
 - [ ] Finish Volunteer hours
-- [ ] Complete G1 Test
-- [ ] Get to HV in [[GTNH]]
+- [x] Complete G1 Test
+- [x] Get to HV in [[GTNH]]
