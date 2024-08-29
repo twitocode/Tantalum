@@ -1,11 +1,15 @@
 ---
 title: Tantalum OS
 ---
+### Timetable Changes
+Semester 1
+- MCV4U1
+- ICS4U1
+- SPH4U1
+- SBI3U1
 
-- [x] Learn C++
-- [ ] Delve into Machine Learning
-- [ ] Delve into Embedded Systems (Arduino)
-- [x] Delve into Graphics Programming
-- [ ] Finish Volunteer hours
-- [x] Complete G1 Test
-- [x] Get to HV in [[GTNH]]
+Semester 2
+- ENG4U1
+- HRE4M1
+- SBI4U1
+- SCH4U1
