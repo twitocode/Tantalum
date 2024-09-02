@@ -1,11 +1,11 @@
 ---
 CreatedAt: 2024-05-13
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-3
+  - Unit-3
 aliases:
-- Latent heat of fusion
-- Latent Heat of vaporization
+  - Latent heat of fusion
+  - Latent Heat of vaporization
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 

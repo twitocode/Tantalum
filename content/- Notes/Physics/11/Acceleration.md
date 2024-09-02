@@ -1,13 +1,13 @@
 ---
 CreatedAt: 2024-03-26
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-1
+  - Unit-1
 aliases:
-- Accelerate
-- Accelerating
-- decelerate
-- deceleration
+  - Accelerate
+  - Accelerating
+  - decelerate
+  - deceleration
 TARGET DECK: Grade 11::SPH3U1::Unit 1 - Kinematics
 ---
 

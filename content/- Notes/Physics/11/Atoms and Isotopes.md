@@ -1,15 +1,15 @@
 ---
 CreatedAt: 2024-05-13
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-3
+  - Unit-3
 aliases:
-- Isotopes
-- Radioisotopes
-- Neutral Atoms
-- Stable Nuclei
-- Unstable Nuclei
-- Atomic Mass Units
+  - Isotopes
+  - Radioisotopes
+  - Neutral Atoms
+  - Stable Nuclei
+  - Unstable Nuclei
+  - Atomic Mass Units
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 

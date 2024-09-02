@@ -1,13 +1,13 @@
 ---
 CreatedAt: 2024-05-03
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-3
+  - Unit-3
 aliases:
-- Heat Capacity
-- Specific Heat Capacity
-- Conduction
-- Convection
+  - Heat Capacity
+  - Specific Heat Capacity
+  - Conduction
+  - Convection
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 

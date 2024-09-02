@@ -1,15 +1,15 @@
 ---
 CreatedAt: 2024-04-28
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-3
+  - Unit-3
 aliases:
-- Potential Energy
-- Radiant Energy
-- Sound Energy
-- Chemical Potential Energy
-- Electrical Potential Energy
-- Energy Efficiency
+  - Potential Energy
+  - Radiant Energy
+  - Sound Energy
+  - Chemical Potential Energy
+  - Electrical Potential Energy
+  - Energy Efficiency
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 

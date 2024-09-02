@@ -1,16 +1,16 @@
 ---
 CreatedAt: 2024-03-25
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-2
+  - Unit-2
 aliases:
-- Applied Force
-- Tension Force
-- Normal Force
-- Force of Friction
-- Force of Gravity
-- FBD
-- Free Body Diagram
+  - Applied Force
+  - Tension Force
+  - Normal Force
+  - Force of Friction
+  - Force of Gravity
+  - FBD
+  - Free Body Diagram
 TARGET DECK: Grade 11::SPH3U1::Unit 2 - Forces
 ---
 # Forces

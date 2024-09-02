@@ -1,13 +1,13 @@
 ---
 CreatedAt: 2024-03-26
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-1
+  - Unit-1
 aliases:
-- Projectile Motion
-- Position Time Graph
-- Velocity Time Graph
-- Acceleration Time Graph
+  - Projectile Motion
+  - Position Time Graph
+  - Velocity Time Graph
+  - Acceleration Time Graph
 TARGET DECK: Grade 11::SPH3U1::Unit 1 - Kinematics
 ---
 

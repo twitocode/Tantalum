@@ -1,15 +1,15 @@
 ---
 CreatedAt: 2024-06-12
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-5
+  - Unit-5
 aliases:
-- Vibration
-- Mechanical Wave
-- Net Motion
-- Medium
-- Transverse Waves
-- Longitudinal Waves
+  - Vibration
+  - Mechanical Wave
+  - Net Motion
+  - Medium
+  - Transverse Waves
+  - Longitudinal Waves
 TARGET DECK: Grade 11::SPH3U1::Unit 5 - Sounds and Waves
 ---
 

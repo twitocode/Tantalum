@@ -1,9 +1,9 @@
 ---
 CreatedAt: 2024-04-19
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-2
-aliases:
+  - Unit-2
+aliases: 
 ---
 # Tension
 ### Examples

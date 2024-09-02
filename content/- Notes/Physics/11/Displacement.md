@@ -1,8 +1,8 @@
 ---
 CreatedAt: 2024-03-26
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-1
+  - Unit-1
 TARGET DECK: Grade 11::SPH3U1::Unit 1 - Kinematics
 ---
 

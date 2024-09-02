@@ -1,11 +1,11 @@
 ---
 CreatedAt: 2024-04-29
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-3
+  - Unit-3
 aliases:
-- Energy Rating
-- Watt
+  - Energy Rating
+  - Watt
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 # Power

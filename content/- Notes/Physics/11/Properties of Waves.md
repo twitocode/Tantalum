@@ -1,17 +1,17 @@
 ---
 CreatedAt: 2024-06-12
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-5
+  - Unit-5
 aliases:
-- Wavelength
-- Amplitude
-- Waveform
-- Crest
-- Trough
-- Phase Shift
-- Frequency
-- Period
+  - Wavelength
+  - Amplitude
+  - Waveform
+  - Crest
+  - Trough
+  - Phase Shift
+  - Frequency
+  - Period
 TARGET DECK: Grade 11::SPH3U1::Unit 5 - Sounds and Waves
 ---
 

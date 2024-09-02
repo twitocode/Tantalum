@@ -1,15 +1,15 @@
 ---
 CreatedAt: 2024-05-24
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-4
+  - Unit-4
 aliases:
-- Direct Current
-- Alternating Current
-- Ammeter
-- Kirchhoff's Current Law
-- Conventional Current
-- Electron Flow
+  - Direct Current
+  - Alternating Current
+  - Ammeter
+  - Kirchhoff's Current Law
+  - Conventional Current
+  - Electron Flow
 TARGET DECK: Grade 11::SPH3U1::Unit 4 - Electricity
 ---
 

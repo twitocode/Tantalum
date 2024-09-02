@@ -1,10 +1,10 @@
 ---
 CreatedAt: 2024-05-14
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-3
+  - Unit-3
 aliases:
-- Proton-Proton Chain
+  - Proton-Proton Chain
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 

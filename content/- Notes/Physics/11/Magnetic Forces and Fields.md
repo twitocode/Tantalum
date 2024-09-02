@@ -1,11 +1,11 @@
 ---
 CreatedAt: 2024-06-10
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-4
+  - Unit-4
 aliases:
-- Magnetic Fields
-- Law of Magnetic Poles
+  - Magnetic Fields
+  - Law of Magnetic Poles
 TARGET DECK: Grade 11::SPH3U1::Unit 4 - Electricity
 ---
 

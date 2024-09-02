@@ -1,13 +1,13 @@
 ---
 CreatedAt: 2024-05-13
-MOC: "[[Physics MOC]]"
-tags:
+MOC: "[[Physics 11 MOC]]"
+tags: 
 aliases:
-- Alpha Decay
-- Gamma Decay
-- Beta-Negative Decay
-- Beta-Positive Decay
-- Radiation
+  - Alpha Decay
+  - Gamma Decay
+  - Beta-Negative Decay
+  - Beta-Positive Decay
+  - Radiation
 TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 ---
 

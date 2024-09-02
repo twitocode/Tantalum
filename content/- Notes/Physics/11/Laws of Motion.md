@@ -1,10 +1,10 @@
 ---
 CreatedAt: 2024-03-25
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-2
+  - Unit-2
 aliases:
-- Newton's Laws
+  - Newton's Laws
 TARGET DECK: Grade 11::SPH3U1::Unit 2 - Forces
 ---
 

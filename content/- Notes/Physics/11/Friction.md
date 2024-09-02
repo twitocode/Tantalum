@@ -1,12 +1,12 @@
 ---
 CreatedAt: 2024-04-19
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-2
+  - Unit-2
 aliases:
-- Static Friction
-- Kinetic Friction
-- Coefficient of Friction
+  - Static Friction
+  - Kinetic Friction
+  - Coefficient of Friction
 TARGET DECK: Grade 11::SPH3U1::Unit 2 - Forces
 ---
 

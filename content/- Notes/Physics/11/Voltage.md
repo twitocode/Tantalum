@@ -1,12 +1,12 @@
 ---
 CreatedAt: 2024-05-27
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-4
+  - Unit-4
 aliases:
-- Electrical Potential Difference
-- Kirchhoff's Voltage Law
-- Voltmeter
+  - Electrical Potential Difference
+  - Kirchhoff's Voltage Law
+  - Voltmeter
 TARGET DECK: Grade 11::SPH3U1::Unit 4 - Electricity
 ---
 

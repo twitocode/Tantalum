@@ -1,10 +1,10 @@
 ---
 CreatedAt: 2024-05-27
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-4
+  - Unit-4
 aliases:
-- Ohm's Law
+  - Ohm's Law
 TARGET DECK: Grade 11::SPH3U1::Unit 4 - Electricity
 ---
 

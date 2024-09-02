@@ -1,9 +1,9 @@
 ---
 CreatedAt: 2024-06-11
-MOC: "[[Physics MOC]]"
+MOC: "[[Physics 11 MOC]]"
 tags:
-- Unit-4
-aliases:
+  - Unit-4
+aliases: 
 TARGET DECK: Grade 11::SPH3U1::Unit 4 - Electricity
 ---
 
