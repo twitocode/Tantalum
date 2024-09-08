@@ -2,6 +2,11 @@
 aliases:
   - "Gregtech: New Horizons"
 ---
+# Current Goals
+- [ ] Multi-Smelter
+- [ ] Railcraft Boilers
+- [ ] Stickreed
+- [ ] Finish building base
 # Things that need fixes
 - Power
 - Storage
