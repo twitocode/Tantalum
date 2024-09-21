@@ -1,0 +1,3 @@
+- Waterloo
+- UofT
+- McMaster
