@@ -7,7 +7,6 @@
 
 [Computer Science | Undergraduate Programs | University of Waterloo (uwaterloo.ca)](https://uwaterloo.ca/future-students/programs/computer-science)
 
-[Computer Engineering | Undergraduate Programs | University of Waterloo (uwaterloo.ca)](https://uwaterloo.ca/future-students/programs/computer-engineering)
 [Computer Science Admission Category | Faculty of Arts & Science (utoronto.ca)](https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science)
 
 # Computer Engineering
