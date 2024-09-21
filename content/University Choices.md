@@ -1,3 +1,4 @@
 - Waterloo
 - UofT
 - McMaster
+- Western
