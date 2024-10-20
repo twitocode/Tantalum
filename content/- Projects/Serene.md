@@ -38,3 +38,5 @@
 - PostgreSQL
 - Entity Framework Core
 - Redis Caching
+
+![[Pasted image 20241020120303.png]]![[Pasted image 20241020120324.png]]
