@@ -9,5 +9,5 @@ TARGET DECK: Grade 12::SPH4U1::Unit 3 - Fields
 Newton discovered that [[Gravity]] attracts any two objects depending on their masses and their distance apart
 
 $$\vec{F}_{g} = \frac{Gm_1m_2}{r^2}$$
-$G = 6.67 \cdot {1e-10}$
-$a^2$
+$5.67\times 10^{-8}$
+
