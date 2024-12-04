@@ -10,3 +10,4 @@ Newton discovered that [[Gravity]] attracts any two objects depending on their m
 
 $$\vec{F}_{g} = \frac{Gm_1m_2}{r^2}$$
 $G = 6.67 \cdot {1e-10}$
+$a^2$
