@@ -3,7 +3,11 @@ CreatedAt: 2024-12-04
 MOC: Physics 12 MOC
 tags:
   - Unit-3
-aliases: []
+aliases:
+  - Geosynchronous Orbit
+  - Geostationary Orbit
+  - Orbital Radius
+  - Orbital Period
 TARGET DECK: Grade 12::SPH4U1::Unit 3 - Fields
 ---
 Newton discovered that [[Gravity]] attracts any two objects depending on their masses and their distance apart
