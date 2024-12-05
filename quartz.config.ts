@@ -24,6 +24,7 @@ const config: QuartzConfig = {
       "Daily Notes",
     ],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
