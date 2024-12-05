@@ -38,7 +38,6 @@ When the [[Air Resistance]] on a parachute is equal to the [[Forces|force]] due 
 The region of influence of gravitational force due to an object.
 A **field** is an influence on a suitable object over a region of space, whether it is an attraction or repulsion
 ![[Pasted image 20240419114701.png]]
-<!--ID: 1718370433092-->
 
 
 ## Mass vs Weight
