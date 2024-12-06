@@ -5,7 +5,7 @@
 // put your custom CSS here!
 
 .forced-row {
-  flex: 1;
+  // flex: 1;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -21,13 +21,9 @@
   .minibutton {
     margin: 0.4rem;
   }
-  @media all and (max-width: $fullPageWidth) {
-    justify-content: flex-end;
-  }
 }
 
 .forced-column {
-  flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -38,8 +34,5 @@
   & .map,
   .darkmode {
     margin: 0.4rem;
-  }
-  @media all and (max-width: $fullPageWidth) {
-    justify-content: flex-start;
   }
 }

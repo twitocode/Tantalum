@@ -5,10 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.MobileOnly(Component.Backlinks()),
-    Component.MobileOnly(Component.Explorer({ title: "Navigation" })),
-  ],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       Source: "https://github.com/twitocode/Tantalum",
@@ -20,10 +17,25 @@ const leftGlobalComponents = [
   Component.PageTitle(),
   Component.MobileOnly(Component.Spacer()),
   Component.Row([Component.Search(), Component.Darkmode()]),
-  Component.DesktopOnly(Component.Explorer({ title: "Navigation" })),
+  Component.Explorer({
+    title: "Navigation",
+    folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+    folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
+    useSavedState: true,
+  }),
+  Component.DesktopOnly(
+  ),
 ]
 
 const rightGlobalComponents = [
+  Component.MobileOnly(
+    Component.Column([
+      Component.Backlinks(),
+      Component.Explorer({ title: "Navigation" }),
+      // Component.Graph({ localGraph: { showTags: false }, globalGraph: { showTags: false } }),
+    ]),
+  ),
+
   Component.DesktopOnly(Component.RecentNotes({ limit: 5, showTags: false })),
 ]
 
