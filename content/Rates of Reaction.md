@@ -5,6 +5,10 @@ tags:
   - Unit-3
 aliases:
   - Chemical Kinetics
+  - Activated Complex
+  - Activation Energy
+  - Collision Rate Theory
+  - Effective Collision
 ---
 A measure of how fast a reaction is taking place
 The unit is $\frac{mol \cdot s}{L}$
@@ -49,3 +53,5 @@ concentration is either appearing (positive) or dissapearing(negative)
 for a reaction to occur, two particles must collide. Reactants must also have enough kinetic energy and collide at a certain orientation. 
 
 ![[Pasted image 20241207143700.png]]
+
+# Factors that affect the rate of reaction
