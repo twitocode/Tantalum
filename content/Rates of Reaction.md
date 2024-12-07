@@ -11,7 +11,7 @@ The unit is $\frac{mol \cdot s}{L}$
 
 $$Rate \space  \alpha \space[concentration]$$
 $$Rate = \frac{\Delta concentration}{\Delta time}$$
-concentration is either appearing (positive) or dissapearing (negative)
+concentration is either appearing (positive) or disappearing (negative)
 
 **Chemical Kinetics**: the study of ways to make chemical reactions go faster or slower.
 
@@ -19,3 +19,4 @@ concentration is either appearing (positive) or dissapearing (negative)
 ### Reaction Co-ordinate Diagram for the Formation of HBr
 
 ![[Pasted image 20241207132032.png]]
+
