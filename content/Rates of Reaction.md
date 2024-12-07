@@ -19,11 +19,11 @@ concentration is either appearing (positive) or dissapearing(negative)
 ### Reaction Co-ordinate Diagram for the Formation of HBr
 ![[Reaction Coordinate diagram for the formation of HBr.excalidraw|800]]
 
+**Activation Energy $E_{A}$**: the minimal starting energy (as $E_k$ changes to $E_P$) that the reactant molecules must have in order to undergo and ***effective collision*** and produce a reaction
 
 > [!NOTE] Section A
 > Both gases are in random motion and have a large quantity of kinetic energy
 > Total potential energy stays the same because they are no where no each other
-
 
 > [!NOTE] Section B
 > 1. Both molecules slow down when they approach each other because of the repulsive forces between molecules
@@ -31,11 +31,11 @@ concentration is either appearing (positive) or dissapearing(negative)
 > 3. Molecules stretch as the nonpolar covalent bonds within each molecule weaken
 > 	- This causes a large amount of energy to be absorbed
 
-
 > [!NOTE] Section C
 > **Activated Complex**: a high energy, short lived intermediate configuration of reactant atoms. 
 > - May decompose and form new lower energy stable products OR revert to the original reactant molecules
 
-
 > [!NOTE] Section D
-> Contents
+> 1. H-Br molecules form, energy is released since bonds are forming. 
+> 2. Potential drops and Kinetic increases
+> 	- Molecules speed up and move away from each other
