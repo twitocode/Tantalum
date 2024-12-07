@@ -25,6 +25,7 @@ $\Delta H$ or heat is the amount of [[Thermal Energy]] transferred between subst
 If $\Delta H > 0$ then the reaction is endothermic, meaning it releases heat
 If $\Delta H < 0$ then the reaction is exothermic, meaning it absorbed heat
 
+![[Pasted image 20241207131536.png]]
 
 > [!NOTE] 
 > Enthalpy is only for a **Chemical System**, which is a group of reactants and products being studied. Surroundings may be in contact with the system but we're not counting $\Delta H$ for it
@@ -71,3 +72,4 @@ $25 \degree C$ and $100kPa$
 In this example, I could go from Solid to Liquid and then to gas. Or I could skip and go straight to Gas. It does not matter which path it I take.
 
 $\Delta H_{gas} > \Delta H_{liquid} > \Delta H_{solid}$ assuming the amount of particles at each state stays the same.
+
