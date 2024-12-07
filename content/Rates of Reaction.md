@@ -59,9 +59,15 @@ for a reaction to occur, two particles must collide. Reactants must also have en
 ## Temperature
 TLDR - Increasing the temperature of the reactants increases the rate of reaction 
 ![[Pasted image 20241207152306.png]]
-
+Increasing Temperature also increases the total number of collisions/second. 
+- The likelihood of effective collisions will also increase since more collisions will increase the number of geometrically effective collisions.
+- **Effects endothermic reactions more than exothermic**
 ## Nature of Reactants
 TLDR - Increasing the complexity of reactants (more bonds) decreases the rate of reaction
+
+![[Pasted image 20241207152715.png]]
+
+**Energy is required to break the bonds between Carbon and Oxygen** in Reaction b). So the formation of the products also takes longer.
 ## Concentration
 TLDR - Increasing concentration of the solutions increases the rate of reaction
 ## Catalyst
