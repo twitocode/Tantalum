@@ -92,3 +92,12 @@ TLDR - Adding a catalyst increases the rate of reaction
 
 # Surface Area
 TLDR - Increasing surface area of reactants increases the rate of reaction
+
+![[lesson-plan-reaction-rates-surface-area.png]]
+
+**A heterogenous system is one which involves reaction between reactants and products of 2 or more phases
+
+![[Pasted image 20241207155207.png]]
+
+In each case, the reaction will occur faster if the solid reactant is "ground up" 
+- This will add more reaction sites to the different types of particles, causing the number of reactions to increase
