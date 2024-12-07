@@ -1,8 +1,8 @@
-# Physics 12 MOC
+# SPH4U1 MOC
 
 ```dataview
 LIST
-FROM [[Physics 12 MOC]] AND #Unit-1
+FROM [[SPH4U1 MOC]] AND #Unit-1
 SORT file.name
 ```
 
