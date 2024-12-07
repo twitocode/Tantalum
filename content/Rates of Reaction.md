@@ -17,6 +17,7 @@ concentration is either appearing (positive) or dissapearing(negative)
 
 ---
 ### Reaction Co-ordinate Diagram for the Formation of HBr
-![[Reaction Coordinate diagram for the formation of HBr.excalidraw]]
+![[Reaction Coordinate diagram for the formation of HBr.excalidraw|800x800]]
+
 
 
