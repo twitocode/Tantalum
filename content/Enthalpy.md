@@ -25,6 +25,8 @@ If $\Delta H < 0$ then the reaction is exothermic, meaning it absorbed heat
 
 > [!NOTE] 
 > Enthalpy is only for a **Chemical System**, which is a group of reactants and products being studied. Surroundings may be in contact with the system but we're not counting $\Delta H$ for it
+> 
+> ![[Pasted image 20241207120608.png]]
 
 # Calorimetry
 A process by which the energy changes of a system can be measured. 
@@ -42,14 +44,24 @@ $$q_{\text{transfered}} = -q_{\text{absorbed}}$$
 
 To find the energy released per mole of a reactant or product, find the mass --> molar mass --> moles of the compound, then do a mole-energy ratio.
 
+$1\space mole =  6.022 \times 10^{23} \space moles$
+
+A balloon of hydrogen gas $H_2$ will have $6.022 \times 10^{23}$ $H_2$ molecules and it will have  $12.044 \times 10^{23}$ 
+$H$ atoms
+
+
 ### Important Formulas
-$n = CV$
-$n = \frac{m}{MM}$
+![[Pasted image 20241207121145.png]]
 
+### Stoichiometry
+![[Pasted image 20241207121021.png]]
+In this example, because there is twice as many reactants and products, $\Delta H$ will be 2x bigger.
 
+---
 # State Property
 The enthalpy of matter depends on its state. Heat is a state property so it does not matter which path it takes to get from solid to gas for examples.
 ## SATP
 $25 \degree C$ and $100kPa$
+
 
 
