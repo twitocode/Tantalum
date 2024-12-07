@@ -79,7 +79,7 @@ more effective collisions = higher rate of reaction
 ![[Pasted image 20241207153834.png]]
 
 ## Catalyst
-A chemical which speeds up a reaction by lowering the activation energy $E_A$. It does not participate in the reaction.
+A chemical which speeds up a reaction by lowering the activation energy $E_A$. It does not participate in the reaction. It acts as a surface for where the reaction can take place.
 
 ![[Pasted image 20241207154739.png]]
 
