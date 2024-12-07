@@ -3,7 +3,10 @@ CreatedAt: 2024-12-07
 MOC: "[[SCH4U1 MOC]]"
 tags:
   - Unit-3
-aliases: 
+aliases:
+  - Calorimetry
+  - State Property
+  - SATP
 TARGET DECK:
 ---
 Also known as [[Thermal Energy]]. It is the sum of all Potential Energy and Kinetic Energy associated with particles of matter.
@@ -60,8 +63,11 @@ In this example, because there is twice as many reactants and products, $\Delta 
 ---
 # State Property
 The enthalpy of matter depends on its state. Heat is a state property so it does not matter which path it takes to get from solid to gas for examples.
-## SATP
+## SATP $\Delta H \degree$
 $25 \degree C$ and $100kPa$
 
+![[Pasted image 20241207121553.png]]
 
+In this example, I could go from Solid to Liquid and then to gas. Or I could skip and go straight to Gas. It does not matter which path it I take.
 
+$\Delta H_{gas} > \Delta H_{liquid} > \Delta H_{solid}$ assuming the amount of particles at each state stays the same.
