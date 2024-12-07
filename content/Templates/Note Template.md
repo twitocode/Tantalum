@@ -5,5 +5,3 @@ tags:
 aliases: 
 TARGET DECK:
 ---
-
-# <% tp.file.title %>
