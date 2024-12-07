@@ -69,7 +69,13 @@ TLDR - Increasing the complexity of reactants (more bonds) decreases the rate of
 
 **Energy is required to break the bonds between Carbon and Oxygen** in Reaction b). So the formation of the products also takes longer.
 ## Concentration
-TLDR - Increasing concentration of the solutions increases the rate of reaction
+TLDR - Increasing concentration of the reactants increases the rate of reaction
+- This is because there are more particles present.
+
+More particles = more collisions
+more collisions = more effective collisions
+more effective collisions = higher rate of reaction
+
 ## Catalyst
 TLDR - Adding a catalyst increases the rate of reaction
 # Surface Area
