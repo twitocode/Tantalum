@@ -32,3 +32,11 @@ $\Delta H=$
 
 energy required is the reactants bond energies and energy released is the products bond energies
 $n$ is the amount in moles of each reactant or product
+
+> [!Example] $\Delta H$ using Bond energies
+> $\ce{H_{2(g)} F_{2(g)} -> 2HF_{(g)}}$
+> 
+> $\Delta H = (n_{\ce{H-H}} D_{\ce{H-H}} + n_{\ce{F-F}} D_{\ce{F-F}}) - n_{\ce{H-F}} D_{\ce{H-F}}$
+> $= (1 \, \text{mol} \times D_{\ce{H-H}} + 1 \, \text{mol} \times D_{\ce{F-F}}) - 2 \, \text{mol} \times D_{\ce{H-F}}$
+> $= \left[ \left( 1 \, \text{mol} \times \frac{432 \, \text{kJ}}{\text{mol}} \right) + \left( 1 \, \text{mol} \times \frac{154 \, \text{kJ}}{\text{mol}} \right) \right] - \left( 2 \, \text{mol} \times \frac{565 \, \text{kJ}}{\text{mol}} \right)$
+> 
