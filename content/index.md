@@ -10,4 +10,5 @@ title: Tantalum OS
 Review within the first 24 hours
 
 
-# Reviewing once every few days is better than once 
+# Reviewing once every few days is better than 20 times in one day
+Spaced, spaced, spaced repetition
