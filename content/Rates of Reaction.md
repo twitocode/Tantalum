@@ -13,14 +13,20 @@ $$Rate \space  \alpha \space[concentration]$$
 $$Rate = \frac{\Delta concentration}{\Delta time}$$
 concentration is either appearing (positive) or dissapearing(negative)
 
+### Factors that affect the rate of reaction
+
 **Chemical Kinetics**: the study of ways to make chemical reactions go faster or slower.
 
 ---
 ### Reaction Co-ordinate Diagram for the Formation of HBr
 ![[Reaction Coordinate diagram for the formation of HBr.excalidraw|800]]
 
-**Activation Energy $E_{A}$**: the minimal starting energy (as $E_k$ changes to $E_P$) that the reactant molecules must have in order to undergo and ***effective collision*** and produce a reaction
+**Activation Energy $E_{A}$**: the minimal starting energy (as $E_k$ changes to $E_P$) that the reactant molecules must have in order to undergo and *effective collision* and produce a reaction
 
+**Effective Collisions** occur when the two colliding particles have enough $E_k$ and $E_P$ to overcome repulsive forces between positive nuclei and negative electron clouds.
+- If the collision is effective, then old bonds break, and new bonds form
+
+![[NO-N2O.png]]
 > [!NOTE] Section A
 > Both gases are in random motion and have a large quantity of kinetic energy
 > Total potential energy stays the same because they are no where no each other
