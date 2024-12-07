@@ -55,6 +55,7 @@ for a reaction to occur, two particles must collide. Reactants must also have en
 ![[Pasted image 20241207143700.png]]
 
 # Factors that affect the rate of reaction
+The first 4 are for **homogenous systems (reactants and products are present in the same phase)**
 
 ## Temperature
 TLDR - Increasing the temperature of the reactants increases the rate of reaction 
@@ -80,10 +81,14 @@ more effective collisions = higher rate of reaction
 ## Catalyst
 A chemical which speeds up a reaction by lowering the activation energy $E_A$. It does not participate in the reaction.
 
+![[Pasted image 20241207154739.png]]
+
 **The catalyst is involved with the formation of a new activated complex which has a lower activation energy as compared to the original**
+$\Delta H$ is the same since enthalpy is a state property independent from pathway
 
 TLDR - Adding a catalyst increases the rate of reaction
 
+![[Pasted image 20241207154440.png]]
 
 # Surface Area
 TLDR - Increasing surface area of reactants increases the rate of reaction
