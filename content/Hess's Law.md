@@ -21,8 +21,7 @@ If the overall equation for a reaction can be expressed as the algebraic sum of 
 ## Energy State Diagram
 ![[Pasted image 20241207122443.png]]
 
-
 > [!ERROR] Rules of Enthalpy Changes
-> If you reverse a chemical reaction, you must also reverse the sign for $\Delta H$
-> If the moles of every reactant and product is multiplied, then $\Delta H$ is multiplied by that same number
+> 1. If you reverse a chemical reaction, you must also reverse the sign for $\Delta H$
+> 2. If the moles of every reactant and product is multiplied, then $\Delta H$ is multiplied by that same number
 > 
