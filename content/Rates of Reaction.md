@@ -55,3 +55,14 @@ for a reaction to occur, two particles must collide. Reactants must also have en
 ![[Pasted image 20241207143700.png]]
 
 # Factors that affect the rate of reaction
+
+## Temperature
+TLDR - Increasing the temperature of the reactants increases the rate of reaction 
+## Nature of Reactants
+TLDR - Increasing the complexity of reactants (more bonds) decreases the rate of reaction
+## Concentration
+TLDR - Increasing concentration of the solutions increases the rate of reaction
+## Catalyst
+TLDR - Adding a catalyst increases the rate of reaction
+# Surface Area
+TLDR - Increasing surface area of reactants increases the rate of reaction
