@@ -22,7 +22,7 @@ concentration is either appearing (positive) or dissapearing(negative)
 
 ---
 ### Reaction Co-ordinate Diagram for the Formation of HBr
-![[Reaction Coordinate diagram for the formation of HBr.excalidraw|800]]
+![[Pasted image 20241207152424.png]]
 
 **Activation Energy $E_{A}$**: the minimal starting energy (as $E_k$ changes to $E_P$) that the reactant molecules must have in order to undergo and *effective collision* and produce a reaction
 
@@ -58,6 +58,8 @@ for a reaction to occur, two particles must collide. Reactants must also have en
 
 ## Temperature
 TLDR - Increasing the temperature of the reactants increases the rate of reaction 
+![[Pasted image 20241207152306.png]]
+
 ## Nature of Reactants
 TLDR - Increasing the complexity of reactants (more bonds) decreases the rate of reaction
 ## Concentration
