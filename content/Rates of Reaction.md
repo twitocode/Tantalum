@@ -9,13 +9,12 @@ aliases:
 A measure of how fast a reaction is taking place
 The unit is $\frac{mol \cdot s}{L}$
 
+
 $$Rate \space  \alpha \space[concentration]$$
 $$Rate = \frac{\Delta concentration}{\Delta time}$$
 concentration is either appearing (positive) or dissapearing(negative)
 
-### Factors that affect the rate of reaction
-
-**Chemical Kinetics**: the study of ways to make chemical reactions go faster or slower.
+**Properties like mass, colour, volume, and pressure can be monitored** to detect the amount (in mol) of reactant which disappears, or the amount of product that appears during a specific time interval.
 
 ---
 ### Reaction Co-ordinate Diagram for the Formation of HBr
@@ -45,3 +44,8 @@ concentration is either appearing (positive) or dissapearing(negative)
 > 1. H-Br molecules form, energy is released since bonds are forming. 
 > 2. Potential drops and Kinetic increases
 > 	- Molecules speed up and move away from each other
+
+# Collision Rate Theory
+for a reaction to occur, two particles must collide. Reactants must also have enough kinetic energy and collide at a certain orientation. 
+
+![[Pasted image 20241207143700.png]]
