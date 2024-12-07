@@ -19,3 +19,5 @@ The slowest step (*elementary process*) is the **rate determining step** for the
 ![[Pasted image 20241207155830.png]]
 
 **Reaction Intermediate**: part of the reaction but not part of the overall equation. In this case its $\ce{N_{2}O_{2}}$
+
+![[Pasted image 20241207160401.png]]
