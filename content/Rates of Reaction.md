@@ -75,8 +75,15 @@ TLDR - Increasing concentration of the reactants increases the rate of reaction
 More particles = more collisions
 more collisions = more effective collisions
 more effective collisions = higher rate of reaction
+![[Pasted image 20241207153834.png]]
 
 ## Catalyst
+A chemical which speeds up a reaction by lowering the activation energy $E_A$. It does not participate in the reaction.
+
+**The catalyst is involved with the formation of a new activated complex which has a lower activation energy as compared to the original**
+
 TLDR - Adding a catalyst increases the rate of reaction
+
+
 # Surface Area
 TLDR - Increasing surface area of reactants increases the rate of reaction
