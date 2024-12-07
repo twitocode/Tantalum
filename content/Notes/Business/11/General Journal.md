@@ -1,11 +1,11 @@
 ---
 CreatedAt: 2024-03-26
-MOC: "[[Business MOC]]"
+MOC: "[[BAF3M1 MOC]]"
 tags:
-- Unit-3
+  - Unit-3
 TARGET DECK: Grade 11::BAF3M1::Unit 3
 aliases:
-- Journalizing
+  - Journalizing
 ---
 
 # General Journal

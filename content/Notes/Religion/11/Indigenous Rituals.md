@@ -1,19 +1,19 @@
 ---
 CreatedAt: 2024-04-08
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-2
+  - Unit-2
 aliases:
-- Birth
-- Naming
-- Ritual
-- Vision Quest
-- Hair
-- Death
-- Harvest Feast
-- Powwow
-- Sun Dance
-- Potlatch
+  - Birth
+  - Naming
+  - Ritual
+  - Vision Quest
+  - Hair
+  - Death
+  - Harvest Feast
+  - Powwow
+  - Sun Dance
+  - Potlatch
 TARGET DECK: Grade 11::HRT3M1::Unit 2 - Indigenous Spirituality
 ---
 # Indigenous Rituals

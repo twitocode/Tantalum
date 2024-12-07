@@ -1,13 +1,13 @@
 ---
 CreatedAt: 2024-06-11
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-5
+  - Unit-5
 aliases:
-- Siddhartha Gautama
-- Buddha
-- Buddhism Origin
-TARGET DECK:
+  - Siddhartha Gautama
+  - Buddha
+  - Buddhism Origin
+TARGET DECK: 
 ---
 
 # Buddhism General Information

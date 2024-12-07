@@ -1,10 +1,10 @@
 ---
 CreatedAt: 2024-03-19
-MOC: "[[Business MOC]]"
+MOC: "[[BAF3M1 MOC]]"
 tags:
-- Unit-1
+  - Unit-1
 aliases:
-- Residual Claim
+  - Residual Claim
 TARGET DECK: Grade 11::BAF3M1::Unit 1
 ---
 # Owner's Equity

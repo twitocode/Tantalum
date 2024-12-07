@@ -1,11 +1,11 @@
 ---
 CreatedAt: 2024-06-07
-MOC: "[[Business MOC]]"
+MOC: "[[BAF3M1 MOC]]"
 tags:
-- Unit-6
+  - Unit-6
 aliases:
-- Accrued Expenses
-- Accrued Revenue
+  - Accrued Expenses
+  - Accrued Revenue
 TARGET DECK: Grade 11::BAF3M1::Unit 6
 ---
 

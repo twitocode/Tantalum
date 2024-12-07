@@ -1,9 +1,9 @@
 ---
 CreatedAt: 2024-04-08
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-2
-aliases:
+  - Unit-2
+aliases: 
 ---
 # Seven Grandfather Teachings
 The Seven Grandfather Teachings are a set of Anishinaabe guiding principles that give people the tools for how to live a good life

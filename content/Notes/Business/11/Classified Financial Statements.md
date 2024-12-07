@@ -1,17 +1,17 @@
 ---
 CreatedAt: 2024-05-08
-MOC: "[[Business MOC]]"
+MOC: "[[BAF3M1 MOC]]"
 tags:
-- Unit-4
+  - Unit-4
 aliases:
-- Current Assets
-- Fixed Assets
-- Current Liabilities
-- Long Term Liabilities
-- Classified Balance Sheet
-- Statement of Owner's Equity
-- Schedule of A/P
-- Schedule of A/R
+  - Current Assets
+  - Fixed Assets
+  - Current Liabilities
+  - Long Term Liabilities
+  - Classified Balance Sheet
+  - Statement of Owner's Equity
+  - Schedule of A/P
+  - Schedule of A/R
 TARGET DECK: Grade 11::BAF3M1::Unit 4
 ---
 

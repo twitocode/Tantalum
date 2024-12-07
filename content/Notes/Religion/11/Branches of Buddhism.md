@@ -1,13 +1,13 @@
 ---
 CreatedAt: 2024-06-11
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-5
+  - Unit-5
 aliases:
-- Theravada
-- Mahayana
-- Vajrayana
-- Zen
+  - Theravada
+  - Mahayana
+  - Vajrayana
+  - Zen
 TARGET DECK: Grade 11::HRT3M1::Unit 5 - Buddhism
 ---
 

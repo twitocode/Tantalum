@@ -1,11 +1,11 @@
 ---
 CreatedAt: 2024-05-31
-MOC: "[[Business MOC]]"
+MOC: "[[BAF3M1 MOC]]"
 tags:
-- Unit-5
+  - Unit-5
 aliases:
-- Perpetual Inventory System
-- Periodic Inventory System
+  - Perpetual Inventory System
+  - Periodic Inventory System
 TARGET DECK: Grade 11::BAF3M1::Unit 5
 ---
 

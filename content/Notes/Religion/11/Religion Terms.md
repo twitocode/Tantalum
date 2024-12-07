@@ -1,18 +1,18 @@
 ---
 CreatedAt: 2024-06-14
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-1
+  - Unit-1
 aliases:
-- Pluralism
-- Multiculturalism
-- Diversity
-- Patriarchal Society
-- Thology
-- Monotheism
-- Ichthys
-- Polytheism
-- Atheism
+  - Pluralism
+  - Multiculturalism
+  - Diversity
+  - Patriarchal Society
+  - Thology
+  - Monotheism
+  - Ichthys
+  - Polytheism
+  - Atheism
 TARGET DECK: Grade 11::HRT3M1::Unit 1 - World Religions
 ---
 

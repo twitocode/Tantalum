@@ -1,16 +1,16 @@
 ---
 CreatedAt: 2024-06-03
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-4
+  - Unit-4
 aliases:
-- Hanukkah
-- Passover
-- purim
-- Rosh Hashanah
-- Shabbat
-- Sukkot
-- Yom Kippur
+  - Hanukkah
+  - Passover
+  - purim
+  - Rosh Hashanah
+  - Shabbat
+  - Sukkot
+  - Yom Kippur
 TARGET DECK: Grade 11::HRT3M1::Unit 4
 ---
 

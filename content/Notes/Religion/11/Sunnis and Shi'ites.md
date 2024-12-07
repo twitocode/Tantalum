@@ -1,13 +1,13 @@
 ---
 CreatedAt: 2024-04-30
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-3
+  - Unit-3
 aliases:
-- Sunni
-- Shi'ites
-- Sufi
-- Imam
+  - Sunni
+  - Shi'ites
+  - Sufi
+  - Imam
 TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 ---
 # Sunnis and Shi'ites

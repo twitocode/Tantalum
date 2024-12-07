@@ -1,15 +1,15 @@
 ---
 CreatedAt: 2024-04-29
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-3
+  - Unit-3
 aliases:
-- Salat
-- Salah
-- Shahadah
-- Sawn
-- Zakat
-- Hajj
+  - Salat
+  - Salah
+  - Shahadah
+  - Sawn
+  - Zakat
+  - Hajj
 TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 ---
 

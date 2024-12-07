@@ -1,9 +1,9 @@
 ---
 CreatedAt: 2024-04-30
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-3
-aliases:
+  - Unit-3
+aliases: 
 ---
 # Jerusalem
 Muslims believe Muhammad made his “night visit” (also known as miraj) to this holy city

@@ -1,10 +1,10 @@
 ---
 CreatedAt: 2024-06-07
-MOC: "[[Business MOC]]"
+MOC: "[[BAF3M1 MOC]]"
 tags:
-- Unit-6
+  - Unit-6
 aliases:
-- Allowance for Bad Debts
+  - Allowance for Bad Debts
 TARGET DECK: Grade 11::BAF3M1::Unit 6
 ---
 

@@ -1,22 +1,22 @@
 ---
 CreatedAt: 2024-03-28
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-2
+  - Unit-2
 aliases:
-- First Nation
-- Metis
-- Inuit
-- First Nations
-- Inuk
-- Aboriginal
-- Aboriginals
-- Indian
-- Indians
-- Gord Downie
-- Chief Seattle
-- Daphne Odjig
-- St. Kateri Tekakwitha
+  - First Nation
+  - Metis
+  - Inuit
+  - First Nations
+  - Inuk
+  - Aboriginal
+  - Aboriginals
+  - Indian
+  - Indians
+  - Gord Downie
+  - Chief Seattle
+  - Daphne Odjig
+  - St. Kateri Tekakwitha
 TARGET DECK: Grade 11::HRT3M1::Unit 2 - Indigenous Spirituality
 ---
 

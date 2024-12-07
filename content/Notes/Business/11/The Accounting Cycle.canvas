@@ -1,25 +1,25 @@
 {
-"nodes":[
-{"id":"b49d65dfad31f485","type":"text","text":"Journalize & Post Closing Entries","x":380,"y":-30,"width":250,"height":60},
-{"id":"b78f39267361acd2","type":"text","text":"Prepare Closing Trial Balance","x":-25,"y":-240,"width":250,"height":60},
-{"id":"c3f0aa113dc49db6","type":"text","text":"Complete Income Statement and Balance Sheet","x":-25,"y":130,"width":250,"height":80},
-{"id":"e899bbc8aac4eb7d","type":"text","text":"# The Accounting Cycle\n[[Business MOC]] #Unit-4 ","x":-72,"y":-60,"width":345,"height":145},
-{"id":"69ce57bc9313a709","type":"text","text":"# New Fiscal Period","x":-332,"y":-260,"width":260,"height":100},
-{"id":"ed7d157b8d5b4569","type":"text","text":"Post Transactions","x":-520,"y":130,"width":250,"height":60},
-{"id":"d19208f74d96780b","x":-520,"y":-120,"width":250,"height":60,"type":"text","text":"Journalize & Post Reversing Entries"},
-{"id":"a056d76ec0fca0ff","type":"text","text":"journalize the Transactions","x":-520,"y":0,"width":250,"height":60},
-{"id":"7f7bdfa85308be23","type":"text","text":"Complete Worksheet\n(With Adjustments)","x":-25,"y":280,"width":250,"height":60},
-{"id":"d5be038687496752","type":"text","text":"Journalize & Post Adjusting Entries ","x":380,"y":140,"width":250,"height":60}
-],
-"edges":[
-{"id":"2f4e8da7cb293f40","fromNode":"a056d76ec0fca0ff","fromSide":"bottom","toNode":"ed7d157b8d5b4569","toSide":"top"},
-{"id":"43b41a522dcdbc3f","fromNode":"ed7d157b8d5b4569","fromSide":"bottom","toNode":"7f7bdfa85308be23","toSide":"left"},
-{"id":"5c5c56d1c2170c5e","fromNode":"7f7bdfa85308be23","fromSide":"top","toNode":"c3f0aa113dc49db6","toSide":"bottom"},
-{"id":"e8adcc96bba6e313","fromNode":"7f7bdfa85308be23","fromSide":"right","toNode":"d5be038687496752","toSide":"bottom"},
-{"id":"a80e8029aa829147","fromNode":"d5be038687496752","fromSide":"top","toNode":"b49d65dfad31f485","toSide":"bottom"},
-{"id":"3b7196d2d733a96e","fromNode":"b49d65dfad31f485","fromSide":"top","toNode":"b78f39267361acd2","toSide":"right"},
-{"id":"6baadda77749a623","fromNode":"b78f39267361acd2","fromSide":"left","toNode":"69ce57bc9313a709","toSide":"right"},
-{"id":"cd5da6781dc038bf","fromNode":"69ce57bc9313a709","fromSide":"left","toNode":"d19208f74d96780b","toSide":"top"},
-{"id":"328c8435d54c426f","fromNode":"d19208f74d96780b","fromSide":"bottom","toNode":"a056d76ec0fca0ff","toSide":"top"}
-]
+	"nodes":[
+		{"id":"b49d65dfad31f485","type":"text","text":"Journalize & Post Closing Entries","x":380,"y":-30,"width":250,"height":60},
+		{"id":"b78f39267361acd2","type":"text","text":"Prepare Closing Trial Balance","x":-25,"y":-240,"width":250,"height":60},
+		{"id":"c3f0aa113dc49db6","type":"text","text":"Complete Income Statement and Balance Sheet","x":-25,"y":130,"width":250,"height":80},
+		{"id":"e899bbc8aac4eb7d","type":"text","text":"# The Accounting Cycle\n[[BAF3M1 MOC]] #Unit-4 ","x":-72,"y":-60,"width":345,"height":145},
+		{"id":"69ce57bc9313a709","type":"text","text":"# New Fiscal Period","x":-332,"y":-260,"width":260,"height":100},
+		{"id":"ed7d157b8d5b4569","type":"text","text":"Post Transactions","x":-520,"y":130,"width":250,"height":60},
+		{"id":"d19208f74d96780b","x":-520,"y":-120,"width":250,"height":60,"type":"text","text":"Journalize & Post Reversing Entries"},
+		{"id":"a056d76ec0fca0ff","type":"text","text":"journalize the Transactions","x":-520,"y":0,"width":250,"height":60},
+		{"id":"7f7bdfa85308be23","type":"text","text":"Complete Worksheet\n(With Adjustments)","x":-25,"y":280,"width":250,"height":60},
+		{"id":"d5be038687496752","type":"text","text":"Journalize & Post Adjusting Entries ","x":380,"y":140,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"2f4e8da7cb293f40","fromNode":"a056d76ec0fca0ff","fromSide":"bottom","toNode":"ed7d157b8d5b4569","toSide":"top"},
+		{"id":"43b41a522dcdbc3f","fromNode":"ed7d157b8d5b4569","fromSide":"bottom","toNode":"7f7bdfa85308be23","toSide":"left"},
+		{"id":"5c5c56d1c2170c5e","fromNode":"7f7bdfa85308be23","fromSide":"top","toNode":"c3f0aa113dc49db6","toSide":"bottom"},
+		{"id":"e8adcc96bba6e313","fromNode":"7f7bdfa85308be23","fromSide":"right","toNode":"d5be038687496752","toSide":"bottom"},
+		{"id":"a80e8029aa829147","fromNode":"d5be038687496752","fromSide":"top","toNode":"b49d65dfad31f485","toSide":"bottom"},
+		{"id":"3b7196d2d733a96e","fromNode":"b49d65dfad31f485","fromSide":"top","toNode":"b78f39267361acd2","toSide":"right"},
+		{"id":"6baadda77749a623","fromNode":"b78f39267361acd2","fromSide":"left","toNode":"69ce57bc9313a709","toSide":"right"},
+		{"id":"cd5da6781dc038bf","fromNode":"69ce57bc9313a709","fromSide":"left","toNode":"d19208f74d96780b","toSide":"top"},
+		{"id":"328c8435d54c426f","fromNode":"d19208f74d96780b","fromSide":"bottom","toNode":"a056d76ec0fca0ff","toSide":"top"}
+	]
 }

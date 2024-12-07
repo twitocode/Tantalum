@@ -1,9 +1,9 @@
 ---
 CreatedAt: 2024-05-03
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-3
-aliases:
+  - Unit-3
+aliases: 
 ---
 # Muslim Clothing
 

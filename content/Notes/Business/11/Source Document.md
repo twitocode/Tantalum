@@ -1,18 +1,18 @@
 ---
 CreatedAt: 2024-04-19
-MOC: "[[Business MOC]]"
+MOC: "[[BAF3M1 MOC]]"
 tags:
-- Unit-3
+  - Unit-3
 aliases:
-- Source Documents
-- Cash Sales Slip
-- Sales Invoice
-- Purchase Invoice
-- Cheque
-- Cheque Copy
-- Credit Invoice
-- Credit Memo
-- Debit Memo
+  - Source Documents
+  - Cash Sales Slip
+  - Sales Invoice
+  - Purchase Invoice
+  - Cheque
+  - Cheque Copy
+  - Credit Invoice
+  - Credit Memo
+  - Debit Memo
 TARGET DECK: Grade 11::BAF3M1::Unit 3
 ---
 

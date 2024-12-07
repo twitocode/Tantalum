@@ -1,17 +1,17 @@
 ---
 CreatedAt: 2024-04-08
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-2
+  - Unit-2
 aliases:
-- TRC
-- Truth and Reconciliation Commission
-- Reconciliation
-- Assimilate
-- Assimilation
-- Indian Act
-- 94 Calls to Action
-- Namwayut
+  - TRC
+  - Truth and Reconciliation Commission
+  - Reconciliation
+  - Assimilate
+  - Assimilation
+  - Indian Act
+  - 94 Calls to Action
+  - Namwayut
 TARGET DECK: Grade 11::HRT3M1::Unit 2 - Indigenous Spirituality
 ---
 

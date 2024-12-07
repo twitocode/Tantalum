@@ -1,10 +1,10 @@
 ---
 CreatedAt: 2024-04-08
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-2
+  - Unit-2
 aliases:
-- Medicine Wheel
+  - Medicine Wheel
 TARGET DECK: Grade 11::HRT3M1::Unit 2 - Indigenous Spirituality
 ---
 

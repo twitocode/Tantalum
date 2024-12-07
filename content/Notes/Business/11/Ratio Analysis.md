@@ -1,18 +1,18 @@
 ---
 CreatedAt: 2024-06-15
-MOC: "[[Business MOC]]"
+MOC: "[[BAF3M1 MOC]]"
 tags:
-- Unit-6
+  - Unit-6
 aliases:
-- Working Captial
-- Current Ratio
-- Quick Ratio
-- Inventory Turnover Period
-- A/R Turnover Period
-- Equity Ratio
-- Debt Ratio
-- Rate of Return on Net Sales
-- Rate of Return on Average Owner's Equity
+  - Working Captial
+  - Current Ratio
+  - Quick Ratio
+  - Inventory Turnover Period
+  - A/R Turnover Period
+  - Equity Ratio
+  - Debt Ratio
+  - Rate of Return on Net Sales
+  - Rate of Return on Average Owner's Equity
 TARGET DECK: Grade 11::BAF3M1::Unit 6
 ---
 

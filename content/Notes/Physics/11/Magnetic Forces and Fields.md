@@ -1,6 +1,6 @@
 ---
 CreatedAt: 2024-06-10
-MOC: "[[Physics 11 MOC]]"
+MOC: "[[SPH3U1 MOC]]"
 tags:
   - Unit-4
 aliases:

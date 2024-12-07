@@ -1,12 +1,12 @@
 ---
 CreatedAt: 2024-05-04
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-3
+  - Unit-3
 aliases:
-- Tawba
-- Jihad
-- Salam
+  - Tawba
+  - Jihad
+  - Salam
 ---
 # Islam Concepts
 ## Jihad

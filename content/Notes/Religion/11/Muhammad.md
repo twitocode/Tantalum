@@ -1,10 +1,10 @@
 ---
 CreatedAt: 2024-05-04
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-3
+  - Unit-3
 aliases:
-- Hijra
+  - Hijra
 ---
 # Muhammad
 He received the quran on Mount Hira

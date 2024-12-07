@@ -1,14 +1,14 @@
 ---
 CreatedAt: 2024-05-04
-MOC: "[[Business MOC]]"
+MOC: "[[BAF3M1 MOC]]"
 tags:
-- Unit-4
+  - Unit-4
 aliases:
-- Contra Asset
-- Prepaid Expenses
-- Depreciation
-- Book Value
-- Salvage Value
+  - Contra Asset
+  - Prepaid Expenses
+  - Depreciation
+  - Book Value
+  - Salvage Value
 TARGET DECK: Grade 11::BAF3M1::Unit 4
 ---
 

@@ -1,13 +1,13 @@
 ---
 CreatedAt: 2024-06-03
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-4
+  - Unit-4
 aliases:
-- Conservative Jew
-- Hasidic Jew
-- Orthodox Jew
-- Reform Jew
+  - Conservative Jew
+  - Hasidic Jew
+  - Orthodox Jew
+  - Reform Jew
 TARGET DECK: Grade 11::HRT3M1::Unit 4
 ---
 

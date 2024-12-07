@@ -1,15 +1,15 @@
 ---
 CreatedAt: 2024-05-04
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-3
+  - Unit-3
 aliases:
-- Birth
-- Marriage
-- Death
-- Aqiqa
-- Polygamy
-- Wedding
+  - Birth
+  - Marriage
+  - Death
+  - Aqiqa
+  - Polygamy
+  - Wedding
 ---
 # Islam Life Cycle Rituals
 ## Birth

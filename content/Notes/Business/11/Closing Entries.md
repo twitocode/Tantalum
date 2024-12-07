@@ -1,13 +1,13 @@
 ---
 CreatedAt: 2024-05-08
-MOC: "[[Business MOC]]"
+MOC: "[[BAF3M1 MOC]]"
 tags:
-- Unit-4
+  - Unit-4
 aliases:
-- Income Summary
-- Permanent Accounts
-- Temporary Accounts
-- Post Closing Trial Balance
+  - Income Summary
+  - Permanent Accounts
+  - Temporary Accounts
+  - Post Closing Trial Balance
 TARGET DECK: Grade 11::BAF3M1::Unit 4
 ---
 

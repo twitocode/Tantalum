@@ -1,12 +1,12 @@
 ---
 CreatedAt: 2024-03-28
-MOC: "[[Religion MOC]]"
+MOC: "[[HRT3M1 MOC]]"
 tags:
-- Unit-2
+  - Unit-2
 aliases:
-- Smudging
-- Sweat Lodge
-- Sacred Pipe Ceremony
+  - Smudging
+  - Sweat Lodge
+  - Sacred Pipe Ceremony
 TARGET DECK: Grade 11::HRT3M1::Unit 2 - Indigenous Spirituality
 ---
 # Indigenous Ceremonies
