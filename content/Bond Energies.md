@@ -5,7 +5,7 @@ tags:
   - Unit-3
 aliases:
 ---
-**Bond dissociation Energy**: the quantity of energy required to break a chemical bond. Measured in $kJ/mol$
+**Bond Dissociation Energy**: the quantity of energy required to break a chemical bond. Measured in $kJ/mol$
 
 ![[Pasted image 20241207125453.png]]
 
