@@ -9,7 +9,7 @@ aliases:
   - SATP
 TARGET DECK:
 ---
-Also known as [[Thermal Energy]]. It is the sum of all Potential Energy and Kinetic Energy associated with particles of matter.
+Also known as [[Thermal Energy]]. It is the sum of all Potential Energy and Kinetic Energy associated with particles of matter. We can never know the actual enthalpy of an element or compound, we can only calculate the difference between enthalpies. 
 
 $H = E_K + E_P$
 
