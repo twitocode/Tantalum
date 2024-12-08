@@ -5,6 +5,7 @@ title: Tantalum OS
 Graphs, Triangles, matrices: https://www.mathcha.io/editor
 Image to Latex: https://simpletex.cn/ai/latex_ocr
 Invert Colour Snippet: `![[Random Image#invert_B]]`
+![[diagram-20241208.svg#invert_B]]
 ## How to Study
 1. Feynman
 2. Practice Tests
