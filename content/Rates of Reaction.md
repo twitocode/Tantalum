@@ -16,7 +16,7 @@ The unit is $\frac{mol \cdot s}{L}$
 
 $$Rate \space  \alpha \space[concentration]$$
 $$Rate = \frac{\Delta concentration}{\Delta time}$$
-concentration is either appearing (positive) or dissapearing(negative)
+concentration is either appearing (positive rate) or dissapearing(negative rate)
 
 **Properties like mass, colour, volume, and pressure can be monitored** to detect the amount (in mol) of reactant which disappears, or the amount of product that appears during a specific time interval.
 
