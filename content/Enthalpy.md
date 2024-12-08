@@ -22,8 +22,8 @@ $H = E_K + E_P$
 
 $\Delta H$ or heat is the amount of [[Thermal Energy]] transferred between substances during a physical, chemical or nuclear change.
 
-If $\Delta H > 0$ then the reaction is endothermic, meaning it releases heat
-If $\Delta H < 0$ then the reaction is exothermic, meaning it absorbed heat
+If $\Delta H > 0$ then the reaction is endothermic, meaning it absorbs heat
+If $\Delta H < 0$ then the reaction is exothermic, meaning it releases heat
 
 ![[Pasted image 20241207131536.png]]
 
