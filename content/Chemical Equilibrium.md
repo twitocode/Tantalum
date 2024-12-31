@@ -7,3 +7,5 @@ aliases:
 ---
 The phenomenon that occurs when the rate of the forward reaction equals the rate of the reverse reaction. The concentration of all participants stays the same.
 
+![[unnamed.gif]]
+
