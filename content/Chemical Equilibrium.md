@@ -40,3 +40,14 @@ A change in the environmental conditions of a system ex. Adding heat
 - Pressure/Volume changes (gaseous systems only)
 - Catalysts
 - Addition of an inert gas
+
+#### Concentration Change
+
+#### Temperature change
+
+#### Pressure or Volume change
+
+
+#### Catalysts
+
+#### Addition of Inert Gas
