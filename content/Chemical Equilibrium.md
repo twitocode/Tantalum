@@ -1,6 +1,6 @@
 ---
 CreatedAt: 2024-12-27
-MOC: "[[SPH4U1 MOC]]"
+MOC: "[[SCH4U1 MOC]]"
 tags:
   - Unit-4
 aliases:
