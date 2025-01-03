@@ -61,3 +61,6 @@ $$
 [\ce{HI_{(g)}}] &= 2(0.77) \\
 &= 1.54 \ \mathrm{mol/L}
 \end{align*}$$
+
+## Significance of different $K_{eq}$ values
+$$\ce{A + B <=> C + D}$$ $$K_{eq} = \frac{[C][D]}{[A][B]}$$
