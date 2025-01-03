@@ -7,3 +7,5 @@
 | Admission Deadline     | Janurary 15                                 | January 31                         | January 15, 2025            | January 15 | no clue<br>horrible website                     | March 1, 2025                               |
 | Supplementary Deadline | February 3                                  | February 14                        | January 30, 2025 at noon ET | n/a        | n/a                                             | n/a                                         |
 | Food Cost              | Included in residence                       | included in residence              | n/a for now                 | ask haly   | $5,092 to $6,920<br><br>$1,139 to $1500         | included in residence                       |
+
+# jobs?
