@@ -70,3 +70,9 @@ If $K_{eq}​$ is very small, the equilibrium must lie far to the left since rea
 When $K_{eq}$​ = 1, the equilibrium does not lie in any particular direction because the reactant concentrations must be very close to the product concentrations.
 
 ![[Pasted image 20250103145146.png]]
+
+# Temperature Effects of the Equilibrium Constant
+
+1. For the reaction $\ce{\text{heat} + A <=> B + C}$
+   Increasing the temperature causes the equilibrium to shift ot the right as predicted by Le chatelier's principle. Therefore for endothermic reactions, $K_{eq}$ increases as temperature increases and decreases if temperature decreases
+2. For the reaction $\ce{A + B <=> C + \text{heat}}$
