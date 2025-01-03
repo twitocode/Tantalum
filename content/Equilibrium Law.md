@@ -85,3 +85,5 @@ When $K_{eq}$​ = 1, the equilibrium does not lie in any particular direction b
 | endothermic      | decreases          | decreases       |
 | exothermic       | increases          | decreases       |
 | exothermic       | decreases          | increases       |
+
+#
