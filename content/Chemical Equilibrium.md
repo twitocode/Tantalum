@@ -42,7 +42,7 @@ A change in the environmental conditions of a system ex. Adding heat
 - Addition of an inert gas
 
 #### Concentration Change
-
+___
 $$\ce{Fe^{3+}_{(aq)} + SCN-_{(aq)} <=> FeSCN^{2+}_{(aq)}}$$
 How does increasing $\ce{[SCN-_{(aq)}]}$ affect the equilibrium
 
@@ -54,6 +54,7 @@ Le Chatelier's principle predicts that the forward reaction will take over when 
 - In terms of rate theory, $\ce{[SCN-_{(aq)}]}$ is a term that is found only in the rate law of the forward reaction. If $\ce{[SCN-_{(aq)}]}$ is increased, the forward rate will increase instantaneously with no corresponding increase in the rate of the reverse reaction. Since $rate_{\text{(forward)}} > rate_{\text{(reverse)}}$, the forward reaction takes over.
 - As time progresses, $\ce{[Fe^{3}+_{(aq)}]}$ and $\ce{[SCN-_{(aq)}]}$ drop,   $\ce{[FeSCN^{2+}_{(aq)}]}$  increases, and the reverse reaction dominates. Eventually, both rates will be equal and a new equilibrium will exist.
 #### Temperature change
+___
 $$\ce{H2(g) + I2(g) <=> 2HI(g)} \quad \Delta H > 0$$
 Or
 $$\ce{heat + H2(g) + I2(g) <=> 2HI(g)}$$
@@ -61,11 +62,25 @@ $$\ce{heat + H2(g) + I2(g) <=> 2HI(g)}$$
 	- The system will react so as to remove as as much heat as possible. the forward reaction converts the additional heat into stored energy therefore this reaction takes over. The equilibrium shifts to the right and $$\ce{[HI] \text{increases}, [H_{2}] \text{decreases}, [I_{2}] \text{decreases}}$$
 2. If the temperature is decreased
 	- The reverse reaction will take over. This reaction can replace the removed heat by shifting the reaction to the left
-#### Pressure or Volume change
 
+#### Pressure or Volume change
+___
 ##### Example 1
 $$\ce{3H2(g) + N2(g) <=> 2NH3(g)}$$
 If the volume of the system decreases, the pressure will increase (Boyle's Law). The system will try to move in a direction which will minimize pressure. To do this, the system will try to decrease the total number of particles. Since there are 4 particles on the left side (3 $\ce{H2}$ molecules & 1 $\ce{N2}$ molecule) and 2 particles on the right side (2 $\ce{NH3}$ molecules), the reaction will shift to the right.
+##### Example 2
+$$\ce{H2(g) + I2(g) <=> 2HI(g)}$$
+In this case, the number of particles is the same on both sides of the equation (2 particles each). As a result, any increase or decrease in pressure will have no effect on the equilibrium however the concentrations of all participants will change.
 #### Catalysts
+___
+$$\ce{H2(g) + Br2(g) <=> 2HBr(g)} \quad \Delta H < 0$$
+Le Chatelier's principle predicts that the addition of a catalyst will have no impact on the rate of a reaction.
+
+<p style="color: red;">CANNOT COMPLETE YET (note not finished)</p>
 
 #### Addition of Inert Gas
+___
+1. If the container is flexible
+	- The argon causes the container to expand thereby 
+3. If the container is rigid.
+	- The argon gas causes the total pressure to increase according to [[Dalton's Law]]. However the partial pressure of each component gas remains the same. As a result , the equilibrium will not be affected.
