@@ -63,7 +63,9 @@ $$\ce{heat + H2(g) + I2(g) <=> 2HI(g)}$$
 	- The reverse reaction will take over. This reaction can replace the removed heat by shifting the reaction to the left
 #### Pressure or Volume change
 
-
+##### Example 1
+$$\ce{3H2(g) + N2(g) <=> 2NH3(g)}$$
+If the volume of the system decreases, the pressure will increase (Boyle's Law). The system will try to move in a direction which will minimize pressure. To do this, the system will try to decrease the total number of particles. Since there are 4 particles on the left side (3 $\ce{H2}$ molecules & 1 $\ce{N2}$ molecule) and 2 particles on the right side (2 $\ce{NH3}$ molecules), the reaction will shift to the right.
 #### Catalysts
 
 #### Addition of Inert Gas
