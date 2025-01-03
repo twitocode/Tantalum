@@ -42,7 +42,9 @@ A change in the environmental conditions of a system ex. Adding heat
 - Addition of an inert gas
 
 #### Concentration Change
-
+Le Chatelier's principle predicts that the forward reaction will take over when $\ce{[SCN-_{(aq)}]}$ is increased. 
+- In terms of rate theory, $\ce{[SCN-_{(aq)}]}$ is a term that is found only in the rate law of the forward reaction. If $\ce{[SCN-_{(aq)}]}$ is increased, the forward rate will increase instantaneously with no corresponding increase in the rate of the reverse reaction. Since $rate_{\text{(forward)}} > rate_{\text{(reverse)}}$, the forward reaction takes over.
+- As time progresses, $\ce{[Fe^{3}+_{(aq)}]}$ and $\ce{[SCN-_{(aq)}]}$ drop,  
 #### Temperature change
 
 #### Pressure or Volume change
