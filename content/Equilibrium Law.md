@@ -86,4 +86,10 @@ When $K_{eq}$​ = 1, the equilibrium does not lie in any particular direction b
 | exothermic       | increases          | decreases       |
 | exothermic       | decreases          | increases       |
 
-#
+# Solids and Liquids in equilibrium?
+**Heterogenous Systems**: one which involves a reaction between 2 or states of matter.
+**Homogenous Systems**: a reaction where all participants are present in the same state.
+
+$$\ce{CaCO_{3(g)} <=> CaO_{(s)} + CO_{2(g)}} $$
+$$K_{eq} = \frac{[CaO_{(s)}][CO_{2(g)}]}{[CaCO_{3(s)}]}$$
+
