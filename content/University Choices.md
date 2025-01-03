@@ -9,3 +9,35 @@
 | Food Cost              | Included in residence                       | included in residence              | n/a for now                 | ask haly   | $5,092 to $6,920<br><br>$1,139 to $1500         | included in residence                       |
 
 # jobs?
+
+- Artificial intelligence software
+- Aerospace software
+- Ambient intelligence
+- Autonomous systems and control
+- Banking Automation Systems
+- Big Data Analyst
+- Biomedical Engineering
+- Business systems consultant
+- Chip architect
+- Computer architecture
+- Computer vision and optical processing
+- Cryptography and cyber security
+- Communications networks
+- Data compression
+- Database engineering
+- Deep Learning
+
+- Electronic commerce
+- Financial technology
+- Game development
+- Health analytics
+- Internet of Things
+- Information Systems
+- Machine learning
+- Medical informatics
+- Mechatronics
+- Natural language processing
+- Network security
+- Robotics
+- Software engineering
+- Software evolution
