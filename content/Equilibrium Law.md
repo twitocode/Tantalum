@@ -74,5 +74,14 @@ When $K_{eq}$​ = 1, the equilibrium does not lie in any particular direction b
 # Temperature Effects of the Equilibrium Constant
 
 1. For the reaction $\ce{\text{heat} + A <=> B + C}$
-   Increasing the temperature causes the equilibrium to shift ot the right as predicted by Le chatelier's principle. Therefore for endothermic reactions, $K_{eq}$ increases as temperature increases and decreases if temperature decreases
+   Increasing the temperature causes the equilibrium to shift to the right as predicted by Le Chatelier's Principle. Therefore for endothermic reactions, $K_{eq}$ increases as temperature increases and decreases if temperature decreases
 2. For the reaction $\ce{A + B <=> C + \text{heat}}$
+   Increasing the temperature causes the equilibrium to shift to the left. Therefore, for exothermic reactions, $K_{eq}$ decreases as the temperature increases and increases if the temperature decreases. 
+
+
+| Type of Reaction | Temperature Change | $K_{eq}$ change |
+| ---------------- | ------------------ | --------------- |
+| endothermic      | increases          | increases       |
+| endothermic      | decreases          | decreases       |
+| exothermic       | increases          | decreases       |
+| exothermic       | decreases          | increases       |
