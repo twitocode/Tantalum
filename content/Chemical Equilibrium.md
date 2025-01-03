@@ -58,7 +58,7 @@ $$\ce{H2(g) + I2(g) <=> 2HI(g)} \quad \Delta H > 0$$
 Or
 $$\ce{heat + H2(g) + I2(g) <=> 2HI(g)}$$
 1. If the temperature is increased
-	- The system will react so as to remove as as much heat as possible. the forward reaction converts the additional heat into stored energy therefore this reaction takes over. The equilibrium shifts to the right and $$
+	- The system will react so as to remove as as much heat as possible. the forward reaction converts the additional heat into stored energy therefore this reaction takes over. The equilibrium shifts to the right and $$\ce{[HI] \text{increases}, [H_{2}] \text{decreases}, [I_{2}] \text{decreases}}$$
 2. If the temperature is decreased
 	- The reverse reaction will take over. This reaction can replace the removed heat by shifting the reaction to the left
 #### Pressure or Volume change
