@@ -80,7 +80,10 @@ Le Chatelier's principle predicts that the addition of a catalyst will have no i
 
 #### Addition of Inert Gas
 ___
+
+##### Example: $\ce{Ar(g) + 3H2(g) + N2(g) <=> 2NH3(g) + Ar(g)}$
+
 1. If the container is flexible
-	- The argon causes the container to expand thereby 
+	- The argon causes the container to expand thereby increasing the total volume of the container. As a result, the partial pressure of each component gas decreases. The reaction shifts to the left  so as to increase thee number of particles.
 3. If the container is rigid.
 	- The argon gas causes the total pressure to increase according to [[Dalton's Law]]. However the partial pressure of each component gas remains the same. As a result , the equilibrium will not be affected.
