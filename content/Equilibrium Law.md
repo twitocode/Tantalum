@@ -63,4 +63,10 @@ $$
 \end{align*}$$
 
 ## Significance of different $K_{eq}$ values
-$$\ce{A + B <=> C + D}$$ $$K_{eq} = \frac{[C][D]}{[A][B]}$$
+$$\ce{A + B <=> C + D}$$ $$K_{eq} = \frac{[C][D]}{[A][B]}$$If $K_{eq}$​ is very large, the equilibrium must lie far to the right since product concentrations must be greater than reactant concentrations for the numerator to be greater than the denominator in the equilibrium law.
+
+If $K_{eq}​$ is very small, the equilibrium must lie far to the left since reactant concentrations must be greater than the product concentrations for the denominator to be greater than the numerator in the equilibrium law.
+
+When $K_{eq}$​ = 1, the equilibrium does not lie in any particular direction because the reactant concentrations must be very close to the product concentrations.
+
+![[Pasted image 20250103145146.png]]
