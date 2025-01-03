@@ -42,11 +42,23 @@ A change in the environmental conditions of a system ex. Adding heat
 - Addition of an inert gas
 
 #### Concentration Change
+
+$$\ce{Fe^{3+}_{(aq)} + SCN-_{(aq)} <=> FeSCN^{2+}_{(aq)}}$$
+How does increasing $\ce{[SCN-_{(aq)}]}$ affect the equilibrium
+
+Single step mechanism:
+$\text{rate}_{\text{(forward)}} = k_1 \ce{[Fe^{3+}_{(aq)}] [SCN-_{(aq)}] }$
+$\text{rate}_{\text{(reverse)}}= k_1 \ce{[FeSCN^{2+}_{(aq)}] }$
+
 Le Chatelier's principle predicts that the forward reaction will take over when $\ce{[SCN-_{(aq)}]}$ is increased. 
 - In terms of rate theory, $\ce{[SCN-_{(aq)}]}$ is a term that is found only in the rate law of the forward reaction. If $\ce{[SCN-_{(aq)}]}$ is increased, the forward rate will increase instantaneously with no corresponding increase in the rate of the reverse reaction. Since $rate_{\text{(forward)}} > rate_{\text{(reverse)}}$, the forward reaction takes over.
-- As time progresses, $\ce{[Fe^{3}+_{(aq)}]}$ and $\ce{[SCN-_{(aq)}]}$ drop,  
+- As time progresses, $\ce{[Fe^{3}+_{(aq)}]}$ and $\ce{[SCN-_{(aq)}]}$ drop,   $\ce{[FeSCN^{2+}_{(aq)}]}$  increases, and the reverse reaction dominates. Eventually, both rates will be equal and a new equilibrium will exist.
 #### Temperature change
-
+$$\ce{H2(g) + I2(g) <=> 2HI(g)} \quad \Delta H > 0$$
+Or
+$$\ce{heat + H2(g) + I2(g) <=> 2HI(g)}$$
+1. If the temperature is increased
+2. i
 #### Pressure or Volume change
 
 
