@@ -93,3 +93,15 @@ When $K_{eq}$​ = 1, the equilibrium does not lie in any particular direction b
 $$\ce{CaCO_{3(g)} <=> CaO_{(s)} + CO_{2(g)}} $$
 $$K_{eq} = \frac{[CaO_{(s)}][CO_{2(g)}]}{[CaCO_{3(s)}]}$$
 
+![[Pasted image 20250103171929.png]]
+$$
+\begin{align*}
+K_{eq} &= \frac{\text{constant}[CO_{2(g)}]}{\text{constant}} \\
+K_{eq} \times \frac{\text{constant}}{\text{constant}} &= [CO_{2(g)}] \\
+K_{eq}' &= [CO_{2(g)}]
+\end{align*}
+$$
+
+> [!NOTE] Title
+> Whenever dealing with heterogenous systems, always remove the solid and liquid concentrations
+> Concentration only work for aqueous and gases substances
