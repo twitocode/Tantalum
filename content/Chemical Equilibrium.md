@@ -48,7 +48,7 @@ How does increasing $\ce{[SCN-_{(aq)}]}$ affect equilibrium
 
 Single step mechanism:
 $\text{rate}_{\text{(forward)}} = k_1 \ce{[Fe^{3+}_{(aq)}] [SCN-_{(aq)}] }$
-$\text{rate}_{\text{(reverse)}}= k_1 \ce{[FeSCN^{2+}_{(aq)}] }$
+$\text{rate}_{\text{(reverse)}}= k_2 \ce{[FeSCN^{2+}_{(aq)}] }$
 
 Le Chatelier's principle predicts that the forward reaction will take over when $\ce{[SCN-_{(aq)}]}$ is increased. 
 - In terms of rate theory, $\ce{[SCN-_{(aq)}]}$ is a term that is found only in the rate law of the forward reaction. If $\ce{[SCN-_{(aq)}]}$ is increased, the forward rate will increase instantaneously with no corresponding increase in the rate of the reverse reaction. Since $rate_{\text{(forward)}} > rate_{\text{(reverse)}}$, the forward reaction takes over.
