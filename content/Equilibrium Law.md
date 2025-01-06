@@ -5,11 +5,12 @@ tags:
   - Unit-4
 aliases:
 ---
-$$k_{eq} = \frac{[\text{products}]}{\text{[reactants]}}$$
+the mathematical description of a chemical system at equilibrium 
+$$K_{eq} = \frac{[\text{products}]}{\text{[reactants]}}$$
 
 Example: $\ce{2A(g) + B(g) <=> 3C(s) + D(g)}$
-$$k_{eq} = \frac{[C]^3[D]}{[A]^2[B]}$$
-- The coefficients from the balanced chemical equation becomes the exponent of the concentration in the equilibrium law.
+$$K_{eq} = \frac{[C]^3[D]}{[A]^2[B]}$$
+- The coefficients from the balanced chemical equation become the exponents of the concentrations in the equilibrium law.
 
 ## Using it in practice
 The following equilibrium concentrations were obtained at 490 degrees
@@ -29,6 +30,7 @@ $$= \frac{(1.02 \ \mathrm{mol/L})^2}{(8.62 \times 10^{-2} \ \mathrm{mol/L})(2.63
 
 $$=45.9$$
 $K_{eq} = 45.9$ which means that there is 45.9x more product than reactant *at this temperature*.
+The value of $K_{eq}$ changes depending on the temperature, but is constant when changing concentrations.
 
 > [!IMPORTANT]
 > In this example, there is no unit because the mol/L cancel out. BUT there will never be one unit for the equilibrium constant.
@@ -102,6 +104,7 @@ K_{eq}' &= [CO_{2(g)}]
 \end{align*}
 $$
 
+**The concentration of pure solids or pure liquids cannot change.** 
 > [!NOTE] Title
 > Whenever dealing with heterogenous systems, always remove the solid and liquid concentrations
 > Concentration only work for aqueous and gases substances
