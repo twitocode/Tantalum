@@ -44,7 +44,7 @@ A change in the environmental conditions of a system ex. Adding heat
 #### Concentration Change
 ___
 $$\ce{Fe^{3+}_{(aq)} + SCN-_{(aq)} <=> FeSCN^{2+}_{(aq)}}$$
-How does increasing $\ce{[SCN-_{(aq)}]}$ affect the equilibrium
+How does increasing $\ce{[SCN-_{(aq)}]}$ affect equilibrium
 
 Single step mechanism:
 $\text{rate}_{\text{(forward)}} = k_1 \ce{[Fe^{3+}_{(aq)}] [SCN-_{(aq)}] }$
