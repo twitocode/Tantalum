@@ -10,6 +10,10 @@ aliases:
 ---
 The phenomenon that occurs when the rate of the forward reaction equals the rate of the reverse reaction. The concentration of all participants stays the same.
 
+![[Pasted image 20250106181048.png]]
+
+In this example, the colour of the substance remains constant after c because the system has reached equilibrium, even though forward and reverse reactions are taking place
+
 ![[unnamed.gif]]
 
 ![[Pasted image 20241231123955.png]]
