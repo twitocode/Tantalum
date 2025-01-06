@@ -32,6 +32,8 @@ $\ce{[H_{2}_{(g)}}]$ and $\ce{[I_{2}_{(g)}]}$ decrease as they react to produce 
 ![[Pasted image 20241231130037.png]]
 
 
+![[Pasted image 20250106181545.png]]
+In this example, the composition of the mixture is the same no matter which gas you start with
 # Stress
 A change in the environmental conditions of a system ex. Adding heat
 ## Le Chatelier's Principle
