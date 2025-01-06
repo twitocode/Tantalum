@@ -67,7 +67,7 @@ $$\ce{heat + H2(g) + I2(g) <=> 2HI(g)}$$
 ___
 ##### Example 1
 $$\ce{3H2(g) + N2(g) <=> 2NH3(g)}$$
-If the volume of the system decreases, the pressure will increase $P \propto  \frac{1}{V}$ (Boyle's Law). The system will try to move in a direction which will minimize pressure. To do this, the system will try to decrease the total number of particles. Since there are 4 particles on the left side (3 $\ce{H2}$ molecules & 1 $\ce{N2}$ molecule) and 2 particles on the right side (2 $\ce{NH3}$ molecules), the reaction will shift to the right.
+If the volume of the system decreases, the pressure will increase $P \propto  \frac{1}{V}$ (Boyle's Law). **The system will try to move in a direction which will minimize pressure. To do this, the system will try to decrease the total number of particles.** *Since there are 4 particles on the left side (3 $\ce{H2}$ molecules & 1 $\ce{N2}$ molecule) and 2 particles on the right side (2 $\ce{NH3}$ molecules), the reaction will shift to the right.*
 ##### Example 2
 $$\ce{H2(g) + I2(g) <=> 2HI(g)}$$
 In this case, the number of particles is the same on both sides of the equation (2 particles each). As a result, any increase or decrease in pressure will have no effect on the equilibrium however the concentrations of all participants will change.
