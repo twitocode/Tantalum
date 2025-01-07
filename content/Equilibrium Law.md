@@ -52,7 +52,8 @@ $$
 \end{align*}
 $$
 Therefore
-$$\begin{align*}
+$$
+\begin{align*}
 [\ce{H2_{(g)}}] &= [\ce{I2_{(g)}}] = 1.00 - 0.77 \\
 &= 0.23 \ \mathrm{mol/L}
 \end{align*}
@@ -62,7 +63,8 @@ $$
 \begin{align*}
 [\ce{HI_{(g)}}] &= 2(0.77) \\
 &= 1.54 \ \mathrm{mol/L}
-\end{align*}$$
+\end{align*}
+$$
 
 ## Significance of different $K_{eq}$ values
 $$\ce{A + B <=> C + D}$$ $$K_{eq} = \frac{[C][D]}{[A][B]}$$If $K_{eq}$​ is very large, **the equilibrium must lie far to the right since product concentrations must be greater than reactant concentrations** for the numerator to be greater than the denominator in the equilibrium law.
