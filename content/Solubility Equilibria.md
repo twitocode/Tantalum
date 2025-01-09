@@ -63,4 +63,6 @@ $$
 This will render the chemical formulas and equations correctly.
 
 # Common Ion Effect
-The phenomenon that occurs when
+The phenomenon that occurs when a salt tries to dissolve into a solution that has one or both of the ions in the salt.
+
+$$\ce{AgBr(s) + H2O(l) <=> Ag+(aq) + Br-(aq)}$$
