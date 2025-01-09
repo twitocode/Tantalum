@@ -24,4 +24,14 @@ $$K_{sp} = [\ce{K+(aq)}]^2[\ce{Cr2O7^2-(aq)}$$
    Equilibrium lies far to the left and prefers the reverse reaction.
 
 # Molar Solubility for **Salts**
-Salts are any ionic compound that doesn't contain $\ce{OH-}$ or $\ce{O^{2=}}$
+The amount of solute (salt) dissolved in 1.0L of its saturated solution
+
+> [!NOTE]
+> **Salts** are any ionic compound that doesn't contain $\ce{OH-}$ or $\ce{O^{2=}}$
+> 
+> Ex. $\ce{AgCl}$ and $\ce{PbI2}$
+
+
+
+
+
