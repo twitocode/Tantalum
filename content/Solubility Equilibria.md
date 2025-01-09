@@ -91,7 +91,7 @@ $$K_{sp} = [\ce{Ag+_{(aq)}}][\ce{Br-_{(aq)}}]$$
 $$5.4 \times 10^{-13} mol^2/L^2 = x^2$$
 $$7.4 \times 10^{-7} mol/L = x$$
 
-Therefore, the molar solubility in water is 7.4 x 10^-7 mol/L.
+Therefore, the molar solubility in water is $7.4 \times 10^{-7} mol/L$.
 
 **Recall:**
 
@@ -110,3 +110,15 @@ When trying to dissolve silver bromide in $\ce{NaBr}$ instead of water, let x re
 $$K_{sp} = [\ce{Ag+_{(aq)}}][\ce{Br-_{(aq)}}]$$
 $$5.4 \times 10^{-13} mol^2/L^2 = (x)(0.10 + x) mol/L$$
 
+> [!ERROR] Very Important
+> We are going to assume that $x$ is a very small number to where 
+> $$0.10 +x\approx 0.10$$ 
+> so we can assume that $x$ is 0
+
+$$
+\begin{align*}
+5.4 \times 10^{-13} mol^2/L^2 &= (x)(0.10) mol/L \\
+x &= 5.4 \times 10^{-12} mol/L
+\end{align*}
+$$
+Therefore, the molar solubility in water is $7.4 \times 10^{-7} mol/L$ where in $\ce{NaBr}$ is $x = 5.4 \times 10^{-12} mol/L$
