@@ -67,9 +67,45 @@ The phenomenon that occurs when a salt tries to dissolve into a solution that ha
 
 $$\ce{AgBr(s) + H2O(l) <=> Ag+(aq) + Br-(aq)}$$
 ![[Pasted image 20250109164144.png]]
-The $[\ce{Br-}]$ is greater compared to an aqueous environment (pure water). This makes it harder for $\ce{AgBr}$ to dissolve into it
-
+The $[\ce{Br-}]$ is greater compared to an aqueous environment (pure water). This makes it harder for $\ce{AgBr}$ to dissolve into it. The Bromine ions 
 ## Steps to Solve Common Ion Problems
 1. Find Molar Solubility in Water
 2. Find final concentration of solution with common ion
 3. Find molar solubility in the solution with the common ion
+
+## Example 1
+
+Compare the molar solubility of AgBr in pure water to a 0.10 mol/L solution of NaBr. Ksp of AgBr at 25°C is 5.4 x 10^-13 mol^2/L^2.
+
+**Solution:**
+
+Let x represent the molar solubility of AgBr in water.
+
+**Note:**
+
+$$AgBr(s) + H_2O \rightleftharpoons Ag^+(aq) + Br^-(aq)$$
+
+| Initial | 1x | 0 | 0 |
+|---|---|---|---|
+| Final | 0 | 1x | 1x |
+
+$$K_{sp} = [Ag^+][Br^-]$$
+$$5.4 \times 10^{-13} mol^2/L^2 = x^2$$
+$$7.4 \times 10^{-7} mol/L = x$$
+
+Therefore, the molar solubility in water is 7.4 x 10^-7 mol/L.
+
+**Recall:**
+
+$$H_2O(l) + NaBr(s) \rightarrow Na^+(aq) + Br^-(aq)$$
+
+| Initial | 0 mol/L | 0.10 mol/L | 0 mol/L | 0 mol/L |
+|---|---|---|---|---|
+| Final | 0 mol/L | 0 mol/L | 0.10 mol/L | 0.10 mol/L |
+
+* Since NaBr is extremely soluble in water according to solubility rules (grade 11), it is expected that this solid completely dissociates into ions. There is no eqbm. here!
+
+When trying to dissolve silver bromide in NaBr instead of water, let x represent the molar solubility of silver bromide.
+
+$$K_{sp} = [Ag^+][Br^-]$$
+$$5.4 \times 10^{-13} mol^2/L^2 = (x)(0.10 + x) mol/L$$
