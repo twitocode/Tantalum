@@ -6,3 +6,22 @@ tags:
 aliases:
   - Solubility Product
 ---
+When all of the solute in a solution is fully dissolved (fully saturated), the solution is in a state of heterogenous equilibrium. 
+
+$$
+K_{eq} = \frac{[\ce{K+(aq)}]^2[\ce{Cr2O7^2-(aq)}]}{[\ce{K2Cr2O7(s)}]}
+$$
+$$
+\ce{K2Cr2O7(s) <=> 2K+(aq) + Cr2O7^2-(aq)}
+$$In this example, $\ce{K2Cr2O7(s)}$ is the solid, and therefore has a constant concentration because this is a heterogenous equilibrium. 
+
+$$K_{sp} = [\ce{K+(aq)}]^2[\ce{Cr2O7^2-(aq)}$$
+**Solubility Product Constant:** This is the product of the solubilities of each ion in the solution.
+
+1. If it is very large
+   Equilibrium lies far to the right and prefers the forward reaction
+2. If it is very small
+   Equilibrium lies far to the left and prefers the reverse reaction.
+
+# Molar Solubility for **Salts**
+Salts are any ionic compound that doesn't contain $\ce{OH-}$ or $\ce{O^{2=}}$
