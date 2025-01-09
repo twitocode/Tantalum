@@ -75,18 +75,16 @@ The $[\ce{Br-}]$ is greater compared to an aqueous environment (pure water). Thi
 3. Find molar solubility in the solution with the common ion
 
 Compare the molar solubility of $\ce{AgBr}$ in pure water to a 0.10 mol/L solution of $\ce{NaBr}$. $K_{sp}$ of $\ce{AgBr}$ at 25°C is 5.4 x 10^-13 mol^2/L^2.
-
-**Solution:**
-
+![[Pasted image 20250109171323.png]]
 Let x represent the molar solubility of $\ce{AgBr}$ in water.
-
-**Note:**
 
 $$\ce{AgBr_{(s)}} + H2O <=> Ag+_{(aq)} + Br-_{(aq)}$$
 
-| Initial | 1x | 0 | 0 |
-|---|---|---|---|
-| Final | 0 | 1x | 1x |
+
+|         | $$\ce{AgBr_{(s)}}$$ | $$Ag+_{(aq)}$$ | $$Br-_{(aq)}$$ |
+| ------- | ------------------- | -------------- | -------------- |
+| Initial | 1x                  | 0              | 0              |
+| Final   | 0                   | 1x             | 1x             |
 
 $$K_{sp} = [\ce{Ag+_{(aq)}}][\ce{Br-_{(aq)}}]$$
 $$5.4 \times 10^{-13} mol^2/L^2 = x^2$$
@@ -98,9 +96,11 @@ Therefore, the molar solubility in water is 7.4 x 10^-7 mol/L.
 
 $$\ce{H2O_{(l)} + NaBr_{(s)} -> Na+_{(aq)} + Br-_{(aq)}}$$
 
-| Initial | 0 mol/L | 0.10 mol/L | 0 mol/L    | 0 mol/L    |
-| ------- | ------- | ---------- | ---------- | ---------- |
-| Final   | 0 mol/L | 0 mol/L    | 0.10 mol/L | 0.10 mol/L |
+
+|         | $\ce{NaBr_{(s)} }$ | $\ce{ Na+_{(aq)}}$ | $\ce{ Br-_{(aq)}}$ |
+| ------- | ------------------ | ------------------ | ------------------ |
+| Initial | 0.10 mol/L         | 0 mol/L            | 0 mol/L            |
+| Final   | 0 mol/L            | 0.10 mol/L         | 0.10 mol/L         |
 
 * Since $\ce{NaBr}$ is extremely soluble in water according to solubility rules (grade 11), it is expected that this solid completely dissociates into ions. There is no equilibrium. here!
 
