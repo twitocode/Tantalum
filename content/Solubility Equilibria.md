@@ -66,7 +66,7 @@ This will render the chemical formulas and equations correctly.
 The phenomenon that occurs when a salt tries to dissolve into a solution that has one or both of the ions in the salt.
 
 $$\ce{AgBr(s) + H2O(l) <=> Ag+(aq) + Br-(aq)}$$
-![[Pasted image 20250109164144.png]]
+![[Pasted image 20250109165754.png]]
 The $[\ce{Br-}]$ is greater compared to an aqueous environment (pure water). This makes it harder for $\ce{AgBr}$ to dissolve into it
 
 ## Steps to Solve Common Ion Problems
