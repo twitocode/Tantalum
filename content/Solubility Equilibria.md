@@ -46,7 +46,9 @@ $$\ce{PbI2 (s) <=> Pb^2+(aq) + 2I-(aq)}$$
 | --------------- | ----------------- | -------------- |
 | ↓x broken apart | ↑x created        | ↑2x created    |
 
-$$\begin{align*} K_{sp} &= [\ce{Pb^2+(aq)}][\ce{I-(aq)}]^2 \\ K_{sp} &= (x)(2x)^2 \\ K_{sp} &= 4x^3 \\ K_{sp} &= 8.5 \times 10^{-9} \ \mathrm{(mol/L)^3} \quad \text{(from table on page 802 in text)} \end{align*}$$
+$$
+\begin{align*} K_{sp} &= [\ce{Pb^2+(aq)}][\ce{I-(aq)}]^2 \\ K_{sp} &= (x)(2x)^2 \\ K_{sp} &= 4x^3 \\ K_{sp} &= 8.5 \times 10^{-9} \ \mathrm{(mol/L)^3} \quad \text{(from table on page 802 in text)} \end{align*}
+$$
 
 **therefore,**
 
