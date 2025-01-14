@@ -21,7 +21,7 @@ This curve gives all the possible combinations of concentrations that are likely
 ---
 
 ## Example 1
-**50.0 mL of both 0.100 mol/L \ce{Pb(NO3)2} and 0.015 mol/L \ce{KI} solutions are mixed together. A yellow precipitate forms. Determine the type of precipitate formed in a quantitative manner.**
+**50.0 mL of both $0.100 mol/L$ $\ce{Pb(NO3)2}$ and $0.015 mol/L$ $\ce{KI}$ solutions are mixed together. A yellow precipitate forms. Determine the type of precipitate formed in a quantitative manner.**
 
 ### Solution
 
@@ -31,7 +31,7 @@ $$
 \end{align*}
 $$
 
-After examining solubility rules, \ce{Pb(NO3)2} is likely to dissociate completely into ions:
+After examining solubility rules, $\ce{Pb(NO3)2}$ is likely to dissociate completely into ions:
 
 ### Amounts:
 
@@ -55,7 +55,7 @@ $$
 \end{align*}
 $$
 
-Similarly for \ce{KI}:
+Similarly for $\ce{KI}$:
 
 $$
 \begin{align*}
@@ -80,8 +80,8 @@ $$
 ---
 
 ## Possible Precipitates
-- According to solubility rules, \ce{KNO3} is not likely to form.
-- \ce{PbI2} is a possible precipitate resulting from the following equilibrium:
+- According to solubility rules, $\ce{KNO3}$ is not likely to form.
+- $\ce{PbI2}$ is a possible precipitate resulting from the following equilibrium:
 
 $$
 \begin{align*}
@@ -105,7 +105,7 @@ K_\text{sp} &= (0.05)(7.5 \times 10^{-3})^2 = 2.8 \times 10^{-6}\,\text{mol}^3/\
 \end{align*}
 $$
 
-From tables, \( K_\text{sp} = 8.5 \times 10^{-9} \). Since:
+From tables, $( K_\text{sp} = 8.5 \times 10^{-9})$. Since:
 
 $$
 \begin{align*}
@@ -118,11 +118,11 @@ A precipitate forms.
 ---
 
 ## Example 2
-**Should precipitation occur when 50.0 mL of 5.00 \times 10^{-4}\,\text{mol/L} \ce{Ca(NO3)2} solution is mixed with 50.0 mL of 2.00 \times 10^{-4}\,\text{mol/L} \ce{NaF} solution? The \( K_\text{sp} \) for \ce{CaF2} is \( 1.7 \times 10^{-10} \).**
+**Should precipitation occur when $50.0 mL$ of $5.00 \times 10^{-4} \text{mol/L}$ $\ce{Ca(NO3)2}$ solution is mixed with $50.0 mL$ of $2.00 \times 10^{-4}\,\text{mol/L}$ $\ce{NaF}$ solution? The  $K_\text{sp}$ for $\ce{CaF2}$ is $1.7 \times 10^{-10}$.**
 
 ### Solution
 
-From solubility rules, \ce{NaNO3} is not likely to precipitate. \ce{CaF2} is the potential precipitate:
+From solubility rules, $\ce{NaNO3}$ is not likely to precipitate. $\ce{CaF2}$ is the potential precipitate:
 
 $$
 \begin{align*}
@@ -144,7 +144,7 @@ $$
 \end{align*}
 $$
 
-Calculating \( K_\text{sp}: \)
+Calculating $K_\text{sp}$:
 
 $$
 \begin{align*}
