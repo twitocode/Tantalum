@@ -62,8 +62,6 @@ $$
 
 **Therefore the molar solubility of plumbous iodide is 1.3 x 10⁻³ mol/L.**
 
-This will render the chemical formulas and equations correctly.
-
 # Common Ion Effect
 The phenomenon that occurs when a salt tries to dissolve into a solution that has one or both of the ions in the salt.
 
