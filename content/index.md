@@ -1,6 +1,12 @@
 ---
 title: Tantalum OS
 ---
+# Goals
+- [ ] Complete Serene
+- [ ] Make an orbit simulation with OpenGL and C++
+- [ ] Get into my dream universities
+- [ ] Get good midterm marks
+- [ ] Get Good study music
 # Making Math Notes
 Graphs, Triangles, matrices: https://www.mathcha.io/editor
 Image to Latex: https://simpletex.cn/ai/latex_ocr
