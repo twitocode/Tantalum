@@ -1,7 +1,3 @@
-Got it! Here’s a **45-second acceptance speech** tailored for the **John C. Holland STEM Scholarship:**
-
----
-
 **"Good evening, everyone.**
 
 I am truly honored to receive the **John C. Holland STEM Scholarship.** Thank you to the **Hamilton Black History Council** and the incredible community that makes this event possible.
