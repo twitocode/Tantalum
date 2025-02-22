@@ -1,4 +1,4 @@
-**"Good evening, everyone.**
+**Good evening, everyone.**
 
 I am truly honored to receive the **John C. Holland STEM Scholarship.** Thank you to the **Hamilton Black History Council** and the incredible community that makes this event possible.
 
@@ -8,8 +8,4 @@ Reverend John C. Holland’s legacy teaches us to break barriers and lift others
 
 I am excited for what’s ahead, and I promise to make the most of this opportunity.
 
-**Thank you!**"
-
----
-
-This keeps it **under 45 seconds** while being impactful. Would you like any personal touches added?
+**Thank you!**
