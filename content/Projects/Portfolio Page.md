@@ -9,3 +9,7 @@ https://chanhdai.com/
 
 https://availchet.github.io/about
 https://kaisermann.me/
+https://coleruche.com/ carousel 
+https://coleruche.com/
+https://www.thedanielmark.com/
+https://www.welcomedeveloper.com/
