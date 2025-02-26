@@ -13,3 +13,4 @@ https://coleruche.com/ carousel
 https://coleruche.com/
 https://www.thedanielmark.com/
 https://www.welcomedeveloper.com/
+https://dev-jadiya.web.app/ terminal style
