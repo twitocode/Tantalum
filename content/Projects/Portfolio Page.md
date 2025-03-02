@@ -14,3 +14,15 @@ https://coleruche.com/
 https://www.thedanielmark.com/
 https://www.welcomedeveloper.com/
 https://dev-jadiya.web.app/ terminal style
+
+![[Pasted image 20250302174527.png]]
+But as a carousel 
+
+![[Pasted image 20250302174611.png]]
+![[Pasted image 20250302174620.png]]
+![[Pasted image 20250302174626.png]]
+![[Pasted image 20250302174706.png]]
+![[Pasted image 20250302174720.png]]
+On mouse over the colour changes
+![[Pasted image 20250302174757.png]]
+![[Pasted image 20250302174812.png]]
