@@ -96,11 +96,7 @@ In February 2001, two teams of scientists reported that they saw new evidence th
 
 NASA in March 2002 made public the first images received from the Mars Odyssey, an unmanned spacecraft orbiting Mars since October 2001. The photographs were the most detailed images of Mars that had yet been captured. Scientists also said that Odyssey had detected the likely presence of frozen water over a large area of southern Mars, bolstering previous findings.
 
-In 2003, NASA's Mars program proceeded apace with the launch of Spirit and Opportunity in June and July, respectively. The robots, called Mars Exploration Rovers, were to land in two locations believed to have been covered with water in the
-
----
-
-# past, to determine whether water had been there long enough to support the emergence of life forms.
+In 2003, NASA's Mars program proceeded apace with the launch of Spirit and Opportunity in June and July, respectively. The robots, called Mars Exploration Rovers, were to land in two locations believed to have been covered with water in the past, to determine whether water had been there long enough to support the emergence of life forms.
 
 Getty Images
 
@@ -114,11 +110,8 @@ Following the Spirit's landing, Bush unveiled a new plan to return Americans to 
 
 "Today we set a new course for America's space program," Bush announced in a speech at NASA headquarters in Washington, D.C. "We will give NASA a new focus and vision for future exploration. We will build new ships to carry man forward into the universe, to gain a new foothold on the moon and to prepare for new journeys to the worlds beyond our own." [See 2004 Excerpts from President Bush's Speech on His New Vision for the Space Program (sidebar)]
 
-While Bush did not set a date for a Mars mission, sources within the administration say that the earliest date for such a journey would be 2030. The president proposed spending $12 billion over the next five years for the program. Some $1 billion of that would come from a hike in NASA's budget, while the rest would come from reallocating funds from other programs within the agency's $86 billion budget. According to the administration, NASA's overall budget would stay at about 1% of the federal budget. However, some in Congress questioned whether the figures laid out by Bush would be sufficient to fund the venture.
-
----
-
-# surface. Despite the setback, scientists said that Spirit might resume normal operations within two to three weeks.
+While Bush did not set a date for a Mars mission, sources within the administration say that the earliest date for such a journey would be 2030. The president proposed spending $12 billion over the next five years for the program. Some $1 billion of that would come from a hike in NASA's budget, while the rest would come from reallocating funds from other programs within the agency's $86 billion budget. According to the administration, NASA's overall budget would stay at about 1% of the federal budget. However, some in Congress questioned whether the figures laid out by Bush would be sufficient to fund the venture. Meanwhile, Opportunity landed on Mars in late January. The rover sent back dazzling photographs of the planet's surface,
+including images of bedrock that one geologist called "a scientific jackpot." The second rover arrived as NASA controllers sought to fix the Spirit, which had suffered some malfunctions days after it first rolled out onto the Martian surface. Despite the setback, scientists said that Spirit might resume normal operations within two to three weeks.
 
 ### Supporters Argue
 
