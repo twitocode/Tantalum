@@ -27,4 +27,4 @@ aliases:
 16. ~~Roman Missal~~
 17. St. Paul
 18. ~~Sensus Fidei (Top of page 3 of booklet 1)~~
-19. Vatican II
+19. ~~Vatican II~~
