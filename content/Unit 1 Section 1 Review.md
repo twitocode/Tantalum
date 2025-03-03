@@ -8,9 +8,9 @@ aliases:
 2. Liturgical Year 
 	1. Colours
 3. Literary Genres
-4. Relationship Disrupted by the Fall from Grace
-5. Jewish Groups
-6. Key Law for the New Church
+4. ~~Relationship Disrupted by the Fall from Grace~~
+5. ~~Jewish Groups~~
+6. ~~Key Law for the New Church~~
 7. ~~Three Spiritual Senses of Scripture~~
 8. Constantine and His Conversion
 	1. Number of Books in Various Bible Canons
