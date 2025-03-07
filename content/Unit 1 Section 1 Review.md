@@ -12,7 +12,7 @@ aliases:
 5. ~~Jewish Groups~~
 6. ~~Key Law for the New Church~~
 7. ~~Three Spiritual Senses of Scripture~~
-8. Constantine and His Conversion
+8. ~~Constantine and His Conversion~~
 	1. ~~Number of Books in Various Bible Canons~~
 9. ~~God Reveals Himself Because He…~~
 10. Protestant Reformation
