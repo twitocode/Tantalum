@@ -21,6 +21,7 @@ Analyze the author's use of sensory details, figurative language, and symbolism 
 imagery. Discuss how descriptive passages enhance the reader's immersion in the story and
 contribute to the atmosphere.
 
-| Descriptive  Element | Evidence | Explanation & Analysis |
-| -------------------- | -------- | ---------------------- |
-| d                    | Page 0   |                        |
+| Descriptive  Element | Evidence              | Explanation & Analysis |
+| -------------------- | --------------------- | ---------------------- |
+| d                    | Page 0                |                        |
+|                      | Page 2 first paragrph |                        |
