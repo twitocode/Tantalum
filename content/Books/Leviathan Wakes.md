@@ -11,9 +11,9 @@ Read your novel attentively, taking note of instances where narrative and descri
 Select specific passages that showcase narrative techniques such as parts of a story (exposition, conflict, climax) point of view, characters, dialogue or theme. Discuss their significance in shaping the story.
 
 
-| Narrative  Element | Evidence | Explanation & Analysis |
-| ------------------ | -------- | ---------------------- |
-|                    |          |                        |
+| Narrative  Element | Evidence           | Explanation & Analysis |
+| ------------------ | ------------------ | ---------------------- |
+| Character          | Page 2 Paragraph 2 |                        |
 
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
