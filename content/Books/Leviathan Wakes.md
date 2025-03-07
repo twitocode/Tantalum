@@ -1,4 +1,6 @@
 ---
-banner: "[[glow_shortys_header_expanse-1.png]]"
+banner: "[[theexpanse_gallery_109funfact_09.png]]"
+author: James S.A. Corey
+Pages: "561"
 ---
 
