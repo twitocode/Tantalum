@@ -36,9 +36,9 @@ A Horizontal Rule
 ![This is an image]("https://tr.rbxcdn.com/dd30286e6c542e948ee400860deecee0/768/432/Image/Png")
 
 
-| How | About | a | table? |
-| ----|-------|---|--------|
-|asdasd|asdas|dadss|dasd|
+| How    | About | a     | table? |
+| ------ | ----- | ----- | ------ |
+| asdasd | asdas | dadss | dasd   |
 
 This is a foodnote [^footnote replace with number]
 
