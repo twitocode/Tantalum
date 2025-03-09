@@ -1,8 +1,7 @@
 ---
 CreatedAt: 2024-06-11
 MOC: "[[HRT3M1 MOC]]"
-tags:
-  - Book
+tags: []
 aliases:
   - Tripitaka
   - Sutras

@@ -6,3 +6,8 @@ banner-x: 98
 banner-y: 1
 ---
 
+## Books
+```dataview
+LIST
+FROM #Book 
+```
