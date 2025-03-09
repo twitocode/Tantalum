@@ -11,3 +11,10 @@ banner-y: 1
 LIST
 FROM #Book 
 ```
+
+## Daily Notes
+```dataview
+LIST
+FROM #DailyNote 
+LIMIT 10
+```
