@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"36296ca78249ebcc","type":"text","text":"# Backend\n\n## Requirements\n- No advanced CQRS Methods\n- Monolithic\n- Authentication\n    - OAuth2 Login\n    - Email & Password\n## Stack\n- ASP.net Core\n- xUnit\n- PostgreSQL\n- Entity Framework Core\n- Redis Caching","x":-1200,"y":240,"width":445,"height":520,"color":"2"},
+		{"id":"b1d55dd20488dca1","type":"text","text":"# Frontend\n","x":-1130,"y":-405,"width":250,"height":450,"color":"1"},
+		{"id":"88e1be4e630ca790","type":"text","text":"# Summary\n","x":-580,"y":240,"width":810,"height":200,"color":"#ffffff"},
+		{"id":"b29f912130daea9f","type":"text","text":"# Serene","x":-360,"y":-280,"width":250,"height":60},
+		{"id":"16be5ccb54693f2f","type":"text","text":"# Goals (MVP)\nJournaling\n\t- See which days an entry has been made\n- Password lock so that only you can see your data\n- Profile\n\t- Username & email\n- Relaxing sound player\n- Mood Check-in\n\t- Moods\n\t    - good, meh, bad, awful\n\t    - slider with each mood being a point\n\t- Quick note\n\t- what you’ve been up to\n\t    - select\n\t        - gaming, reading, movies, sports, relax, family, friends, love, party, good sleep, bad sleep, eating healthy, fast food, homemade, delivery, no sweets, soda, or meat, exercise, drink water, walking, meditation, kindness, cleaning, cooking, clouds, rain, snow, heat, sunny, windy, storm\n\t- Daily Affirmations\n\t\t- Categories\n\t    - Stress & anxiety\n\t    - think positive\n\t    - heartbreak\n\t    - relationships\n\t    - motivation\n\t    - self care\n\t    - confidence\n\t    - body positivity\n\t    - school","x":420,"y":-540,"width":540,"height":880,"color":"3"}
+	],
+	"edges":[
+		{"id":"00a5d70851f3e65c","fromNode":"b29f912130daea9f","fromSide":"left","toNode":"b1d55dd20488dca1","toSide":"right"},
+		{"id":"61108330b60c18b1","fromNode":"b29f912130daea9f","fromSide":"left","toNode":"36296ca78249ebcc","toSide":"right"},
+		{"id":"851e08e1367890db","fromNode":"b29f912130daea9f","fromSide":"bottom","toNode":"88e1be4e630ca790","toSide":"top"},
+		{"id":"d448636cdf92e4b6","fromNode":"b29f912130daea9f","fromSide":"right","toNode":"16be5ccb54693f2f","toSide":"left"}
+	]
+}
