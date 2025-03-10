@@ -19,9 +19,3 @@ FROM "Daily Notes"
 SORT file.ctime DESC
 LIMIT 10
 ```
-
-
-```todoist
-filter: "today | overdue"
-````
-
