@@ -15,6 +15,7 @@ FROM #Book
 ## Daily Notes
 ```dataview
 LIST
-FROM #DailyNote 
+FROM "Daily Notes"
+SORT file.ctime DESC
 LIMIT 10
 ```
