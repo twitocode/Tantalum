@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"73e363334f790dba","type":"group","x":-1720,"y":-1240,"width":800,"height":586,"label":"Design Ideas"},
-		{"id":"36296ca78249ebcc","type":"text","text":"# Backend\n\n## Requirements\n- No advanced CQRS Methods\n- Monolithic\n- Authentication\n    - OAuth2 Login\n    - Email & Password\n## Stack\n- ASP.net Core\n- xUnit\n- PostgreSQL\n- Entity Framework Core\n- Redis Caching","x":-1200,"y":240,"width":445,"height":520,"color":"2"},
+		{"id":"36296ca78249ebcc","type":"text","text":"# Backend\n\n## Requirements\n- No advanced CQRS Methods\n- Monolithic\n- Authentication\n    - JWT\n    - OAuth2 Login\n    - Email & Password\n## Stack\n- ASP.net Core\n- xUnit\n- PostgreSQL\n- Entity Framework Core\n- Redis\n- Serilog\n\t- Some kind of monitoring tool?? ==overkill==\n- ","x":-1200,"y":240,"width":445,"height":520,"color":"2"},
 		{"id":"b29f912130daea9f","type":"text","text":"# Serene","x":-360,"y":-280,"width":250,"height":60},
 		{"id":"88e1be4e630ca790","type":"text","text":"# Summary\n","x":-515,"y":-55,"width":810,"height":200,"color":"#ffffff"},
 		{"id":"7522ef134cb90636","type":"file","file":"Assets/Pasted image 20241020120657.png","x":-1720,"y":-929,"width":400,"height":275},
