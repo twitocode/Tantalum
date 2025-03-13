@@ -1,6 +1,7 @@
 {
 	"nodes":[
 		{"id":"73e363334f790dba","type":"group","x":-3200,"y":-2200,"width":2280,"height":1526,"label":"Design Ideas"},
+		{"id":"3e240f90f510a62d","x":-2440,"y":-1505,"width":400,"height":400,"type":"link","url":"https://dribbble.com/shots/25248027-Equilibrium-AI-Mental-Health-Wellness-App"},
 		{"id":"b1d55dd20488dca1","type":"text","text":"# Frontend\n- Svelte\n- shadcn-svelte \n\t- mixed with a little bit of daisy-ui when needed\n- TailwindCSS\n- classnames for components?\n- Tanstack Query???\n- unplugin-icons\n- Superforms or Formsnap??\n- Neodrag - dragging items\n- localization??? **later**","x":-1200,"y":-580,"width":470,"height":450,"color":"1"},
 		{"id":"7522ef134cb90636","type":"file","file":"Assets/Pasted image 20241020120657.png","x":-1720,"y":-949,"width":400,"height":275},
 		{"id":"ef6ebb7fb8abbaf1","type":"file","file":"Assets/Pasted image 20241020120324.png","x":-1320,"y":-997,"width":400,"height":302},
