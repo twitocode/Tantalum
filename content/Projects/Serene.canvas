@@ -6,7 +6,6 @@
 		{"id":"ef6ebb7fb8abbaf1","type":"file","file":"Assets/Pasted image 20241020120324.png","x":-1320,"y":-997,"width":400,"height":302},
 		{"id":"2d01c4d9ff8569bd","type":"file","file":"Assets/Pasted image 20241020120623.png","x":-1320,"y":-1260,"width":400,"height":263},
 		{"id":"06fa8939dcba2412","type":"file","file":"Assets/Pasted image 20241020120303.png","x":-1720,"y":-1240,"width":375,"height":291},
-		{"id":"5432c4d7624e984b","type":"file","file":"Assets/Pasted image 20250310214049.png","x":-2320,"y":-1331,"width":480,"height":583},
 		{"id":"6a5b5eb144ce34e1","type":"file","file":"Assets/Pasted image 20250310213815.png","x":-1400,"y":-1957,"width":400,"height":312},
 		{"id":"0e644ae5a8fb2610","type":"file","file":"Assets/Pasted image 20250310213827.png","x":-1400,"y":-1645,"width":399,"height":314},
 		{"id":"3f2d63b0cca0a4db","type":"file","file":"Assets/Pasted image 20250310221357.png","x":-2140,"y":-1858,"width":680,"height":427},
@@ -15,7 +14,9 @@
 		{"id":"379c32c31b6e4861","type":"file","file":"Assets/Pasted image 20250311113600.png","x":-110,"y":80,"width":400,"height":251},
 		{"id":"88e1be4e630ca790","type":"text","text":"# Summary\nLogin page should be different from signup page","x":-515,"y":-55,"width":810,"height":555,"color":"#ffffff"},
 		{"id":"36296ca78249ebcc","type":"text","text":"# Backend\n\n## Requirements\n- No advanced CQRS Methods\n- Monolithic\n- Authentication\n    - JWT\n    - OAuth2 Login\n    - Email & Password\n## Stack\n- ASP.net Core\n- xUnit ==later==\n- PostgreSQL\n- Entity Framework Core\n- Redis ==not needed for now==\n- Serilog\n\t- Some kind of monitoring tool?? ==overkill==\n- ","x":-1187,"y":-55,"width":445,"height":520,"color":"2"},
-		{"id":"436d8bae29753141","type":"file","file":"Assets/Pasted image 20250311113547.png","x":-510,"y":80,"width":400,"height":251}
+		{"id":"436d8bae29753141","type":"file","file":"Assets/Pasted image 20250311113547.png","x":-510,"y":80,"width":400,"height":251},
+		{"id":"5432c4d7624e984b","type":"file","file":"Assets/Pasted image 20250310214049.png","x":-2220,"y":-1280,"width":480,"height":583},
+		{"id":"3c6d989b00e2df4a","x":-2660,"y":-971,"width":400,"height":274,"type":"file","file":"Assets/original-cacd3f2c3569177cc43b33f037d78a3d.webp"}
 	],
 	"edges":[
 		{"id":"00a5d70851f3e65c","fromNode":"b29f912130daea9f","fromSide":"left","toNode":"b1d55dd20488dca1","toSide":"right"},
