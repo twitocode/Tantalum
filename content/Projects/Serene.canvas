@@ -16,9 +16,14 @@
 		{"id":"36296ca78249ebcc","type":"text","text":"# Backend\n\n## Requirements\n- No advanced CQRS Methods\n- Monolithic\n- Authentication\n    - JWT\n    - OAuth2 Login\n    - Email & Password\n## Stack\n- ASP.net Core\n- xUnit ==later==\n- PostgreSQL\n- Entity Framework Core\n- Redis ==not needed for now==\n- Serilog\n\t- Some kind of monitoring tool?? ==overkill==\n- ","x":-1187,"y":-55,"width":445,"height":520,"color":"2"},
 		{"id":"436d8bae29753141","type":"file","file":"Assets/Pasted image 20250311113547.png","x":-510,"y":80,"width":400,"height":251},
 		{"id":"5432c4d7624e984b","type":"file","file":"Assets/Pasted image 20250310214049.png","x":-2220,"y":-1280,"width":480,"height":583},
-		{"id":"3c6d989b00e2df4a","x":-2660,"y":-971,"width":400,"height":274,"type":"file","file":"Assets/original-cacd3f2c3569177cc43b33f037d78a3d.webp"},
-		{"id":"0d9579b0da9b77fd","x":-3060,"y":-984,"width":400,"height":300,"type":"file","file":"Assets/original-e96945c1fd3d3f7eb8b487eed9ffbbd6.webp"},
-		{"id":"6db4bfe1b2998f05","x":-3200,"y":-1284,"width":400,"height":300,"type":"file","file":"Assets/original-7de62f98f4b2a867ff539ea0355a07cb.webp"}
+		{"id":"6db4bfe1b2998f05","x":-3200,"y":-1284,"width":400,"height":300,"type":"file","file":"Assets/original-7de62f98f4b2a867ff539ea0355a07cb.webp"},
+		{"id":"e14b085517a84034","x":-2800,"y":-1284,"width":400,"height":300,"type":"file","file":"Assets/original-7b837f0a63a6bced72fab48863f9f16b.webp"},
+		{"id":"0e251dcfc26c8164","x":-3200,"y":-1600,"width":400,"height":300,"type":"file","file":"Assets/original-71f12c93c610f5c59f37eeaa4d8a7d76.webp"},
+		{"id":"abd3a056a79cf9b6","x":-2800,"y":-1600,"width":400,"height":300,"type":"file","file":"Assets/original-39fbe4bc367f94f7773dfcd79d775066.webp"},
+		{"id":"804dd72d54148501","x":-3200,"y":-1900,"width":400,"height":300,"type":"file","file":"Assets/original-9fe0b265291b34a16419b19f920c48d1.webp"},
+		{"id":"21f5d3105b5f70ae","x":-2800,"y":-1900,"width":400,"height":300,"type":"file","file":"Assets/original-2360e0433d44a7327674dfd6d9952062.webp"},
+		{"id":"0d9579b0da9b77fd","x":-3200,"y":-984,"width":400,"height":300,"type":"file","file":"Assets/original-e96945c1fd3d3f7eb8b487eed9ffbbd6.webp"},
+		{"id":"3c6d989b00e2df4a","x":-2800,"y":-984,"width":438,"height":300,"type":"file","file":"Assets/original-cacd3f2c3569177cc43b33f037d78a3d.webp"}
 	],
 	"edges":[
 		{"id":"00a5d70851f3e65c","fromNode":"b29f912130daea9f","fromSide":"left","toNode":"b1d55dd20488dca1","toSide":"right"},
