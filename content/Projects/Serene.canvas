@@ -9,9 +9,8 @@
 		{"id":"b29f912130daea9f","type":"text","text":"# Serene","x":-360,"y":-280,"width":250,"height":60},
 		{"id":"16be5ccb54693f2f","type":"text","text":"# Goals (MVP)\nJournaling\n\t- See which days an entry has been made\n- Password lock so that only you can see your data\n- Profile\n\t- Username & email\n- Relaxing sound player\n- Guided Check-ins\n\t- What is one thing you’re grateful for today\n- Breathing Exercises\n- Suggested Articles based on user preferences?\n- Self-Help Library (Wiki)\n- Chatbot for help???? ==maybe not==\n- Daily Affirmations\n\t- Categories\n\t\t- Stress & anxiety\n\t\t- think positive\n\t\t- heartbreak\n\t\t- relationships\n\t\t- motivation\n\t\t- self care\n\t\t- confidence\n\t\t- body positivity\n\t\t- school\n- Mood Check-in  - notifications too \n\t- Notifications\n\t- Moods\n\t    - good, meh, bad, awful\n\t    - slider with each mood being a point\n\t- Quick note\n\t- what you’ve been up to\n\t    - select\n\t        - gaming, reading, movies, sports, relax, family, friends, love, party, good sleep, bad sleep, eating healthy, fast food, homemade, delivery, no sweets, soda, or meat, exercise, drink water, walking, meditation, kindness, cleaning, cooking, clouds, rain, snow, heat, sunny, windy, store\n- https://dribbble.com/shots/25248027-Equilibrium-AI-Mental-Health-Wellness-App![[original-a8d72be39a7aac14ccdc59a9eb4c21bb.webp]]","x":380,"y":-850,"width":880,"height":1200,"color":"3"},
 		{"id":"379c32c31b6e4861","type":"file","file":"Assets/Pasted image 20250311113600.png","x":-110,"y":80,"width":400,"height":251},
-		{"id":"88e1be4e630ca790","type":"text","text":"# Summary\nLogin page should be different from signup page","x":-515,"y":-55,"width":810,"height":555,"color":"#ffffff"},
+		{"id":"88e1be4e630ca790","type":"text","text":"# Summary\nLogin page should be different from signup page\nhttps://apps.apple.com/us/app/journal-mental-health-stoic/id1312926037 - this app is a really good example\n","x":-515,"y":-55,"width":810,"height":555,"color":"#ffffff"},
 		{"id":"36296ca78249ebcc","type":"text","text":"# Backend\n\n## Requirements\n- No advanced CQRS Methods\n- Monolithic\n- Authentication\n    - JWT\n    - OAuth2 Login\n    - Email & Password\n## Stack\n- ASP.net Core\n- xUnit ==later==\n- PostgreSQL\n- Entity Framework Core\n- Redis ==not needed for now==\n- Serilog\n\t- Some kind of monitoring tool?? ==overkill==\n- ","x":-1187,"y":-55,"width":445,"height":520,"color":"2"},
-		{"id":"436d8bae29753141","type":"file","file":"Assets/Pasted image 20250311113547.png","x":-510,"y":80,"width":400,"height":251},
 		{"id":"6db4bfe1b2998f05","type":"file","file":"Assets/original-7de62f98f4b2a867ff539ea0355a07cb.webp","x":-3200,"y":-1284,"width":400,"height":300},
 		{"id":"e14b085517a84034","type":"file","file":"Assets/original-7b837f0a63a6bced72fab48863f9f16b.webp","x":-2800,"y":-1284,"width":400,"height":300},
 		{"id":"0e251dcfc26c8164","type":"file","file":"Assets/original-71f12c93c610f5c59f37eeaa4d8a7d76.webp","x":-3200,"y":-1600,"width":400,"height":300},
@@ -29,7 +28,8 @@
 		{"id":"eb9fdc73545c922f","type":"file","file":"Assets/Pasted image 20250313191517.png","x":-2400,"y":-2195,"width":400,"height":291},
 		{"id":"c3c503d697c3df71","x":-2400,"y":-1900,"width":400,"height":300,"type":"file","file":"Assets/original-a8d72be39a7aac14ccdc59a9eb4c21bb 1.webp"},
 		{"id":"82c9bb0c4c2b15aa","x":-2400,"y":-1600,"width":400,"height":300,"type":"file","file":"Assets/original-86e51779b90de0ee5b28608306823d9e.webp"},
-		{"id":"297179415e0a201f","x":-2000,"y":-2195,"width":388,"height":291,"type":"file","file":"Assets/original-2f5e0a0850654656f3898bc98b64c99c.webp"}
+		{"id":"297179415e0a201f","x":-2000,"y":-2195,"width":388,"height":291,"type":"file","file":"Assets/original-2f5e0a0850654656f3898bc98b64c99c.webp"},
+		{"id":"436d8bae29753141","type":"file","file":"Assets/Pasted image 20250311113547.png","x":-510,"y":180,"width":400,"height":251}
 	],
 	"edges":[
 		{"id":"00a5d70851f3e65c","fromNode":"b29f912130daea9f","fromSide":"left","toNode":"b1d55dd20488dca1","toSide":"right"},
