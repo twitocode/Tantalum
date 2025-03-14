@@ -34,7 +34,9 @@
 		{"id":"9ad9343a2ed493f6","type":"file","file":"Assets/Pasted image 20250314183454.png","x":-1200,"y":-1740,"width":400,"height":275},
 		{"id":"c3be7f3bdaa5974a","type":"file","file":"Assets/Pasted image 20250314183521.png","x":-1200,"y":-1465,"width":400,"height":275},
 		{"id":"e6802dc6d03411ef","type":"file","file":"Assets/Pasted image 20250314183540.png","x":-1200,"y":-1185,"width":400,"height":275},
-		{"id":"36af33fcf21a75e7","type":"file","file":"Assets/Pasted image 20250314183340.png","x":-1600,"y":-1740,"width":400,"height":275}
+		{"id":"36af33fcf21a75e7","type":"file","file":"Assets/Pasted image 20250314183340.png","x":-1600,"y":-1740,"width":400,"height":275},
+		{"id":"b9ab300bdc33fee6","x":-658,"y":-2825,"width":538,"height":2316,"type":"file","file":"Assets/Pasted image 20250314191902.png"},
+		{"id":"e867b30e0416e770","x":-110,"y":-2825,"width":642,"height":403,"type":"file","file":"Assets/Pasted image 20250314191944.png"}
 	],
 	"edges":[
 		{"id":"00a5d70851f3e65c","fromNode":"b29f912130daea9f","fromSide":"left","toNode":"b1d55dd20488dca1","toSide":"right"},
