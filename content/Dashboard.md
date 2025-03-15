@@ -5,7 +5,14 @@ banner-display: cover
 banner-x: 98
 banner-y: 1
 ---
+## Gaming
+1. Doom
+2. Skyrim
 
+### Flex
+- Warframe
+- Stellaris
+- Marvel Rivals
 ## Books
 ```dataview
 LIST
