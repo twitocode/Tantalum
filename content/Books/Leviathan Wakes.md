@@ -22,6 +22,7 @@ Select specific passages that showcase narrative techniques such as parts of a s
 |                    | 9.3       |                                            |
 |                    | 9.7       |                                            |
 |                    | 10.3      | Belters don't like inners (earth and mars) |
+|                    | 14        | morals & holden                            |
 
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
