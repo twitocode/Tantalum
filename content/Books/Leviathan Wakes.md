@@ -13,15 +13,15 @@ Read your novel attentively, taking note of instances where narrative and descri
 Select specific passages that showcase narrative techniques such as parts of a story (exposition, conflict, climax) point of view, characters, dialogue or theme. Discuss their significance in shaping the story.
 
 
-| Narrative  Element | Evidence  | Explanation & Analysis |
-| ------------------ | --------- | ---------------------- |
-| Character          | 2.2       |                        |
-|                    | 7.1       |                        |
-|                    | 7.2 - 8.1 |                        |
-|                    | 8.2       |                        |
-|                    | 9.3       |                        |
-|                    | 9.7       |                        |
-|                    |           |                        |
+| Narrative  Element | Evidence  | Explanation & Analysis                     |
+| ------------------ | --------- | ------------------------------------------ |
+| Character          | 2.2       |                                            |
+|                    | 7.1       |                                            |
+|                    | 7.2 - 8.1 |                                            |
+|                    | 8.2       |                                            |
+|                    | 9.3       |                                            |
+|                    | 9.7       |                                            |
+|                    | 10.3      | Belters don't like inners (earth and mars) |
 
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
