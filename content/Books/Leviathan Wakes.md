@@ -30,7 +30,7 @@ Select specific passages that showcase narrative techniques such as parts of a s
 |                    | 21-22                                           | OPA                                                                                      |
 |                    | 24.big paragraph                                |                                                                                          |
 |                    | 25.2                                            | Fake like in space                                                                       |
-|                    |                                                 |                                                                                          |
+|                    | 26                                              | relatedness                                                                              |
 
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
@@ -38,10 +38,11 @@ Analyze the author's use of sensory details, figurative language, and symbolism 
 imagery. Discuss how descriptive passages enhance the reader's immersion in the story and
 contribute to the atmosphere.
 
-| Descriptive  Element | Evidence | Explanation & Analysis |
-| -------------------- | -------- | ---------------------- |
-| d                    | 0        |                        |
-|                      | 2.1      |                        |
-|                      | 6.2      |                        |
-|                      | 18.2     |                        |
-|                      | 25.3     |                        |
+| Descriptive  Element | Evidence       | Explanation & Analysis |
+| -------------------- | -------------- | ---------------------- |
+| d                    | 0              |                        |
+|                      | 2.1            |                        |
+|                      | 6.2            |                        |
+|                      | 18.2           |                        |
+|                      | 25.3           |                        |
+|                      | 26.second last |                        |
