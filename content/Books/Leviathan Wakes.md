@@ -28,6 +28,8 @@ Select specific passages that showcase narrative techniques such as parts of a s
 |                    | 19.last 2                                       |                                                                                          |
 |                    | 21.1                                            | Prejudice against people not from where you live<br>Belters -> Inners, Inners -> Belters |
 |                    | 21-22                                           | OPA                                                                                      |
+|                    | 24.big paragraph                                |                                                                                          |
+|                    | p.25                                            |                                                                                          |
 
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
