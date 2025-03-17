@@ -24,6 +24,8 @@ Select specific passages that showcase narrative techniques such as parts of a s
 |                    | 10.3                                            | Belters don't like inners (earth and mars)                      |
 |                    | 14                                              | morals & holden                                                 |
 |                    | Julie/Holden/Miller<br>1         2            3 | The author swaps back and forth between envrionments/characters |
+|                    | 18.last                                         |                                                                 |
+|                    | 19.last 2                                       |                                                                 |
 
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
@@ -37,3 +39,4 @@ contribute to the atmosphere.
 |                      | 2.1      |                        |
 |                      | 6.2      |                        |
 |                      | 18.2     |                        |
+|                      |          |                        |
