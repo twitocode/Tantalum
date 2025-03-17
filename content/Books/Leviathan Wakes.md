@@ -13,9 +13,15 @@ Read your novel attentively, taking note of instances where narrative and descri
 Select specific passages that showcase narrative techniques such as parts of a story (exposition, conflict, climax) point of view, characters, dialogue or theme. Discuss their significance in shaping the story.
 
 
-| Narrative  Element | Evidence           | Explanation & Analysis |
-| ------------------ | ------------------ | ---------------------- |
-| Character          | Page 2 Paragraph 2 |                        |
+| Narrative  Element | Evidence  | Explanation & Analysis |
+| ------------------ | --------- | ---------------------- |
+| Character          | 2.2       |                        |
+|                    | 7.1       |                        |
+|                    | 7.2 - 8.1 |                        |
+|                    | 8.2       |                        |
+|                    | 9.3       |                        |
+|                    | 9.7       |                        |
+|                    |           |                        |
 
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
@@ -23,7 +29,9 @@ Analyze the author's use of sensory details, figurative language, and symbolism 
 imagery. Discuss how descriptive passages enhance the reader's immersion in the story and
 contribute to the atmosphere.
 
-| Descriptive  Element | Evidence              | Explanation & Analysis |
-| -------------------- | --------------------- | ---------------------- |
-| d                    | Page 0                |                        |
-|                      | Page 2 first paragrph |                        |
+| Descriptive  Element | Evidence | Explanation & Analysis |
+| -------------------- | -------- | ---------------------- |
+| d                    | 0        |                        |
+|                      | 2.1      |                        |
+|                      | 6.2      |                        |
+|                      |          |                        |
