@@ -12,7 +12,7 @@ banner-y: 1
 ### Flex
 - Warframe
 - Stellaris
-- Marvel Rivals
+	- Marvel Rivals
 ## Books
 ```dataview
 LIST
