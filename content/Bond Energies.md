@@ -3,6 +3,7 @@ CreatedAt: 2024-12-07
 MOC: "[[SCH4U1 MOC]]"
 tags:
   - Unit-3
+  - "#Chemistry"
 aliases:
 ---
 **Bond Dissociation Energy**: the quantity of energy required to break a chemical bond. Measured in $kJ/mol$

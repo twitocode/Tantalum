@@ -3,6 +3,7 @@ CreatedAt: 2025-01-09
 MOC: "[[SCH4U1 MOC]]"
 tags:
   - Unit-4
+  - Chemistry
 aliases:
   - Solubility Product
   - Molar Solubility for Salts

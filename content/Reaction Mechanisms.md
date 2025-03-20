@@ -3,6 +3,7 @@ CreatedAt: 2024-12-07
 MOC: "[[SCH4U1 MOC]]"
 tags:
   - Unit-3
+  - Chemistry
 aliases:
 ---
 Reactions proceed by a series of simple steps called **elementary processes** involving 1 or 2 particles at a time. 
