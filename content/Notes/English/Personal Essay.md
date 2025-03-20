@@ -15,7 +15,7 @@ aliases:
 		- Mr. Pinto asked me to join robotics - *state reason why*
 - I went to Toronto to visit UTSG
 	- This was the first time I have ever been on a subway. 
-		- **Describe the rush**  - The walls were rushing past more, or really, I was rushing past the walls. Some people were fast asleep. Some people were reading a book; flicking their the pages with their fingers. This was the first 
+		- **Describe the rush**  - The walls were rushing past more, or really, I was rushing past the walls. Some people were fast asleep. Some people were reading a book; flicking their the pages with their fingers. This was the first time I have ever been on a subway. On the subway ceilings, there was an enclave of adverisments, each which distinctive 
 	- It was very exhilarating. I felt dreamy when I was there. I kept thinking about how my life for the next 4 years would be there.
 		- **Describe scenery** - *make it feel like a dream*, sight, smell, hearing (bustling city)
 		- Then I though about the price
