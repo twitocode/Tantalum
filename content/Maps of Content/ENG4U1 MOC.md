@@ -2,6 +2,6 @@
 
 ```dataview
 LIST
-FROM [[ENG4U1]]
+FROM [[ENG4U1 MOC]]
 SORT file.name
 ```
