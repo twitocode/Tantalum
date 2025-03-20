@@ -10,7 +10,9 @@ aliases:
 > **Topic:** Think of a moment that force you to confront or question who you are a person. Write a personal essay on how this experience helped you connect with your past, your heritage or your identity.
 
 # What is this thing about?
-- Talking about how
+- Talking about how I had to confront who I was in terms of my academic journey.
+	- I wish I did more during my 4 years of high school
+		- Not 
 # Outline
 - Intro Paragraph
 - First Body Paragraph
