@@ -11,13 +11,13 @@ aliases:
 
 
 
-|                     |     |
-| ------------------- | --- |
-| Introduction        |     |
-| Thesis              |     |
-| Evidence            |     |
-| Descriptive Phrases |     |
-| Conclusion          |     |
-| Organization        |     |
-| Theme               |     |
-| Mood & Tone         |     |
+|                     |                                                                                                                                                                                                |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Introduction        | Talking from the perspective of a person who feels to anxious to take initiative in their life. Back and forth between different thoughts.<br>…<br>“Have you ever felt this way in your life?” |
+| Thesis              | Take advantage of the opportunities you are given and do not let**…**                                                                                                                          |
+| Evidence            |                                                                                                                                                                                                |
+| Descriptive Phrases |                                                                                                                                                                                                |
+| Conclusion          |                                                                                                                                                                                                |
+| Organization        |                                                                                                                                                                                                |
+| Theme               |                                                                                                                                                                                                |
+| Mood & Tone         |                                                                                                                                                                                                |
