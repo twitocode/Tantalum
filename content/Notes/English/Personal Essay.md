@@ -20,4 +20,4 @@ aliases:
 | Conclusion          | Restate my thesis, talk about what I learned from my experiences in Toronto/UofT                                                                                                               |
 | Organization        | The story will be a flashback because I do not fully remember what I thought during the events. So I will be writing random stuff between the actual events.                                   |
 | Theme               | Do not let who you are currently dictate who you could be ==(maybe)==                                                                                                                          |
-| Mood & Tone         | **Mood:**<br><br>**Tone:** somber, reflective                                                                                                                                                  |
+| Mood & Tone         | **Mood:** Anticipation<br><br>**Tone:** somber, reflective                                                                                                                                     |
