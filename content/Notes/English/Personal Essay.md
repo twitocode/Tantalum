@@ -19,5 +19,5 @@ aliases:
 | Descriptive Phrases |                                                                                                                                                                                                |
 | Conclusion          | Restate my thesis, talk about what I learned from my experiences in Toronto/UofT                                                                                                               |
 | Organization        | The story will be a flashback because I do not fully remember what I thought during the events. So I will be writing random stuff between the actual events.                                   |
-| Theme               |                                                                                                                                                                                                |
+| Theme               | Do not let who you are currently dictate who you could be ==(maybe)==                                                                                                                          |
 | Mood & Tone         |                                                                                                                                                                                                |
