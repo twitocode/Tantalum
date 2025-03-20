@@ -6,5 +6,5 @@ tags:
 aliases:
 ---
 Metaphor
-- I am big
-- I’m as vast ocean
+- The snake fl
+- The snake slivered through the valley
