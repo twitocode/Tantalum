@@ -17,7 +17,7 @@ aliases:
 | Thesis              | Take advantage of the opportunities you are given and do not let**…**                                                                                                                          |
 | Evidence            |                                                                                                                                                                                                |
 | Descriptive Phrases |                                                                                                                                                                                                |
-| Conclusion          |                                                                                                                                                                                                |
-| Organization        |                                                                                                                                                                                                |
+| Conclusion          | Restate my thesis, talk about what I learned from my experiences in Toronto/UofT                                                                                                               |
+| Organization        | The story will be a flashback because I do not fully remember what I thought during the events. So I will be writing random stuff between the actual events.                                   |
 | Theme               |                                                                                                                                                                                                |
 | Mood & Tone         |                                                                                                                                                                                                |
