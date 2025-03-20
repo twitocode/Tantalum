@@ -10,7 +10,10 @@ aliases:
 > **Topic:** Think of a moment that force you to confront or question who you are a person. Write a personal essay on how this experience helped you connect with your past, your heritage or your identity.
 
 # Outline
-- 
+- Intro Paragraph
+- First Body Paragraph
+- Second Body Paragraph
+- Third Body Paragraph
 
 |                     |                                                                                                                                                                                                |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
