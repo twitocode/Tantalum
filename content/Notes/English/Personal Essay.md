@@ -15,6 +15,7 @@ aliases:
 		- Mr. Pinto asked me to join robotics - *state reason why*
 - I went to Toronto to visit UTSG
 	- This was the first time I have ever been on a subway. 
+		- 
 		- **Describe the rush**  
 	- It was very exhilarating. I felt dreamy when I was there. I kept thinking about how my life for the next 4 years would be there.
 		- **Describe scenery** - *make it feel like a dream*, sight, smell, hearing (bustling city)
@@ -23,16 +24,16 @@ aliases:
 		- I kept comparing myself to others in my school and online.
 			- **Describe the feeling** - *taste, touch, sight*
 		- There are some robotics kids in my classes that are much smarter than me; there are more like them all across Ontario.
-			- My brother is in Robotics, and other clubs like Model UN. He is already doing much better than I ever w you have a good job.**
-			-  If I do not get into my programs that I want, would I end up with a job or no job which will make me end up like the people I saw on the streets?
-				- This made me worry about the risk of AI impacting my future career choices. Will I have to settle with a lower salary than promised a year ago?
-- Past heritage, identity?
-	- Before I moved to Hamilton, I had many friends, somas and he is in grade 10. 
+			- My brother is in Robotics, and other clubs like Model UN. He is already doing much better than I ever was and he is in grade 10. 
 - I also went to Toronto to go to a car show
 	- We had to park far which meant that we had to walk through the streets. 
 		- Many homeless people
 			- Toronto is very expensive,
-			- City life seamed glamourous because I only ever lived in the suburbs. I’ve grown sick and tired of having to drive everywhere. However this **glamorous feeling only can materialize ife of which I still talk to everyday. I could not see my friends in person everyday. 
+			- City life seamed glamourous because I only ever lived in the suburbs. I’ve grown sick and tired of having to drive everywhere. However this **glamorous feeling only can materialize if you have a good job.**
+			-  If I do not get into my programs that I want, would I end up with a job or no job which will make me end up like the people I saw on the streets?
+				- This made me worry about the risk of AI impacting my future career choices. Will I have to settle with a lower salary than promised a year ago?
+- Past heritage, identity?
+	- Before I moved to Hamilton, I had many friends, some of which I still talk to everyday. I could not see my friends in person everyday. 
 		- I had
 	- I always wanted to be the smartest in my class ever since grade 5. I remember beating everyone in quick multiplication games.
 # Outline
