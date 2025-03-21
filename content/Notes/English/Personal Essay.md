@@ -15,7 +15,7 @@ aliases:
 		- Mr. Pinto asked me to join robotics - *state reason why*
 - I went to Toronto to visit UTSG
 	- This was the first time I have ever been on a subway. 
-		- **Describe the rush**  - The walls were rushing past more, or really, I was rushing past the walls. Some people were fast asleep. Some people were reading a book; flicking their the pages with their fingers. This was the first time I have ever been on a subway. On the subway ceilings, there was an enclave of advertisements, each which distinctive messages. **Talk about the map with leds**
+		- **Describe the rush**  - The walls were rushing past more, or really, I was rushing past the walls. Some people were fast asleep. Some people were reading a book; flicking their the pages with their fingers. This was the first time I have ever been on a subway. On the subway ceilings, there was an enclave of advertisements, each which distinctive messages. **Talk about the map with LEDs**
 	- It was very exhilarating. I felt dreamy when I was there. I kept thinking about how my life for the next 4 years would be there.
 		- **Describe scenery** - *make it feel like a dream*, sight, smell, hearing (bustling city)
 		  
@@ -23,6 +23,7 @@ aliases:
 	- However in the back of my mind, I kept thinking about the requirements for getting in the programs I want. I choose engineering science and computer science at UTSG. The requirements are staggering. I think there is a very low chance of me getting in
 		- I kept comparing myself to others in my school and online.
 			- **Describe the feeling** - *taste, touch, sight*
+			- It was the feeling of being in a black room when a thick and firm hand touching my shoulder and directing my eyes to multiple fish-eye lensed perspectives of students winning contests and awards. 
 		- There are some robotics kids in my classes that are much smarter than me; there are more like them all across Ontario.
 			- My brother is in Robotics, and other clubs like Model UN. He is already doing much better than I ever was and he is in grade 10. 
 - I also went to Toronto to go to a car show
