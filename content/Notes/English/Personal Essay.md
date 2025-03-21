@@ -18,7 +18,7 @@ aliases:
 		- **Describe the rush**  - The walls were rushing past more, or really, I was rushing past the walls. Some people were fast asleep. Some people were reading a book; flicking their the pages with their fingers. This was the first time I have ever been on a subway. On the subway ceilings, there was an enclave of advertisements, each which distinctive messages. **Talk about the map with LEDs**
 	- It was very exhilarating. I felt dreamy when I was there. I kept thinking about how my life for the next 4 years would be there.
 		- **Describe scenery** - *make it feel like a dream*, sight, smell, hearing (bustling city)
-		  Looking at the city that I could live in, I was flying throughout the different buildings. Vintage, brutalist, and modern; they were all **….** From the turkey-like architecture of Robarts Library, to the 
+		  Looking at the city that I could live in, I was flying throughout the different buildings. Vintage, brutalist, and modern; they were all **….** From the turkey-like architecture of Robarts Library, to the **….** I could smell spicy but sweat aroma of the street food near the athletic center.
 		- Then I though about the price
 	- However in the back of my mind, I kept thinking about the requirements for getting in the programs I want. I choose engineering science and computer science at UTSG. The requirements are staggering. I think there is a very low chance of me getting in
 		- I kept comparing myself to others in my school and online.
