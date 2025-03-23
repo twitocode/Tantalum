@@ -3,7 +3,8 @@ CreatedAt: 2025-03-23
 MOC: "[[HRT4M1 MOC]]"
 tags:
   - Religion
-aliases:
+aliases: 
+TARGET DECK: Grade 12::HRT4M1::Unit 1 - World Religions
 ---
 decalogue, 
 five traits of a covenant, 
