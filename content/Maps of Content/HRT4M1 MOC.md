@@ -2,6 +2,6 @@
 
 ```dataview
 LIST
-FROM [[HRT4M1]]
+FROM [[HRT4M1 MOC]]
 SORT file.name
 ```
