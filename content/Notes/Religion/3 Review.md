@@ -56,10 +56,9 @@ A:
 Q: Name each of the Corporal Works of Mercy,
 A:
 
-Q: 
-A:
 
 Short answer probably
 - parable analysis.
 - the 4 Gospel writers and **HOW they portrayed Jesus** + **WHO they wrote for**,
 - Sermon on the Mount + its purpose, 
+- the Gospel of Matthew,
