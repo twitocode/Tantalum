@@ -7,7 +7,9 @@ aliases:
 TARGET DECK: Grade 12::HRT4M1::Unit 1 - Understanding Scripture::Section 2-3
 ---
 Q: What is the decalogue?
-A: 
+A: This is the decalogue
+<!--ID: 1742756506320-->
+
 
 Q: Name the five traits of a covenant
 A:
@@ -36,7 +38,6 @@ A:
 
 Q: Kingdom of God, 
 A:
-
 
 Q: What is the innermost secret of the New Testament
 A:
