@@ -25,7 +25,6 @@ $L_{f}$ is the specific latent heat of fusion (J/kg)
 The amount of [[Thermal Energy]] required to change a liquid into a gas or a gas into a liquid
 $$Q = mL_{v}$$
 $L_{v}$ is the specific latent heat of vaporization (J/kg)
-
 <!--ID: 1715686913194-->
 
 
