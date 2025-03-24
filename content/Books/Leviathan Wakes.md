@@ -49,6 +49,7 @@ Select specific passages that showcase narrative techniques such as parts of a s
 |                    | 26                                              | relatedness                                                                              |
 |                    | 28                                              | Alex, mars settlement                                                                    |
 |                    | 31.2-the rest of the page                       | bunny mode alex dialogue                                                                 |
+|                    | 32.last                                         | Naomi aint worried about space                                                           |
 
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
@@ -66,4 +67,4 @@ contribute to the atmosphere.
 |                      | 26.second last |                        |
 |                      | 29.second half |                        |
 |                      | 30.second last |                        |
-|                      |                |                        |
+|                      | 32.second last |                        |
