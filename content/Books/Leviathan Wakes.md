@@ -76,4 +76,5 @@ contribute to the atmosphere.
 |                      | 33.last        | mech, torch            |
 |                      | 38             | ceres day/night        |
 |                      | 39             |                        |
+|                      | 43.last        | alcohol bar            |
 
