@@ -28,6 +28,7 @@ tags:
 # Narrative Elements:
 Select specific passages that showcase narrative techniques such as parts of a story (exposition, conflict, climax) point of view, characters, dialogue or theme. Discuss their significance in shaping the story.
 
+*Extra*: multiple characters in the story are looking for Julie. It is kinda like a murder mystery
 
 | Narrative  Element | Evidence                                        | Explanation & Analysis                                                                            |
 | ------------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------- |
