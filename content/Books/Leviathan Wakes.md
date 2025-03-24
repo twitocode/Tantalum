@@ -55,6 +55,7 @@ Select specific passages that showcase narrative techniques such as parts of a s
 |                    | 35                                              | Amos humming, holden and Amos do not really like each other, they're more colleagues than friends                                        |
 |                    | 38-40                                           | Miller and father, belter drugs                                                                                                          |
 |                    | 41-43                                           | Havelock breakdown, he dies later by a harpoon<br>Belters see earth and mars as the same<br>Martians and earthers do not like each other |
+|                    |                                                 |                                                                                                                                          |
 6
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
@@ -77,4 +78,5 @@ contribute to the atmosphere.
 |                      | 38             | ceres day/night        |
 |                      | 39             |                        |
 |                      | 43.last        | alcohol bar            |
+|                      | 46-47          | Ship juice             |
 
