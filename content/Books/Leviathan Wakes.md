@@ -48,7 +48,7 @@ Select specific passages that showcase narrative techniques such as parts of a s
 |                    | 25.2                                            | Fake like in space                                                                       |
 |                    | 26                                              | relatedness                                                                              |
 |                    | 28                                              | Alex, mars settlement                                                                    |
-|                    | 31.2                                            | bunny mode alex dialogue                                                                 |
+|                    | 31.2-the rest of the page                       | bunny mode alex dialogue                                                                 |
 
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
