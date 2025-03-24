@@ -75,4 +75,5 @@ aliases:
 | Mood & Tone         | **Mood:** Exhilaration <br><br>**Tone:** somber, reflective, vulnerable, hopeful 
 # The actual essay
 
-Have you every felt that 
+Have you ever felt that the feeling of drowning in your own thoughts because of a tiny trigger in your life? Have you every felt the existential feeling of your stomach dropping to the floor because you fear  what will happen to you in the future? If you currently have your life figured out and too advantage of every opportunity you could, then probably not. **Put thesis here**. My time at the ==**Bold or italics? University of Toronto** ==in the summer was exhilarating but also made me worried about my future. 
+
