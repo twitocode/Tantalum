@@ -72,3 +72,4 @@ contribute to the atmosphere.
 |                      | 30.second last |                        |
 |                      | 32.second last |                        |
 |                      | 33.last        | mech, torch            |
+|                      | 38             | ceres day/night        |
