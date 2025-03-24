@@ -6,9 +6,25 @@ tags:
   - Book
 ---
 
-# Reading and Annotation:
-Read your novel attentively, taking note of instances where narrative and descriptive elements are prominent. Annotate your novel as you read, marking passages that exemplify narrative storytelling and descriptive imagery.
-
+# Characters
+- Holden 
+	- Earther
+	- Leader
+- Naomi
+	- Belter
+- Amos
+	- Earther
+- Alex
+	- Martian
+	- Trigger-hungry
+	- Sees Naomi as the boss, not Holden or ship captain
+- Shed
+	- Earther
+	- Dies later
+- Miller
+	- Belter
+- Chrisjen
+	- Earther
 # Narrative Elements:
 Select specific passages that showcase narrative techniques such as parts of a story (exposition, conflict, climax) point of view, characters, dialogue or theme. Discuss their significance in shaping the story.
 
@@ -32,6 +48,7 @@ Select specific passages that showcase narrative techniques such as parts of a s
 |                    | 25.2                                            | Fake like in space                                                                       |
 |                    | 26                                              | relatedness                                                                              |
 |                    | 28                                              | Alex, mars settlement                                                                    |
+|                    | 31.2                                            | bunny mode alex dialogue                                                                 |
 
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
@@ -48,3 +65,5 @@ contribute to the atmosphere.
 |                      | 25.3           |                        |
 |                      | 26.second last |                        |
 |                      | 29.second half |                        |
+|                      | 30.second last |                        |
+|                      |                |                        |
