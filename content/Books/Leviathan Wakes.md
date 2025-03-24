@@ -68,3 +68,4 @@ contribute to the atmosphere.
 |                      | 29.second half |                        |
 |                      | 30.second last |                        |
 |                      | 32.second last |                        |
+|                      | 33.last        | mech, torch            |
