@@ -44,13 +44,5 @@ aliases:
 - Third Body Paragraph
 - Conclusion
 
-|                     |                                                                                                                                                                                                |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Introduction        | Talking from the perspective of a person who feels to anxious to take initiative in their life. Back and forth between different thoughts.<br>…<br>“Have you ever felt this way in your life?” |
-| Thesis              | Take advantage of the opportunities you are given and do not let**…**                                                                                                                          |
-| Evidence            |                                                                                                                                                                                                |
-| Descriptive Phrases | Describe my experience at UofT                                                                                                                                                                 |
-| Conclusion          | Restate my thesis, talk about what I learned from my experiences in Toronto/UofT                                                                                                               |
-| Organization        | The story will be a flashback because I do not fully remember what I thought during the events. So I will be writing random stuff between the actual events.                                   |
-| Theme               | Do not let who you are currently dictate who you could be ==(maybe)==                                                                                                                          |
-| Mood & Tone         | **Mood:** Exhilaration <br><br>**Tone:** somber, reflective, vulnerable, hopeful                                                                                                               |
+
+# The actual essay
