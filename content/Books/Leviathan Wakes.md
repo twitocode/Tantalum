@@ -54,6 +54,7 @@ Select specific passages that showcase narrative techniques such as parts of a s
 |                    | 33-36                                           | Figuring out why the scopuli was<br>**Turns out it was to frame mars for war (later on)**         |
 |                    | 35                                              | Amos humming, holden and Amos do not really like each other, they're more colleagues than friends |
 |                    | 38-40                                           | Miller and father, belter drugs                                                                   |
+|                    | 41-43                                           | Havelock breakdown, he dies later by a harpoon                                                    |
 6
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
