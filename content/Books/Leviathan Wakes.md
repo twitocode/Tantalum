@@ -53,7 +53,7 @@ Select specific passages that showcase narrative techniques such as parts of a s
 |                    | 32.last                                         | Naomi aint worried about space                                                                    |
 |                    | 33-36                                           | Figuring out why the scopuli was<br>**Turns out it was to frame mars for war (later on)**         |
 |                    | 35                                              | Amos humming, holden and Amos do not really like each other, they're more colleagues than friends |
-
+6
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
 Analyze the author's use of sensory details, figurative language, and symbolism in creating
