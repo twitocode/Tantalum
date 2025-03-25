@@ -27,7 +27,7 @@ Q: Define eschatological
 A:
 
 Q: What is Parousia 
-A:
+A:The second coming of Christ (the rapture)
 
 Q: What is the main concern of the Old Testament?
 A:
@@ -37,7 +37,7 @@ A:
 
 
 Q: Kingdom of God, 
-A:
+A: Also known as the Kingdom of Heaven. It literally just means God
 
 Q: What is the innermost secret of the New Testament
 A:
