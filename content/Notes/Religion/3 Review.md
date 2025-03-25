@@ -33,7 +33,7 @@ Q: What is the main concern of the Old Testament?
 A:
 
 Q: Define Synoptic Gospels, which ones are they?
-A: The Gospels that have texts which when set side by side, show a similar account of the life and death of Jesus Christ. They are **Matthew, Mark, and Luke**
+A: The Gospels that have texts which when set side by side, show a similar account of the life and death of Jesus Christ. They are **Matthew, Mark, and Lukeq**
 
 
 Q: Kingdom of God, 
