@@ -55,3 +55,5 @@ I choose computer engineering and computer science at UTSG, which have staggerin
 
 **This paragraph is more about me**
 Back in grade 9, I was in Mr. Pinto’s computer engineering class. He saw potential in me; he asked whether I wanted to join the robotics club at school. I ended up saying no to Mr. Pinto’s question, which ended up becoming one of my biggest regrets in high school. The main reason why I did not join was because I had issue talking with others. I have been getting better at talking with others, especially in grade 12, however I was not always like this. Before I moved to Hamilton in grade 7, I had many friends and I was very talkative. I am not sure what happened that caused me to be shy and quiet. This lack of support that I had meant that there was no one to push me to achieve the best person that I could have been. It has been goal to be the tallest in my class since grade 1, but also also to be the smartest in my class. I had great memories of defeating my classmates in quick multiplication in elementary school High school and my visit to UTSG made me realize that I am not….
+
+Conclusion for this part.
