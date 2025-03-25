@@ -45,35 +45,6 @@ aliases:
 - Conclusion
 
 
-|                     |                                                                                                                                                                                                |
- 
-
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
- 
-
-| Introduction        | Talking from the perspective of a person who feels to anxious to take initiative in their life. Back and forth between different thoughts.<br>…<br>“Have you ever felt this way in your life?” |
- 
-
-| Thesis              | Take advantage of the opportunities you are given and do not let**…**                                                                                                                          |
- 
-
-| Evidence            |                                                                                                                                                                                                |
- 
-
-| Descriptive Phrases | Describe my experience at UofT                                                                                                                                                                 |
- 
-
-| Conclusion          | Restate my thesis, talk about what I learned from my experiences in Toronto/UofT                                                                                                               |
- 
-
-| Organization        | The story will be a flashback because I do not fully remember what I thought during the events. So I will be writing random stuff between the actual events.                                   |
- 
-
-| Theme               | Do not let who you are currently dictate who you could be ==(maybe)==                                                                                                                          |
- 
-
-| Mood & Tone         | **Mood:** Exhilaration <br><br>**Tone:** somber, reflective, vulnerable, hopeful 
-
 # The actual essay
 
 Have you ever felt that the feeling of drowning in your own thoughts because of a tiny trigger in your life? Have you every felt the existential feeling of your stomach dropping to the floor because you fear  what will happen to you in the future? If you currently have your life figured out and too advantage of every opportunity you could, then probably not. Take advantage of the opportunities you’re given in life, or else you will lose out on shortcuts to success and feel dissatisfied with yourself. My time at the ==**Bold or italics? University of Toronto St. George Campus (UTSG) ** ==in the summer was exhilarating but also made me worried about my future. 
@@ -83,4 +54,4 @@ In the summer of 2024, I visited UTSG with my family. My family I drive to Yorkd
 I choose computer engineering and computer science at UTSG, which have staggering requirements in my view. I think I have a very low chance of getting into UTSG. I kept comparing myself to others who I spent most of my high school journey without friends. In some of my classes, especially my computer engineering class. It was the feeling of being in a black room when a thick and firm hand touching my shoulder and directing my eyes to multiple fish-eye lensed perspectives of students winning contests and awards. **talk more about the job aspect**
 
 **This paragraph is more about me**
-Back in grade 9, I was in Mr. Pinto’s computer engineering class. He saw potential in me; he asked whether I wanted to join the robotics club at school. I ended up saying no to Mr. Pinto’s question, which ended up becoming one of my biggest regrets in high school. The main reason why I did not join was because I had issue talking with others. I have been getting better at talking with others, especially in grade 12, however I was not always like this. Before I moved to Hamilton in grade 7, I had many friends and I was very talkative. I am not sure what happened that caused me to be shy and quiet.
+Back in grade 9, I was in Mr. Pinto’s computer engineering class. He saw potential in me; he asked whether I wanted to join the robotics club at school. I ended up saying no to Mr. Pinto’s question, which ended up becoming one of my biggest regrets in high school. The main reason why I did not join was because I had issue talking with others. I have been getting better at talking with others, especially in grade 12, however I was not always like this. Before I moved to Hamilton in grade 7, I had many friends and I was very talkative. I am not sure what happened that caused me to be shy and quiet. This lack of support that I had meant that there was no one to push me to achieve the best person that I could have been. It has been goal to be the tallest in my class since grade 1, but also also to be the smartest in my class. I had great memories of defeating my classmates in quick multiplication in elementary school High school and my visit to UTSG made me realize that I am not….
