@@ -87,4 +87,5 @@ contribute to the atmosphere.
 |                      | 51.second last | juiced up holden             |
 |                      | 52.            | personification of cantebury |
 |                      | 66-67`         | the type of person miller is |
+|                      | 68-69          | miller talking to the crowd  |
 
