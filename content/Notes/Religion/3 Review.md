@@ -12,7 +12,7 @@ A: This is the decalogue
 
 
 Q: Name the five traits of a covenant
-A:
+A: Preamble, Historical Prologue, Submission/Conditions, Witnesses, Blessings and Curses.
 
 Q: Define typology
 A: a doctrine of theological types especially one hold that things in the New Testament are foreshadowed or symbolized by things in the Old Testament. Compares both similarities and differences between items of the same "type". A type is some "person", "event", or "ceremony"
@@ -33,7 +33,7 @@ Q: What is the main concern of the Old Testament?
 A:
 
 Q: Define Synoptic Gospels, which ones are they?
-A: The Gospels that have texts which when set side by side, show a similar account of the life and death of Jesus Christ. They are **Matthew, Mark, and Lukeq**
+A: The Gospels that have texts which when set side by side, show a similar account of the life and death of Jesus Christ. They are **Matthew, Mark, and Lukeq*
 
 
 Q: Kingdom of God, 
@@ -46,7 +46,7 @@ Q: Define covenant,
 A:
 
 Q: Define exegesis 
-A:
+A: The study of scripture texts in their original context
 
 Q: Define hermeneutics - 
 A:
