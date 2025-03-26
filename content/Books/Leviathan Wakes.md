@@ -55,7 +55,8 @@ Select specific passages that showcase narrative techniques such as parts of a s
 |                    | 35                                              | Amos humming, holden and Amos do not really like each other, they're more colleagues than friends                                        |
 |                    | 38-40                                           | Miller and father, belter drugs                                                                                                          |
 |                    | 41-43                                           | Havelock breakdown, he dies later by a harpoon<br>Belters see earth and mars as the same<br>Martians and earthers do not like each other |
-| RISING ACTION?     | 47-...                                          | build up to stealth ship, holden leadership                                                                                              |
+| RISING ACTION?     | 47-...                                          | build up to stealth ship, holden leadership<br>Sacrifice to save the others on the Cantebury                                             |
+|                    |                                                 |                                                                                                                                          |
 6
 # Descriptive Elements:
 Identify instances of descriptive writing that vividly depict characters, settings, or events.
