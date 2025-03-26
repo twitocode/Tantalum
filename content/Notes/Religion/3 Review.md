@@ -52,7 +52,7 @@ Q: Define hermeneutics -
 A:
 
 Q: Talk about the power of the name YHWH,
-A:
+A: It has the power to change the Israelite's history. It is a source of judgement. **HUH???**
 
 Q: Name each of the Corporal Works of Mercy,
 A:
