@@ -43,7 +43,7 @@ Q: What is the innermost secret of the New Testament
 A:
 
 Q: Define covenant, 
-A: 
+A: A formal, solemn agreement or contract btween
 
 Q: Define exegesis 
 A: The study of scripture texts in their original context
