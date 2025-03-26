@@ -64,22 +64,22 @@ Analyze the author's use of sensory details, figurative language, and symbolism 
 imagery. Discuss how descriptive passages enhance the reader's immersion in the story and
 contribute to the atmosphere.
 
-| Descriptive  Element | Evidence       | Explanation & Analysis |
-| -------------------- | -------------- | ---------------------- |
-| d                    | 0              |                        |
-|                      | 2.1            |                        |
-|                      | 6.2            |                        |
-|                      | 18.2           |                        |
-|                      | 25.3           |                        |
-|                      | 26.second last |                        |
-|                      | 29.second half |                        |
-|                      | 30.second last |                        |
-|                      | 32.second last |                        |
-|                      | 33.last        | mech, torch            |
-|                      | 38             | ceres day/night        |
-|                      | 39             |                        |
-|                      | 43.last        | alcohol bar            |
-|                      | 46-47          | Ship juice             |
-|                      | 51.second last | juiced up holden       |
-|                      |                |                        |
+| Descriptive  Element | Evidence       | Explanation & Analysis       |
+| -------------------- | -------------- | ---------------------------- |
+| d                    | 0              |                              |
+|                      | 2.1            |                              |
+|                      | 6.2            |                              |
+|                      | 18.2           |                              |
+|                      | 25.3           |                              |
+|                      | 26.second last |                              |
+|                      | 29.second half |                              |
+|                      | 30.second last |                              |
+|                      | 32.second last |                              |
+|                      | 33.last        | mech, torch                  |
+|                      | 38             | ceres day/night              |
+|                      | 39             |                              |
+|                      | 43.last        | alcohol bar                  |
+|                      | 46-47          | Ship juice                   |
+|                      | 51.second last | juiced up holden             |
+|                      | 52.            | personification of cantebury |
 
