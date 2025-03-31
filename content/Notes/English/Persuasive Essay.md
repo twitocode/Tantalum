@@ -22,3 +22,4 @@ aliases:
 [Is AI-generated art actually art? - University of Plymouth](https://www.plymouth.ac.uk/discover/is-ai-generated-art-actually-art)
 [AI-art isn't art - by Erik Hoel - The Intrinsic Perspective](https://www.theintrinsicperspective.com/p/ai-art-isnt-art)
 [AI Art: Finding a Middle Ground](https://stanforddaily.com/2025/02/17/ai-art-finding-a-middle-ground/)
+[Why A.I. Isn’t Going to Make Art | The New Yorker](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)
