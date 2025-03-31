@@ -8,6 +8,7 @@ aliases:
 # Topic Selection:
 ## ai "art" is not art
 - Its not really art
+- I am not an artist at all
 - talk about how ai actually works
 	- tech behind it
 	-  copyright infringement
