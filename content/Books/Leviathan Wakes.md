@@ -95,4 +95,5 @@ contribute to the atmosphere.
 | Foreshadowing        | 77             | Mars' Military capabilities are way better than earth's                              |
 | Irony pt.2           | 79             | fingernail torture - alex                                                            |
 | personification      | 82.2           |                                                                                      |
+|                      | 84-85          | miller going to julie's apartment                                                    |
 
