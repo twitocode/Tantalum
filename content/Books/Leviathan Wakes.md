@@ -91,4 +91,5 @@ contribute to the atmosphere.
 |                      | 68-69          | miller talking to the crowd                                                          |
 | Irony                | 75             | MCRN Donnager picks up holden after holden accused mars of destroying the Canterbury |
 | Foreshadowing        | 77             | Mars' Military capabilities are way better than earth's                              |
+| Irony pt.2           | 79             | fingernail torture - alex                                                            |
 
