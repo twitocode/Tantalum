@@ -90,4 +90,5 @@ contribute to the atmosphere.
 |                      | 66-67`         | the type of person miller is                                                         |
 |                      | 68-69          | miller talking to the crowd                                                          |
 | Irony                | 75             | MCRN Donnager picks up holden after holden accused mars of destroying the Canterbury |
+| Foreshadowing        | 77             | Mars' Military capabilities are way better than earth's                              |
 
