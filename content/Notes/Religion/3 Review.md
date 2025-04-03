@@ -18,10 +18,10 @@ Q: Define typology
 A: a doctrine of theological types especially one hold that things in the New Testament are foreshadowed or symbolized by things in the Old Testament. Compares both similarities and differences between items of the same "type". A type is some "person", "event", or "ceremony"
 
 Q: Define vocation 
-A:
+A: Also known as a baptismal mission. It is a calling from God. ==Add more to this==
 
 Q: What is a call story 
-A:
+A: Stories where God sends a person, usually a prophet on a mission. 
 
 Q: Define eschatological 
 A: Pertaining to the end of time, In the sense of its fullness. It is an ethics that insists that we can already live what god will realize or reveal at the end.
@@ -40,7 +40,7 @@ Q: Kingdom of God,
 A: Also known as the Kingdom of Heaven. It literally just means God
 
 Q: What is the innermost secret of the New Testament
-A:
+A: God's very being is love ==Change this== 
 
 Q: Define covenant, 
 A: A formal, solemn agreement or contract between two or more parties. 
@@ -55,7 +55,7 @@ Q: Talk about the power of the name YHWH,
 A: It has the power to change the Israelite's history. It is a source of judgement. **HUH???**
 
 Q: Name each of the Corporal Works of Mercy,
-A:
+A: feed the hungry, give drink to the thirsty, clothe the naked, shelter the homeless, visit the sick, visit the imprisoned, and bury the dead
 
 
 Short answer probably
