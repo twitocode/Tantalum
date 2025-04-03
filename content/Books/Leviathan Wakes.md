@@ -106,5 +106,5 @@ contribute to the atmosphere.
 | personification                     | 82.2           |                                                                                         |
 |                                     | 84-85          | miller going to julie's apartment                                                       |
 | Personification of donnager i guess | 111-115        | Donnager is ugly, very clean, intimidating, better than any un ship, shows mars' power, |
-|                                     | 120-122        | pdcs firing                                                                             |
+|                                     | 120-122        | pdcs firing, shed dead, "Belter" ships are actually rivalling coalition battle ships    |
 
