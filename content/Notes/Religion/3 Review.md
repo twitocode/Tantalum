@@ -87,8 +87,31 @@ Q: Name each of the Corporal Works of Mercy,
 A: feed the hungry, give drink to the thirsty, clothe the naked, shelter the homeless, visit the sick, visit the imprisoned, and bury the dead
 <!--ID: 1743694470989-->
 
-Q: 
+Q: How did Matthew portray Jesus?
 A: 
+
+Q: How did Mark portray Jesus?
+A: 
+
+Q: How did Luke portray Jesus?
+A: 
+
+Q: How did John portray Jesus?
+A: 
+
+Q: Who did Mark write for?
+A: 
+
+Q: Who did Mark write for?
+A: 
+
+Q: Who did Mark write for?
+A: 
+
+Q: Who did Mark write for?
+A: 
+
+
 
 Short answer probably
 - parable analysis.
