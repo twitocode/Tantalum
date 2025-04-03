@@ -88,10 +88,13 @@ A: feed the hungry, give drink to the thirsty, clothe the naked, shelter the hom
 <!--ID: 1743694470989-->
 
 Q: How did Matthew portray Jesus?
-A: 
+A: Portrayed Jesus as a teacher
 
 Q: How did Mark portray Jesus?
-A: 
+A: Portrayed Jesus as a man in a hurry. 
+A Jesus who is earthy and easy to relate to. 
+A Jesus constantly hemmed in by crowds.
+A Jesus who we would be comfortable with
 
 Q: How did Luke portray Jesus?
 A: 
