@@ -80,31 +80,31 @@ Analyze the author's use of sensory details, figurative language, and symbolism 
 imagery. Discuss how descriptive passages enhance the reader's immersion in the story and
 contribute to the atmosphere.
 
-| Descriptive  Element                | Evidence       | Explanation & Analysis                                                                   |
-| ----------------------------------- | -------------- | ---------------------------------------------------------------------------------------- |
-| d                                   | 0              |                                                                                          |
-|                                     | 2.1            |                                                                                          |
-|                                     | 6.2            |                                                                                          |
-|                                     | 18.2           |                                                                                          |
-|                                     | 25.3           |                                                                                          |
-|                                     | 26.second last |                                                                                          |
-|                                     | 29.second half |                                                                                          |
-|                                     | 30.second last |                                                                                          |
-|                                     | 32.second last |                                                                                          |
-|                                     | 33.last        | mech, torch                                                                              |
-|                                     | 38             | ceres day/night                                                                          |
-|                                     | 39             |                                                                                          |
-|                                     | 43.last        | alcohol bar                                                                              |
-|                                     | 46-47          | Ship juice                                                                               |
-|                                     | 51.second last | juiced up holden                                                                         |
-|                                     | 52.            | personification of cantebury                                                             |
-|                                     | 66-67`         | the type of person miller is                                                             |
-|                                     | 68-69          | miller talking to the crowd                                                              |
-| Irony                               | 75             | MCRN Donnager picks up holden after holden accused mars of destroying the Canterbury     |
-| Foreshadowing                       | 77             | Mars' Military capabilities are way better than earth's                                  |
-| Irony pt.2                          | 79             | fingernail torture - alex                                                                |
-| personification                     | 82.2           |                                                                                          |
-|                                     | 84-85          | miller going to julie's apartment                                                        |
-| Personification of donnager i guess | 111-115        | Donnager is ugly, very clean, intimidating, better than any un ship, shows mars' power,  |
-|                                     |                |                                                                                          |
+| Descriptive  Element                | Evidence       | Explanation & Analysis                                                                  |
+| ----------------------------------- | -------------- | --------------------------------------------------------------------------------------- |
+| d                                   | 0              |                                                                                         |
+|                                     | 2.1            |                                                                                         |
+|                                     | 6.2            |                                                                                         |
+|                                     | 18.2           |                                                                                         |
+|                                     | 25.3           |                                                                                         |
+|                                     | 26.second last |                                                                                         |
+|                                     | 29.second half |                                                                                         |
+|                                     | 30.second last |                                                                                         |
+|                                     | 32.second last |                                                                                         |
+|                                     | 33.last        | mech, torch                                                                             |
+|                                     | 38             | ceres day/night                                                                         |
+|                                     | 39             |                                                                                         |
+|                                     | 43.last        | alcohol bar                                                                             |
+|                                     | 46-47          | Ship juice                                                                              |
+|                                     | 51.second last | juiced up holden                                                                        |
+|                                     | 52.            | personification of cantebury                                                            |
+|                                     | 66-67`         | the type of person miller is                                                            |
+|                                     | 68-69          | miller talking to the crowd                                                             |
+| Irony                               | 75             | MCRN Donnager picks up holden after holden accused mars of destroying the Canterbury    |
+| Foreshadowing                       | 77             | Mars' Military capabilities are way better than earth's                                 |
+| Irony pt.2                          | 79             | fingernail torture - alex                                                               |
+| personification                     | 82.2           |                                                                                         |
+|                                     | 84-85          | miller going to julie's apartment                                                       |
+| Personification of donnager i guess | 111-115        | Donnager is ugly, very clean, intimidating, better than any un ship, shows mars' power, |
+|                                     | 120-122        | pdcs firing                                                                             |
 
