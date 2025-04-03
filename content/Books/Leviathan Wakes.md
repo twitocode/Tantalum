@@ -102,5 +102,5 @@ contribute to the atmosphere.
 | Irony pt.2           | 79             | fingernail torture - alex                                                            |
 | personification      | 82.2           |                                                                                      |
 |                      | 84-85          | miller going to julie's apartment                                                    |
-|                      |                |                                                                                      |
+|                      | 111-112        | Donnager is ugly                                                                     |
 
