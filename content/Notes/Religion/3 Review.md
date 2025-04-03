@@ -24,7 +24,7 @@ Q: What is a call story
 A:
 
 Q: Define eschatological 
-A:
+A: Pertaining to the end of time, In the sense of its fullness. It is an ethics that insists that we can already live what god will realize or reveal at the end.
 
 Q: What is Parousia 
 A:The second coming of Christ (the rapture)
@@ -49,7 +49,7 @@ Q: Define exegesis
 A: The study of scripture texts in their original context
 
 Q: Define hermeneutics - 
-A:
+A: The study of how texts should be interpreted. The text's meaning in today's time.
 
 Q: Talk about the power of the name YHWH,
 A: It has the power to change the Israelite's history. It is a source of judgement. **HUH???**
