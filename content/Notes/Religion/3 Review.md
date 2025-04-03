@@ -73,7 +73,7 @@ A: The study of scripture texts in their original context
 <!--ID: 1743694470974-->
 
 
-Q: Define hermeneutics - 
+Q: Define hermeneutics
 A: The study of how texts should be interpreted. The text's meaning in today's time.
 <!--ID: 1743694470980-->
 
@@ -87,7 +87,8 @@ Q: Name each of the Corporal Works of Mercy,
 A: feed the hungry, give drink to the thirsty, clothe the naked, shelter the homeless, visit the sick, visit the imprisoned, and bury the dead
 <!--ID: 1743694470989-->
 
-
+Q: 
+A: 
 
 Short answer probably
 - parable analysis.
