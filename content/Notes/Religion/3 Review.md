@@ -99,17 +99,17 @@ A:
 Q: How did John portray Jesus?
 A: 
 
-Q: Who did Mark write for?
-A: 
+Q: Who did Matthew write for?
+A: Wrote for the Jewish People
 
 Q: Who did Mark write for?
-A: 
+A: Wrote for the Romans
 
-Q: Who did Mark write for?
-A: 
+Q: Who did Luke write for?
+A: Wrote for the Gentiles
 
-Q: Who did Mark write for?
-A: 
+Q: Who did John write for?
+A: Wrote for everyone
 
 
 
