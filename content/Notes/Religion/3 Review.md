@@ -43,6 +43,8 @@ A: Pertaining to the end of time, In the sense of its fullness. It is an ethics 
 
 Q: What is Parousia 
 A: The second coming of Christ (the rapture)
+<!--ID: 1743695674990-->
+
 
 Q: What is the main concern of the Old Testament?
 A:
@@ -87,32 +89,70 @@ Q: Name each of the Corporal Works of Mercy,
 A: feed the hungry, give drink to the thirsty, clothe the naked, shelter the homeless, visit the sick, visit the imprisoned, and bury the dead
 <!--ID: 1743694470989-->
 
+Q: Who was Matthew 
+A: 
+
+Q: Who was Mark 
+A: 
+
+Q: Who was Luke 
+A: 
+
+Q: Who was John 
+A: 
+
 Q: How did Matthew portray Jesus?
 A: Portrayed Jesus as a teacher
+A New Moses, parallels between them
+**He focused on Jesus' royalty - The Messiah**
+<!--ID: 1743695675006-->
+
 
 Q: How did Mark portray Jesus?
 A: Portrayed Jesus as a man in a hurry. 
 A Jesus who is earthy and easy to relate to. 
 A Jesus constantly hemmed in by crowds.
 A Jesus who we would be comfortable with
+**He focused on Jesus' humanity**
+<!--ID: 1743695675015-->
+
 
 Q: How did Luke portray Jesus?
-A: 
+A: Portrayed Jesus as a compassionate and forgiving person.
+His salvation is for everyone
+Ex. Parable of the Prodigal Son
+**He focused on Jesus' priesthood**
+<!--ID: 1743695675025-->
+
 
 Q: How did John portray Jesus?
-A: 
+A: Portrayed Jesus as a person of great nobility
+He is divine, coexistent with God. 
+A person who's humanity is undeniable, but who possesses divinity.
+In control at all times, even in death.
+**He focused on Jesus' divinity**
+<!--ID: 1743695675034-->
+
 
 Q: Who did Matthew write for?
 A: Wrote for the Jewish People
+<!--ID: 1743695675043-->
+
 
 Q: Who did Mark write for?
 A: Wrote for the Romans
+<!--ID: 1743695675051-->
+
 
 Q: Who did Luke write for?
 A: Wrote for the Gentiles
+<!--ID: 1743695675059-->
+
 
 Q: Who did John write for?
 A: Wrote for everyone
+<!--ID: 1743695675067-->
+
 
 
 
