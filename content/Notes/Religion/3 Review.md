@@ -42,7 +42,7 @@ A: Pertaining to the end of time, In the sense of its fullness. It is an ethics 
 
 
 Q: What is Parousia 
-A:The second coming of Christ (the rapture)
+A: The second coming of Christ (the rapture)
 
 Q: What is the main concern of the Old Testament?
 A:
