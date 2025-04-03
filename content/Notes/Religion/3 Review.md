@@ -7,24 +7,39 @@ aliases:
 TARGET DECK: Grade 12::HRT4M1::Unit 1 - Understanding Scripture::Section 2-3
 ---
 Q: What is the decalogue?
-A: This is the decalogue
-<!--ID: 1742756506320-->
+A: Another word for the 10 commandments.
+<!--ID: 1743694470914-->
 
 
 Q: Name the five traits of a covenant
-A: Preamble, Historical Prologue, Submission/Conditions, Witnesses, Blessings and Curses.
+A: 
+1. Preamble, 
+2. Historical Prologue
+3. Submission/Conditions, 
+4. Witnesses, 
+5. Blessings and Curses.
+<!--ID: 1743694470924-->
+
 
 Q: Define typology
 A: a doctrine of theological types especially one hold that things in the New Testament are foreshadowed or symbolized by things in the Old Testament. Compares both similarities and differences between items of the same "type". A type is some "person", "event", or "ceremony"
+<!--ID: 1743694470931-->
+
 
 Q: Define vocation 
 A: Also known as a baptismal mission. It is a calling from God. ==Add more to this==
+<!--ID: 1743694470936-->
+
 
 Q: What is a call story 
 A: Stories where God sends a person, usually a prophet on a mission. 
+<!--ID: 1743694470940-->
+
 
 Q: Define eschatological 
 A: Pertaining to the end of time, In the sense of its fullness. It is an ethics that insists that we can already live what god will realize or reveal at the end.
+<!--ID: 1743694470946-->
+
 
 Q: What is Parousia 
 A:The second coming of Christ (the rapture)
@@ -34,28 +49,44 @@ A:
 
 Q: Define Synoptic Gospels, which ones are they?
 A: The Gospels that have texts which when set side by side, show a similar account of the life and death of Jesus Christ. They are **Matthew, Mark, and Luke
+<!--ID: 1743694470951-->
+
 
 
 Q: Kingdom of God, 
 A: Also known as the Kingdom of Heaven. It literally just means God
+<!--ID: 1743694470957-->
+
 
 Q: What is the innermost secret of the New Testament
 A: God's very being is love ==Change this== 
+<!--ID: 1743694470963-->
+
 
 Q: Define covenant, 
 A: A formal, solemn agreement or contract between two or more parties. 
+<!--ID: 1743694470968-->
+
 
 Q: Define exegesis 
 A: The study of scripture texts in their original context
+<!--ID: 1743694470974-->
+
 
 Q: Define hermeneutics - 
 A: The study of how texts should be interpreted. The text's meaning in today's time.
+<!--ID: 1743694470980-->
+
 
 Q: Talk about the power of the name YHWH,
 A: It has the power to change the Israelite's history. It is a source of judgement. **HUH???**
+<!--ID: 1743694470984-->
+
 
 Q: Name each of the Corporal Works of Mercy,
 A: feed the hungry, give drink to the thirsty, clothe the naked, shelter the homeless, visit the sick, visit the imprisoned, and bury the dead
+<!--ID: 1743694470989-->
+
 
 
 Short answer probably
