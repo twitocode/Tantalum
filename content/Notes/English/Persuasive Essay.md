@@ -19,7 +19,7 @@ aliases:
 - there is no inherent meaning in it 
 
 MAIN ONE: [[Artists’ AI dilemma can artificial intelligence make intelligent art]]
-
+PDF: [[Artists’ AI dilemma_ can artificial intelligence make intelligent art_ _ Art _ The Guardian.pdf]]
 
 1. [Artists’ AI dilemma: can artificial intelligence make intelligent art? \| Art \| The Guardian](https://www.theguardian.com/artanddesign/2024/apr/08/artists-ai-dilemma-can-artificial-intelligence-make-intelligent-art)
 2. [The harm & hypocrisy of AI art — Matt Corrall](https://www.corralldesign.com/writing/ai-harm-hypocrisy)
