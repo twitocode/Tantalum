@@ -18,7 +18,9 @@ aliases:
 		- Makes people tired of original style, slowly degrades meaning
 - there is no inherent meaning in it 
 
-MAIN ONE
+MAIN ONE: [[Artists’ AI dilemma can artificial intelligence make intelligent art]]
+
+
 1. [Artists’ AI dilemma: can artificial intelligence make intelligent art? \| Art \| The Guardian](https://www.theguardian.com/artanddesign/2024/apr/08/artists-ai-dilemma-can-artificial-intelligence-make-intelligent-art)
 2. [The harm & hypocrisy of AI art — Matt Corrall](https://www.corralldesign.com/writing/ai-harm-hypocrisy)
 3. [AI art: The end of creativity or the start of a new movement?](https://www.bbc.com/future/article/20241018-ai-art-the-end-of-creativity-or-a-new-movement)
