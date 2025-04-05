@@ -84,8 +84,22 @@ Q: Name each of the Corporal Works of Mercy,
 A: feed the hungry, give drink to the thirsty, clothe the naked, shelter the homeless, visit the sick, visit the imprisoned, and bury the dead
 <!--ID: 1743694470989-->
 
+Q: Who is Matthew? 
+A: Wrote for the Jewish People
+
+Q: Who is Mark?
+A: Wrote for the Romans
+
+Q: Who is Luke?
+A: Wrote for the Gentiles
+
+Q: Who is John?
+A: Wrote for everyone
+
+
 Q: How did Matthew portray Jesus?
 A: Portrayed Jesus as a teacher
+The new Moses, draws parallels between them.
 
 Q: How did Mark portray Jesus?
 A: Portrayed Jesus as a man in a hurry. 
@@ -94,10 +108,14 @@ A Jesus constantly hemmed in by crowds.
 A Jesus who we would be comfortable with
 
 Q: How did Luke portray Jesus?
-A: 
+A: A compassionate and forgiving person.
+His salvation is available for everyone.
+**He is a friend and advocate for those whom society ignores.**
 
 Q: How did John portray Jesus?
-A: 
+A: Divine, coexistent with God.
+His humanity is undeniable, but possesses divinity as well
+In control at all times, including in death
 
 Q: Who did Matthew write for?
 A: Wrote for the Jewish People
