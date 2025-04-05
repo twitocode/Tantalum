@@ -12,12 +12,7 @@ A: Another word for the 10 commandments.
 
 
 Q: Name the five traits of a covenant
-A: 
-1. Preamble, 
-2. Historical Prologue
-3. Submission/Conditions, 
-4. Witnesses, 
-5. Blessings and Curses.
+A: 1. Preamble, Historical Prologue, Submission/Conditions, Witnesses, Blessings and Curses
 <!--ID: 1743694470924-->
 
 
