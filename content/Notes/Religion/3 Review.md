@@ -135,6 +135,21 @@ A: A collection of teachings and ethical instructions made by Jesus to his follo
 Q: What did Jesus talk about in there Sermon on the Mount?
 A: The Beatitudes, Fulfillment of the law, Love your enemies, The Lord’s prayer, Avoiding Hypocrisy, Trust in God, and The Golden Rule
 
+Q: What challenges did Jewish followers of Jesus face in Matthew’s time?
+A: There was a division between those who followed Jesus and those who stuck to Jewish traditions. The Temple in Jerusalem was destroyed by the Romans in 70 CE
+
+Q: How did the Church emerge out of the split between the Jewish groups?
+A: Those who followed Jesus became Christians and formed the early church
+
+Q: What did Matthew’s gospel seek to accomplish?
+A. Keep the community united, refrain from judging others, accept the sinner among you, and for it to have a stable structure. 
+
+Q: How does Matthew Portray Jesus as the incomparable teacher?
+A: Beginning - Establishes Jesus’ authority to teach. Middle - Matthew says that Jesus is the supreme teacher. End - Risen Jesus is giving instructions on how to **PUT SOMETHING HERE**
+
+
+Q: What was Matthew seeking to demonstrate with his gospel?
+A: Jesus is fulfilling the original intent of the Torah, not replacing it. Jesus is the New Moses; to convince the Jewish community he is the prophesized Messiah. Jesus invites us all to live the way of Jesus
+
 Short answer probably
-- parable analysis.
-- the Gospel of Matthew,
+- parable analysis
