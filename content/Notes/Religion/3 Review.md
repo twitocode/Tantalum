@@ -129,10 +129,9 @@ A: Wrote for the Gentiles
 Q: Who did John write for?
 A: Wrote for everyone
 
-
+Q: What was the Sermon on the Mount
 
 Short answer probably
 - parable analysis.
-- the 4 Gospel writers and **HOW they portrayed Jesus** + **WHO they wrote for**,
 - Sermon on the Mount + its purpose, 
 - the Gospel of Matthew,
