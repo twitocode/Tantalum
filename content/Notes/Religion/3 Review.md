@@ -62,6 +62,8 @@ Q: Define covenant,
 A: A formal, solemn agreement or contract between two or more parties. 
 <!--ID: 1743694470968-->
 
+Q: How were covenants used in the ancient times?
+A: To establish relationships, obligations, and mutual responsibilities, often sealed by a symbolic act such as a ritual or sacrifice
 
 Q: Define exegesis 
 A: The study of scripture texts in their original context
