@@ -113,7 +113,7 @@ His salvation is available for everyone.
 **He is a friend and advocate for those whom society ignores.**
 
 Q: How did John portray Jesus?
-A: Divine, coexistent with God.
+A: Noble, Majestic, and Divine, coexistent with God.
 His humanity is undeniable, but possesses divinity as well
 In control at all times, including in death
 
