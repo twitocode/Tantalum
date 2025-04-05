@@ -129,9 +129,12 @@ A: Wrote for the Gentiles
 Q: Who did John write for?
 A: Wrote for everyone
 
-Q: What was the Sermon on the Mount
+Q: What was the Sermon on the Mount?
+A: A collection of teachings and ethical instructions made by Jesus to his followers. It challenged the status quo, and calls individuals to live out God’s kingdom values.
+
+Q: What did Jesus talk about in there Sermon on the Mount?
+A: The Beatitudes, Fulfillment of the law, Love your enemies, The Lord’s prayer, Avoiding Hypocrisy, Trust in God, and The Golden Rule
 
 Short answer probably
 - parable analysis.
-- Sermon on the Mount + its purpose, 
 - the Gospel of Matthew,
