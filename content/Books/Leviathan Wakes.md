@@ -31,9 +31,20 @@ tags:
 | ----------------- | ---------------------------------- | ---------------------- |
 | Exposition        |                                    |                        |
 | Rising Action     |                                    |                        |
+| Conflict          |                                    |                        |
+| Dialogue          |                                    |                        |
 |                   |                                    |                        |
 |                   |                                    |                        |
-|                   |                                    |                        |
+
+
+| Descriptive Element | Textual Evidence with MLA Citation | Explanation & Analysis |
+| ------------------- | ---------------------------------- | ---------------------- |
+| Exposition          |                                    |                        |
+| Rising Action       |                                    |                        |
+| Conflict            |                                    |                        |
+| Dialogue            |                                    |                        |
+|                     |                                    |                        |
+|                     |                                    |                        |
 
 
 
