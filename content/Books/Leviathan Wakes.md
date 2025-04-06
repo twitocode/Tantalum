@@ -27,14 +27,14 @@ tags:
 	- Earther
 
 
-| Narrative Element  | Textual Evidence with MLA Citation | Explanation & Analysis |
-| ------------------ | ---------------------------------- | ---------------------- |
-| Character          |                                    |                        |
-| Rising Action      |                                    |                        |
-| Conflict           |                                    |                        |
-| Dialogue           |                                    |                        |
-| Theme - Oppression |                                    |                        |
-| POV - 3rd Person   |                                    |                        |
+| Narrative Element  | Textual Evidence with MLA Citation | Explanation & Analysis                           |
+| ------------------ | ---------------------------------- | ------------------------------------------------ |
+| Character          |                                    | Miller                                           |
+| Rising Action      |                                    | Canterbury Destruction or  Donnager Desetruction |
+| Conflict           |                                    |                                                  |
+| Dialogue           |                                    | Naomi                                            |
+| Theme - Oppression |                                    | Mars & Earth vs Belters                          |
+| POV - 3rd Person   |                                    |                                                  |
 
 
 | Descriptive Element | Textual Evidence with MLA Citation | Explanation & Analysis |
