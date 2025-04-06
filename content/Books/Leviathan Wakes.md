@@ -25,6 +25,12 @@ tags:
 	- Belter
 - Chrisjen
 	- Earther
+
+
+| Narrative Element |     |
+| ----------------- | --- |
+|                   |     |
+
 # Narrative Elements:
 Select specific passages that showcase narrative techniques such as parts of a story (exposition, conflict, climax) point of view, characters, dialogue or theme. Discuss their significance in shaping the story.
 
