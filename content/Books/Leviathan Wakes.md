@@ -27,24 +27,24 @@ tags:
 	- Earther
 
 
-| Narrative Element | Textual Evidence with MLA Citation | Explanation & Analysis |
-| ----------------- | ---------------------------------- | ---------------------- |
-| Exposition        |                                    |                        |
-| Rising Action     |                                    |                        |
-| Conflict          |                                    |                        |
-| Dialogue          |                                    |                        |
-|                   |                                    |                        |
-|                   |                                    |                        |
+| Narrative Element  | Textual Evidence with MLA Citation | Explanation & Analysis |
+| ------------------ | ---------------------------------- | ---------------------- |
+| Exposition         |                                    |                        |
+| Rising Action      |                                    |                        |
+| Conflict           |                                    |                        |
+| Dialogue           |                                    |                        |
+| Theme - Oppression |                                    |                        |
+| POV - 3rd Person   |                                    |                        |
 
 
 | Descriptive Element | Textual Evidence with MLA Citation | Explanation & Analysis |
 | ------------------- | ---------------------------------- | ---------------------- |
-| Exposition          |                                    |                        |
-| Rising Action       |                                    |                        |
-| Conflict            |                                    |                        |
-| Dialogue            |                                    |                        |
-|                     |                                    |                        |
-|                     |                                    |                        |
+| Imagery             |                                    |                        |
+| Similie             |                                    |                        |
+| Metaphor            |                                    |                        |
+| Dramatic Irony      |                                    |                        |
+| Suspense            |                                    |                        |
+| Symbolism           |                                    |                        |
 
 
 
