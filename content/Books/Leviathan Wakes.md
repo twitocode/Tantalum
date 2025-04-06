@@ -29,7 +29,7 @@ tags:
 
 | Narrative Element  | Textual Evidence with MLA Citation | Explanation & Analysis |
 | ------------------ | ---------------------------------- | ---------------------- |
-| Exposition         |                                    |                        |
+| Character          |                                    |                        |
 | Rising Action      |                                    |                        |
 | Conflict           |                                    |                        |
 | Dialogue           |                                    |                        |
