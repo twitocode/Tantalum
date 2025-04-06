@@ -31,20 +31,20 @@ tags:
 | ------------------ | ---------------------------------- | ------------------------------------------------ |
 | Character          |                                    | Miller                                           |
 | Rising Action      |                                    | Canterbury Destruction or  Donnager Desetruction |
-| Conflict           |                                    |                                                  |
+| Conflict           |                                    | Earth vs Mars vs Belt                            |
 | Dialogue           |                                    | Naomi                                            |
 | Theme - Oppression |                                    | Mars & Earth vs Belters                          |
 | POV - 3rd Person   |                                    |                                                  |
 
 
-| Descriptive Element | Textual Evidence with MLA Citation | Explanation & Analysis |
-| ------------------- | ---------------------------------- | ---------------------- |
-| Imagery             |                                    |                        |
-| Similie             |                                    |                        |
-| Metaphor            |                                    |                        |
-| Situational Irony   |                                    |                        |
-| Suspense            |                                    |                        |
-| Symbolism           |                                    |                        |
+| Descriptive Element | Textual Evidence with MLA Citation | Explanation & Analysis                                                 |
+| ------------------- | ---------------------------------- | ---------------------------------------------------------------------- |
+| Imagery             |                                    | Ceres day night                                                        |
+| Similie             |                                    |                                                                        |
+| Metaphor            |                                    |                                                                        |
+| Situational Irony   |                                    | Blaming destruction of Canterbury on Mars, then being rescued by Mars. |
+| Suspense            |                                    | Leading up to canterbury destruction                                   |
+| Symbolism           |                                    | Canterbury - oppresion by inners                                       |
 
 
 
