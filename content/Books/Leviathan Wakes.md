@@ -25,6 +25,29 @@ tags:
 	- Belter
 - Chrisjen
 	- Earther
+
+
+| Narrative Element  | Textual Evidence with MLA Citation | Explanation & Analysis                           |
+| ------------------ | ---------------------------------- | ------------------------------------------------ |
+| Character          |                                    | Miller                                           |
+| Rising Action      |                                    | Canterbury Destruction or  Donnager Desetruction |
+| Conflict           |                                    | Earth vs Mars vs Belt                            |
+| Dialogue           |                                    | Naomi                                            |
+| Theme - Oppression |                                    | Mars & Earth vs Belters                          |
+| POV - 3rd Person   |                                    |                                                  |
+
+
+| Descriptive Element | Textual Evidence with MLA Citation | Explanation & Analysis                                                 |
+| ------------------- | ---------------------------------- | ---------------------------------------------------------------------- |
+| Imagery             |                                    | Ceres day night                                                        |
+| Similie             |                                    |                                                                        |
+| Metaphor            |                                    |                                                                        |
+| Situational Irony   |                                    | Blaming destruction of Canterbury on Mars, then being rescued by Mars. |
+| Suspense            |                                    | Leading up to canterbury destruction                                   |
+| Symbolism           |                                    | Canterbury - oppresion by inners                                       |
+
+
+
 # Narrative Elements:
 Select specific passages that showcase narrative techniques such as parts of a story (exposition, conflict, climax) point of view, characters, dialogue or theme. Discuss their significance in shaping the story.
 
@@ -100,7 +123,7 @@ contribute to the atmosphere.
 |                                     | 52.            | personification of cantebury                                                            |
 |                                     | 66-67`         | the type of person miller is                                                            |
 |                                     | 68-69          | miller talking to the crowd                                                             |
-| Irony                               | 75             | MCRN Donnager picks up holden after holden accused mars of destroying the Canterbury    |
+| Irony                               | 75             | MCRN Donnager “rescues” holden after holden accused mars of destroying the Canterbury   |
 | Foreshadowing                       | 77             | Mars' Military capabilities are way better than earth's                                 |
 | Irony pt.2                          | 79             | fingernail torture - alex                                                               |
 | personification                     | 82.2           |                                                                                         |

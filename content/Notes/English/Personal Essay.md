@@ -37,12 +37,16 @@ aliases:
 	- Before I moved to Hamilton, I had many friends, some of which I still talk to everyday. I could not see my friends in person everyday. 
 		- I had
 	- I always wanted to be the smartest in my class ever since grade 5. I remember beating everyone in quick multiplication games.
+<!--ID: 1743891469319-->
+
 # Outline
 - Intro Paragraph
 - First Body Paragraph
 - Second Body Paragraph
 - Third Body Paragraph
 - Conclusion
+<!--ID: 1743891469358-->
+
 
 
 **Irrelevant for the most part**
@@ -51,6 +55,8 @@ aliases:
 # The actual essay
 
 Have you ever felt that the feeling of drowning in your own thoughts because of a tiny trigger in your life? Have you every felt the existential feeling of your stomach dropping to the floor because you fear what will happen to you in the future? If you currently have your life figured out and too advantage of every opportunity you could, then probably not. **Take advantage of the opportunities you’re given in life, or else you will lose out on shortcuts to success and feel dissatisfied with yourself**. My time at the University of Toronto St. George Campus (UTSG) in the summer was exhilarating but also made me worried about my future. 
+<!--ID: 1743891469395-->
+
 
 
 While I was at UTSG, I took as my photos as I could. I was in a group with others and a tour guide. The first stop was the engineering building; when I entered, I kept daydreaming about coming here during school. Looking at the city that I could live in, I was flying throughout the different buildings. Vintage, brutalist, and modern; they were all **….** From the turkey-like architecture of Robarts Library, to the **….** I could smell spicy but sweat aroma of the street food near the athletic center. However I also could not shake the feeling of not being admitted here. I choose computer engineering and computer science at UTSG, which have staggering requirements in my view. My chance of getting into UTSG is very low. I kept trying to ignore the fundamental issues I would need tackle to come here. UTSG is an expensive and prestigious school. My parents are not that rich so I may not be able to go to this school even if I do get it. It took around 10 years before I finally moved out of my old apartment into my new house. Toronto is one of the most expensive cities in the world. 
