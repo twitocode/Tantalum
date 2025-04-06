@@ -27,9 +27,15 @@ tags:
 	- Earther
 
 
-| Narrative Element |     |
-| ----------------- | --- |
-|                   |     |
+| Narrative Element | Textual Evidence with MLA Citation | Explanation & Analysis |
+| ----------------- | ---------------------------------- | ---------------------- |
+| Exposition        |                                    |                        |
+| Rising Action     |                                    |                        |
+|                   |                                    |                        |
+|                   |                                    |                        |
+|                   |                                    |                        |
+
+
 
 # Narrative Elements:
 Select specific passages that showcase narrative techniques such as parts of a story (exposition, conflict, climax) point of view, characters, dialogue or theme. Discuss their significance in shaping the story.
