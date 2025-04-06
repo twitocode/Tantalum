@@ -42,7 +42,7 @@ tags:
 | Imagery             |                                    |                        |
 | Similie             |                                    |                        |
 | Metaphor            |                                    |                        |
-| Dramatic Irony      |                                    |                        |
+| Situational Irony   |                                    |                        |
 | Suspense            |                                    |                        |
 | Symbolism           |                                    |                        |
 
@@ -123,7 +123,7 @@ contribute to the atmosphere.
 |                                     | 52.            | personification of cantebury                                                            |
 |                                     | 66-67`         | the type of person miller is                                                            |
 |                                     | 68-69          | miller talking to the crowd                                                             |
-| Irony                               | 75             | MCRN Donnager picks up holden after holden accused mars of destroying the Canterbury    |
+| Irony                               | 75             | MCRN Donnager “rescues” holden after holden accused mars of destroying the Canterbury   |
 | Foreshadowing                       | 77             | Mars' Military capabilities are way better than earth's                                 |
 | Irony pt.2                          | 79             | fingernail torture - alex                                                               |
 | personification                     | 82.2           |                                                                                         |
