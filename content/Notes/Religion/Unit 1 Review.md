@@ -80,6 +80,10 @@ A formal, solemn agreement or contract between two or more parties.
 To establish relationships, obligations, and mutual responsibilities, often sealed by a symbolic act such as a ritual or sacrifice.
 <!--ID: 1743891469974-->
 
+___
+# What was the significance of covenants?
+They were sacred and often viewed as binding not just between the human parties but also between humans and the gods.
+
 ---
 # Define exegesis
 The study of scripture texts in their original context.
