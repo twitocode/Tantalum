@@ -31,11 +31,13 @@ A doctrine of theological types especially one that holds that things in the New
 ---
 # Define vocation
 Also known as a baptismal mission. It is a calling from God.
+Essentially your job, the job you were always meant to pursue. 
 <!--ID: 1743891469581-->
 
 ---
 # What is a call story?
 Stories where God sends a person, usually a prophet on a mission.
+1. 
 <!--ID: 1743891469618-->
 
 ---
