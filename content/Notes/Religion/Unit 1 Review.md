@@ -69,7 +69,9 @@ The Gospels that have texts which when set side by side, show a similar account 
 
 ---
 # Kingdom of God
-Also known as the Kingdom of Heaven. It literally just means God.
+Also known as the Kingdom of Heaven. 
+It is a symbol or metaphor for God, **not a place**
+God is already present everywhere on earth, **it is within us**
 <!--ID: 1743891469860-->
 
 ---
@@ -133,7 +135,7 @@ Wrote for the Romans.
 
 ---
 # Who is Luke?
-Wrote for the Gentiles.
+Not one of the twelve disciples, he was a Gentile, he was a Greek convert.
 <!--ID: 1743891470238-->
 
 ---
