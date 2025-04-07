@@ -74,7 +74,8 @@ Also known as the Kingdom of Heaven. It literally just means God.
 
 ---
 # What is the innermost secret of the New Testament?
-God's very being is love (Consider revising this for clarity).
+**God's very being is love.**
+The whole mission and life of Jesus is a gift and an expression of God's love.
 <!--ID: 1743891469900-->
 
 ---
