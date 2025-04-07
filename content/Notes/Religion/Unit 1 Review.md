@@ -32,12 +32,19 @@ A doctrine of theological types especially one that holds that things in the New
 # Define vocation
 Also known as a baptismal mission. It is a calling from God.
 Essentially your job, the job you were always meant to pursue. 
+Could also be a call to the priesthood or sisterhood.
 <!--ID: 1743891469581-->
 
 ---
-# What is a call story?
-Stories where God sends a person, usually a prophet on a mission.
-1. 
+# What is a call story? What is its format?
+Stories where God sends a person, usually a prophet on a mission. 
+They usually follow this pattern:
+1. Confrontation with God
+2. Introductory Speech
+3. Imparting of a Mission
+4. Objection by the prophet-to-be
+5. Reassurance by God
+6. The Sign
 <!--ID: 1743891469618-->
 
 ---
@@ -47,7 +54,7 @@ Pertaining to the end of time, in the sense of its fullness. It is an ethics tha
 
 ---
 # What is Parousia?
-The second coming of Christ (the rapture)
+The second coming of Christ
 <!--ID: 1743891469719-->
 
 ---
@@ -96,7 +103,10 @@ The study of how texts should be interpreted. The text's meaning in today's time
 
 ---
 # Talk about the power of the name YHWH
-It has the power to change the Israelite's history. It is a source of judgement. (Clarify/Expand on this answer).
+Yahweh; It is the name of God.
+1. It revels God and His love for the Chosen people.
+2. It reveals what God will do for others.
+3. It is so sacred that bible writers made different versions of not, so that the original name could not be tainted.
 <!--ID: 1743891470087-->
 
 ---
