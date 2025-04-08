@@ -71,9 +71,15 @@ The Gospels that have texts which when set side by side, show a similar account 
 # Kingdom of God
 It is a symbol or metaphor for God, **not a place**
 It is God among us in our **words** and **actions**
-It is about God’s intense desire to be a part of our lives and history.
+It is about the transformational rule of God over the hearts and lives of believers.
 Striving to achieve **INFINITE GOOD**
 <!--ID: 1743891469860-->
+
+___
+# What is needed to enter the Kingdom of God?
+A Personal Response - a radical change of heart and lifestyle.
+<!--ID: 1744077792726-->
+
 
 ---
 # What is the innermost secret of the New Testament?
