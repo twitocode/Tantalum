@@ -135,22 +135,26 @@ Yahweh; It is the name of God.
 
 ---
 # Who is Matthew?
-Wrote for the Jewish People.
+I literally have no clue DISCARD
+80 AD - 100 AD
 <!--ID: 1743891470165-->
 
 ---
 # Who is Mark?
-Not one of the twelve disciples. 
+A Jewish Man, Not one of the twelve disciples. 
+65 AD - 70 AD
 <!--ID: 1743891470201-->
 
 ---
 # Who is Luke?
 Not one of the twelve disciples, he was a Gentile, he was a Greek convert.
+85 AD
 <!--ID: 1743891470238-->
 
 ---
 # Who is John?
-Wrote for everyone.
+Once again, no clue DISCARD
+100AD
 <!--ID: 1743891470282-->
 
 ---
@@ -180,7 +184,7 @@ Wrote for the Jewish People.
 
 ---
 # Who did Mark write for?
-Wrote for the Romans.
+Wrote for the Romans and Gentiles.
 <!--ID: 1743891470515-->
 
 ---
