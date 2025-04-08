@@ -69,9 +69,10 @@ The Gospels that have texts which when set side by side, show a similar account 
 
 ---
 # Kingdom of God
-Also known as the Kingdom of Heaven. 
 It is a symbol or metaphor for God, **not a place**
-God is already present everywhere on earth, **it is within us**
+It is God among us in our **words** and **actions**
+It is about God’s intense desire to be a part of our lives and history.
+Striving to achieve **INFINITE GOOD**
 <!--ID: 1743891469860-->
 
 ---
@@ -93,6 +94,8 @@ To establish relationships, obligations, and mutual responsibilities, often seal
 ___
 # What was the significance of covenants?
 They were sacred and often viewed as binding not just between the human parties but also between humans and the gods.
+<!--ID: 1744077594427-->
+
 
 ---
 # Define exegesis
@@ -203,6 +206,8 @@ A collection of teachings and ethical instructions made by Jesus to his follower
 ___
 # Eye of the Needle
 Put something here 
+<!--ID: 1744077594434-->
+
 
 ---
 # What challenges did Jewish followers of Jesus face in Matthew’s time?
@@ -244,11 +249,17 @@ Jesus is fulfilling the original intent of the Torah, not replacing it. Jesus is
 ___
 # How can you be Priest?
 **Teaching** - Helping others to see God
+<!--ID: 1744077594437-->
+
 
 ___
 # How can you be a Prophet?
 **Spread** - the word of God, set examples, be a leader
+<!--ID: 1744077594442-->
+
 
 ___
 # How can you be a king?
 **Serve** - serving others through the Corporal Works of Mercy
+<!--ID: 1744077594445-->
+
