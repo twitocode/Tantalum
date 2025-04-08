@@ -113,7 +113,7 @@ Yahweh; It is the name of God.
 <!--ID: 1743891470087-->
 
 ---
-# Name each of the Corporal Works of Mercy
+# Name each of the Corporal Works of Mercy and give an example for each
 1. Feed the hungry
 2. Give drink to the thirsty
 3. Clothe the naked
@@ -122,6 +122,7 @@ Yahweh; It is the name of God.
 6. Visit the imprisoned
 7. Bury the dead
 <!--ID: 1743891470127-->
+
 
 ---
 # Who is Matthew?
@@ -198,6 +199,10 @@ A collection of teachings and ethical instructions made by Jesus to his follower
 6. Trust in God
 7. The Golden Rule
 <!--ID: 1743891470670-->
+
+___
+# Eye of the Needle
+Put something here 
 
 ---
 # What challenges did Jewish followers of Jesus face in Matthew’s time?
