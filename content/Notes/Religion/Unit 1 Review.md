@@ -214,8 +214,9 @@ A collection of teachings and ethical instructions made by Jesus to his follower
 <!--ID: 1743891470670-->
 
 ___
-# Eye of the Needle
-Put something here 
+# Explain the metaphor “Eye of the Needle”
+Illustrates the difficulty for the **rich man** to enter the kingdom of God. You cannot enter it with wealth alone. Jesus challenged this notion; says it is a barrier between you and God.
+**Are you ready to throw your wealth away to follow God?**
 <!--ID: 1744077594434-->
 
 
