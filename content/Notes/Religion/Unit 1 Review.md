@@ -118,7 +118,7 @@ The study of how texts should be interpreted. The text's meaning in today's time
 Yahweh; It is the name of God.
 1. It revels God and His love for the Chosen people.
 2. It reveals what God will do for others.
-3. It is so sacred that bible writers made different versions of not, so that the original name could not be tainted.
+3. It is so sacred that bible writers made different versions of it, so that the original name could not be tainted.
 <!--ID: 1743891470087-->
 
 ---
