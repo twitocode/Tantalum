@@ -59,7 +59,7 @@ The second coming of Christ
 
 ---
 # What is the main concern of the Old Testament?
-(This question needs an answer)
+The relationship between God and the Israelites (The chosen people)
 <!--ID: 1743891469779-->
 
 ---
