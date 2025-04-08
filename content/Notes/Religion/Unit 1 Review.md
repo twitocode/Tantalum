@@ -30,7 +30,7 @@ A doctrine of theological types especially one that holds that things in the New
 
 ---
 # Define vocation
-Also known as a baptismal mission. It is a calling from God.
+Also known as a baptismal vocation/mission. It is a calling from God.
 Essentially your job, the job you were always meant to pursue. 
 Could also be a call to the priesthood or sisterhood.
 <!--ID: 1743891469581-->
@@ -243,12 +243,12 @@ Jesus is fulfilling the original intent of the Torah, not replacing it. Jesus is
 
 ___
 # How can you be Priest?
-
+**Teaching** - Helping others to see God
 
 ___
 # How can you be a Prophet?
-a
+**Spread** - the word of God, set examples, be a leader
 
 ___
 # How can you be a king?
-a
+**Serve** - serving others through the Corporal Works of Mercy
