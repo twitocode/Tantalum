@@ -140,7 +140,7 @@ Wrote for the Jewish People.
 
 ---
 # Who is Mark?
-Wrote for the Romans.
+Not one of the twelve disciples. 
 <!--ID: 1743891470201-->
 
 ---
