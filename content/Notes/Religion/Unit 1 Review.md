@@ -39,12 +39,12 @@ Could also be a call to the priesthood or sisterhood.
 # What is a call story? What is its format?
 Stories where God sends a person, usually a prophet on a mission. 
 They usually follow this pattern:
-1. Confrontation with God
-2. Introductory Speech
-3. Imparting of a Mission
-4. Objection by the prophet-to-be
-5. Reassurance by God
-6. The Sign
+1. **Confrontation** with God
+2. Introductory **Speech**
+3. Imparting of a **Mission**
+4. **Objection** by the prophet-to-be
+5. **Reassurance** by God
+6. The **Sign**
 <!--ID: 1743891469618-->
 
 ---
