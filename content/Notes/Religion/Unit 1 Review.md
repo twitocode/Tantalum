@@ -240,3 +240,15 @@ ___
 # What was Matthew seeking to demonstrate with his gospel?
 Jesus is fulfilling the original intent of the Torah, not replacing it. Jesus is the New Moses, to convince the Jewish community he is the prophesized Messiah. Jesus invites us all to live the way of Jesus.
 <!--ID: 1743891470862-->
+
+___
+# How can you be Priest?
+
+
+___
+# How can you be a Prophet?
+a
+
+___
+# How can you be a king?
+a
