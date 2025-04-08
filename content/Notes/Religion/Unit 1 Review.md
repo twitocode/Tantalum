@@ -252,3 +252,8 @@ ___
 ___
 # How can you be a king?
 **Serve** - serving others through the Corporal Works of Mercy
+epsilon
+$$
+\Delta \tau_{i} = \frac{{x_{i} - m_{i}}}{\epsilon\varphi m_{i}}
+
+$$
