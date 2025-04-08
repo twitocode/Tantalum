@@ -252,4 +252,3 @@ ___
 ___
 # How can you be a king?
 **Serve** - serving others through the Corporal Works of Mercy
-epsilon
