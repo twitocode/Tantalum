@@ -233,7 +233,6 @@ ___
 | Blood spilled during Childhood      | Crucifixion                       |
 | Passover lamb blood on doors        | Sacrificial lamb                  |
 | Threatened and protected by Pharaoh | Threatened and protected by Herod |
-|                                     |                                   |
 <!--ID: 1743891876359-->
 
 
