@@ -232,7 +232,10 @@ Those who followed Jesus became Christians and formed the early church.
 
 ---
 # What did Matthew’s gospel seek to accomplish?
-Keep the community united, refrain from judging others, accept the sinner among you, and for it to have a stable structure.
+1. Keep the community united
+2. refrain from judging others
+3. accept the sinner among you
+4. for it to have a stable structure.
 <!--ID: 1743891470782-->
 
 ---
