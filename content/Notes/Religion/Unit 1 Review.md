@@ -135,7 +135,7 @@ Yahweh; It is the name of God.
 
 ---
 # Who is Matthew?
-I literally have no clue DISCARD
+One of the 12 apostles
 80 AD - 100 AD
 <!--ID: 1743891470165-->
 
