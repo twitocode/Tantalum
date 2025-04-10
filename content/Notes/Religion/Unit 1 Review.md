@@ -135,25 +135,25 @@ Yahweh; It is the name of God.
 
 ---
 # Who is Matthew?
-One of the 12 apostles
+One of the 12 apostles, a **former tax man**
 80 AD - 100 AD
 <!--ID: 1743891470165-->
 
 ---
 # Who is Mark?
-A Jewish Man, Not one of the twelve disciples. 
+Follower of peter so he was considered an "apostolic man" A Jewish Man, Not one of the twelve disciples. 
 65 AD - 70 AD
 <!--ID: 1743891470201-->
 
 ---
 # Who is Luke?
-Not one of the twelve disciples, he was a Gentile, he was a Greek convert.
+Not one of the twelve disciples, A doctor, believed to have written the acts of the apostles. he was a Gentile, he was a Greek convert.
 85 AD
 <!--ID: 1743891470238-->
 
 ---
 # Who is John?
-Once again, no clue DISCARD
+A disciple of Jesus. 
 100AD
 <!--ID: 1743891470282-->
 
