@@ -9,3 +9,5 @@ Future Gunpla to get:
 - Strike Freedom
 - Rising Freedom
 - Gundam Exia
+- Zaku Gouf
+- Gundam Barbatos
