@@ -7,18 +7,18 @@ tags:
 ---
 
 # Characters
-- Holden 
+- James Holden
 	- Earther
 	- Leader
 		- Tries to ignore the problems around him
-- Naomi
+- Naomi Nagata
 	- Belter
 	- Pragmatic
-- Amos
+- Amos Burton 
 	- Earther
 	- "Trigger-finger"
 	- Sees Naomi as the boss, not Holden or ship captain
-- Alex
+- Alex Kamal
 	- Martian
 	- Trigger-hungry
 - Shed
@@ -31,6 +31,6 @@ tags:
 		- Works for an Earther company at first
 	- Second Half
 		- Sacrifices himself to save Earth 
-- Chrisjen
-	- Earther
-
+- Fred Johnson
+- Anderson Dawes
+- Julie Mao
