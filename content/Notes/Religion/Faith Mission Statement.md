@@ -56,8 +56,8 @@ aliases:
     - Pray that others will experience the presence and power of the Holy Spirit.
     - Model a life of spiritual growth and openness to God's guidance.
 7. **To respect human nature and dignity I need to...** (2 points)
-    - **To respect human nature and dignity I need to **
-    - **To respect human nature and dignity In need to**
+    - **To respect human nature and dignity I need to learn how to emphasize with others; join environments that make me uncomfortable but also allow me to see other perspectives.**
+    - **To respect human nature and dignity In need to not judge others; take the beam out of my eye before complaining about the splinter in another's**
     - Recognize and affirm the inherent worth of every human being as created in God's image.
     - Avoid engaging in gossip, slander, or any form of communication that demeans others.
     - Challenge prejudice and discrimination in all its forms.
