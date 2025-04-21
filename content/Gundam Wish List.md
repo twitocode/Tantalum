@@ -11,3 +11,4 @@ Future Gunpla to get:
 - Gundam Exia
 - Zaku Gouf
 - Gundam Barbatos
+- Sazabi
