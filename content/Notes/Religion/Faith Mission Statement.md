@@ -23,16 +23,16 @@ aliases:
     - I will seek to let go of past hurts and practice forgiveness more freely.
     - I will try to be less critical of myself and others.
 3. **I will do...** (3 points)
-    - **I will do**
-    - **I**
-    - **I**
+    - **I will do one or more actions of kindness in my community daily**
+    - **I will do volunteering at any non-profit when I am available, whether it be my church or community group, as long as I am giving back**
+    - **I will do daily reflection, meditation and prayer to prepare my self for the day and its challenges ahead..**
     - I will make time for daily prayer and reflection.
     - I will actively participate in service opportunities in my community.
     - I will read scripture regularly to deepen my understanding of my faith.
     - I will seek out mentors or trusted individuals for spiritual guidance.
     - I will practice gratitude daily, acknowledging the blessings in my life.
 4. **I will value life by...** (3 points)
-    - **I will value life by**
+    - **I will value life by advocating for marginalized groups in **
     - **I will value life by**
     - **I will value life by**
     - Treating every person I encounter with inherent respect and dignity.
