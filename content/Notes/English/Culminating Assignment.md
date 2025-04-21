@@ -5,7 +5,7 @@ tags:
   - English
 aliases:
 ---
-Book: [[Leviathan Wakes]]
+ Book: [[Leviathan Wakes]]
 
 **You need to include eight entries in your reading journal. Your entries will be based on specific incidents** 
 **in your novel as well as interpretations of your novel as a whole. The eight entries are outlined below.** 
