@@ -32,17 +32,17 @@ aliases:
     - I will seek out mentors or trusted individuals for spiritual guidance.
     - I will practice gratitude daily, acknowledging the blessings in my life.
 4. **I will value life by...** (3 points)
-    - **I will value life by advocating for marginalized groups in **
-    - **I will value life by**
-    - **I will value life by**
+    - **I will value life by advocating for marginalized groups in my community**
+    - **I will value life by reducing the amount of waste and pollution I produce. ** *Add more*
+    - **I will value life by being there for others, ensuring that their mental health is fine, instead of treating them like they are not living**
     - Treating every person I encounter with inherent respect and dignity.
     - Protecting and caring for vulnerable populations, including the unborn, elderly, and poor.
     - Making choices that promote my own physical, mental, and spiritual well-being.
     - Advocating for justice and equality for all people.
     - Being a responsible steward of the environment and the natural world.
 5. **To show the love of God to the world I need to...** (2 points)
-    - **To show the love of God to the world I need to **
-    - **To show the love of God to the world I need to**
+    - **To show the love of God to the world I need to first learn to love my neighbour and enemies, just as Jesus taught us.**
+    - **To show the love of God to the world I need to show others Christian values through my words and actions, not forcing, but showing that there is another way to live that the world can follow**
     - Exhibit kindness and compassion in all my interactions.
     - Listen attentively and empathetically to others' stories and struggles.
     - Offer practical help and support to those in need.
