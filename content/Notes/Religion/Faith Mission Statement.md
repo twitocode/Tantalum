@@ -49,7 +49,8 @@ aliases:
     - Share my faith through authentic relationships and genuine care for others.
     - Pray for the well-being and peace of the world.
 6. **To help others become aware of the Gifts and Fruits of the Holy Spirit I will...** (3 points)
-    
+    - **To help others become aware of the Gifts and Fruits of the Holy Spirit I will demonstrate the fruits in my daily life. Love one another, be kind, have faith in another's journey, or be in control of my emotions when I am angry.**
+    - To help others become aware of the Gifts and Fruits of the Holy Spirit I will ** *put something here*
     - Demonstrate the Fruits of the Spirit (love, joy, peace, patience, kindness, generosity, faithfulness, gentleness, self-control) in my daily life.
     - Share personal testimonies of how the Holy Spirit has worked in my life.
     - Encourage others to identify and use their own unique talents and gifts for good.
