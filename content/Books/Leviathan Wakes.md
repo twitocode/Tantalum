@@ -11,6 +11,7 @@ tags:
 	- Earther
 	- Leader
 		- Tries to ignore the problems around him
+	- Always relying on Naomi when things did not go to plan p.157
 - Naomi Nagata
 	- Belter
 	- Pragmatic
