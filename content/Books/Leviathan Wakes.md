@@ -31,6 +31,8 @@ tags:
 		- Works for an Earther company at first
 	- Second Half
 		- Sacrifices himself to save Earth 
+		  
+		  Chapter 14 - really interested in finding julie
 - Fred Johnson
 - Anderson Dawes
 - Julie Mao
