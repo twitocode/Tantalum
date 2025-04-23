@@ -26,10 +26,10 @@ aliases:
 6. **To help others become aware of the Gifts and Fruits of the Holy Spirit I will...** (3 points)
     - Follow the golden rule, to love others as I love myself.
     - Take control of things in my life that I normally do not have control over, whether it be controlling anger or controlling impulsive decisions. 
-    - Have faith in others to do what they set out to do.
+    - Have faith in others to achieve their goals and dreams.
 7. **To respect human nature and dignity I need to...** (2 points)
-    - To respect human nature and dignity I need to learn how to emphasize with others; join environments that make me uncomfortable but also allow me to see other perspectives.
-    - To respect human nature and dignity In need to not judge others; take the beam out of my eye before complaining about the splinter in another's
+    - Learn how to emphasize with others; join environments that make me uncomfortable but also allow me to see other perspectives.
+    - Not judge others; take the beam out of my eye before complaining about the splinter in another's.
 8. **I will be obedient to God by...** (2 points)
-    - I will be obedient to God by following the 10 commandments and the Beatitudes, as laid out by Moses and Jesus
-    - I will be obedient to God by not just finding God when in times of turmoil, but also during my daily life; in time of joy
+    - Following the 10 commandments and the Beatitudes, as laid out by Moses and Jesus
+    - Not just finding God when in times of turmoil, but also during my daily life; in times of joy
