@@ -6,27 +6,27 @@ tags:
 aliases:
 ---
 1. **I believe...** (3 points)
-    - I Believe in the one God who loves everything he created in the cosmos
-    - I Believe in the one Go who sent a part of himself to save his beloved creations from themselves
-    - I believe that everything that God created, was created in perfection. 
+    - In the one God who loves everything he created in the cosmos.
+    - In the one God who sent a part of himself to save his beloved creations from themselves.
+    - That everything created by God, was created in perfection. 
 2. **I will change...** (2 points)
-    - I will change the way I approach my community, instead of being a bystander hoping for change, I will be the one who brings about change.
-    - I will change the way I view myself, self-love triumphs self-hate, when you love yourself, you love God.
+    - The way I approach my community, instead of being a bystander hoping for change, I will be the one who brings about change.
+    - The way I view myself, self-love triumphs self-hate, when you love yourself, you love God.
 3. **I will do...** (3 points)
-    - I will do one or more actions of kindness in my community daily
-    - I will do volunteering at any non-profit when I am available, whether it be my church or community group, as long as I am giving back
-    - I will do daily reflection, meditation and prayer to prepare my self for the day and its challenges ahead..
+    - One or more actions of kindness in my community every day.
+    - Volunteering at any non-profit when I am available, whether it be my church or community group, as long as I am giving back.
+    - Daily reflection, meditation and prayer to prepare my self for the day and its challenges ahead.
 4. **I will value life by...** (3 points)
-    - I will value life by advocating for marginalized groups in my community
-    - I will value life by reducing the amount of waste and pollution I produce. ** *Add more*
-    - I will value life by being there for others, ensuring that their mental health is fine, instead of treating them like they are not living
+    - Advocating for marginalized groups in my community
+    - Reducing the amount of waste and pollution I produce. 
+    - Being there for others, ensuring that they are mentally well, instead of treating them like they are not living.
 5. **To show the love of God to the world I need to...** (2 points)
-    - To show the love of God to the world I need to first learn to love my neighbour and enemies, just as Jesus taught us.
-    - To show the love of God to the world I need to show others Christian values through my words and actions, not forcing, but showing that there is another way to live that the world can follow*
+    - First learn to love my neighbour and enemies, just as Jesus taught us.
+    - Show others Christian values through my words and actions, not forcing, but showing that there is another way the world can follow to live life.
 6. **To help others become aware of the Gifts and Fruits of the Holy Spirit I will...** (3 points)
-    - To help others become aware of the Gifts and Fruits of the Holy Spirit I will follow the golden rule, to love others as I love myself.
-    - To help others become aware of the Gifts and Fruits of the Holy Spirit I will take control of things in my life that I normally do not have control over, whether it be controlling anger or controlling impulsive decisions. 
-    - To help others become aware of the Gifts and Fruits of the Holy Spirit I will have faith in others to do what they set out to do.
+    - Follow the golden rule, to love others as I love myself.
+    - Take control of things in my life that I normally do not have control over, whether it be controlling anger or controlling impulsive decisions. 
+    - Have faith in others to do what they set out to do.
 7. **To respect human nature and dignity I need to...** (2 points)
     - To respect human nature and dignity I need to learn how to emphasize with others; join environments that make me uncomfortable but also allow me to see other perspectives.
     - To respect human nature and dignity In need to not judge others; take the beam out of my eye before complaining about the splinter in another's
