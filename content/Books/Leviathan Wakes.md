@@ -36,6 +36,8 @@ tags:
 		- Sacrifices himself to save Earth 
 		  
 		  Chapter 14 - really interested in finding julie
+		- Chapter 16 - very determined and mars and belt might start ifghting each other
+			- told he is not the best at his job by dawes
 - Fred Johnson
 - Anderson Dawes
 - Julie Mao
