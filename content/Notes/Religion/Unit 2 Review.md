@@ -30,7 +30,15 @@ ___
 # List the 5 powers of the Soul
 
 ___
-# Name the different types of justice and give examples
+# Name the different types of justice and give 
+1. Commutative Justice
+	- Pertains to contractual relationships between individuals, and between institutions. ADD MORE
+2. Legal Justice
+	- The relationship of the individual to society, based on law and enforcement. Also known as contributive justice
+3. Distributive Justice
+	- The relationship of government to the indiviual, and the government's obligation includes: the good of citizenship, etc.
+4. Biblical Justice
+	- All humans are equal before God and have the right to be treated with dignity and fairness no matter who you are.
 
 ___
 # Define Deposit of Faith
