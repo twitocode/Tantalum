@@ -35,8 +35,10 @@ ___
 ___
 # Define Deposit of Faith
 
+
 ___
 # What is common good?
+The sum total of social conditions which allow people, either as groups or as individuals, to reach their fulfilment more fully and more easily.
 
 ___
 # What is the Incarnation of Jesus?
