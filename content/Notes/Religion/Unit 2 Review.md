@@ -28,6 +28,11 @@ ___
 
 ___
 # List the 5 powers of the Soul
+1. Vegetative Power (Nutritive)
+2. Sensitive Power (Sensation)
+3. Appetitive Power (Desire)
+4. Locomotive Power (Movement)
+5. Rational/Intellectual Power (Intellect & Will)
 
 ___
 # Name the different types of justice and give 
