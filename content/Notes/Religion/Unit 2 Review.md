@@ -10,7 +10,18 @@ TARGET DECK: Grade 12::HRT4M1::Unit 2 - Our Christian Profession of Faith
 
 ___
 # What is Faith?
-
+A journey, requires commitment and sacrifice, a guide, and trusting in what you cannot see
+*It is good to ask questions about it*
+**Dictionary:** It is an inner attitude, conviction, or trust relating human beings to a supreme God or ultimate salvation. 
+**Christianity:** The divinely inspired human response to God's historical revelation through Jesus Christ.
+**THINK OF THE NIAGARA FALLS TIGHT-ROPE EXAMPLE**
+___
+# What are the 3 components of Faith?
+The word faith denotes...
+1.  Your actual faith/religion (I am Budish, etc.) 
+2. A trust in God that he is always with you
+3. An *actual* relationship with God. **without an authentic relationship with God, the other two concepts are meaningless.**
+	1. Without out, it says that God is a magician with magical powers who we believe but have no faith in.
 
 ___
 # List the 5 ways God exists according to St. Thomas Aquinas
@@ -31,21 +42,26 @@ ___
 1. Vegetative Power (Nutritive)
 	-  Keeps you alive by letting you body grow, digest food, and heal. 
 		- Your body uses food from lunch to give you energy and help you grow taller.
+	- reminds us that we must care for our bodies and environments in ways that promote life
 2. Sensitive Power (Sensation)
 	- Seeing, hearing, smelling, tasting, touching. Lets you see, hear, touch, taste, and smell—and also remember and imagine things.
 		- You hear your favourite song and it reminds you of summer break.
+	- teaches us to respond rightly to the world around us, seeking beauty and goodness while avoiding sin and temptation.
 3. Appetitive Power (Desire)
 	- Deals with your feelings and desires—what you want or fear. The capacity to desire or respond emotionally.
 	- **Two parts:**
 		- **Concupiscible:** Wants pleasure, avoids pain (e.g., love, joy, sadness, desire for good, aversion to evil).
 		- **Irascible:** Deals with challenges (e.g., courage, anger, fear).
-	- -You feel nervous before a test (fear) but still go for it (courage).
+	- You feel nervous before a test (fear) but still go for it (courage).
+	- invites us to order our emotions, passions, and desires toward what is good—helping us avoid excessive attachments or harmful desires.
 4. Locomotive Power (Movement)
 	- Moves your body from place to place. The ability to move in response to desire or sense experience. Physical movement guided by the appetites.
 		- You jump up during a fire drill and quickly head outside.
+	- we are called to act with purpose, directing our actions toward moral good rather than selfish interests.
 5. Rational/Intellectual Power (Intellect & Will)
 	- Lets you think deeply, understand truth, make decisions, and love freely. The highest faculty of the human soul.
 	- **ONLY HUMANS HAVE IT**
+	- allows us to discern truth and make free choices, choosing God's will above our own. A person who properly understands and develops these powers will be able to live a life that reflects Christ's love and virtues.
 
 ___
 # Name the different types of justice and give 
@@ -75,10 +91,14 @@ ___
 
 ___
 # What is the Holy Trinity?
+**The way God reveals himself in the Bible.** A representation of God in 3 different ways; may be a way to understand God himself. 
+*THINK OF 3 CANDLES WITH 1 FLAME.*
 
 ___
 # What is the Holy Trinity composed of?
-
+1. The Creator
+2. The Incarnate figure of Jesus Christ
+3. The Holy Spirit who is the helper and intercessor
 
 ___
 # call to holiness,
@@ -103,3 +123,5 @@ Calls each of us to deepen out faith. The focus of it is 're-proposing' of the G
 
 ___
 # What is the Paschal Mystery?
+1. Resurrection
+2. Incarnation
