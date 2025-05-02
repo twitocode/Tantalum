@@ -86,7 +86,7 @@ ___
 	- The Church's work is a continuation of the work of the Apostles
 ___
 # Define New Evangelization
-Calls each of us to deepen out faith. The focus of it is 're-proposing' of the Gospel to those who have experienced a crisis of Faith. **ADD MORE**
+Calls each of us to deepen out faith. The focus of it is 're-proposing' of the Gospel to those who have experienced a crisis of Faith. **ADD MORE** 
 
 ___
 # What is the Paschal Mystery?
