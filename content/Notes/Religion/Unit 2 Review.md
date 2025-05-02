@@ -29,15 +29,23 @@ ___
 ___
 # List the 5 powers of the Soul
 1. Vegetative Power (Nutritive)
--  Keeps you alive by letting you body grow, digest food, and heal. 
-1. Sensitive Power (Sensation)
-- 
+	-  Keeps you alive by letting you body grow, digest food, and heal. 
+		- Your body uses food from lunch to give you energy and help you grow taller.
+2. Sensitive Power (Sensation)
+	- Seeing, hearing, smelling, tasting, touching. Lets you see, hear, touch, taste, and smell—and also remember and imagine things.
+		- You hear your favourite song and it reminds you of summer break.
 3. Appetitive Power (Desire)
-- 
+	- Deals with your feelings and desires—what you want or fear. The capacity to desire or respond emotionally.
+	- **Two parts:**
+		- **Concupiscible:** Wants pleasure, avoids pain (e.g., love, joy, sadness, desire for good, aversion to evil).
+		- **Irascible:** Deals with challenges (e.g., courage, anger, fear).
+	- -You feel nervous before a test (fear) but still go for it (courage).
 4. Locomotive Power (Movement)
-- 
+	- Moves your body from place to place. The ability to move in response to desire or sense experience. Physical movement guided by the appetites.
+		- You jump up during a fire drill and quickly head outside.
 5. Rational/Intellectual Power (Intellect & Will)
-- 
+	- Lets you think deeply, understand truth, make decisions, and love freely. The highest faculty of the human soul.
+	- **ONLY HUMANS HAVE IT**
 
 ___
 # Name the different types of justice and give 
