@@ -18,6 +18,7 @@ tags:
 	- Belter
 	- Pragmatic
 	- Appears tough at first, cries for the first time p.159
+	- p.178-179 not a leader
 - Amos Burton 
 	- Earther
 	- "Trigger-finger"
