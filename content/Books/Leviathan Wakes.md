@@ -54,3 +54,5 @@ p. 181 - holden independence and meeting fred johnson
 p.183 - donnager -> belters happy
 p.184 - miller is a bum
 p.185 - stubborn miller how did holden survive
+p.188 - no more government on ceres
+p.191 - earth is best hope for peace but they left ceres, do they not want peace?
