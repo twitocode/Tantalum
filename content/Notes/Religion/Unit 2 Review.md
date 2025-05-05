@@ -6,7 +6,7 @@ tags:
 aliases: 
 TARGET DECK: Grade 12::HRT4M1::Unit 2 - Our Christian Profession of Faith
 ---
-# Catholic Social Teachings [the specific ones we discussed in the actual unit]
+**# Catholic Social Teachings [the specific ones we discussed in the actual unit]
 
 ___
 # What is Faith?
