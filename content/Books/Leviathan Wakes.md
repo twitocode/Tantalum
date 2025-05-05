@@ -13,7 +13,7 @@ tags:
 		- Tries to ignore the problems around him
 	- Always relying on Naomi when things did not go to plan p.157
 	- p.158 used to joke about marines while in the navy, now he does not do it because they gave their lives to save him
-	- p.174 finally calm after the events with the donnager
+	- p.174 finally calm after the events with the donnager, they are now on the tachi which is a martian warship. everyone on the crew is happy
 - Naomi Nagata
 	- Belter
 	- Pragmatic
