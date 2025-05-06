@@ -58,3 +58,4 @@ p.188 - no more government on ceres
 p.191 - earth is best hope for peace but they left ceres, do they not want peace?
 p.197 - mars and belt war is suicidial, einstein reference
 p.200 - naomi and holden start of love story?
+p.201-202 holden by himself wondering
