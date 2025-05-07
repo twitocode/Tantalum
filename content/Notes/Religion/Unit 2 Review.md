@@ -35,7 +35,9 @@ ___
 # Define the Mystical Body of Christ
 
 ___
-# What is your Vocation?
+# Vocation Definition
+A calling a state of life: marriage, ordained ministry, consecrated life, single state. It is a calling by God to live a life of love in a unique and graced way
+
 
 ___
 # List the 5 powers of the Soul
@@ -79,8 +81,28 @@ ___
 
 
 ___
-# What is common good?
+# CST: Common Good
 The sum total of social conditions which allow people, either as groups or as individuals, to reach their fulfilment more fully and more easily.
+
+___
+# CST: Option for the Poor and Vulnerable
+A basic moral test is how our most vulnerable are faring. Instructs us to put the needs of the poor and vulnerable above us. Giving alms to the poor is a witness of fraternal charity: it is also a work of justice pleasing to God.
+
+___
+# CST: Rights and Responsibilities
+Human dignity can be protected and a healthy community can be achieved only if human rights are protected and responsibilities are met. 
+
+___
+# CST: Call to Family, Community, and Participation
+How we organize our society in economics and politics, in law and politics, in law and policy, directly affects human dignity and the capacity of individuals to grow in community. Marriage and the family are the central social institutions that must be supported and strengthened.
+
+___
+# CST: Human Dignity
+The Catholic Church proclaims that human life is sacred and that the dignity of the human person is the foundation of a moral vision of society. In our society, human life is under direct attack from abortion and euthanasia, cloning, embryonic stem cell research, and the death penalty. Work to avoid war, every person is precious
+
+___
+# CST: Solidarity
+We are one human family whatever our national, racial, ethnic, economic, and ideological differences. At the core of the virture solidarity is the pursuit of justice and peace.
 
 ___
 # What is the Incarnation of Jesus?
@@ -101,8 +123,8 @@ ___
 3. The Holy Spirit who is the helper and intercessor
 
 ___
-# call to holiness,
-
+# The goal of moral life is to...
+Obtain holiness. IT calls us to discover who we are (Children of God), what awe are made for (God), and to be Christ-like to others. *Holiness is synonymous with true happiness.* 
 
 ___
 # List the 4 marks of the Church
