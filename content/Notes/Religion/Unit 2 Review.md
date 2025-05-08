@@ -139,7 +139,6 @@ ___
 3. The Holy Spirit who is the helper and intercessor
 
 
-
 ___
 # The goal of moral life is to...
 Obtain holiness. IT calls us to discover who we are (Children of God), what awe are made for (God), and to be Christ-like to others. *Holiness is synonymous with true happiness.* 
@@ -159,7 +158,7 @@ ___
 	- The Church's work is a continuation of the work of the Apostles
 ___
 # Define New Evangelization
-Calls each of us to deepen out faith. The focus of it is 're-proposing' of the Gospel to those who have experienced a crisis of Faith. **ADD MORE** 
+Calls each of us to deepen out faith. **The focus of it is 're-proposing' of the Gospel to those who have experienced a crisis of Faith due to secularization or other reasons.**
 
 ___
 # What is the Paschal Mystery?
