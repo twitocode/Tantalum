@@ -31,10 +31,15 @@ The word faith denotes...
 ___
 # List the 5 ways God exists according to St. Thomas Aquinas
 1. MOTION - The First Mover
+	1. There must be a first source of movement according to physics
 2. CAUSATION - The Fist Cause
+	1. Cause and Effect in physics 
 3. CONTINGENCY - The Necessary Being 
+	1. Something must exist by its own nature to hold everything else together.
 4. DEGREES OF FPERFECTION - The Perfect Standard
+	1. There must be an ultimate standard of perfection - beauty, truth, etc.
 5. DESING/FINAL CAUSES, ENDS IN NATURE - The Intelligent Designer
+	1. A Design without a designer?
 
 ___
 # Define the Mystical Body of Christ
@@ -83,7 +88,7 @@ ___
 
 ___
 # Define Deposit of Faith
-
+Contained in the Scripture and Tradition. 
 
 ___
 # CST: Common Good
