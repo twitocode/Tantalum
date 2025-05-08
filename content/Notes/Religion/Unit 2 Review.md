@@ -38,11 +38,11 @@ ___
 
 ___
 # Define the Mystical Body of Christ
+**The Church (All people of God)**. Its mission is to share the Paschal Mystery in the New Evangelization.
 
 ___
 # Vocation Definition
 A calling a state of life: marriage, ordained ministry, consecrated life, single state. It is a calling by God to live a life of love in a unique and graced way
-
 
 ___
 # List the 5 powers of the Soul
@@ -123,7 +123,10 @@ ___
 5. Is necessary or Salvation
 ___
 # What was the Resurrection of Jesus?
-
+1. The belief that Jesus rose from the dead on the third day after his crucifixion. All believers will share his victory over sin, death, and the devil. 
+2. A point of realization for the apostles *I was really chilling with God.* It improved their faith in Jesus. Gave them a renewed strength.
+3. **A miracle** 
+4. Gives us a new perspective on life, suffering, the cross we carry. A renewed faith and perspective for the future despite the current time of doubt. 
 ___
 # What is the Holy Trinity?
 **The way God reveals himself in the Bible.** A representation of God in 3 different ways; may be a way to understand God himself. It is one but 3 distinct.
@@ -135,7 +138,7 @@ ___
 2. The Incarnate figure of Jesus Christ
 3. The Holy Spirit who is the helper and intercessor
 
-___
+
 
 ___
 # The goal of moral life is to...
@@ -160,5 +163,4 @@ Calls each of us to deepen out faith. The focus of it is 're-proposing' of the G
 
 ___
 # What is the Paschal Mystery?
-1. Resurrection
-2. Incarnation
+Christ's redemption of all people through his life of sacrifice, especially his crucifixion, death, and resurrection. 
