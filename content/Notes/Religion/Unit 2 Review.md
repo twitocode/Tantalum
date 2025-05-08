@@ -13,12 +13,20 @@ A journey, requires commitment and sacrifice, a guide, and trusting in what you 
 **Christianity:** The divinely inspired human response to God's historical revelation through Jesus Christ.
 **THINK OF THE NIAGARA FALLS TIGHT-ROPE EXAMPLE**
 ___
-# What are the 3 components of Faith?
+# What are the 3 components (not stages) of Faith?
 The word faith denotes...
 1.  Your actual faith/religion (I am Budish, etc.) 
 2. A trust in God that he is always with you
 3. An *actual* relationship with God. **without an authentic relationship with God, the other two concepts are meaningless.**
 	1. Without out, it says that God is a magician with magical powers who we believe but have no faith in.
+	   
+___ 
+# What are the 3 stages (not components) of Faith?
+The word faith denotes...
+1.  Cultural -> childhood
+2. Transitional -> adolescence (most critical/painful)
+	1. Good to ask questions about faith
+3. Convictional -> Adulthood
 
 ___
 # List the 5 ways God exists according to St. Thomas Aquinas
@@ -99,18 +107,26 @@ The Catholic Church proclaims that human life is sacred and that the dignity of 
 
 ___
 # CST: Solidarity
-We are one human family whatever our national, racial, ethnic, economic, and ideological differences. At the core of the virture solidarity is the pursuit of justice and peace.
+We are one human family whatever our national, racial, ethnic, economic, and ideological differences. At the core of the virtue solidarity is the pursuit of justice and peace.
 
 ___
 # What is the Incarnation of Jesus?
+The belief that Jesus was  God
+**To embody or represent in human form**. Jesus was foreshadowed in the OT. Christmas is about the incarnation of Jesus
 
+___
+# What are the 5 truths about the incarnation?
+1. Was not Jesus's beginning
+2. Shows Jesus' Humility
+3. Fulfills Prophecy
+4. Is Mysterious
+5. Is necessary or Salvation
 ___
 # What was the Resurrection of Jesus?
 
-
 ___
 # What is the Holy Trinity?
-**The way God reveals himself in the Bible.** A representation of God in 3 different ways; may be a way to understand God himself. 
+**The way God reveals himself in the Bible.** A representation of God in 3 different ways; may be a way to understand God himself. It is one but 3 distinct.
 *THINK OF 3 CANDLES WITH 1 FLAME.*
 
 ___
@@ -118,6 +134,8 @@ ___
 1. The Creator
 2. The Incarnate figure of Jesus Christ
 3. The Holy Spirit who is the helper and intercessor
+
+___
 
 ___
 # The goal of moral life is to...
