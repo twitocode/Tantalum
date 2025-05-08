@@ -6,9 +6,6 @@ tags:
 aliases: 
 TARGET DECK: Grade 12::HRT4M1::Unit 2 - Our Christian Profession of Faith
 ---
-**# Catholic Social Teachings [the specific ones we discussed in the actual unit]
-
-___
 # What is Faith?
 A journey, requires commitment and sacrifice, a guide, and trusting in what you cannot see
 *It is good to ask questions about it*
