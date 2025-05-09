@@ -65,3 +65,4 @@ p.214 - everyone is chilling besides holden, they dont want to leave tycho but h
 p.217 - naomi praising holden
 p.218 - difference between show and book, mars and belt are actually at war in the book
 p.219-221 - Holden vs fred - fred is not very trustworhty
+p.221 - scoupli discovery lionel polanski 
