@@ -61,4 +61,5 @@ p.200 - naomi and holden start of love story?
 p.201-202 holden by himself wondering
 p.204 life immortality of youth
 p.206 - miller wants to do more with his life
-p.214 - everyone is chilling besides holden, they dont want to leave tycho but he still has vengance
+p.214 - everyone is chilling besides holden, they dont want to leave tycho but he still has vengancep.
+p.217 - naomi praising holden
