@@ -63,3 +63,4 @@ p.204 life immortality of youth
 p.206 - miller wants to do more with his life
 p.214 - everyone is chilling besides holden, they dont want to leave tycho but he still has vengancep.
 p.217 - naomi praising holden
+p.218 - difference between show and book, mars and belt are actually at war in the book
