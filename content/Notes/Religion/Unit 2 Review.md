@@ -18,7 +18,7 @@ ___
 
 
 # What are the 3 components (not stages) of Faith?
-The word faith denotes...
+**The word faith denotes...**
 1.  Your actual faith/religion (I am Budish, etc.) 
 2. A trust in God that he is always with you
 3. An *actual* relationship with God. **without an authentic relationship with God, the other two concepts are meaningless.**
