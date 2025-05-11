@@ -119,13 +119,19 @@ ___
 ___
 # Name the different types of justice 
 1. **Commutative Justice**
-	- Pertains to contractual relationships between individuals, and between institutions. ADD MORE
+	- Pertains to contractual relationships between individuals, and between institutions. Agreements and contracts are built on trust, confidence, and respect
+		- *Ex. Shaking hands on deals, Keeping commitments that impact others*
 2. **Legal Justice**
 	- The relationship of the individual to society, based on law and enforcement. Also known as contributive justice
+		- *Ex. Driving rules*
 3. **Distributive Justice**
 	- The relationship of government to the individual, and the government's obligation includes: the good of citizenship, etc.
+		- *Ex. Help immigrants moving in, Paying fair wages*
 4. **Biblical Justice**
 	- All humans are equal before God and have the right to be treated with dignity and fairness no matter who you are.
+5. **Restorative Justice**
+	- Help those who are in need of help
+	- *Ex. Advocate for the vulnerable and change social structures*
 <!--ID: 1746895306918-->
 
 
