@@ -66,11 +66,11 @@ A calling a state of life: marriage, ordained ministry, consecrated life, single
 
 ___
 # List the 5 powers of the Soul
-1. Vegetative Power
-2. Sensitive Power
-3. Appetitive Power
-4. Locomotive Power
-5. Rational/Intellectual Power
+1. Vegetative Power **(Nutritive)**
+2. Sensitive Power **(Sensation)**
+3. Appetitive Power **(Desire)**
+4. Locomotive Power **(Movement)**
+5. Rational/Intellectual Power **(Intellect & Will)**
 <!--ID: 1746895306683-->
 
 
@@ -83,7 +83,7 @@ ___
 
 ___
 # Define Sensitive Power (Sensation)
-- Seeing, hearing, smelling, tasting, touching. Lets you see, hear, touch, taste, and smell—and also remember and imagine things.
+- **5 senses**. Lets you see, hear, touch, taste, and smell—and also remember and imagine things.
 	- teaches us to respond rightly to the world around us, seeking beauty and goodness while avoiding sin and temptation.
 - You hear your favourite song and it reminds you of summer break.
 <!--ID: 1746895306762-->
