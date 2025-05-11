@@ -161,26 +161,26 @@ Human dignity can be protected and a healthy community can be achieved only if h
 
 ___
 # CST: Call to Family, Community, and Participation
-How we organize our society in economics and politics, in law and politics, in law and policy, directly affects human dignity and the capacity of individuals to grow in community. Marriage and the family are the central social institutions that must be supported and strengthened.
+How we **organize our society in economics, politics, law and policy, directly affects human dignity and the capacity of individuals to grow in community.** *Marriage and the family are the central* social institutions that must be supported and strengthened.
 <!--ID: 1746895307110-->
 
 
 ___
 # CST: Human Dignity
-The Catholic Church proclaims that human life is sacred and that the dignity of the human person is the foundation of a moral vision of society. In our society, human life is under direct attack from abortion and euthanasia, cloning, embryonic stem cell research, and the death penalty. Work to avoid war, every person is precious
+The Catholic Church proclaims that **human life is sacred and that the dignity of the human person is the foundation of a moral vision of society.** In our society, human life is under direct attack from abortion and euthanasia, cloning, embryonic stem cell research, and the death penalty. Work to avoid war, every person is precious
 <!--ID: 1746895307147-->
 
 
 ___
 # CST: Solidarity
-We are one human family whatever our national, racial, ethnic, economic, and ideological differences. At the core of the virtue solidarity is the pursuit of justice and peace.
+**We are one human family** whatever our national, racial, ethnic, economic, and ideological differences. At the **core of the virtue solidarity is the pursuit of justice and peace**.
 <!--ID: 1746895307184-->
 
 
 ___
 # What is the Incarnation of Jesus?
-The belief that Jesus was  God
-**To embody or represent in human form**. Jesus was foreshadowed in the OT. Christmas is about the incarnation of Jesus
+The belief that Jesus was God incarnate.
+**To embody or represent in human form**. Jesus was foreshadowed in the O.T. Christmas is about the incarnation of Jesus
 <!--ID: 1746895307221-->
 
 
@@ -190,7 +190,7 @@ ___
 2. Shows Jesus' Humility
 3. Fulfills Prophecy
 4. Is Mysterious
-5. Is necessary or Salvation
+5. Is necessary for Salvation
 <!--ID: 1746895307260-->
 
 ___
