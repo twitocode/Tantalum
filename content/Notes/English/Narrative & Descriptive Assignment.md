@@ -29,6 +29,8 @@ aliases:
 
 # Narrative Elements:
 Select specific passages that showcase narrative techniques such as parts of a story (exposition, conflict, climax) point of view, characters, dialogue or theme. Discuss their significance in shaping the story.
+<!--ID: 1746895306365-->
+
 
 *Extra*: multiple characters in the story are looking for Julie. It is kinda like a murder mystery
 
@@ -82,6 +84,8 @@ Identify instances of descriptive writing that vividly depict characters, settin
 Analyze the author's use of sensory details, figurative language, and symbolism in creating
 imagery. Discuss how descriptive passages enhance the reader's immersion in the story and
 contribute to the atmosphere.
+<!--ID: 1746895306410-->
+
 
 | Descriptive  Element                | Evidence       | Explanation & Analysis                                                                  |
 | ----------------------------------- | -------------- | --------------------------------------------------------------------------------------- |
