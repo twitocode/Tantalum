@@ -91,7 +91,7 @@ ___
 ___
 
 
-# Define Appetitive Power (Desire)
+# Define Appetitive/Appetite Power (Desire)
 - Deals with your feelings and desires—what you want or fear. The capacity to desire or respond emotionally.
 	- **Two parts:**
 		- **Concupiscible:** Wants pleasure, avoids pain (e.g., love, joy, sadness, desire for good, aversion to evil).
