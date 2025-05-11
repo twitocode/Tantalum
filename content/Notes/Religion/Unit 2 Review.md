@@ -197,7 +197,7 @@ ___
 
 
 # What was the Resurrection of Jesus?
-1. The belief that Jesus rose from the dead on the third day after his crucifixion. All believers will share his victory over sin, death, and the devil. 
+1. **The belief that Jesus rose from the dead on the third day after his crucifixion. All believers will share his victory over sin, death, and the devil.** 
 2. A point of realization for the apostles *I was really chilling with God.* It improved their faith in Jesus. Gave them a renewed strength.
 3. **A miracle** 
 4. Gives us a new perspective on life, suffering, the cross we carry. A renewed faith and perspective for the future despite the current time of doubt. 
@@ -221,7 +221,7 @@ ___
 
 ___
 # The goal of moral life is to...
-Obtain holiness. IT calls us to discover who we are (Children of God), what awe are made for (God), and to be Christ-like to others. *Holiness is synonymous with true happiness.* 
+Obtain holiness. It calls us to discover who we are (Children of God), what we are made for (God), and to be Christ-like to others. *Holiness is synonymous with true happiness.* 
 <!--ID: 1746895307414-->
 
 
