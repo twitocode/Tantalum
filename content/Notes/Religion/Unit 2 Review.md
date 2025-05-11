@@ -234,7 +234,7 @@ ___
 	- Despite being sinners, the source of holiness is **our actions of agape love** (unconditional love)
 		- **Agape love includes**: Apostolic tradition, mission, missionary disciples
 3. Catholic
-	- The Church is universal -> for all people of all nations (Mad official by Constantine in 312AD)
+	- The Church is universal -> for all people of all nations (Made official by Constantine in 312AD)
 4. Apostolic
 	- Founded by the Apostles and their mission to preach, heal teach, and baptize
 	- The Church's work is a continuation of the work of the Apostles
