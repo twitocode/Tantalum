@@ -5,7 +5,7 @@ Pages: "561"
 tags:
   - Book
 ---
-decrase increase r
+decrase increase creasing my shoes increase or decrease my shoe's crease
 # Characters
 - James Holden
 	- Earther
@@ -66,3 +66,4 @@ p.217 - naomi praising holden
 p.218 - difference between show and book, mars and belt are actually at war in the book
 p.219-221 - Holden vs fred - fred is not very trustworhty
 p.221 - scoupli discovery lionel polanski, finally a lead for holden - he's now foaming at the mouth to go after being resistant.
+p.224-226 - miller talking to church misisonary **very good for culminating**
