@@ -32,6 +32,7 @@ decrase increase creasing my shoes increase or decrease my shoe's crease
 	- Irrelevant to the story for the most part
 - Miller
 	- Belter
+	- who is julie to miller?
 	- First Half
 		- Works for an Earther company at first
 		- 
