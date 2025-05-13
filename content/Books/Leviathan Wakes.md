@@ -70,3 +70,4 @@ p.221 - scoupli discovery lionel polanski, finally a lead for holden - he's now 
 p.224-226 - miller talking to church misisonary **very good for culminating**
 p.230 - contrast between eros and ceres *there was more on a previous page*
 p. 232 - amos and alex are playful, holden and naomi are a bit more serious
+p.234-235 - once again amos is very trigger happy
