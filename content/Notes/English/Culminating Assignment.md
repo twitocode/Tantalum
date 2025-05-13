@@ -7,6 +7,7 @@ aliases:
 ---
  Book: [[Leviathan Wakes]]
 
+*ONE THING THAT I NOTICE DURING READING IS THAT THE CHAPTERS ALTERNATE BETWEEN HOLDEN AND MILLER. THE HOLDEN CHAPTERS ARE ON THE POINT OF VIEW OF HOLDEN AND HIS CREW. THE MILLER CHAPTERS ARE ALL ON HIS POINT OF VIEW, DURING THE CROSSROADS ON PAGE 238, IT WAS VERY CLEAR*
 **You need to include eight entries in your reading journal. Your entries will be based on specific incidents** 
 **in your novel as well as interpretations of your novel as a whole. The eight entries are outlined below.** 
 1. **Create a reading schedule.** 
