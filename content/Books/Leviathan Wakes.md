@@ -69,3 +69,4 @@ p.219-221 - Holden vs fred - fred is not very trustworhty
 p.221 - scoupli discovery lionel polanski, finally a lead for holden - he's now foaming at the mouth to go after being resistant.
 p.224-226 - miller talking to church misisonary **very good for culminating**
 p.230 - contrast between eros and ceres *there was more on a previous page*
+p. 232 - amos and alex are playful, holden and naomi are a bit more serious
