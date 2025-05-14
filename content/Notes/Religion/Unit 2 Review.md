@@ -125,7 +125,7 @@ ___
 	- The relationship of the *individual to society*, based on law and enforcement. Also known as contributive justice
 		- *Ex. Driving rules*
 3. **Distributive Justice**
-	- The relationship of *government to the individual*, and the government's obligation includes: the good of citizenship, etc.
+	- The relationship of *government to the individual*, and the government's obligation includes: the good of citizenship, welfare, etc.
 		- *Ex. Help immigrants moving in, Paying fair wages*
 4. **Biblical Justice**
 	- All humans are equal before God and have the right to be treated with dignity and fairness no matter who you are.
