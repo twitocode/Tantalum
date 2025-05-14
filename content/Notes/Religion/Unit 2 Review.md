@@ -41,7 +41,7 @@ ___
 # List the 5 ways God exists according to St. Thomas Aquinas
 1. **MOTION** - The First Mover
 	1. There must be a first source of movement according to physics
-2. **CAUSATION** - The Fist Cause
+2. **CAUSATION** - The First Cause
 	1. Cause and Effect in physics 
 3. **CONTINGENCY** - The Necessary Being 
 	1. Something must exist by its own nature to hold everything else together.
