@@ -90,3 +90,4 @@ p.271 - archetypal lense (holden and miller leave)
 p.274 - miller and holden dosed with lethal radiation
 p.275 - they learn that the people were infected with with julie had
 p.277 - miller used to have a 'family'
+p.278 - miller didnt like killing, now on eros, he enjoys it
