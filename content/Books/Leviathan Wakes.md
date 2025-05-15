@@ -87,3 +87,4 @@ p.265 - new security guys from luna *carne por la machina*
 p.268 - remember the stolen riot gear on ceres, now theres ceres junnkies on eros with the same gear acting as police.
 p.269-270 - maintainance tunnels are small becasue the original belters were small
 p.271 - archetypal lense (holden and miller leave)
+p.274 - miller and holden dosed with lethal radiation
