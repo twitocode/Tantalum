@@ -72,3 +72,4 @@ p.230 - contrast between eros and ceres *there was more on a previous page*
 p. 232 - amos and alex are playful, holden and naomi are a bit more serious
 p.234-235 - once again amos is very trigger happy
 P.239 - description of each character according to miller
+p.240 - miller treating the situation like hes still at star helix
