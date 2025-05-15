@@ -74,3 +74,4 @@ p.234-235 - once again amos is very trigger happy
 P.239-241 - description of each character according to miller
 p.240 - miller treating the situation like hes still at star helix
 p.245 - Julie mao found
+p.246 - naomi "doesnt like blood" - *i dont know how else to put it*
