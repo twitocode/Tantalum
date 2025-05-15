@@ -91,4 +91,5 @@ p.274 - miller and holden dosed with lethal radiation
 p.275 - they learn that the people were infected with with julie had
 p.277 - miller used to have a 'family'
 p.278 - miller didnt like killing, now on eros, he enjoys it
-p.281 - julie over miller's shoulder
+p.281 - julie over miller's shoulder, protogen hired the guards
+p.282 - what is really happening
