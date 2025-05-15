@@ -83,4 +83,5 @@ p.261 - an orgaized group of people retrieved julie's body and are after holden
 p.262 - use of bioweapon not on eros? *fools*
 p.263 - **START OF THE EROS INCIDENT** - eros is now on lockdown, crowd forced to go to radiological safety confinement - *the protomolecule kill zone*
 p.263 - alex's expereince in rad shelter.
-p.265 - new security guys from luna **
+p.265 - new security guys from luna *carne por la machina*
+p.268 - remember the stolen riot gear on ceres, now theres ceres junnkies on eros with the same gear acting as police.
