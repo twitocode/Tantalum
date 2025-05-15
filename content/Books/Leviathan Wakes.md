@@ -76,3 +76,4 @@ p.240 - miller treating the situation like hes still at star helix
 p.245 - Julie mao found
 p.246 - naomi "doesnt like blood" - *i dont know how else to put it*
 p.247 - naomi thinks miller knew julie
+p.252 - armed guys are not local, could they be someone else - *theyre protogen*
