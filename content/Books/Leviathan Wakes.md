@@ -78,3 +78,4 @@ p.246 - naomi "doesnt like blood" - *i dont know how else to put it*
 p.247 - naomi thinks miller knew julie
 p.252 - armed guys are not local, could they be someone else - *theyre protogen*
 p.253 - holden asks how miller knows who julie is
+p.254 - julie found something about phoebe bug *(protomolecule)*
