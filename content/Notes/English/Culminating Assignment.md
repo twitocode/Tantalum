@@ -26,13 +26,16 @@ aliases:
 	- Around 300 years into the future, earth was ravaged by climate change so the United Nations formed and emergency world government to tackle the issues, part of the solution was space exploration.
 5.  **Analysis of novel using literary lenses. Examine how one or more of the following literary lenses. informs your interpretation of the novel:** 
 	psychological lens 
+	- Miller sees julie in his mind
 	gender lens
 	- We are in a future where men and women are equal, it is more about the differences between races. 
 	socio-economic lens
-	- Earth
-	- Mars
-	- Belt
+	- Earth - half poor half rich - literally
+	- Mars - rich
+	- Belt - poor all around
 	archetypal lens 
+	- Is anyone really a hero? they end up being ones at the end
+	- **LOOK AT SOME MORE LENSES**
 	critical race theory 
 	- Earth
 	- Mars
@@ -41,6 +44,7 @@ aliases:
 	find two articles that connect to themes or topics from your novel 
 	- Oppression
 	- Revolution
+	- Deception & Trickery
 	summarize the articles 
 	explain how it connects to your novel 
 7. **Draw a connection to a related social issue:** 
