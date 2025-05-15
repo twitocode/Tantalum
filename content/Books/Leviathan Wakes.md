@@ -88,3 +88,4 @@ p.268 - remember the stolen riot gear on ceres, now theres ceres junnkies on ero
 p.269-270 - maintainance tunnels are small becasue the original belters were small
 p.271 - archetypal lense (holden and miller leave)
 p.274 - miller and holden dosed with lethal radiation
+p.275 - they learn that the people were infected with with julie had
