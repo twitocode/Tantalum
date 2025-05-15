@@ -79,3 +79,4 @@ p.247 - naomi thinks miller knew julie
 p.252 - armed guys are not local, could they be someone else - *theyre protogen*
 p.253 - holden asks how miller knows who julie is
 p.254 - julie found something about phoebe bug *(protomolecule)*
+p.261 - an orgaized group of people retrieved julie's body and are after holden
