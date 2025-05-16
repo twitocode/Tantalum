@@ -99,3 +99,4 @@ p.289 - holden does not want to die *even though i think he likes to be the sacr
 also oppression by "cops"
 p.290 - holden is not very good at the whole saving part
 p.293 - lawyer fighitng back, shot and killed *there was a crowd mowed down on a previous page*
+p.294 - another miller psychological lens
