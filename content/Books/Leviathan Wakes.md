@@ -102,3 +102,4 @@ p.293 - lawyer fighitng back, shot and killed *there was a crowd mowed down on a
 p.294 - another miller psychological lens
 p.295 - there are faster ways of killing people on eros than this, not genocide or murder.
 p.296 - miller and holden talk about the sensors and cameras that protogen is using. Eros is a laboratory - petri dish, and another miller psychological lens
+p.298 - the rad shelters made 'zombies' explains why julie broke all the lights, the *protomolecue* feeds of a radiation
