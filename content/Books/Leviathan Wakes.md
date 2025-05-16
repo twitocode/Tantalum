@@ -97,3 +97,4 @@ p.284-285 - miller's psychological lens
 p. 287 - naomi and the rest abononed holden and miller, she did say she would do it and holden agreed to it
 p.289 - holden does not want to die *even though i think he likes to be the sacrifice character*.
 also oppression by "cops"
+p.290 - holden is not very good at the whole saving part
