@@ -93,4 +93,5 @@ p.277 - miller used to have a 'family'
 p.278 - miller didnt like killing, now on eros, he enjoys it
 p.281 - julie over miller's shoulder, protogen hired the guards
 p.282 - what is really happening
-p.284 - miller's psychological lense
+p.284-285 - miller's psychological lens
+p. 287 - naomi and the rest abononed holden and miller, she did say she would do it and holden agreed to it
