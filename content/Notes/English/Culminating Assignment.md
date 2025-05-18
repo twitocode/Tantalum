@@ -19,7 +19,7 @@ aliases:
 	- Detective Miller
 		- Miller lived on Ceres as a police officer. He is a belter; a person who was born in the asteroid belt. Earth currently ‘owns’ Ceres and established Star Helix to enforce security; Miller works for them. Every belter hates Earth and Mars because they own them with an iron grip. He struggles with the internal conflict of working with the government that are actively oppressing his own people **ADD MORE**. He is able to see through cracks in the mystery of the Canterbury’s and Donnager’s destruction that others are unable to see. His stubbornness gets the better of him. He was tasked to look for a girl that caught the attention of those with much more power than him. Miller gets fired but continues to look for her just this time without Star Helix’s resources. He has no idea who she is.
 	- James Holden
-		- Holden is character that cares very deeply about his crewmates
+		- Holden is character that cares very deeply about his crewmates. He is willing to do anything to get them back, but he acts irrationally. He needs that voice of reason, which is his executive officer Naomi. After the destruction of the Canturbu
 	How have the main character(s) changed, grown, or revealed themselves in the second half? 
 	- Detective Miller
 	- James Holden
