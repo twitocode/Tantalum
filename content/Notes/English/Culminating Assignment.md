@@ -17,7 +17,7 @@ aliases:
 3. **Notes about character development in two parts.** 
 	What have you learned about the main character(s) from the first half of the novel?
 	- Detective Miller
-		- Miller was a 
+		- Miller lived on ceresasdasdasdsdasdasd
 	- James Holden
 		- 
 	How have the main character(s) changed, grown, or revealed themselves in the second half? 
