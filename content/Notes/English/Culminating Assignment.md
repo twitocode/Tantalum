@@ -17,7 +17,7 @@ aliases:
 3. **Notes about character development in two parts.** 
 	What have you learned about the main character(s) from the first half of the novel?
 	- Detective Miller
-		- Miller lived on Ceres as a police officer. He is a belter; a person who was born in the asteroid belt. Earth currently ‘owns’ Ceres and established Star Helix to enforce security; Miller works for them. Every belter hates Earth and Mars because they own them with an iron grip. He struggles with the internal conflict of working with the government that are actively oppressing his own people **ADD MORE**. He is able to see through cracks in the mystery of the Canterbury’s and Donnager’s destruction that others are unable to see.
+		- Miller lived on Ceres as a police officer. He is a belter; a person who was born in the asteroid belt. Earth currently ‘owns’ Ceres and established Star Helix to enforce security; Miller works for them. Every belter hates Earth and Mars because they own them with an iron grip. He struggles with the internal conflict of working with the government that are actively oppressing his own people **ADD MORE**. He is able to see through cracks in the mystery of the Canterbury’s and Donnager’s destruction that others are unable to see. His stubbornness gets the better of him. He was tasked to look for a girl that caught the attention of those with much more power than him. Miller gets fired but continues to look for her just this time without Star Helix’s resources. He has no idea who she is.
 	- James Holden
 		- 
 	How have the main character(s) changed, grown, or revealed themselves in the second half? 
