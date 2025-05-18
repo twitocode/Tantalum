@@ -16,7 +16,11 @@ aliases:
    The reason why I chose this novel is because I have seen the show adaptation three times. The show is called The Expanse and it is currently my favourite show of all time. I wanted to see the differences between the two mediums. As to why I liked the show, I love sci-fi shows and movies; it is my favourite genre. What is different about The Expanse is that the show takes place in approximately 200 years from now. Humanity has colonized the solar system but it not like star trek where there is no realism. This show is for the most part, physically accurate, and has realistic conflicts that are similar in ones in our history. 
 3. **Notes about character development in two parts.** 
 	What have you learned about the main character(s) from the first half of the novel?
-	- Characters are very selfish
+	- Detective Miller
+	- James Holden
+	- Naomi Nagata
+	- Amos Burton
+	- Alex Kamal
 	How have the main character(s) changed, grown, or revealed themselves in the second half? 
 	- aadasdasd
 4. **Explanation of your novel’s biographical and historical context based on your research on:** 
