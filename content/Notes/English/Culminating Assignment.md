@@ -17,7 +17,9 @@ aliases:
 3. **Notes about character development in two parts.** 
 	What have you learned about the main character(s) from the first half of the novel?
 	- Detective Miller
+		- 
 	- James Holden
+		- 
 	How have the main character(s) changed, grown, or revealed themselves in the second half? 
 	- Detective Miller
 	- James Holden
@@ -40,7 +42,7 @@ aliases:
 	- Is anyone really a hero? they end up being ones at the end
 	- **LOOK AT SOME MORE LENSES**
 	critical race theory 
-	- Earth
+	- Earth 
 	- Mars
 	- Belt
 6. **Text-to-world connections:** 
