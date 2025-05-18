@@ -13,7 +13,7 @@ aliases:
 1. **Create a reading schedule.** 
 	Read3 chapters everyday at lunch 
 2. **A short written reflection about why you chose your novel.** 
-   
+   The reason why I chose this novel is because I have seen the show adaptation three times. The show is called The Expanse and it is currently my favourite show of all time. I wanted to see the differences between the two mediums. 
 3. **Notes about character development in two parts.** 
 	What have you learned about the main character(s) from the first half of the novel?
 	- Characters are very selfish
