@@ -18,15 +18,9 @@ aliases:
 	What have you learned about the main character(s) from the first half of the novel?
 	- Detective Miller
 	- James Holden
-	- Naomi Nagata
-	- Amos Burton
-	- Alex Kamal
 	How have the main character(s) changed, grown, or revealed themselves in the second half? 
 	- Detective Miller
 	- James Holden
-	- Naomi Nagata
-	- Amos Burton
-	- Alex Kamal
 4. **Explanation of your novel’s biographical and historical context based on your research on:** 
 	the life of the author 
 	- James S.A Corey
@@ -35,11 +29,11 @@ aliases:
 	- Around 300 years into the future, earth was ravaged by climate change so the United Nations formed and emergency world government to tackle the issues, part of the solution was space exploration.
 5.  **Analysis of novel using literary lenses. Examine how one or more of the following literary lenses. informs your interpretation of the novel:** 
 	psychological lens 
-	- Miller sees julie in his mind
+	- Miller sees Julie in his mind
 	gender lens
 	- We are in a future where men and women are equal, it is more about the differences between races. 
 	socio-economic lens
-	- Earth - half poor half rich - literally
+	- Earth - 15 billion are poor 15 billion are rich - literally
 	- Mars - rich
 	- Belt - poor all around
 	archetypal lens 
