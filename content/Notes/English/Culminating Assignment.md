@@ -22,7 +22,11 @@ aliases:
 	- Amos Burton
 	- Alex Kamal
 	How have the main character(s) changed, grown, or revealed themselves in the second half? 
-	- aadasdasd
+	- Detective Miller
+	- James Holden
+	- Naomi Nagata
+	- Amos Burton
+	- Alex Kamal
 4. **Explanation of your novel’s biographical and historical context based on your research on:** 
 	the life of the author 
 	- James S.A Corey
