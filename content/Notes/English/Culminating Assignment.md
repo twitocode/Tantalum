@@ -11,7 +11,7 @@ aliases:
 **You need to include eight entries in your reading journal. Your entries will be based on specific incidents** 
 **in your novel as well as interpretations of your novel as a whole. The eight entries are outlined below.** 
 1. **Create a reading schedule.** 
-	Read3 chapters everyday at lunch 
+	Read 3 chapters everyday at lunch 
 2. **A short written reflection about why you chose your novel.** 
    The reason why I chose this novel is because I have seen the show adaptation three times. The show is called The Expanse and it is currently my favourite show of all time. I wanted to see the differences between the two mediums. As to why I liked the show, I love sci-fi shows and movies; it is my favourite genre. What is different about The Expanse is that the show takes place in approximately 200 years from now. Humanity has colonized the solar system but it not like star trek where there is no realism. This show is for the most part, physically accurate, and has realistic conflicts that are similar in ones in our history. 
 3. **Notes about character development in two parts.** 
