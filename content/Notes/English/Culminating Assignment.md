@@ -11,8 +11,9 @@ aliases:
 **You need to include eight entries in your reading journal. Your entries will be based on specific incidents** 
 **in your novel as well as interpretations of your novel as a whole. The eight entries are outlined below.** 
 1. **Create a reading schedule.** 
+	Read3 chapters everyday at lunch 
 2. **A short written reflection about why you chose your novel.** 
-   I chose this novel because I watched the show that came from it three times. I knew there were many differences between the two which I have now noticed.
+   
 3. **Notes about character development in two parts.** 
 	What have you learned about the main character(s) from the first half of the novel?
 	- Characters are very selfish
