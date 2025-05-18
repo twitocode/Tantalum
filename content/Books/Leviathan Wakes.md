@@ -5,7 +5,6 @@ Pages: "561"
 tags:
   - Book
 ---
-decrase increase creasing my shoes increase or decrease my shoe's crease
 # Characters
 - James Holden
 	- Earther
