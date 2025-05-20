@@ -150,3 +150,5 @@ p.298 - the rad shelters made 'zombies' explains why julie broke all the lights,
 p. 304 - miller is ready to kill the half-zombie innocent person, holden stops him, argument
 p.314 - holden quote about regrets
 p.314-315 - naomi and holden love each other
+p.317 - cancer meds for the rest of their lives, naomi taking red's job
+p.318 - 319 - what would havelock and muss think of miller on eros? killing others is good or bad? **important**
