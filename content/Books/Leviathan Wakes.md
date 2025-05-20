@@ -149,3 +149,4 @@ p.296 - miller and holden talk about the sensors and cameras that protogen is us
 p.298 - the rad shelters made 'zombies' explains why julie broke all the lights, the *protomolecule* feeds of a radiation
 p. 304 - miller is ready to kill the half-zombie innocent person, holden stops him, argument
 p.314 - holden quote about regrets
+p.314-315 - naomi and holden love each other
