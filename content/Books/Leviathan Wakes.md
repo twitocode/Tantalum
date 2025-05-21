@@ -158,4 +158,4 @@ p.328-329 - Holden wants to broadcast this information to the entire solar syste
 p.338 -339 - miller's seeing julie on secuirty 
 p.342-346 - PHOEBE PROTOMOLECULE origins and use AND DRESDEN
 p.351 - amos is a immume to digusting things
-p.355-356 - **Earth nuked deimos**
+p.355-356 - **Earth nuked deimos** miller says holden caused it
