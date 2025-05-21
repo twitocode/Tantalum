@@ -155,3 +155,4 @@ p.318 - 319 - what would havelock and muss think of miller on eros? killing othe
 p.322 - deception and war - eros incident ending
 p.327 -**EARTH SHIPS FROM LUNA DESTROYED THE CANTERBURY AND DONNAGER** OR SO WE THINK.
 p.328-329 - Holden wants to broadcast this information to the entire solar system. Miller sees the bullshit and is the only voice of reason here. Holden's false accusations starts wars. holden argues that the people need their secretes hidden 
+p.338 -339 - miller's seeing julie on secuirty 
