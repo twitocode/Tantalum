@@ -161,5 +161,5 @@ p.351 - amos is a immume to digusting things
 p.355-356 - **Earth nuked deimos** miller says holden caused it
 Earth would lose against a war with Mars -says earth, unless they strike first
 p.360-361 - miller and holden fighting about whether they should send the data out. 
-p.362 - 363 - miller has some common sense, holden is incapable of thinking 10 steps in the future **good for culminating**
-p.370 - belter inner gossip
+p.362 - 363 - miller has some common sense, holden is incapable of thinking 10 steps in the future **good for culminating** 
+p.370 - belter inner gossip --seing belters as aliens not humans because of slang and appearance
