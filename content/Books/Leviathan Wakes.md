@@ -172,4 +172,5 @@ p.402 - miller is not actually fit for combat, why did he join?
 p.403 - another miller psychological  lens
 p.405 - opa mowing down civilians at the station, messes with miller's conscience
 p.412 - holden cannot proceess moral complexities
-p.14 - holden thinks the dead scientist should be more dead
+p.414 - holden thinks the dead scientist should be more dead
+p-416 - dresden smiling, holden doesnt like that
