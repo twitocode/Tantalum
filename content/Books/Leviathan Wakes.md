@@ -170,3 +170,4 @@ p.396 - holden leadership knows amos will get the job done, naomi is worreied
 p.401 - belter creole
 p.402 - miller is not actually fit for combat, why did he join?
 p.403 - another miller psychological  lens
+p.405 - opa mowing down civilians at the station, messes with miller's conscience
