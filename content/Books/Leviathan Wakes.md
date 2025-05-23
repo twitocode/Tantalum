@@ -194,3 +194,4 @@ p.478 - **the belt is like a network**
 p.479-480 - holden's reason for not shooting dresden. hes honourable and a peacemaker, **once again holden is too shortsighted.** dreden is not just a prisoner . Naomi thinks that miller di the right thing
 p.485 - miller wants to stay on eros *very different from the show*
 p.488 - the voices miller hears on eros is the voice of eros. Shouting DO NOT TOUCH ME refering to the nauvoo. **EROS MOVED**
+P.493 - **EROS DISAPPARED OFF RADAR**
