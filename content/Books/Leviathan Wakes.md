@@ -167,3 +167,4 @@ p.381 - Miller and havelock exchanging info, only partner he ever had
 p.382 - not a fight between inners and belters, not anymore
 p.384 - miller self sacrifice or is it revenge? carelessness? to go on station destruciton mission
 p.396 - holden leadership knows amos will get the job done, naomi is worreied
+p.401 - belter creole
