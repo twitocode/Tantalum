@@ -183,4 +183,4 @@ p.431 - julie is a comfort person
 p.438 - holden and miller talking
 p.443 - julie and miller "talking"
 p.445 - turning screams of eros into music - miller thinks the young are naive
-p..458-459 - miller thinks too fast, fred doesnt like that he killed dresden
+p..458-460 - miller thinks too fast, fred doesnt like that he killed dresden, holden does not trust fred still
