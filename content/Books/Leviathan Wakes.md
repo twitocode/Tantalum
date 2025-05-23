@@ -168,3 +168,5 @@ p.382 - not a fight between inners and belters, not anymore
 p.384 - miller self sacrifice or is it revenge? carelessness? to go on station destruciton mission
 p.396 - holden leadership knows amos will get the job done, naomi is worreied
 p.401 - belter creole
+p.402 - miller is not actually fit for combat, why did he join?
+p.403 - another miller psychological  lens
