@@ -182,3 +182,4 @@ p.428 - protomolecule is builidng something on eros
 p.431 - julie is a comfort person
 p.438 - holden and miller talking
 p.443 - julie and miller "talking"
+p.445 - turning screams of eros into music - miller thinks the young are naive
