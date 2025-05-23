@@ -184,3 +184,5 @@ p.438 - holden and miller talking
 p.443 - julie and miller "talking"
 p.445 - turning screams of eros into music - miller thinks the young are naive
 p..458-460 - miller thinks too fast, fred doesnt like that he killed dresden, holden does not trust fred still
+p.464-465 - miller on thenauvoo and he s listening to the music comingt from eros. he then talks with julie. she is starting t fee more like a disease
+p.467 - war without end
