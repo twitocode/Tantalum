@@ -174,3 +174,4 @@ p.405 - opa mowing down civilians at the station, messes with miller's conscienc
 p.412 - holden cannot proceess moral complexities
 p.414 - holden thinks the dead scientist should be more dead
 p-416 - dresden smiling, holden doesnt like that
+p.417-419 - **do the ends justify the means?**
