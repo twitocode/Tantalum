@@ -180,3 +180,4 @@ p423-424 - posthuman, julie again
 p.425-426 - earth mars and belt fighting, logic of Protgen - disconnected from huamnity
 p.428 - protomolecule is builidng something on eros
 p.431 - julie is a comfort person
+p.438 - holden and miller talking
