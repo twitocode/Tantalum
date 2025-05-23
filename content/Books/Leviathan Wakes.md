@@ -196,3 +196,4 @@ p.485 - miller wants to stay on eros *very different from the show*
 p.488 - the voices miller hears on eros is the voice of eros. Shouting DO NOT TOUCH ME refering to the nauvoo. **EROS MOVED**
 P.493 - **EROS DISAPPARED OFF RADAR**
 P.494-495 - earth and holden working together. UNN ship following *very different from the show*
+P.501 - did the universe want this for miller? 
