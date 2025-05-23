@@ -165,3 +165,4 @@ p.362 - 363 - miller has some common sense, holden is incapable of thinking 10 s
 p.370 - belter inner gossip --seing belters as aliens not humans because of slang and appearance
 p.381 - Miller and havelock exchanging info, only partner he ever had
 p.382 - not a fight between inners and belters, not anymore
+p.384 - miller self sacrifice or is it revenge? carelessness? to go on station destruciton mission
