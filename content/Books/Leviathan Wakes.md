@@ -177,3 +177,4 @@ p-416 - dresden smiling, holden doesnt like that
 p.417-420 - **do the ends justify the means?** saving humanity?
 p.422 - contrast between holden and miller. miller shot dresden, needed to be done, holden wanted justice
 p423-424 - posthuman, julie again
+p.425-426 - earth mars and belt fighting, logic of Protgen - disconnected from huamnity
