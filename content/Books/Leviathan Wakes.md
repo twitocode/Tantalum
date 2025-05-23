@@ -175,4 +175,5 @@ p.412 - holden cannot proceess moral complexities
 p.414 - holden thinks the dead scientist should be more dead
 p-416 - dresden smiling, holden doesnt like that
 p.417-420 - **do the ends justify the means?** saving humanity?
-p.422 - contrast between holden and miller. miller shot dresden, needed to be done, holden wanted justice3
+p.422 - contrast between holden and miller. miller shot dresden, needed to be done, holden wanted justice
+p423-424 - posthuman, julie again
