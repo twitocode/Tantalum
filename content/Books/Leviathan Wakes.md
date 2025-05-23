@@ -189,3 +189,4 @@ p.467 - war without end
 p.468-469 - **why miller loves julie and about innere who "become" belters julie escaping**
 p.470 - does it hurt dream - diogo
 p.472-473 - holden with multiple parents ruins his group dynamics
+p.475 - naomi can adapt fast to combat
