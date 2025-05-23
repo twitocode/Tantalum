@@ -192,4 +192,4 @@ p.472-473 - holden with multiple parents ruins his group dynamics
 p.475 - naomi can adapt fast to combat
 p.478 - **the belt is like a network**
 p.479-480 - holden's reason for not shooting dresden. hes honourable and a peacemaker, **once again holden is too shortsighted.** dreden is not just a prisoner . Naomi thinks that miller di the right thing
-p.
+p.485 - miller wants to stay on eros *very different from the show*
