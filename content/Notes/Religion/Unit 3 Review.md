@@ -47,7 +47,10 @@ Absolution is the remission of sins imparted by the priest in the Sacrament of R
 
 ___
 # What happens to us through liturgy?
-Through liturgy, Christians learn to live, worship, and evangelize.
+1. God Gathers us: sense of community/unity
+2. God and creation exchange gifts: we praise and receive his grace
+3. Mystery of God’s love is known through ritual, symbol and word
+4. Liturgy achieves our salvation: makes us agents of love to go and Liturgy promotes moral living: live faith in action by applying the teachings of Jesus
 <!--ID: 1748199550489-->
 
 
@@ -58,7 +61,7 @@ Penance refers to self-denial and acts of reparation for sin.
 
 
 ___
-# In persona Christi
+# Define “In persona Christi”
 This refers to the priest acting "in the person of Christ" during the sacraments.
 <!--ID: 1748199550497-->
 
