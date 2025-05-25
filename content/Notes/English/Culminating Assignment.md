@@ -34,19 +34,13 @@ aliases:
 5.  **Analysis of novel using literary lenses. Examine how one or more of the following literary lenses. informs your interpretation of the novel:** 
 	psychological lens 
 	- Miller sees Julie in his mind
-	gender lens
-	- We are in a future where men and women are equal, it is more about the differences between races. 
 	socio-economic lens
 	- Earth - 15 billion are poor 15 billion are rich - literally
 	- Mars - rich
 	- Belt - poor all around
 	archetypal lens 
 	- Is anyone really a hero? they end up being ones at the end
-	- **LOOK AT SOME MORE LENSES**
-	critical race theory 
-	- Earth 
-	- Mars
-	- Belt
+
 6. **Text-to-world connections:** 
 	find two articles that connect to themes or topics from your novel 
 	- Oppression
