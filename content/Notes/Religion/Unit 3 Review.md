@@ -28,8 +28,8 @@ The Catholic Church teaches that the Holy Mass is the highest form of prayer for
 
 
 ___
-# Penitent
-A penitent is a person who undergoes penance for their sins.
+# Define Penitent
+A person who recognizes his or her sinfulness, and touched by the grace of God, seeks pardon/absolution through the Sacrament of Reconciliation.
 <!--ID: 1748199550477-->
 
 
@@ -41,7 +41,7 @@ Prayer is important for Christians because traditional expressions and forms of 
 
 ___
 # Absolution
-Absolution is the remission of sins imparted by the priest in the Sacrament of Reconciliation.
+The priest absolves the penitent from their sins. 
 <!--ID: 1748199550485-->
 
 
@@ -55,8 +55,8 @@ ___
 
 
 ___
-# Penance
-Penance refers to self-denial and acts of reparation for sin.
+# Define Penance
+the virtue by which one repents of one’s own sins and is converted to God. 
 <!--ID: 1748199550493-->
 
 
