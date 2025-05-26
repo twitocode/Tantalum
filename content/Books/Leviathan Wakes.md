@@ -199,3 +199,4 @@ P.494-495 - earth and holden working together. UNN ship following *very differen
 P.501 - did the universe want this for miller? 
 p.509-510 - holden must sacrifice him and his crew to save earth
 p.511 - holden cannot kill crew, mad at himself, naomi helps , *different from show, miller tells them to stop not holden*
+p.512-513 - earth mars and belt are stagnant
