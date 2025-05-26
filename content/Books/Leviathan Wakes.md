@@ -203,3 +203,4 @@ p.512-513 - earth mars and belt are stagnant
 p.515 - holden is resourceful
 p.520 - do the job - miller and julie
 p.525-526 - **miller realized julie is the voice of Eros and wants to go earth**
+p.529 - julie thinks shes in the razorback and wants to go home
