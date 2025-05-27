@@ -17,7 +17,7 @@ TARGET DECK: Grade 12::HRT4M1::Unit 3 - Prayer & Sacramental Life
 
 ___
 # What are sacraments?
-Sacraments are defined as efficacious signs of grace, instituted by Christ and entrusted to the Church, by which divine life is dispensed to us. The visible rites by which the sacraments are celebrated signify and make present the graces proper to each sacrament, bearing fruit in those who receive them with the required dispositions.
+ Efficacious signs of grace, instituted by Christ and entrusted to the Church, by which divine life is dispensed to us. The visible rites by which the sacraments are celebrated signify and make present the graces proper to each sacrament, bearing fruit in those who receive them with the required dispositions.
 <!--ID: 1748199550468-->
 
 
@@ -71,7 +71,7 @@ This refers to the priest acting "in the person of Christ" during the sacraments
 
 ___
 # Sacraments at the Service of Communion
-These sacraments are Holy Orders and Matrimony. They are directed towards the salvation of others. They serve to build up the People of God.
+Holy Orders and Matrimony. They are directed towards the salvation of others. They serve to build up the People of God.
 <!--ID: 1748199550502-->
 
 
@@ -83,7 +83,7 @@ Holy Orders is the ministerial priesthood. Ordination is the means by which a ma
 
 ___
 # When was Holy Orders created?
-Holy Orders was created when Jesus selected twelve Apostles.
+Created by Jesus during the last supper, "do this in memory of me"
 <!--ID: 1748199550510-->
 
 
