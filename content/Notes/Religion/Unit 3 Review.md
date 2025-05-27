@@ -49,10 +49,11 @@ The priest absolves the penitent from their sins.
 
 ___
 # What happens to us through liturgy?
-1. God Gathers us: sense of community/unity
-2. God and creation exchange gifts: we praise and receive his grace
+1. **God Gathers us**: sense of community/unity
+2. **God and creation exchange gifts**: we praise and receive his grace
 3. Mystery of God’s love is known through ritual, symbol and word
-4. Liturgy achieves our salvation: makes us agents of love to go and Liturgy promotes moral living: live faith in action by applying the teachings of Jesus
+4. **Liturgy achieves our salvation**: makes us agents of love to go 
+5. **Liturgy promotes moral living**: live faith in action by applying the teachings of Jesus
 <!--ID: 1748199550489-->
 
 
@@ -101,8 +102,8 @@ Prayer involves your heart, your mind, and your body. It allows you to have a li
 ___
 # 5 types of prayer
 1. **Petition:** A prayer for yourself, asking God for something you want. It recognizes that you need help and there are things you cannot do on your own.
-2. **Intercession:** A prayer for others that leads us to pray like Jesus did. It helps our love for our neighbors to grow, making it easier to have faith and withstand temptation.
+2. **Intercession:** A prayer for others that leads us to pray like Jesus did.
 3. **Thanksgiving:** Thanking God for all things. It expresses gratitude for gifts of life and love and acknowledges appreciation for all God does for us.
-4. **Blessing and Adoration:** Admits God is God (above us) and we are His creation (below Him). It helps us recognize God's presence and understand that everything comes from God and will one day return to God. This prayer is our response to God's gifts.
-5. **Praise:** Gives God glory for His own sake, simply because He is God. It involves understanding God's nature as all-knowing, all-seeing, all-powerful, and all-loving. We offer our entire life as a sacrifice of praise, realizing our love for God because we have given our hearts to Him.
+4. **Blessing and Adoration:** Admits God is God (above us) and we are His creation (below Him). 
+5. **Praise:** Gives God glory for His own sake, simply because He is God. It involves understanding God's nature as all-knowing, all-seeing, all-powerful, and all-loving. 
 <!--ID: 1748199550522-->
