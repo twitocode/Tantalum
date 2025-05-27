@@ -35,7 +35,9 @@ A person who recognizes his or her sinfulness, and touched by the grace of God, 
 
 ___
 # Prayer is important because
-Prayer is important for Christians because traditional expressions and forms of Christian prayer support our Baptismal life in Christ, increase love, peace, and order in our souls, and strengthen the Christian community. Praying regularly provides an opportunity to spend time with God, deepening our relationship with Him and in turn focusing our hearts and minds on the Other. Reflection and mindfulness, along with sacrifice (e.g., fasting) help us to look beyond our own needs and address the needs of the greater community. Frequent prayer positively affects both our mental and physical health.
+- Prayer is important for Christians because traditional expressions and forms of Christian prayer support our Baptismal life in Christ, increase love, peace, and order in our souls, 
+- Praying regularly provides an opportunity to spend time with God,  
+- Frequent prayer positively affects both our mental and physical health.
 <!--ID: 1748199550481-->
 
 
