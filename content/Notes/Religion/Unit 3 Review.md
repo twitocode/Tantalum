@@ -17,7 +17,7 @@ TARGET DECK: Grade 12::HRT4M1::Unit 3 - Prayer & Sacramental Life
 
 ___
 # What are sacraments?
- Efficacious signs of grace, instituted by Christ and entrusted to the Church, by which divine life is dispensed to us. The visible rites by which the sacraments are celebrated signify and make present the graces proper to each sacrament, bearing fruit in those who receive them with the required dispositions.
+ Efficacious signs of grace, by which divine life is dispensed to us.
 <!--ID: 1748199550468-->
 
 
@@ -89,7 +89,7 @@ Created by Jesus during the last supper, "do this in memory of me"
 
 ___
 # Lectio Divina
-Lectio Divina is a slow and meditative reading of the word of God. It is not speed reading or studying the word of God, but praying. It involves having the words "speak Lord, your servant is listening" in your heart. It includes quiet time to reflect on what God is saying to your head, heart, and hands, about how you might know, love, and serve Him. It involves resolving to bring one's heart in line with the heart of Christ through sacred scripture. It begins with the Sign of the Cross and involves letting go of mental clutter and barriers that prevent God from entering the heart, such as sins like pride, anger, and greed.
+*divine reading* is a slow and meditative reading/praying of the word of God.  It involves having the words "speak Lord, your servant is listening." So we read the word of God, and then reflect upon it. So we meditate upon that, and ask what we're going to do to bring your heart in line with Jesus.
 <!--ID: 1748199550514-->
 
 
