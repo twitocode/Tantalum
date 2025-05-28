@@ -208,4 +208,5 @@ p.532 - **julie thinks shes in the razorback and wants to go home to earth**
  p.535-536 - holden convinces  fred to delay missles - *holden and miller change of heartikk*
  p.539 - **the new versus the old miller**
  p.543-545 - **Miller meets julie finally, julie is scared, talked out of going to earth. Miller fought for a person he never met. Miller takes off his suit**
- p.556 - fred speaking, tension between earth mars and belt are the highest, martian elections could change thingsttt
+ p.556 - fred speaking, tension between earth mars and belt are the highest, martian elections could change 
+ p.559 - **turn miller into a symbol of the belt**
