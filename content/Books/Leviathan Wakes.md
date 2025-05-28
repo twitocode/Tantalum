@@ -204,4 +204,5 @@ p.515 - holden is resourceful
 p.520 - do the job - miller and julie
 p.525-526 - **miller realized julie is the voice of Eros and wants to go earth**
 p.532 - **julie thinks shes in the razorback and wants to go home to earth**
- p.533 - miller is willing to sacrifuice, naomi trusts miller - *change of characterk*
+ p.533 - miller is willing to sacrifuice, naomi trusts miller - *change of character*
+ p.535-536 - holden convinces  fred to delay missles - *holden and miller change of heart*
