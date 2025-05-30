@@ -5,120 +5,88 @@ tags:
   - Religion
 aliases:
 ---
-Got it! Here's your flashcard list revised to keep the structure but use synonyms or variations for **"what"** to add variety:
+# Define conscience
+
 
 ---
-
-# What is conscience?
-
----
-
-# How is vice defined?
+# What is vice?
 
 ---
-
-# In moral philosophy, what is natural law?
-
----
-
-# How would you describe virtue?
+# What is natural law?
 
 ---
-
-# How is autonomy understood?
-
----
-
-# How do we define ethics?
+# What is virtue?
 
 ---
-
-# How is conventional moral thinking characterized?
-
----
-
-# What does morality mean?
+# What is autonomy?
 
 ---
-
-# Who is St. Thomas Aquinas and how did he contribute to moral thinking?
-
----
-
-# How is responsibility viewed in a moral context?
+# Define ethics
 
 ---
-
-# What does continence refer to?
-
----
-
-# How is wisdom applied in moral reasoning?
+# What is conventional moral thinking?
 
 ---
-
-# How is sin understood?
+# Define morality
 
 ---
+# Who is St. Thomas Aquinas and what is his contribution to moral thinking?
 
+---
+# What is responsibility in a moral context?
+
+---
+# What is continence?
+
+---
+# Define wisdom
+
+---
+# Define is sin
+
+---
 # What are the 7 gifts and 12 fruits of the Holy Spirit?
 
 ---
-
-# How would you define an immoral act?
-
----
-
-# What makes an act moral?
+# What is an immoral act?
 
 ---
-
-# What are the three senses of conscience?
-
----
-
-# How does restorative justice work?
+# What is a moral act?
 
 ---
-
-# How is grace defined in a moral or spiritual sense?
-
----
-
-# What does a moral principle consist of?
+# List the three senses of conscience
 
 ---
-
-# How do we understand divine law?
-
----
-
-# What is meant by eternal law?
+# Define restorative justice
 
 ---
-
-# How would you explain a moral stance?
-
----
-
-# What are passions in a moral or ethical context?
+# What is grace?
 
 ---
-
-# How is pre-conventional moral thinking described?
-
----
-
-# How would you define post-conventional moral thinking?
+# What is a moral principle?
 
 ---
-
-# What does social sin refer to?
-
----
-
-# What are the Four Causes of all Natural Beings?
+# What is divine law?
 
 ---
+# What is eternal law?
 
-Let me know if you'd like this formatted into a document or quiz form!
+---
+# Define moral stance
+
+---
+# What are passions in the moral or ethical sense?
+
+---
+# What is pre-conventional moral thinking?
+
+---
+# What is post-conventional moral thinking?
+
+---
+# What is social sin?
+
+---
+# List the Four Causes of all Natural Beings
+
+---
