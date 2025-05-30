@@ -5,88 +5,120 @@ tags:
   - Religion
 aliases:
 ---
+Got it! Here's your flashcard list revised to keep the structure but use synonyms or variations for **"what"** to add variety:
+
+---
+
 # What is conscience?
 
+---
+
+# How is vice defined?
 
 ---
-# What is vice?
+
+# In moral philosophy, what is natural law?
 
 ---
-# What is natural law?
+
+# How would you describe virtue?
 
 ---
-# What is virtue?
+
+# How is autonomy understood?
 
 ---
-# What is autonomy?
+
+# How do we define ethics?
 
 ---
-# What is ethics?
+
+# How is conventional moral thinking characterized?
 
 ---
-# What is conventional moral thinking?
+
+# What does morality mean?
 
 ---
-# What is morality?
+
+# Who is St. Thomas Aquinas and how did he contribute to moral thinking?
 
 ---
-# Who is St. Thomas Aquinas and what is his contribution to moral thinking?
+
+# How is responsibility viewed in a moral context?
 
 ---
-# What is responsibility in a moral context?
+
+# What does continence refer to?
 
 ---
-# What is continence?
+
+# How is wisdom applied in moral reasoning?
 
 ---
-# What is wisdom?
+
+# How is sin understood?
 
 ---
-# What is sin?
 
----
 # What are the 7 gifts and 12 fruits of the Holy Spirit?
 
 ---
-# What is an immoral act?
+
+# How would you define an immoral act?
 
 ---
-# What is a moral act?
+
+# What makes an act moral?
 
 ---
+
 # What are the three senses of conscience?
 
 ---
-# What is restorative justice?
+
+# How does restorative justice work?
 
 ---
-# What is grace?
+
+# How is grace defined in a moral or spiritual sense?
 
 ---
-# What is a moral principle?
+
+# What does a moral principle consist of?
 
 ---
-# What is divine law?
+
+# How do we understand divine law?
 
 ---
-# What is eternal law?
+
+# What is meant by eternal law?
 
 ---
-# What is a moral stance?
+
+# How would you explain a moral stance?
 
 ---
-# What are passions in the moral or ethical sense?
+
+# What are passions in a moral or ethical context?
 
 ---
-# What is pre-conventional moral thinking?
+
+# How is pre-conventional moral thinking described?
 
 ---
-# What is post-conventional moral thinking?
+
+# How would you define post-conventional moral thinking?
 
 ---
-# What is social sin?
+
+# What does social sin refer to?
 
 ---
+
 # What are the Four Causes of all Natural Beings?
 
 ---
+
+Let me know if you'd like this formatted into a document or quiz form!
