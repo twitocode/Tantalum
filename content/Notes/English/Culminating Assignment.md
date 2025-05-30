@@ -22,9 +22,9 @@ aliases:
 		- Holden is character that cares very deeply about his crewmates. He is willing to do anything to get them back, but he acts irrationally. He needs that voice of reason, which is his executive officer Naomi. After the destruction of the Canterbury, he has become more independent and fends off anyone who tries to hurt his ‘family’. Before he was just the executive officer of the Canterbury, and he was cheerful and a playboy. Holden is now the captain of his remaining crew. Holden felt the need to become stronger. **ADD MORE**. He does not the fit the stereotype of a strong man, yes he served in the military, but he does not know basic combat training when it comes down to actually fighting for his crew.
 	How have the main character(s) changed, grown, or revealed themselves in the second half? 
 	- Detective Miller
-		- After being fired from his police job on Ceres, he tried looking for Julie on Eros. 
+		- Miller has shown himself to be a stubborn person, a very rational being. He is able to realize that the world is not sunshine and rainbows. 
 	- James Holden
-		- Holden 
+		- Holden has shown himself to be an emotional person, one who cannot think 2 steps ahead. He deeply cares about his crew and will not under any circumstances get them hurt.
 4. **Explanation of your novel’s biographical and historical context based on your research on:** 
 	the life of the author 
 	- James S.A Corey
