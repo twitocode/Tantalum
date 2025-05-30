@@ -74,21 +74,25 @@ ___
 
 ---
 # Define is sin
+A kind of evil, a failure in love for God, neighbour, and self.
 
 ---
 # What are the 7 gifts and 12 fruits of the Holy Spirit?
 
 ---
 # What is an immoral act?
+An act in which the person chooses what is not good, intentionally or perhaps due to an error in the judgement of conscience or the person perceived the choice to be good
 
 ---
 # What is a moral act?
+A human act that involves reason and free will. To be done in good conscience, and be aligned with objective moral truth.
 
 ---
 # List the three senses of conscience
 
 ---
 # Define restorative justice
+A process that brings together victims, offenders , and the community in order to repair the harm and promote harmony. It emphasizes healing the harm caused by crime by means of naming the truth and making  amends personally.
 
 ---
 # What is grace?
@@ -116,8 +120,14 @@ ___
 
 ---
 # What is social sin?
+Refers to the fact that personal sins can give rise to social situations and institutions that are sinful.
+- Ex. Holocaust, apartheid, genocide, terroism
 
 ---
 # List the Four Causes of all Natural Beings
+1. Matter: a material cause is the aspect of the change or movement which is determines by the material that composes the moving or changing things. For a human, that may be cells.
+2. Form: a formal cause is due to the arrangement of the thing changing or moving.
+3. Agency or Efficiency: an efficient cause consists of thing apart from the thing being changed or moved. The efficient cause of a table is a carpenter. Boy -> Father
+4. End or Purpose: a final cause is that for the sake of which a thing is changing or moving. A seed's end is an adult plant.
 
 ---
