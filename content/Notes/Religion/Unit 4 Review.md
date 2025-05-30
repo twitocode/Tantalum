@@ -17,6 +17,12 @@ aliases:
 ---
 # What is virtue?
 
+___
+# What are theological virtues?
+
+___
+# What are cardinal virtues?
+
 ---
 # What is autonomy?
 
@@ -28,6 +34,31 @@ aliases:
 
 ---
 # Define morality
+
+___
+# Define moral virtue
+attitudes, dispositions, and good habits that govern one's actions and conduct according to reason.
+
+___
+# What are obligations?
+
+
+___
+# What is free will?
+
+___
+# Define revelations
+
+___
+# Define knowledge
+
+
+___
+# What are continents?
+
+___
+# Define responsibility
+
 
 ---
 # Who is St. Thomas Aquinas and what is his contribution to moral thinking?
