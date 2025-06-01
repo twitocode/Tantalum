@@ -43,9 +43,14 @@ aliases:
 		- Miller has shown himself to be a stubborn person, a very rational being. He is able to realize that the world is not sunshine and rainbows. 
 		- **Sentimental** - “He wondered what his old partners would have made of his behavior on Eros. Havelock. Muss. He tried to imagine them in his place. He’d killed people, and he’d done it cold. Eros had been a kill box, and when the people in charge of the law wanted you dead, the law didn’t apply anymore. And some of the dead assholes had been the ones who’d killed Julie.” (p.318) “So. Revenge killing. Was he really down to revenge killing? That was a sad thought. He tried to imagine Julie sitting beside him the way Naomi had with Holden. It was like she’d been waiting for the invitation. Julie Mao, who he’d never really known. She raised a hand in greeting. And what about us? he asked her as he looked into her dark, unreal eyes. Do I love you, or do I just want to love you so bad I can’t tell the difference?” (p.318)
 		- **Rational** - “‘You found a Martian battery, right? So you told everyone in the solar system about it and started the single largest war in human history. Only turns out the Martians maybe weren’t the ones that left it there. Then, a bunch of mystery ships kill the Donnager, which Mars blames on the Belt, only, dammit, the Belt didn’t even know it was capable of killing a Martian battle cruiser.’ . . . ‘Let me finish! And now you find some data that implicates Earth. First thing you do is blab it to the universe, so that Mars and the Belt drag Earth into this thing, making the largest war of all time even bigger. Are you seeing a pattern here?’” (p.328)
+		- “‘Yeah,’ Miller said, ‘because telling everyone there’s an alien virus that wants to kill them all is a great way to maintain calm and order.’” (p.328)
 	- James Holden
 		- Holden has shown himself to be an emotional person, one who cannot think 2 steps ahead. He deeply cares about his crew and will not under any circumstances get them hurt.
-		- **Irrational** - “‘You’re telling me that I did this,’ Holden said. ‘That if I hadn’t broadcast that data, those ships would still be alive. Those people.’ ‘That, yeah. And that if the bad guys wanted to keep people from watching Eros, it just worked.’”
+		- **Irrational & Naive** - “‘You’re telling me that I did this,’ Holden said. ‘That if I hadn’t broadcast that data, those ships would still be alive. Those people.’ ‘That, yeah. And that if the bad guys wanted to keep people from watching Eros, it just worked.’” (p.356)  
+		- “Miller said, slowly this time. ‘Twice now you’ve had the choice of whether or not to break the solar system, and both times you’ve screwed it up. I don’t want to see you strike out.’” (p.360)
+		- “‘You can’t just throw information at people,’ Miller said. ‘You have to know what it means. What it’s going to do.’” (p.361)
+		- 
+	
 4. **Explanation of your novel’s biographical and historical context based on your research on:** 
 	the life of the author 
 	- James S.A Corey
