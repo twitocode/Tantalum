@@ -41,7 +41,7 @@ aliases:
 	*How have the main character(s) changed, grown, or revealed themselves in the second half?* 
 	- Detective Miller
 		- Miller has shown himself to be a stubborn person, a very rational being. He is able to realize that the world is not sunshine and rainbows. 
-		- 
+		- **Sentimental** -  
 	- James Holden
 		- Holden has shown himself to be an emotional person, one who cannot think 2 steps ahead. He deeply cares about his crew and will not under any circumstances get them hurt.
 4. **Explanation of your novel’s biographical and historical context based on your research on:** 
