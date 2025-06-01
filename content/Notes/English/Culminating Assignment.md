@@ -31,7 +31,7 @@ aliases:
 	
 	- James Holden
 		- Holden is character that cares very deeply about his crewmates. He is willing to do anything to get them back, but he acts irrationally. He needs that voice of reason, which is his executive officer Naomi. After the destruction of the Canterbury, he has become more independent and fends off anyone who tries to hurt his ‘family’. Before he was just the executive officer of the Canterbury, and he was cheerful and a playboy. Holden is now the captain of his remaining crew. Holden felt the need to become stronger. **ADD MORE**. He does not the fit the stereotype of a strong man, yes he served in the military, but he does not know basic combat training when it comes down to actually fighting for his crew.
-		- Fighting for h
+		- Fighting for his crewmates, “This message is to whoever ordered the destruction of the Canterbury, the civilian ice freighter that you just blew into gas. You don’t get to just fly away, you murderous son of a bitch. I don’t care what your reasons are, but you just killed fifty friends of mine. You need to know who they were. I am sending to you the name and photograph of everyone who just died in that ship. Take a good look at what you did. Think about that while I work on finding out who you are” (p.55)
 	*How have the main character(s) changed, grown, or revealed themselves in the second half?* 
 	- Detective Miller
 		- Miller has shown himself to be a stubborn person, a very rational being. He is able to realize that the world is not sunshine and rainbows. 
