@@ -45,7 +45,7 @@ aliases:
 		- **Rational** - “‘You found a Martian battery, right? So you told everyone in the solar system about it and started the single largest war in human history. Only turns out the Martians maybe weren’t the ones that left it there. Then, a bunch of mystery ships kill the Donnager, which Mars blames on the Belt, only, dammit, the Belt didn’t even know it was capable of killing a Martian battle cruiser.’ . . . ‘Let me finish! And now you find some data that implicates Earth. First thing you do is blab it to the universe, so that Mars and the Belt drag Earth into this thing, making the largest war of all time even bigger. Are you seeing a pattern here?’” (p.328)
 	- James Holden
 		- Holden has shown himself to be an emotional person, one who cannot think 2 steps ahead. He deeply cares about his crew and will not under any circumstances get them hurt.
-		- **Irrational** - 
+		- **Irrational** - “‘You’re telling me that I did this,’ Holden said. ‘That if I hadn’t broadcast that data, those ships would still be alive. Those people.’ ‘That, yeah. And that if the bad guys wanted to keep people from watching Eros, it just worked.’”
 4. **Explanation of your novel’s biographical and historical context based on your research on:** 
 	the life of the author 
 	- James S.A Corey
