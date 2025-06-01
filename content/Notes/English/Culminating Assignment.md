@@ -45,12 +45,13 @@ aliases:
 		- **Rational** - “‘You found a Martian battery, right? So you told everyone in the solar system about it and started the single largest war in human history. Only turns out the Martians maybe weren’t the ones that left it there. Then, a bunch of mystery ships kill the Donnager, which Mars blames on the Belt, only, dammit, the Belt didn’t even know it was capable of killing a Martian battle cruiser.’ . . . ‘Let me finish! And now you find some data that implicates Earth. First thing you do is blab it to the universe, so that Mars and the Belt drag Earth into this thing, making the largest war of all time even bigger. Are you seeing a pattern here?’” (p.328)
 		- “‘Yeah,’ Miller said, ‘because telling everyone there’s an alien virus that wants to kill them all is a great way to maintain calm and order.’” (p.362)
 		- **Self-Sacrifice** - 
+		- **Conflict** - “Part of Miller’s mind—the part that was still a cop and not a soldier—twitched at that. They were civilians. Killing them was, at the very least, bad form. But then Julie whispered in the back of his mind, No one here is innocent, and he had to agree.” (p.405)
 	- James Holden
 		- Holden has shown himself to be an emotional person, one who cannot think 2 steps ahead. He deeply cares about his crew and will not under any circumstances get them hurt.
 		- **Irrational & Naive** - “‘You’re telling me that I did this,’ Holden said. ‘That if I hadn’t broadcast that data, those ships would still be alive. Those people.’ ‘That, yeah. And that if the bad guys wanted to keep people from watching Eros, it just worked.’” (p.356)  
 		- “Miller said, slowly this time. ‘Twice now you’ve had the choice of whether or not to break the solar system, and both times you’ve screwed it up. I don’t want to see you strike out.’” (p.360)
 		- “‘You can’t just throw information at people,’ Miller said. ‘You have to know what it means. What it’s going to do.’” (p.361)
-		- “‘People have a right to know what’s going on,’ Holden said. ‘Your argument boils down to you not thinking people are smart enough to figure out the right way to use it.’ ‘Has anyone used anything you’ve broadcast as something besides an excuse to shoot someone they already didn’t like? Giving them a new reason won’t stop them killing each other,’ Miller said” (p.63.
+		- “‘People have a right to know what’s going on,’ Holden said. ‘Your argument boils down to you not thinking people are smart enough to figure out the right way to use it.’ ‘Has anyone used anything you’ve broadcast as something besides an excuse to shoot someone they already didn’t like? Giving them a new reason won’t stop them killing each other,’ Miller said” (p.63)
 	
 4. **Explanation of your novel’s biographical and historical context based on your research on:** 
 	the life of the author 
