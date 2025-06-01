@@ -52,6 +52,7 @@ aliases:
 		- “Miller said, slowly this time. ‘Twice now you’ve had the choice of whether or not to break the solar system, and both times you’ve screwed it up. I don’t want to see you strike out.’” (p.360)
 		- “‘You can’t just throw information at people,’ Miller said. ‘You have to know what it means. What it’s going to do.’” (p.361)
 		- “‘People have a right to know what’s going on,’ Holden said. ‘Your argument boils down to you not thinking people are smart enough to figure out the right way to use it.’ ‘Has anyone used anything you’ve broadcast as something besides an excuse to shoot someone they already didn’t like? Giving them a new reason won’t stop them killing each other,’ Miller said” (p.63)
+		- **Other** - “The bastard had no right to be comfortable. Condescending. Holden wanted the man terrified, begging for his life, not sneering behind his cultured accent. ‘Amos, if he talks to me again without being told to, break his jaw.’” (p.416)
 	
 4. **Explanation of your novel’s biographical and historical context based on your research on:** 
 	the life of the author 
