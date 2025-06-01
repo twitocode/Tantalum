@@ -46,7 +46,7 @@ aliases:
 		- “‘Yes,’ she said. ‘He’s totally uncompromising too, but he has different ideas on how things work. You hate that. To Miller, Dresden was an active threat to the ship. Every second he stayed alive endangered everyone else around him. To Miller, it was self-defense.’” (p.479)
 		- “‘Yeah,’ Miller said, ‘because telling everyone there’s an alien virus that wants to kill them all is a great way to maintain calm and order.’” (p.362)
 		- “When you’re a cop,” he told Julie, repeating something he’d told every rookie he’d been partnered with in his career, “you don’t have the luxury of feeling things. You have to do the job.” (p.520)
-		- **Self-Sacrifice** - 
+		- **Self-Sacrifice** - “I don’t know what’s going to happen,” she said. “No one ever does. And, look, you don’t have to do this alone,” he said (p.546)
 		- **Conflict** - “Part of Miller’s mind—the part that was still a cop and not a soldier—twitched at that. They were civilians. Killing them was, at the very least, bad form. But then Julie whispered in the back of his mind, No one here is innocent, and he had to agree.” (p.405)
 		- Finally found julie - . “Instead, he rocked her gently, like he had Candace on a sleepy Sunday morning, back when she’d still been his wife, back in some distant, near-forgotten lifetime.” (p.543)
 	- James Holden
