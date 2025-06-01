@@ -48,6 +48,7 @@ aliases:
 		- “When you’re a cop,” he told Julie, repeating something he’d told every rookie he’d been partnered with in his career, “you don’t have the luxury of feeling things. You have to do the job.” (p.520)
 		- **Self-Sacrifice** - 
 		- **Conflict** - “Part of Miller’s mind—the part that was still a cop and not a soldier—twitched at that. They were civilians. Killing them was, at the very least, bad form. But then Julie whispered in the back of his mind, No one here is innocent, and he had to agree.” (p.405)
+		- Finally found julie - . “Instead, he rocked her gently, like he had Candace on a sleepy Sunday morning, back when she’d still been his wife, back in some distant, near-forgotten lifetime.” (p.543)
 	- James Holden
 		- Holden has shown himself to be an emotional person, one who cannot think 2 steps ahead. He deeply cares about his crew and will not under any circumstances get them hurt.
 		- **Irrational & Naive** - “‘You’re telling me that I did this,’ Holden said. ‘That if I hadn’t broadcast that data, those ships would still be alive. Those people.’ ‘That, yeah. And that if the bad guys wanted to keep people from watching Eros, it just worked.’” (p.356)  
