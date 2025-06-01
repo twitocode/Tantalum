@@ -42,8 +42,10 @@ aliases:
 	- Detective Miller
 		- Miller has shown himself to be a stubborn person, a very rational being. He is able to realize that the world is not sunshine and rainbows. 
 		- **Sentimental** - “He wondered what his old partners would have made of his behavior on Eros. Havelock. Muss. He tried to imagine them in his place. He’d killed people, and he’d done it cold. Eros had been a kill box, and when the people in charge of the law wanted you dead, the law didn’t apply anymore. And some of the dead assholes had been the ones who’d killed Julie.” (p.318) “So. Revenge killing. Was he really down to revenge killing? That was a sad thought. He tried to imagine Julie sitting beside him the way Naomi had with Holden. It was like she’d been waiting for the invitation. Julie Mao, who he’d never really known. She raised a hand in greeting. And what about us? he asked her as he looked into her dark, unreal eyes. Do I love you, or do I just want to love you so bad I can’t tell the difference?” (p.318)
+		- **Rational** - 
 	- James Holden
 		- Holden has shown himself to be an emotional person, one who cannot think 2 steps ahead. He deeply cares about his crew and will not under any circumstances get them hurt.
+		- **Irrational** - 
 4. **Explanation of your novel’s biographical and historical context based on your research on:** 
 	the life of the author 
 	- James S.A Corey
