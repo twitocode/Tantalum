@@ -148,6 +148,10 @@ p.295 - there are faster ways of killing people on eros than this, not genocide 
 p.296 - miller and holden talk about the sensors and cameras that protogen is using. Eros is a laboratory - petri dish, and another miller psychological lens
 p.298 - the rad shelters made 'zombies' explains why julie broke all the lights, the *protomolecule* feeds of a radiation
 p. 304 - miller is ready to kill the half-zombie innocent person, holden stops him, argument
+
+________
+# SECOND HALF OF BOOK
+
 p.314 - holden quote about regrets
 p.314-315 - naomi and holden love each other
 p.317 - cancer meds for the rest of their lives, naomi taking red's job
