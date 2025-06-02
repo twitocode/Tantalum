@@ -13,6 +13,17 @@ tags:
 	- Always relying on Naomi when things did not go to plan p.157
 	- p.158 used to joke about marines while in the navy, now he does not do it because they gave their lives to save him
 	- p.174 finally calm after the events with the donnager, they are now on the tachi which is a martian warship. everyone on the crew is happy
+	- First Half
+		- 
+	- Second Half
+		- 
+- Miller
+	- Belter
+	- First Half
+		- Works for an Earther company at first
+		- 
+	- Second Half
+		- 
 - Naomi Nagata
 	- Belter
 	- Pragmatic
@@ -29,18 +40,7 @@ tags:
 	- Earther
 	- Dies Later
 	- Irrelevant to the story for the most part
-- Miller
-	- Belter
-	- who is julie to miller?
-	- First Half
-		- Works for an Earther company at first
-		- 
-	- Second Half
-		- Sacrifices himself to save Earth 
-		  
-		  Chapter 14 - really interested in finding julie
-		- Chapter 16 - very determined and mars and belt might start ifghting each other
-			- told he is not the best at his job by dawes
+
 - Fred Johnson
 - Anderson Dawes
 - Julie Mao
