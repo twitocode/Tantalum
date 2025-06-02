@@ -14,16 +14,32 @@ tags:
 	- p.158 used to joke about marines while in the navy, now he does not do it because they gave their lives to save him
 	- p.174 finally calm after the events with the donnager, they are now on the tachi which is a martian warship. everyone on the crew is happy
 	- First Half
-		- 
+		- Will fight to protect his cremates
+		- Will protect all innocent peoples, even the ones he does not know.
+		- Conflicts with Miller
 	- Second Half
-		- 
+		- Irrational
+		- Emotional
+		- Does not think about the consequences of his actions. - Naive
+		- Thinks there are no bad endings to telling the truth - Naive
+		- Wants a transparent society
+		- Optimistic view of the world,
+		- Righteous
 - Miller
 	- Belter
 	- First Half
 		- Works for an Earther company at first
-		- 
+		- Belter
+		- Internal Conflict
+		- Good Detective
+		- Stubborn - really wants to find the next clue to the case
+		- Lonely - wants a comfort person, his police partner is not enough
 	- Second Half
-		- 
+		- Rational
+		- Sentimental
+		- Trusts his own moral judgement
+		- Self-Sacrificial or just wants to rest
+		- Pessimistic view of the the world
 - Naomi Nagata
 	- Belter
 	- Pragmatic
