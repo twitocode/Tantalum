@@ -5,7 +5,7 @@ tags:
   - Religion
 aliases:
 ---
-# Define conscience
+	 # Define conscience
 
 
 ---
