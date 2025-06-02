@@ -68,8 +68,8 @@ Book: [[Leviathan Wakes]]
 			- “If that science ship starts flying toward Eros again, I will throw every torpedo we have at it, and tell myself I was protecting the rest of the solar system from what’s on Eros. But I won’t just start shooting at it now, on the idea that it might decide to head to Eros again, because that’s murder. What Miller did was murder.” (p.479)
  
 4. **Explanation of your novel’s biographical and historical context based on your research on:** 
-	the life of the author 
-	- James S.A Corey is actually the pen name for two authors Daniel Abraham and Ty Franck. The name was chosen to mimic the style of 1970s space operas. Abraham 
+	the life of the author  [An Interview with Bestselling Author Ty Franck (James S.A. Corey) - Amazing Stories](https://amazingstories.com/2013/05/an-interview-with-bestselling-author-ty-franck-james-s-a-corey/?utm_source=chatgpt.com)
+	- James S.A Corey is actually the pen name for two authors Daniel Abraham and Ty Franck. The name was chosen to mimic the style of 1970s space operas. Abraham sometimes collaborates with George R.R. Martin, the author of the A Game of Thrones. His works consisted of fantasy series *The Long Prince Quartet* and *The Dagger and The coin*. Ty Franck worked in business before become George R.R. Martin’s assistant. He is a big role-playing game fan; loves *Dungeon & Dragons*, *Star Frontiers*, and more. He got into the science genre through books like *The Stars My Desitnation* and *Lord of Light*. He initially made the universe of *The Expanse* as a role-playing game setting. 
 	the time in which the author was writing 
 	- The book was published in 2011. 
 	the novel’s setting/time period 
