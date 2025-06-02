@@ -17,6 +17,7 @@ aliases:
 3. **Notes about character development in two parts.** 
 	*What have you learned about the main character(s) from the first half of the novel?*
 	- Detective Miller
+		- At the beginning of the book, Miller is shown to be a 
 		- **VERY IMPORTANT: THE TWO TYPES OF MILLER ON PAGE 294**
 		- **Inner conflict** Detective** Miller lived on Ceres as a police officer. He is a belter; a person who was born in the asteroid belt. Earth currently ‘owns’ Ceres and established Star Helix to enforce security; Miller works for them. Every belter hates Earth and Mars because they own them with an iron grip. He struggles with the internal conflict of working with the government that are actively oppressing his own people **ADD MORE**. 
 		- **Detective** He is able to see through cracks in the mystery of the Canterbury’s and Donnager’s destruction that others are unable to see. His stubbornness gets the better of him. Miller as always trying to find the next clue to the case. Miller is a really good detective, found James Holden in a large solar system while Holden was doing his best to stay hidden.
