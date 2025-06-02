@@ -69,10 +69,11 @@ Book: [[Leviathan Wakes]]
  
 4. **Explanation of your novel’s biographical and historical context based on your research on:** 
 	the life of the author 
-	- James S.A Corey is actually the pen name for two authors Daniel Abraham and Ty Franck.
+	- James S.A Corey is actually the pen name for two authors Daniel Abraham and Ty Franck. The name was chosen
 	the time in which the author was writing 
+	- The book was published in 2011. 
 	the novel’s setting/time period 
-	- Around 300 years into the future, earth was ravaged by climate change so the United Nations formed and emergency world government to tackle the issues, part of the solution was space exploration. This future does not have faster-than-light travel and has realistic physics. Mars broke free from Earth's control and became independent.  Mars broke free because of this new rocket engine that would allow them to access the asteroid belt before earth. Because of Earth's continued aggression, Mars was forced to focus on military than terraforming efforts to turn Mars into a new Earth. The first pioneers in the asteroid belt jump started asteroids like ceres to be livable. These people became Belters.
+	- Around 300 years into the future, earth was ravaged by climate change so the United Nations formed and emergency world government to tackle the issues, part of the solution was space exploration. This future does not have faster-than-light travel and has realistic physics. Mars broke free from Earth's control and became independent.  Mars broke free because of this new rocket engine that would allow them to access the asteroid belt before earth. Because of Earth's continued aggression, Mars was forced to focus on military than terraforming efforts to turn Mars into a new Earth. The first pioneers in the asteroid belt jump started asteroids like Ceres to be livable. These people became Belters. The themes present are colonialism, socio-economic inequality, power struggle, and deception.
 5.  **Analysis of novel using literary lenses. Examine how one or more of the following literary lenses. informs your interpretation of the novel:** 
 	psychological lens 
 	- Miller sees Julie in his mind
