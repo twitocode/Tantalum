@@ -69,7 +69,7 @@ Book: [[Leviathan Wakes]]
  
 4. **Explanation of your novel’s biographical and historical context based on your research on:** 
 	the life of the author 
-	- James S.A Corey is actually the pen name for two authors Daniel Abraham and Ty Franck. The name was chosen
+	- James S.A Corey is actually the pen name for two authors Daniel Abraham and Ty Franck. The name was chosen to mimic the style of 1970s space operas. Abraham 
 	the time in which the author was writing 
 	- The book was published in 2011. 
 	the novel’s setting/time period 
