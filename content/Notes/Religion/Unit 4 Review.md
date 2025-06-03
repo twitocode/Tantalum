@@ -13,6 +13,7 @@ aliases:
 
 ---
 # What is natural law?
+Part of moral law that can be known through human reason and so is said to be inscribed on the human heart. The first precept of this law, which all humans know is, "do good and avoid evil". Persons use their reason and conscience to know what the good actually is in various moral scenarios. 
 
 ---
 # What is virtue?
@@ -29,8 +30,6 @@ ___
 ---
 # Define ethics
 
----
-# What is conventional moral thinking?
 
 ---
 # Define morality
@@ -45,6 +44,7 @@ ___
 
 ___
 # What is free will?
+The human power to choose, and is an intellectual appetite. Free will is shown in human beings in their ability to act against their dominant instincts, which animals never do. The Church emphasizes the important link between free will and responsibility. A gift from God to choose "the good" for the well-being of ourselves and the community.
 
 ___
 # Define revelations
@@ -102,9 +102,12 @@ A process that brings together victims, offenders , and the community in order t
 
 ---
 # What is divine law?
+The revealed Word of God, offered to us through revelation because we need to be guided to our supernatural destiny, the beatific vision, and since our reason is inadequate to reveal it to us.
 
 ---
 # What is eternal law?
+These are the rules of the universe; all of creation, including the universe, is governed by God who is eternal
+
 
 ---
 # Define moral stance
@@ -114,6 +117,10 @@ A process that brings together victims, offenders , and the community in order t
 
 ---
 # What is pre-conventional moral thinking?
+
+---
+# What is conventional moral thinking?
+
 
 ---
 # What is post-conventional moral thinking?
