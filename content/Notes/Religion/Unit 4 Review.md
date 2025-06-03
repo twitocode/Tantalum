@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 # Define conscience
-
+The most secret core and his sanctuary where he is alone with God. Moral conscience is present at the heart of the person, and he is alone with God. and triggers at the appropriate moment to do good or avoid. It also judges particular choices approving some and denouncing others.
 
 ---
 # What is vice?
