@@ -82,14 +82,12 @@ Book: [[Leviathan Wakes]]
 	3. What choices does Miller make?  Are the choices moral/ethical?
 		- Moral? HELL NO
 		- Ethical? maybe
-		- 
+	4. What forces are motivating Miller?
+	5. What struggle is taking place in the character’s mind between id, ego and superego?
 	socio-economic lens
 	- Earth - 15 billion are poor 15 billion are rich - literally
 	- Mars - rich
 	- Belt - poor all around
-	archetypal lens 
-	- Is anyone really a hero? they end up being ones at the end
-
 6. **Text-to-world connections:** 
 	find two articles that connect to themes or topics from your novel 
 	- Oppression
