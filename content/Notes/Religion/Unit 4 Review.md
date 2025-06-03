@@ -42,7 +42,7 @@ attitudes, dispositions, and good habits that govern one's actions and conduct a
 
 ___
 # What are obligations?
-What one is bound by duty or con tract to do.
+Something you are bound to do by duty; your responsibility.
 
 ___
 # What is free will?
