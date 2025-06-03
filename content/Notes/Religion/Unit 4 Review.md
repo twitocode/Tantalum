@@ -5,7 +5,7 @@ tags:
   - Religion
 aliases:
 ---
-	 # Define conscience
+# Define conscience
 
 
 ---
@@ -74,7 +74,7 @@ ___
 
 ---
 # Define is sin
-A kind of evil, a failure in love for God, neighbour, and self.
+A kind of evil, a failure in love for God, neighbour, and self. It is a freely chosen action or failure to act that goes against God's law and harms our relationships with Him and Others
 
 ---
 # What are the 7 gifts and 12 fruits of the Holy Spirit?
