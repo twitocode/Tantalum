@@ -84,10 +84,21 @@ Book: [[Leviathan Wakes]]
 		- Ethical? maybe
 	4. What forces are motivating Miller?
 	5. What struggle is taking place in the character’s mind between id, ego and superego?
+	
 	socio-economic lens
-	- Earth - 15 billion are poor 15 billion are rich - literally
-	- Mars - rich
-	- Belt - poor all around
+	 6. Who has power, money, or status and who doesn’t in the text? 
+		sdfsdf
+	 7. What does the text say about oppression and social conflict?
+		sdfsdfsdf
+	 8. How do people from different classes interact? 
+		sdfsdf
+	 9. How does the text challenge or support a certain social order?
+		sdfsdf
+	 10. Whom does it benefit if the work or effort is accepted/successful/believed?
+		sdfsdf
+	 11. What social classes do the characters represent?
+		sdfsdf
+
 6. **Text-to-world connections:** 
 	find two articles that connect to themes or topics from your novel 
 	- Oppression
