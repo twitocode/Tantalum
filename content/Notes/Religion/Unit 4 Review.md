@@ -17,7 +17,7 @@ Part of moral law that can be known through human reason and so is said to be in
 
 ---
 # What is virtue?
-Human virtues are firm attitudes, sta ble dispositions, habitual perfections of intel lect and will, that govern our actions, order our passions and guide our conduct according to reason and faith.
+Human virtues are firm attitudes, stable dispositions, habitual perfections of intellect and will, that govern our actions, order our passions and guide our conduct according to reason and faith.
 
 ___
 # What are theological virtues?
