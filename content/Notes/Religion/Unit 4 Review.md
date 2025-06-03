@@ -26,6 +26,7 @@ ___
 
 ---
 # What is autonomy?
+Free self-direction; responsibility.
 
 ---
 # Define ethics
@@ -33,6 +34,7 @@ ___
 
 ---
 # Define morality
+A system of right conduct based on fundamental beliefs and obligation to follow cer tain codes, norms, customs and habits of behaviour.
 
 ___
 # Define moral virtue
@@ -40,7 +42,7 @@ attitudes, dispositions, and good habits that govern one's actions and conduct a
 
 ___
 # What are obligations?
-
+What one is bound by duty or con tract to do.
 
 ___
 # What is free will?
@@ -48,6 +50,7 @@ The human power to choose, and is an intellectual appetite. Free will is shown i
 
 ___
 # Define revelations
+**The ways that God makes Himself known to humankind. God is fully revealed in Jesus Christ.** The sacred Scriptures, proclaimed within the Church, are the revealed Word of God. God also reveals Self through people and indeed through all of creation.
 
 ___
 # Define knowledge
@@ -58,7 +61,7 @@ ___
 
 ___
 # Define responsibility
-
+Being morally accountable for one’s actions. Responsibility presumes knowl edge, freedom, and the ability to choose and to act
 
 ---
 # Who is St. Thomas Aquinas and what is his contribution to moral thinking?
