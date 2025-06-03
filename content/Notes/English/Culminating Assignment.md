@@ -86,17 +86,25 @@ Book: [[Leviathan Wakes]]
 	5. What struggle is taking place in the character’s mind between id, ego and superego?
 	
 	socio-economic lens
-	 6. Who has power, money, or status and who doesn’t in the text? 
+	- Class Division
+	- Physical and Cultural differences limits people
+		- Cultural
+		- Physical
+			- Belters live in low gravity environments, they would die if they went to Earth. Martians also have a tough time going to Earth but it is not as bad. 
+	- Corporate Power
+	- Oppression 
+	- Hiding information 
+	 1. Who has power, money, or status and who doesn’t in the text? 
 		sdfsdf
-	 7. What does the text say about oppression and social conflict?
+	 2. What does the text say about oppression and social conflict?
 		sdfsdfsdf
-	 8. How do people from different classes interact? 
+	 3. How do people from different classes interact? 
+		They hate each other for very good reasons. Earthers are the reason for all the problems in the solar system. Cannot take care of their planet and cannot take care of their "children"
+	 4. How does the text challenge or support a certain social order?
 		sdfsdf
-	 9. How does the text challenge or support a certain social order?
+	 5. Whom does it benefit if the work or effort is accepted/successful/believed?
 		sdfsdf
-	 10. Whom does it benefit if the work or effort is accepted/successful/believed?
-		sdfsdf
-	 11. What social classes do the characters represent?
+	 6. What social classes do the characters represent?
 		sdfsdf
 
 6. **Text-to-world connections:** 
