@@ -17,6 +17,7 @@ Part of moral law that can be known through human reason and so is said to be in
 
 ---
 # What is virtue?
+Human virtues are firm attitudes, sta ble dispositions, habitual perfections of intel lect and will, that govern our actions, order our passions and guide our conduct according to reason and faith.
 
 ___
 # What are theological virtues?
@@ -30,11 +31,11 @@ Free self-direction; responsibility.
 
 ---
 # Define ethics
-
+A discipline that deals with the nature of the good, the nature of the human person, and criteria that we use for making right judgments.
 
 ---
 # Define morality
-A system of right conduct based on fundamental beliefs and obligation to follow cer tain codes, norms, customs and habits of behaviour.
+A system of right conduct based on fundamental beliefs and obligation to follow certain codes, norms, customs and habits of behaviour.
 
 ___
 # Define moral virtue
@@ -114,6 +115,7 @@ These are the rules of the universe; all of creation, including the universe, is
 
 ---
 # Define moral stance
+My moral orientation or direction in life; what I “stand for.”
 
 ---
 # What are passions in the moral or ethical sense?
