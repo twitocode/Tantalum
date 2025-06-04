@@ -6,4 +6,9 @@
 - [ ] [Black Students Association - MSU](https://msumcmaster.ca/initiative/black-students-association/)
 - [ ] [DeltaHacks 12](https://www.deltahacks.com/)
 - [ ] [MARS @ MAC - Home](https://www.marsatmac.ca/)
+- [ ] [McMaster Rocketry Team](https://www.macrocketry.ca/)
+- [ ] [Sumobot](https://www.sumobot.ca/)
+- [ ] [MAC RoboMaster](https://macrobomaster.com/)
+- [ ] [MAC FORMULA ELECTRIC](https://macformularacing.com/)
+- [ ] [Google Developer Group on Campus \| McMaster University](https://gdscmcmasteru.ca/)
 - [ ] 
