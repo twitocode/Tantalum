@@ -98,9 +98,10 @@ Book: [[Leviathan Wakes]]
 6. **Text-to-world connections:** 
 	find two articles that connect to themes or topics from your novel 
 	- Oppression
-	- Revolution
-	- Deception & Trickery
-	- 
+	- Socio-economic Inequality
+	- Class Conflict
+	- Hidden Information
+	- Scientific Ambition & Morals
 	summarize the articles 
 	explain how it connects to your novel 
 7. **Draw a connection to a related social issue:** 
