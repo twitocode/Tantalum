@@ -7,6 +7,8 @@ aliases:
 ---
 
 > [!NOTE] Layout
+> - 70 MC
+> - Parable Analysis
 > - 
 
 good moral life, 
@@ -81,4 +83,10 @@ indissolubility,
 civil divorce,
 annulment,
 council of Trent on marriage,
-domestic church, during the marriage ceremony-who are the ministers of Christ's grace, how can young people today 'out love' secularism=new evangelization, missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give. PARABLES-you will analyze 1 of these: good Samaritan, parable of the mustard seed, lost coin, lost sheep, prodigal son, workers in the vineyard, parable of talents, story of rich man and Jesus=what is the underlying meaning (hermeneutics)  for US NOW.**
+domestic church, 
+during the marriage ceremony-who are the ministers of Christ's grace,
+how can young people today 'out love' secularism=new evangelization, 
+
+missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give. 
+
+PARABLES-you will analyze 1 of these: good Samaritan, parable of the mustard seed, lost coin, lost sheep, prodigal son, workers in the vineyard, parable of talents, story of rich man and Jesus=what is the underlying meaning (hermeneutics)  for US NOW.**
