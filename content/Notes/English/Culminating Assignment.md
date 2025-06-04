@@ -112,6 +112,11 @@ Book: [[Leviathan Wakes]]
 	complete three research cards considering CRAAP criteria 
 	summarize your research 
 	explain how it connects to your novel 
+	
+	Social issues
+	- Conflict
+	- Human Rights
+	- Inequality
 8. **Interview an expert connected to a theme or topic in your novel:** 
 	create a set of interview questions to structure the meeting 
 	organize a virtual or in-person meeting with your expert 
