@@ -120,7 +120,8 @@ Book: [[Leviathan Wakes]]
 	- **Information Control**
 	- **Corporate Greed**
 	- Colonialism
-	- 
+	[Corporate Power over Human Rights: An Analytical Framework | Business and Human Rights Journal | Cambridge Core](https://www.cambridge.org/core/journals/business-and-human-rights-journal/article/corporate-power-over-human-rights-an-analytical-framework/EDEE9A93D44E0C700C1E59828BE0939D)
+	
 8. **Interview an expert connected to a theme or topic in your novel:** 
 	create a set of interview questions to structure the meeting 
 	organize a virtual or in-person meeting with your expert 
