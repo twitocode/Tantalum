@@ -98,7 +98,8 @@ Book: [[Leviathan Wakes]]
 	- Corporate Power
 	- Oppression 
 	- Hiding information 
-	  
+	- The universe of The Expanse is divided by three groups of people who not only hate each other, but have their own economic and social situations. There is an established hierarchy between the inner planets, Earth and Mars, and the Belters. The asteroid belt is rich in resources that the inners need. In the story, Earth has its security force, Star Helix, control the largest asteroid in the belt, Ceres. This creates a system where Belters are subordinate to inners. Belters are the laborers who were robbed of economic freedom. ** (quote about stopping shipments, first whwater pagers )**. 
+	- Belters are seen as sub-human to inners. They are considerably taller because of the low gravity environment they live in. Many are malnourished because much food is sent to the inner planets. Over the generations, they have also developed their own language called Belter-creole.
 	 1. Who has power, money, or status and who doesn’t in the text? 
 		sdfsdf
 	 2. What does the text say about oppression and social conflict?
