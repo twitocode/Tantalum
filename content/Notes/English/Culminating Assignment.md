@@ -98,6 +98,7 @@ Book: [[Leviathan Wakes]]
 	- Corporate Power
 	- Oppression 
 	- Hiding information 
+	  
 	 1. Who has power, money, or status and who doesn’t in the text? 
 		sdfsdf
 	 2. What does the text say about oppression and social conflict?
