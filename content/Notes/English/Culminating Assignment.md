@@ -104,6 +104,7 @@ Book: [[Leviathan Wakes]]
 	- Scientific Ambition & Morals
 	summarize the articles 
 	explain how it connects to your novel 
+	[What Will Ethical Space Exploration Look Like? | WIRED](https://www.wired.com/story/erika-nesvold-what-will-ethical-space-exploration-look-like/)
 7. **Draw a connection to a related social issue:** 
 	identify a common social issue present in your novel  
 	complete three research cards considering CRAAP criteria 
