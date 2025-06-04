@@ -100,6 +100,7 @@ Book: [[Leviathan Wakes]]
 	- Oppression
 	- Revolution
 	- Deception & Trickery
+	- 
 	summarize the articles 
 	explain how it connects to your novel 
 7. **Draw a connection to a related social issue:** 
