@@ -94,7 +94,7 @@ Book: [[Leviathan Wakes]]
 	- Belters are seen as sub-human to inners. They are considerably taller because of the low gravity environment they live in. Many are malnourished because much food is sent to the inner planets. In the story, there is this alien substance called the protomolecule that feeds off of a lot of mass. It was originally meant to go to Earth billions of years ago. Scientists unleashed it on Eros station which housed one and a half million Belters. The people were nothing but biomass to Inners.
 	- There are some characters who break the social order. The daughter of the one of the richest men in the galaxy, Julie Mao, decided to leave her riches to go join the Belters even though she is from Earth. Fred Johnson, a commander in the United Nations Navy, joined the Belters and became one of the leaders of the OPA.  Miller says that the true conflict is not between inners and belters, but, "the people who thought it was a good idea to kill people who looked or acted differently against the people who didn’t" (Corey 382)
 	- The one-sided war between Mars and the Belt, Earth destroying Deimos (moon of mars), and the genocide of people on Eros could only happened because of the safeguarding of information. Information, regardless of how truthful it is, can be used as a weapon to get sides to fight against each other. The Earth-based company Protogen destroyed the Canterbury ice hauler, and the Donnager battleship to make a smokescreen around what they were doing with the alien substances. Companies like the Mao-Kwikowski Mercantile bypass law and control politicians.  **REWRITE THIS GARBAGE**
-
+[]
 6. **Text-to-world connections:** 
 	find two articles that connect to themes or topics from your novel 
 	- Oppression
