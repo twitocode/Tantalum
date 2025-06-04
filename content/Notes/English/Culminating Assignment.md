@@ -90,29 +90,9 @@ Book: [[Leviathan Wakes]]
 	5. What struggle is taking place in the character’s mind between id, ego and superego?
 	
 	socio-economic lens
-	- Class Division
-	- Physical and Cultural differences limits people
-		- Cultural
-		- Physical
-			- Belters live in low gravity environments, they would die if they went to Earth. Martians also have a tough time going to Earth but it is not as bad. 
-	- Corporate Power
-	- Oppression 
-	- Hiding information 
 	- The universe of The Expanse is divided by three groups of people who not only hate each other, but have their own economic and social situations. There is an established hierarchy between the inner planets, Earth and Mars, and the Belters. The asteroid belt is rich in resources that the inners need. In the story, Earth has its security force, Star Helix, control the largest asteroid in the belt, Ceres. This creates a system where Belters are subordinate to inners. Belters are the laborers who were robbed of economic freedom. ** (quote about stopping shipments, first whwater pagers ). The inners charge heavy fees to Belters for them to dock their ships at stations. A rising movement called the OPA (Outer Planets Alliance) started because of unfair treatment of Belters.
 	- Belters are seen as sub-human to inners. They are considerably taller because of the low gravity environment they live in. Many are malnourished because much food is sent to the inner planets. Over the generations, they have also developed their own language called Belter-creole.
-	- There are some characters who break this socio-economic divide. The daughter of the one of the richest men in the galaxy, Julie Mao, decided to leave her riches to go join the Belters even though she is from Earth. Fred Johnson, a commander in the United Nations Navy, joined the Belters and became one of the leaders of the OPA.  Miller says that the true conflict is not between inners and belters, but "the people who thought it was a good idea to kill people who looked or acted differently against the people who didn’t" (Corey sdkfjlskdjf)
-	 1. Who has power, money, or status and who doesn’t in the text? 
-		sdfsdf
-	 2. What does the text say about oppression and social conflict?
-		sdfsdfsdf
-	 3. How do people from different classes interact? 
-		They hate each other for very good reasons. Earthers are the reason for all the problems in the solar system. Cannot take care of their planet and cannot take care of their "children"
-	 4. How does the text challenge or support a certain social order?
-		sdfsdf
-	 5. Whom does it benefit if the work or effort is accepted/successful/believed?
-		sdfsdf
-	 6. What social classes do the characters represent?
-		sdfsdf
+	- There are some characters who break the social order. The daughter of the one of the richest men in the galaxy, Julie Mao, decided to leave her riches to go join the Belters even though she is from Earth. Fred Johnson, a commander in the United Nations Navy, joined the Belters and became one of the leaders of the OPA.  Miller says that the true conflict is not between inners and belters, but, "the people who thought it was a good idea to kill people who looked or acted differently against the people who didn’t" (Corey 382)
 
 6. **Text-to-world connections:** 
 	find two articles that connect to themes or topics from your novel 
