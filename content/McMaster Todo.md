@@ -4,4 +4,6 @@
 - [ ] [McMaster Game Development Club (MacGDC) - MSU](https://msumcmaster.ca/initiative/mcmaster-game-development-club-macgdc/)
 - [ ] [COPE: A Student Mental Health Initiative - MSU](https://msumcmaster.ca/initiative/cope/)
 - [ ] [Black Students Association - MSU](https://msumcmaster.ca/initiative/black-students-association/)
+- [ ] [DeltaHacks 12](https://www.deltahacks.com/)
+- [ ] [MARS @ MAC - Home](https://www.marsatmac.ca/)
 - [ ] 
