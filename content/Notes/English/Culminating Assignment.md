@@ -98,10 +98,10 @@ Book: [[Leviathan Wakes]]
 6. **Text-to-world connections:** 
 	find two articles that connect to themes or topics from your novel 
 	- Oppression
-	- Socio-economic Inequality
+	- **Socio-economic Inequality**
 	- Class Conflict
 	- Hidden Information
-	- Scientific Ambition & Morals
+	- **Scientific Ambition & Morals**
 	summarize the articles 
 	explain how it connects to your novel 
 	[What Will Ethical Space Exploration Look Like? | WIRED](https://www.wired.com/story/erika-nesvold-what-will-ethical-space-exploration-look-like/)
@@ -115,8 +115,12 @@ Book: [[Leviathan Wakes]]
 	
 	Social issues
 	- Conflict
-	- Human Rights
+	- **Human Rights**
 	- Inequality
+	- **Information Control**
+	- **Corporate Greed**
+	- Colonialism
+	- 
 8. **Interview an expert connected to a theme or topic in your novel:** 
 	create a set of interview questions to structure the meeting 
 	organize a virtual or in-person meeting with your expert 
