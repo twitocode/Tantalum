@@ -88,7 +88,6 @@ Book: [[Leviathan Wakes]]
 		- Ethical? maybe
 	4. What forces are motivating Miller?
 	5. What struggle is taking place in the character’s mind between id, ego and superego?
-	
 	socio-economic lens
 	- The universe of The Expanse is divided by three groups of people who not only hate each other, but have their own economic and social situations. There is an established hierarchy between the inner planets, Earth and Mars, and the Belters. The asteroid belt is rich in resources that the inners need. In the story, Earth has its security force, Star Helix, control the largest asteroid in the belt, Ceres. This creates a system where Belters are subordinate to inners. Belters are the laborers who were robbed of economic freedom. **(quote about stopping shipments)**. The inners charge heavy fees to Belters for them to dock their ships at stations. A rising movement called the OPA (Outer Planets Alliance) started because of unfair treatment of Belters.
 	- Belters are seen as sub-human to inners. They are considerably taller because of the low gravity environment they live in. Many are malnourished because much food is sent to the inner planets. In the story, there is this alien substance called the protomolecule that feeds off of a lot of mass. It was originally meant to go to Earth billions of years ago. Scientists unleashed it on Eros station which housed one and a half million Belters. The people were nothing but biomass to Inners.
@@ -110,7 +109,7 @@ Book: [[Leviathan Wakes]]
 	
 	[Dehumanizing Always Starts With Language - Brené Brown](https://brenebrown.com/articles/2018/05/17/dehumanizing-always-starts-with-language/)
 	**Summary:** Dehumanizing is a response to conflicting motives, demonizing our enemies, makes us view them as something not worthy of humane treatment. Taking sides makes us lose trust, get angrier with the enemy. This process lessens our ability to listen, communicate, and know empathy. Dehumanizing makes us view the conflict between us and the enemy as a battle of good versus evil. Dehumanizing in the world has caused human rights violations, war crimes, and genocides. Moral exclusion is when we start to target groups based on their identity and depict them as criminals.
-	**Connection to novel:** 
+	**Connection to novel:** In *Leviathan wakes*, Belters are excluded from the rest of society. They are stripped of the rescour
 
 7. **Draw a connection to a related social issue:** 
 	identify a common social issue present in your novel  
