@@ -105,7 +105,7 @@ Book: [[Leviathan Wakes]]
 	summarize the articles 
 	explain how it connects to your novel 
 	[What Will Ethical Space Exploration Look Like? | WIRED](https://www.wired.com/story/erika-nesvold-what-will-ethical-space-exploration-look-like/)
-	**Summary:** 
+	**Summary:** The ethical choices that humans make today will shape future space expeditions and conflicts. Currently humanity still has issues with keeping care of the planet in space, low-earth orbit junk, light pollution. Governments and companies need to protect the rights of space workers. Workers rights’ have been violated on Earth by removing passports and preventing employees from leaving. The same thing could happen in space. A code of ethics needs to be established by social scientists, activists, and people of different cultures. Privatizing the spaceflight industry would lead to investment. however space does not have infinite resources contrary to popular belief. The same wars we have on Earth for resources could happen in space. The first generations of space labourers could be exploited to make the first stepping stones like the Chinese were with Canada’s transcontinental railroad. The first conflict could begin on the moon because of its limited resources.
 	**Connection to novel:**
 	[Space Colonization and Exonationalism: On the Future of Humanity and Anthropology](https://www.mdpi.com/2673-9461/2/3/10)
 	**Summary:** 
