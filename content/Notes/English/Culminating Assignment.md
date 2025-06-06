@@ -106,9 +106,11 @@ Book: [[Leviathan Wakes]]
 	explain how it connects to your novel 
 	[What Will Ethical Space Exploration Look Like? | WIRED](https://www.wired.com/story/erika-nesvold-what-will-ethical-space-exploration-look-like/)
 	**Summary:** 
-	**Connection:**
+	**Connection to novel:**
 	[Space Colonization and Exonationalism: On the Future of Humanity and Anthropology](https://www.mdpi.com/2673-9461/2/3/10)
-	
+	**Summary:** 
+	**Connection to novel:**
+
 7. **Draw a connection to a related social issue:** 
 	identify a common social issue present in your novel  
 	complete three research cards considering CRAAP criteria 
