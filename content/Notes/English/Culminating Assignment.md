@@ -109,8 +109,8 @@ Book: [[Leviathan Wakes]]
 	**Connection to novel:** The book *Leviathan wakes* delves into the issue of the exploitation of peoples and workers for corporate greed. Belters became alienated as the first generations of pioneers settled the asteroid belt. Belters are treated as second class citizens and as a labour force. They are just like the Chinese peoples in Canada. They are sent to do all of the dangerous work and suffer hazards. Earth is quickly depleting its resources because of its large population so it reached out to the asteroid belt and Mars. Now they are siphoning resources from the asteroid belt and are at constant odds with the Mars over water. Which is why ice haulers like the Canterbury exist.
 	
 	[Dehumanizing Always Starts With Language - Brené Brown](https://brenebrown.com/articles/2018/05/17/dehumanizing-always-starts-with-language/)
-	**Summary:** 
-	**Connection to novel:**
+	**Summary:** Dehumanizing is a response to conflicting motives, demonizing our enemies, makes us view them as something not worthy of humane treatment. Taking sides makes us lose trust, get angrier with the enemy. This process lessens our ability to listen, communicate, and know empathy. Dehumanizing makes us view the conflict between us and the enemy as a battle of good versus evil. Dehumanizing in the world has caused human rights violations, war crimes, and genocides. Moral exclusion is when we start to target groups based on their identity and depict them as criminals.
+	**Connection to novel:** 
 
 7. **Draw a connection to a related social issue:** 
 	identify a common social issue present in your novel  
