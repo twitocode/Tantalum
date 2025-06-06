@@ -107,7 +107,8 @@ Book: [[Leviathan Wakes]]
 	[What Will Ethical Space Exploration Look Like? | WIRED](https://www.wired.com/story/erika-nesvold-what-will-ethical-space-exploration-look-like/)
 	**Summary:** The ethical choices that humans make today will shape future space expeditions and conflicts. Currently humanity still has issues with keeping care of the planet in space, low-earth orbit junk, light pollution. Governments and companies need to protect the rights of space workers. Workers rights’ have been violated on Earth by removing passports and preventing employees from leaving. The same thing could happen in space. A code of ethics needs to be established by social scientists, activists, and people of different cultures. Privatizing the spaceflight industry would lead to investment. however space does not have infinite resources contrary to popular belief. The same wars we have on Earth for resources could happen in space. The first generations of space labourers could be exploited to make the first stepping stones like the Chinese were with Canada’s transcontinental railroad. The first conflict could begin on the moon because of its limited resources.
 	**Connection to novel:** The book *Leviathan wakes* delves into the issue of the exploitation of peoples and workers for corporate greed. Belters became alienated as the first generations of pioneers settled the asteroid belt. Belters are treated as second class citizens and as a labour force. They are just like the Chinese peoples in Canada. They are sent to do all of the dangerous work and suffer hazards. Earth is quickly depleting its resources because of its large population so it reached out to the asteroid belt and Mars. Now they are siphoning resources from the asteroid belt and are at constant odds with the Mars over water. Which is why ice haulers like the Canterbury exist.
-	[Space Colonization and Exonationalism: On the Future of Humanity and Anthropology](https://www.mdpi.com/2673-9461/2/3/10)
+	
+	[Dehumanizing Always Starts With Language - Brené Brown](https://brenebrown.com/articles/2018/05/17/dehumanizing-always-starts-with-language/)
 	**Summary:** 
 	**Connection to novel:**
 
@@ -125,7 +126,7 @@ Book: [[Leviathan Wakes]]
 	- **Corporate Greed**
 	- Colonialism
 	[Corporate Power over Human Rights: An Analytical Framework | Business and Human Rights Journal | Cambridge Core](https://www.cambridge.org/core/journals/business-and-human-rights-journal/article/corporate-power-over-human-rights-an-analytical-framework/EDEE9A93D44E0C700C1E59828BE0939D)
-	[Dehumanizing Always Starts With Language - Brené Brown](https://brenebrown.com/articles/2018/05/17/dehumanizing-always-starts-with-language/)
+	[Space Colonization and Exonationalism: On the Future of Humanity and Anthropology](https://www.mdpi.com/2673-9461/2/3/10)
 	[Global water crisis leaves half of world food production at risk in next 25 years \| Water \| The Guardian](https://www.theguardian.com/environment/2024/oct/16/global-water-crisis-food-production-at-risk)
 	[The Economic Impact of Colonialism \| World Development \| UZH](https://www.worlddevelopment.uzh.ch/en/research/impa/ecoim.html)
 	
