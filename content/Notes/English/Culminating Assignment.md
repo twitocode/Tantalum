@@ -121,6 +121,9 @@ Book: [[Leviathan Wakes]]
 	- **Corporate Greed**
 	- Colonialism
 	[Corporate Power over Human Rights: An Analytical Framework | Business and Human Rights Journal | Cambridge Core](https://www.cambridge.org/core/journals/business-and-human-rights-journal/article/corporate-power-over-human-rights-an-analytical-framework/EDEE9A93D44E0C700C1E59828BE0939D)
+	[Dehumanizing Always Starts With Language - Brené Brown](https://brenebrown.com/articles/2018/05/17/dehumanizing-always-starts-with-language/)
+	[Global water crisis leaves half of world food production at risk in next 25 years \| Water \| The Guardian](https://www.theguardian.com/environment/2024/oct/16/global-water-crisis-food-production-at-risk)
+	[The Economic Impact of Colonialism \| World Development \| UZH](https://www.worlddevelopment.uzh.ch/en/research/impa/ecoim.html)
 	
 8. **Interview an expert connected to a theme or topic in your novel:** 
 	create a set of interview questions to structure the meeting 
