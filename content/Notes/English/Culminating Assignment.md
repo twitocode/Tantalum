@@ -106,7 +106,7 @@ Book: [[Leviathan Wakes]]
 	explain how it connects to your novel 
 	[What Will Ethical Space Exploration Look Like? | WIRED](https://www.wired.com/story/erika-nesvold-what-will-ethical-space-exploration-look-like/)
 	**Summary:** The ethical choices that humans make today will shape future space expeditions and conflicts. Currently humanity still has issues with keeping care of the planet in space, low-earth orbit junk, light pollution. Governments and companies need to protect the rights of space workers. Workers rights’ have been violated on Earth by removing passports and preventing employees from leaving. The same thing could happen in space. A code of ethics needs to be established by social scientists, activists, and people of different cultures. Privatizing the spaceflight industry would lead to investment. however space does not have infinite resources contrary to popular belief. The same wars we have on Earth for resources could happen in space. The first generations of space labourers could be exploited to make the first stepping stones like the Chinese were with Canada’s transcontinental railroad. The first conflict could begin on the moon because of its limited resources.
-	**Connection to novel:** The book *Leviathan wakes* delves into the issue of the exploitation of peoples and workers for corporate greed. Belters became alienated as the first generations of pioneers settled the asteroid belt. Belters are treated as second class citizens and as a labour force. They are just like the Chinese peoples in Canada. They are sent to do all of the dangerous work and suffer hazards. Earth is quickly depleteling its resources because of its large population so it reached out to the asteroid belt and m
+	**Connection to novel:** The book *Leviathan wakes* delves into the issue of the exploitation of peoples and workers for corporate greed. Belters became alienated as the first generations of pioneers settled the asteroid belt. Belters are treated as second class citizens and as a labour force. They are just like the Chinese peoples in Canada. They are sent to do all of the dangerous work and suffer hazards. Earth is quickly depleting its resources because of its large population so it reached out to the asteroid belt and Mars. Now they are siphoning resources from the asteroid belt and are at constant odds with the Mars over water. Which is why ice haulers like the Canterbury exist.
 	[Space Colonization and Exonationalism: On the Future of Humanity and Anthropology](https://www.mdpi.com/2673-9461/2/3/10)
 	**Summary:** 
 	**Connection to novel:**
@@ -133,4 +133,4 @@ Book: [[Leviathan Wakes]]
 	create a set of interview questions to structure the meeting 
 	organize a virtual or in-person meeting with your expert 
 	record the interview either as a video or podcast 
-	**SHOULD BE ARROUND 5 MINUTES*
+	**SHOULD BE ARROUND 5 MINUTES**
