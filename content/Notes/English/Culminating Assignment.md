@@ -109,7 +109,7 @@ Book: [[Leviathan Wakes]]
 	
 	[Dehumanizing Always Starts With Language - Brené Brown](https://brenebrown.com/articles/2018/05/17/dehumanizing-always-starts-with-language/)
 	**Summary:** Dehumanizing is a response to conflicting motives, demonizing our enemies, makes us view them as something not worthy of humane treatment. Taking sides makes us lose trust, get angrier with the enemy. This process lessens our ability to listen, communicate, and know empathy. Dehumanizing makes us view the conflict between us and the enemy as a battle of good versus evil. Dehumanizing in the world has caused human rights violations, war crimes, and genocides. Moral exclusion is when we start to target groups based on their identity and depict them as criminals.
-	**Connection to novel:** In *Leviathan wakes*, Belters are excluded from the rest of society. They are stripped of the rescour
+	**Connection to novel:** In *Leviathan wakes*, Belters are excluded from the rest of society. They are restricted from the resources that they rightfully own. They are seen as aliens and dogs that need to be controlled. Earth and Mars do not like each other to the point that Earth destroys one of Mars’ moons, Deimos. After rebels in the asteroid belt start to fight Mars, both sides feel that it is a fight of good versus evil. Back on Eros Station, belters are seen as nothing more than biological mass to be experimented on. Many belters are seen as criminals by inners but the same inners do not realize that they are the ones that prevented Belters from becoming a proper society. 
 
 7. **Draw a connection to a related social issue:** 
 	identify a common social issue present in your novel  
