@@ -128,6 +128,7 @@ Book: [[Leviathan Wakes]]
 	[Space Colonization and Exonationalism: On the Future of Humanity and Anthropology](https://www.mdpi.com/2673-9461/2/3/10)
 	[Global water crisis leaves half of world food production at risk in next 25 years \| Water \| The Guardian](https://www.theguardian.com/environment/2024/oct/16/global-water-crisis-food-production-at-risk)
 	[The Economic Impact of Colonialism \| World Development \| UZH](https://www.worlddevelopment.uzh.ch/en/research/impa/ecoim.html)
+	[The Moral Challenge of Modern Science](https://www.thenewatlantis.com/publications/the-moral-challenge-of-modern-science)
 	
 8. **Interview an expert connected to a theme or topic in your novel:** 
 	create a set of interview questions to structure the meeting 
