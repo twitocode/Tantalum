@@ -10,6 +10,7 @@ The most secret core and his sanctuary where he is alone with God. Moral conscie
 
 ---
 # What is vice?
+A habitual tendency to sin, in which a person may lose sight of what is actually good, by their own fault. A vicious person chooses evil regularly and with ease.
 
 ---
 # What is natural law?
@@ -21,9 +22,16 @@ Human virtues are firm attitudes, stable dispositions, habitual perfections of i
 
 ___
 # What are theological virtues?
+1. Faith
+2. Hope
+3. Charity
 
 ___
 # What are cardinal virtues?
+1. Prudence
+2. Justice
+3. Fortitude
+4. Temperance
 
 ---
 # What is autonomy?
@@ -100,6 +108,10 @@ A process that brings together victims, offenders , and the community in order t
 
 ---
 # What is grace?
+
+___
+# What is Truth
+Jesus is the truth
 
 ---
 # What is a moral principle?
