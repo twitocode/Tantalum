@@ -62,8 +62,8 @@ ___
 **The ways that God makes Himself known to humankind. God is fully revealed in Jesus Christ.** The sacred Scriptures, proclaimed within the Church, are the revealed Word of God. God also reveals Self through people and indeed through all of creation.
 
 ___
-# Define knowledge
-Any act, function, state, or effect of mental activity
+# Define the gift of knowledge
+The gift of knowing and enlightenment. Enables you to choose the right path that will lead you to God.
 
 ___
 # What are continents?
@@ -83,14 +83,19 @@ Being morally accountable for one’s actions. Responsibility presumes knowl edg
 **The virtue by which a person controls the unruly movements of sexual desire or other bodily emotions.** It is connected with the virtue of temperance
 
 ---
-# Define wisdom
+# Define the gift of wisdom
+Knowing the right choices to make to live a holy life. Helps you to avoid the things that could lead you away from God.
 
 ---
 # Define is sin
 A kind of evil, a failure in love for God, neighbour, and self. It is a freely chosen action or failure to act that goes against God's law and harms our relationships with Him and Others
 
 ---
-# What are the 7 gifts and 12 fruits of the Holy Spirit?
+# What are the 7 gifts of the Holy Spirit?
+
+
+---
+# What are the 12 fruits of the Holy Spirit?
 
 ---
 # What is an immoral act?
