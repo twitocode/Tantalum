@@ -129,7 +129,9 @@ A human act that involves reason and free will. To be done in good conscience, a
 
 ---
 # List the three senses of conscience
-
+1. Conscience is a capacity of being human. Highlights our basic orientation towards the good.
+2. Conscience is a process of moral reasoning. We have to question our actions and respond according to the information we gather.
+3. Conscience is a judgement. It is incomplete until we act on it
 ---
 # Define restorative justice
 A process that brings together victims, offenders , and the community in order to repair the harm and promote harmony. It emphasizes healing the harm caused by crime by means of naming the truth and making  amends personally.
