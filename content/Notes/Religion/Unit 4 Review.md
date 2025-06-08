@@ -80,6 +80,7 @@ Being morally accountable for one’s actions. Responsibility presumes knowl edg
 
 ---
 # What is continence?
+**The virtue by which a person controls the unruly movements of sexual desire or other bodily emotions.** It is connected with the virtue of temperance
 
 ---
 # Define wisdom
@@ -108,13 +109,14 @@ A process that brings together victims, offenders , and the community in order t
 
 ---
 # What is grace?
-
+The gift of God’s life and life at the centre of our existence through the indwelling of the Holy Spirit.
 ___
 # What is Truth
 Jesus is the truth
 
 ---
 # What is a moral principle?
+**A basic truth we use to set rules of conduct.** We must always challenge civil laws which do not align with Jesus’ gospel.
 
 ---
 # What is divine law?
