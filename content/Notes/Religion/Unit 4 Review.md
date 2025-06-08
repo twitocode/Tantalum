@@ -70,10 +70,15 @@ ___
 
 ___
 # Define responsibility
-Being morally accountable for one’s actions. Responsibility presumes knowl edge, freedom, and the ability to choose and to act
+Being morally accountable for one’s actions. Responsibility presumes knowledge, freedom, and the ability to choose and to act
 
 ---
-# Who is St. Thomas Aquinas and what is his contribution to moral thinking?
+# St. Thomas Aquinas’s contribution to moral thinking?
+He insisted that the ethical comes from the end that is inscribed in the nature of all creatures. **A person’s core is the desire for the good.** 
+**God = highest good**
+People live the good life by using their intelligence and their capabilities. 
+To use intellectual capacities, one must follow the natural law.
+- To him, it is the light of understanding placed in us by God, through it we know what we have to do and what to avoid (*reasoning*)
 
 ---
 # What is responsibility in a moral context?
@@ -159,18 +164,21 @@ Feelings, desires, or emotions, **they are neither good nor evil**, but are mora
 
 ---
 # What is pre-conventional moral thinking?
+Infants and preschool children make moral decisions based on the **fear of being punished and the need to fulfill their own desires**
+*Fear serves as a motive for action*
 
 ---
 # What is conventional moral thinking?
-
+Trust, caring, and loyalty to others becomes more central. They beg into influence moral judgement. **Rules are followed out of respect for others and obedience to authority.** 
 
 ---
 # What is post-conventional moral thinking?
+Reach during adult years. Moral choices are based on **principles of justice and a concern for the common good**. Laws and obligations become less important
 
 ---
 # What is social sin?
 Refers to the fact that personal sins can give rise to social situations and institutions that are sinful.
-- Ex. Holocaust, apartheid, genocide, terroism
+- Ex. Holocaust, apartheid, genocide, terrorism
 
 ---
 # List the Four Causes of all Natural Beings
