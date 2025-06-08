@@ -63,7 +63,7 @@ ___
 
 ___
 # Define knowledge
-
+Any act, function, state, or effect of mental activity
 
 ___
 # What are continents?
@@ -131,6 +131,7 @@ My moral orientation or direction in life; what I “stand for.”
 
 ---
 # What are passions in the moral or ethical sense?
+Feelings, desires, or emotions, **they are neither good nor evil**, but are morally good when they contribute to  a good action, and morally evil when they contribute to an evil action.
 
 ---
 # What is pre-conventional moral thinking?
