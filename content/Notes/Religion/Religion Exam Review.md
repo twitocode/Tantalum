@@ -13,23 +13,23 @@ aliases:
 
 good moral life, 
 Divine mercy, 
-vocation, 
+**vocation,** 
 sacrament(s), 
-cardinal virtues, 
+**cardinal virtues,** 
 conjugal, 
 social cell, 
-5 types of love, 
+**5 types of love,** 
 chastity, 
 Holy Spirit, 
-5 types of prayer, 
+**5 types of prayer,** 
 the various types of sin, 
-common good, 
-revelation, 
-ethics, 
-natural law, 
-eternal law, 
-Sermon on the Mount+the messages(s) of it,
-parousia+why must act now,
+**common good,** 
+**revelation,** 
+**ethics**, 
+**natural law,** 
+**eternal law,** 
+Sermon on the Mount + the messages(s) of it,
+**parousia** + why must act now,
 signs/symbols in Old Testament,
 Church on contraception,
 natural family planning,
@@ -42,21 +42,21 @@ law of conscience,
 O.T. and view of sin, 
 4 conditions of a truly sacramental marriage, 
 human dignity,
-how to full fill K.o. G???,
-prophet, 
+how to fulfil the Kingdom of God???,
+**prophet**, 
 Name of God, 
 sin of omission,
-moral stance,
+**moral stance,**
 what are the Gospels even about?, 
-4 Gospel writers and who they wrote for,
-what is the K. o. G.?????,
+**4 Gospel writers and who they wrote for,**
+**what is the K. o. G.?????,**
 innermost secret of the N.T.,
-Paschal Mystery,
+**Paschal Mystery,**
 Incarnation of Jesus+why very important to/for faith,
 Aristotle+happiness,
 self-mastery,
-vice,
-virtue, 
+**vice,**
+**virtue,** 
 prudence, 
 most important duty of parents is??,
 penance
