@@ -108,7 +108,12 @@ A kind of evil, a failure in love for God, neighbour, and self. It is a freely c
 4. Patience
 5. Kindness
 6. Goodness
-7. 
+7. Generosity
+8. Gentleness
+9. Faithfulness
+10. Modesty
+11. Self-Control
+12. Chastity
 ---
 # What is an immoral act?
 An act in which the person chooses what is not good, intentionally or perhaps due to an error in the judgement of conscience or the person perceived the choice to be good
