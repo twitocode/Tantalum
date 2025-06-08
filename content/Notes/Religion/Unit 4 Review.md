@@ -92,11 +92,23 @@ A kind of evil, a failure in love for God, neighbour, and self. It is a freely c
 
 ---
 # What are the 7 gifts of the Holy Spirit?
-
+1. Wisdom
+2. Understanding
+3. Right Judgement/Council
+4. Fortitude
+5. Knowledge
+6. Reverence
+7. Fear of the Lord
 
 ---
 # What are the 12 fruits of the Holy Spirit?
-
+1. Love
+2. Joy
+3. Peace
+4. Patience
+5. Kindness
+6. Goodness
+7. 
 ---
 # What is an immoral act?
 An act in which the person chooses what is not good, intentionally or perhaps due to an error in the judgement of conscience or the person perceived the choice to be good
