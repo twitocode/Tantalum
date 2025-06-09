@@ -138,4 +138,7 @@ Book: [[Leviathan Wakes]]
 	podcast or video? does a podcast imply audio or is it still video?
 	Questions:
 	1. In the story, the main characters, Holden and Miller, argue about whether all information should be shared to the public, even if it turns the entire solar system into conflict and war. Do you think transparency or information control is a better option?
-	2. 
+	2. If humans were to ever colonize Mars, how might differing access to vital resources like water, minerals, or habitable space, lead to tension or even war between Earth and Mars?
+	3. What do you think would happen if humans discover a new alien form of life or intelligence. How do you think humanity would react, and what ethical considerations would arise?
+	4. As humanity expands, how might new forms of societal divisions or prejudices emerge based on origin, environment, or even genetic adaptations?
+	5. If humanity were to colonize other planets or moons, what do you think would be the biggest challenges and opportunities that would arise? Consider both technological and social aspects.
