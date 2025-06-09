@@ -135,3 +135,5 @@ Book: [[Leviathan Wakes]]
 	organize a virtual or in-person meeting with your expert 
 	record the interview either as a video or podcast 
 	**SHOULD BE ARROUND 5 MINUTES**
+
+podcast or video? does a podcast imply audio or is it still video?
