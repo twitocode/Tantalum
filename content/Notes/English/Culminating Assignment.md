@@ -137,4 +137,5 @@ Book: [[Leviathan Wakes]]
 	**SHOULD BE ARROUND 5 MINUTES**
 	podcast or video? does a podcast imply audio or is it still video?
 	Questions:
-	1. 
+	1. what arer you opinions ons the genocide of ants in the grasshoper nation? was it justified? should the international congregation of insects do something about it?
+	2. 
