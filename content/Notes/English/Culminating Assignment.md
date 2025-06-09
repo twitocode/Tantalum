@@ -137,5 +137,5 @@ Book: [[Leviathan Wakes]]
 	**SHOULD BE ARROUND 5 MINUTES**
 	podcast or video? does a podcast imply audio or is it still video?
 	Questions:
-	1. what arer you opinions ons the genocide of ants in the grasshoper nation? was it justified? should the international congregation of insects do something about it?
+	1. In the story, the main characters, Holden and Miller, argue about whether all information should be shared to the public, even if it turns the entire solar system into conflict and war. Do you think transparency or information control is a better option?
 	2. 
