@@ -107,17 +107,22 @@ aliases:
 
 ## Key Terms and Concepts
 
-**Absolution:** The priest absolves the penitent from their sins.
+# Absolution
+The priest absolves the penitent from their sins.
 
-**Aquinas and highest good + desire for good:** St. Thomas Aquinas insisted that ethics comes from the end inscribed in the nature of all creatures. A person’s core is the desire for the good, and God is considered the highest good. People live a good life by using their intelligence and capabilities, following natural law.
+# Aquinas and highest good + desire for good
+St. Thomas Aquinas insisted that ethics comes from the end inscribed in the nature of all creatures. A person’s core is the desire for the good, and God is considered the highest good. People live a good life by using their intelligence and capabilities, following natural law.
 
-**Aristotle + happiness:** Not explicitly defined in the provided notes, but likely related to virtue ethics and the pursuit of eudaimonia (flourishing/happiness) through living a virtuous life.
+# Aristotle + happiness: 
+Not explicitly defined in the provided notes, but likely related to virtue ethics and the pursuit of eudaimonia (flourishing/happiness) through living a virtuous life.
 
-**Annulment:** Not explicitly defined in the provided notes.
+# Annulment: 
+Not explicitly defined in the provided notes.
 
-**Autonomy:** Free self-direction; responsibility.
+# Autonomy
+Free self-direction; responsibility.
 
-**Cardinal virtues:**
+# Cardinal virtues:
 1. Prudence
 2. Justice
 3. Fortitude
