@@ -69,9 +69,9 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [ ] missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give.
 - [ ] natural family planning,
 - [ ] O.T. and view of sin,
-- [ ] original sin,
+- [x] original sin,
 - [x] Paschal Mystery,
-- [ ] penance
+- [x] penance
 - [ ] , people of the the Beatitudes,
 - [ ] precepts of the Church,
 - [ ] prudence,
