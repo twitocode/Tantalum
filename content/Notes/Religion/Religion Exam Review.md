@@ -14,9 +14,9 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 
 good moral life, 
 Divine mercy, 
-vocation, 
+**vocation,** 
 sacrament(s), 
-cardinal virtues, 
+**cardinal virtues,** 
 conjugal, 
 social cell, 
 5 types of love, 
@@ -29,8 +29,8 @@ the various types of sin,
 **ethics,** 
 **natural law,** 
 **eternal law,** 
-Sermon on the Mount + the messages(s) of it,
-parousia + why must act now,
+**Sermon on the Mount + the messages(s) of it,**
+**parousia + why must act now,**
 signs/symbols in Old Testament,
 Church on contraception,
 natural family planning,
