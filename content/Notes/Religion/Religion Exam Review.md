@@ -12,81 +12,85 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 > - Parable Analysis
 > - 
 
-- [ ] good moral life, 
-- [ ] Divine mercy, 
-- [x] vocation, 
-- [ ] sacrament(s), 
-- [x] **cardinal virtues,** 
-- [ ] conjugal, 
-- [ ] social cell, 
-- [ ] 5 types of love, 
-- [ ] chastity, 
-- [ ] Holy Spirit, 
-- [x] **5 types of prayer,** 
-- [ ] the various types of sin, 
-- [x] **common good,** 
-- [x] **revelation,** 
-- [x] **ethics,** 
-- [x] **natural law,** 
-- [x] **eternal law,** 
-- [x] **Sermon on the Mount + the messages(s) of it,**
-- [x] **parousia + why must act now,**
-- [ ] signs/symbols in Old Testament,
-- [ ] Church on contraception,
-- [ ] natural family planning,
-- [ ] the message behind St. PJPII's "salt and light" and what that means for young people,
-- [x] the sacraments of service of communion,
-- [x] conscience, ethics, 
-- [ ] Kohlbergs moral theory, 
-- [ ] the more one does good the more ????,
-- [x] law of conscience, 
-- [ ] O.T. and view of sin, 
-- [ ] 4 conditions of a truly sacramental marriage, 
+- [ ] Here are the checkboxes from [[Religion Exam Review]], sorted by completion status (completed first) and then alphabetically within each group:
+
+- [x] **5 types of prayer,**
+- [x] **cardinal virtues,**
+- [x] **common good,**
+- [x] conscience, ethics,
+- [x] conversion,
+- [x] corporal works of mercy,
+- [x] effects of original sin on male/female relationship,
+- [x] **ethics,**
+- [x] **eternal law,**
+- [x] fruits/gifts of Holy Spirit
+- [x] grace of God,
 - [x] human dignity,
-- [ ] how to fulfil the Kingdom of God???,
-- [x] prophet, 
-- [x] Name of God, 
-- [ ] sin of omission,
-- [x] moral stance,
-- [ ] what are the Gospels even about?, 
-- [ ] 4 Gospel writers and who they wrote for,
-- [ ] what is the K. o. G.?????,
 - [x] innermost secret of the N.T.,
-- [ ] Paschal Mystery,
-- [ ] Incarnation of Jesus+why very important to/for faith,
-- [ ] Aristotle+happiness,
-- [ ] self-mastery,
+- [x] law of conscience,
+- [x] moral stance,
+- [x] Name of God,
+- [x] **natural law,**
+- [x] **parousia + why must act now,**
+- [x] prophet,
+- [x] **revelation,**
+- [x] restorative justice,
+- [x] the sacraments of service of communion,
+- [x] **Sermon on the Mount + the messages(s) of it,**
+- [x] theological virtues,
 - [x] **vice,**
 - [x] virtue, b
-- [ ] prudence, 
-- [ ] most important duty of parents is??,
+- [x] vocation,
+- [ ] 2 greatest Commandments,
+- [ ] 2nd creation story+what it is about,
+- [ ] 4 conditions of a truly sacramental marriage,
+- [ ] 4 Gospel writers and who they wrote for,
+- [ ] 5 types of love,
+- [ ] annulment,
+- [ ] Aquinas and highest good+desire for good,
+- [ ] Aristotle+happiness,
+- [ ] chastity,
+- [ ] Church on contraception,
+- [ ] civil divorce,
+- [ ] concupiscence,
+- [ ] conjugal,
+- [ ] council of Trent on marriage,
+- [ ] Divine mercy,
+- [ ] domestic church,
+- [ ] during the marriage ceremony-who are the ministers of Christ's grace,
+- [ ] effects of fall from grace,
+- [ ] good moral life,
+- [ ] highest form of love is??,
+- [ ] Holy Spirit,
+- [ ] how can young people today 'out love' secularism=new evangelization,
+- [ ] how to fulfil the Kingdom of God???,
+- [ ] Incarnation of Jesus+why very important to/for faith,
+- [ ] indissolubility,
+- [ ] Jesus left to His followers+why??,
+- [ ] Kohlbergs moral theory,
+- [ ] missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give.
+- [ ] natural family planning,
+- [ ] O.T. and view of sin,
+- [ ] original sin,
+- [x] Paschal Mystery,
 - [ ] penance
 - [ ] , people of the the Beatitudes,
-- [ ] 2 greatest Commandments,
-- [x] fruits/gifts of Holy Spirit
-- [ ] , highest form of love is??,
 - [ ] precepts of the Church,
-- [ ] Aquinas and highest good+desire for good,
+- [ ] prudence,
+- [ ] sacrament(s),
+- [ ] self-mastery,
+- [ ] signs/symbols in Old Testament,
 - [ ] sin according to the CCC,
-- [ ] Jesus left to His followers+why??,
-- [ ] concupiscence,
-- [x] grace of God,
-- [x] theological virtues,
-- [x] corporal works of mercy,
-- [x] conversion,
-- [x] restorative justice,
+- [ ] sin of omission,
+- [ ] social cell,
 - [ ] societal perspective of marriage,
-- [ ] 2nd creation story+what it is about,
-- [ ] effects of fall from grace,
-- [ ] original sin,
-- [x] effects of original sin on male/female relationship,
-- [ ] indissolubility,
-- [ ] civil divorce,
-- [ ] annulment,
-- [ ] council of Trent on marriage,
-- [ ] domestic church, 
-- [ ] during the marriage ceremony-who are the ministers of Christ's grace,
-- [ ] how can young people today 'out love' secularism=new evangelization, 
+- [ ] the message behind St. PJPII's "salt and light" and what that means for young people,
+- [ ] the more one does good the more ????,
+- [ ] the various types of sin,
+- [ ] what are the Gospels even about?,
+- [x] what is the K. o. G.?????,
+- [ ] workers in the Vineyard,
+- [ ] most important duty of parents is??,good moral life, 
 
 missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give. 
 
