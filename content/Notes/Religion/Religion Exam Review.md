@@ -40,7 +40,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [x] virtue, b
 - [x] vocation,
 - [x] 2 greatest Commandments,
-- [ ] 2nd creation story+what it is about,
+- [x] 2nd creation story+what it is about,
 - [ ] 4 conditions of a truly sacramental marriage,
 - [ ] 4 Gospel writers and who they wrote for,
 - [ ] 5 types of love,
