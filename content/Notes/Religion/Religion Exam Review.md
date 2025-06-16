@@ -12,8 +12,6 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 > - Parable Analysis
 > - 
 
-- [ ] Here are the checkboxes from [[Religion Exam Review]], sorted by completion status (completed first) and then alphabetically within each group:
-
 - [x] **5 types of prayer,**
 - [x] **cardinal virtues,**
 - [x] **common good,**
