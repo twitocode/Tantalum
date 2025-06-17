@@ -78,7 +78,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [ ] sacrament(s),
 - [ ] self-mastery,
 - [ ] signs/symbols in Old Testament,
-- [ ] sin according to the CCC,
+- [x] sin according to the CCC,
 - [x] sin of omission,
 - [ ] social cell,
 - [ ] societal perspective of marriage,
