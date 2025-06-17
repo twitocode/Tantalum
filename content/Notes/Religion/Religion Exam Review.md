@@ -46,7 +46,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [x] 5 types of love,
 - [x] annulment,
 - [x] Aquinas and highest good+desire for good,
-- [ ] Aristotle+happiness, - line paper written
+- [x] Aristotle+happiness, - line paper written
 - [x] chastity,
 - [x] Church on contraception,
 - [x] civil divorce,
