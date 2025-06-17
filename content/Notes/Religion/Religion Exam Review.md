@@ -49,7 +49,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [ ] Aristotle+happiness,
 - [x] chastity,
 - [x] Church on contraception,
-- [ ] civil divorce,
+- [x] civil divorce,
 - [x] concupiscence,
 - [x] conjugal,
 - [x] council of Trent on marriage,
