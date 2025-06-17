@@ -60,7 +60,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [ ] good moral life,
 - [x] highest form of love is??,
 - [ ] Holy Spirit,
-- [ ] how can young people today 'out love' secularism=new evangelization,
+- [x] how can young people today 'out love' secularism=new evangelization,
 - [ ] how to fulfil the Kingdom of God???,
 - [x] Incarnation of Jesus+why very important to/for faith,
 - [x] indissolubility,
