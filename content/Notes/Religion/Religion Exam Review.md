@@ -80,7 +80,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [ ] signs/symbols in Old Testament,
 - [x] sin according to the CCC,
 - [x] sin of omission,
-- [ ] social cell,
+- [x] social cell,
 - [ ] societal perspective of marriage,
 - [ ] the message behind St. PJPII's "salt and light" and what that means for young people,
 - [ ] the more one does good the more ????,
