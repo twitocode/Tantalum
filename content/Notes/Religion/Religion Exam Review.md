@@ -75,7 +75,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 -   [x] what is the K. o. G.?????,
 -   [ ] good moral life,
 -   [x] Holy Spirit,
--   [ ] how to fulfil the Kingdom of God???,
+-   [x] how to fulfil the Kingdom of God???,
 -   [x] Jesus left to His followers+why??,
 -   [ ] missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give.
 -   [ ] most important duty of parents is??,good moral life,
@@ -88,7 +88,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 -   [ ] the more one does good the more ????,
 -   [x] what are the Gospels even about?,
 -   [ ] workers in the Vineyard, - unit 2 faith
-missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give. 
+
 
 Parable Analysis
 You will analyze 1 of these: Good Samaritan, Parable of the Mustard Seed, Lost Coin, Lost Sheep, Prodigal Son, Workers in the Vineyard, Parable of Talents, Story of Rich Man and Jesus. You will need to identify the underlying meaning (hermeneutics) for us now.
