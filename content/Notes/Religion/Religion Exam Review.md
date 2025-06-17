@@ -81,7 +81,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 -   [x] most important duty of parents is??,good moral life,
 -   [ ] O.T. and view of sin,
 -   [ ] people of the the Beatitudes,
--   [ ] sacrament(s),
+-   [x] sacrament(s),
 -   [ ] self-mastery,
 -   [ ] signs/symbols in Old Testament,
 -   [x] societal perspective of marriage,
