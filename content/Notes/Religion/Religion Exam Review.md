@@ -47,7 +47,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [x] annulment,
 - [ ] Aquinas and highest good+desire for good,
 - [ ] Aristotle+happiness,
-- [ ] chastity,
+- [x] chastity,
 - [ ] Church on contraception,
 - [ ] civil divorce,
 - [x] concupiscence,
