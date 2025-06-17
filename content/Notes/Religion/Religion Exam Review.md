@@ -53,7 +53,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [x] concupiscence,
 - [x] conjugal,
 - [ ] council of Trent on marriage,
-- [ ] Divine mercy,
+- [x] Divine mercy,
 - [x] domestic church,
 - [ ] during the marriage ceremony-who are the ministers of Christ's grace,
 - [x] effects of fall from grace,
