@@ -62,7 +62,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [ ] Holy Spirit,
 - [ ] how can young people today 'out love' secularism=new evangelization,
 - [ ] how to fulfil the Kingdom of God???,
-- [ ] Incarnation of Jesus+why very important to/for faith,
+- [x] Incarnation of Jesus+why very important to/for faith,
 - [x] indissolubility,
 - [ ] Jesus left to His followers+why??,
 - [x] Kohlbergs moral theory,
