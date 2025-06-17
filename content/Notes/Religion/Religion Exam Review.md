@@ -82,7 +82,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [x] sin of omission,
 - [x] social cell,
 - [ ] societal perspective of marriage,
-- [ ] the message behind St. PJPII's "salt and light" and what that means for young people,
+- [x] the message behind St. PJPII's "salt and light" and what that means for young people,
 - [ ] the more one does good the more ????,
 - [x] the various types of sin,
 - [ ] what are the Gospels even about?,
