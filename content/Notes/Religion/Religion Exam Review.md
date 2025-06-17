@@ -48,7 +48,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [ ] Aquinas and highest good+desire for good,
 - [ ] Aristotle+happiness,
 - [x] chastity,
-- [ ] Church on contraception,
+- [x] Church on contraception,
 - [ ] civil divorce,
 - [x] concupiscence,
 - [x] conjugal,
