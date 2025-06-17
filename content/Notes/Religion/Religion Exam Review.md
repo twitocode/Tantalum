@@ -45,7 +45,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [x] 4 Gospel writers and who they wrote for,
 - [x] 5 types of love,
 - [x] annulment,
-- [ ] Aquinas and highest good+desire for good,
+- [x] Aquinas and highest good+desire for good,
 - [ ] Aristotle+happiness,
 - [x] chastity,
 - [x] Church on contraception,
@@ -65,7 +65,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [ ] Incarnation of Jesus+why very important to/for faith,
 - [x] indissolubility,
 - [ ] Jesus left to His followers+why??,
-- [ ] Kohlbergs moral theory,
+- [x] Kohlbergs moral theory,
 - [ ] missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give.
 - [x] natural family planning,
 - [ ] O.T. and view of sin,
