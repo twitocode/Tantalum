@@ -67,7 +67,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [ ] Jesus left to His followers+why??,
 - [ ] Kohlbergs moral theory,
 - [ ] missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give.
-- [ ] natural family planning,
+- [x] natural family planning,
 - [ ] O.T. and view of sin,
 - [x] original sin,
 - [x] Paschal Mystery,
@@ -79,7 +79,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [ ] self-mastery,
 - [ ] signs/symbols in Old Testament,
 - [ ] sin according to the CCC,
-- [ ] sin of omission,
+- [x] sin of omission,
 - [ ] social cell,
 - [ ] societal perspective of marriage,
 - [ ] the message behind St. PJPII's "salt and light" and what that means for young people,
