@@ -86,7 +86,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 -   [ ] signs/symbols in Old Testament,
 -   [ ] societal perspective of marriage,
 -   [ ] the more one does good the more ????,
--   [ ] what are the Gospels even about?,
+-   [x] what are the Gospels even about?,
 -   [ ] workers in the Vineyard, - unit 2 faith
 missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give. 
 
