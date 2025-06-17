@@ -74,7 +74,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 -   [x] vocation,
 -   [x] what is the K. o. G.?????,
 -   [ ] good moral life,
--   [ ] Holy Spirit,
+-   [x] Holy Spirit,
 -   [ ] how to fulfil the Kingdom of God???,
 -   [ ] Jesus left to His followers+why??,
 -   [ ] missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give.
