@@ -73,8 +73,8 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [x] Paschal Mystery,
 - [x] penance
 - [ ] , people of the the Beatitudes,
-- [ ] precepts of the Church,
-- [ ] prudence,
+- [x] precepts of the Church,
+- [x] prudence,
 - [ ] sacrament(s),
 - [ ] self-mastery,
 - [ ] signs/symbols in Old Testament,
