@@ -78,13 +78,13 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 -   [x] how to fulfil the Kingdom of God???,
 -   [x] Jesus left to His followers+why??,
 -   [ ] missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give.
--   [ ] most important duty of parents is??,good moral life,
+-   [x] most important duty of parents is??,good moral life,
 -   [ ] O.T. and view of sin,
 -   [ ] people of the the Beatitudes,
 -   [ ] sacrament(s),
 -   [ ] self-mastery,
 -   [ ] signs/symbols in Old Testament,
--   [ ] societal perspective of marriage,
+-   [x] societal perspective of marriage,
 -   [ ] the more one does good the more ????,
 -   [x] what are the Gospels even about?,
 -   [ ] workers in the Vineyard, - unit 2 faith
