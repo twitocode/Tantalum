@@ -87,7 +87,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 - [x] the various types of sin,
 - [ ] what are the Gospels even about?,
 - [x] what is the K. o. G.?????,
-- [ ] workers in the Vineyard,
+- [ ] workers in the Vineyard, - unit 2 faith
 - [ ] most important duty of parents is??,good moral life, 
 
 missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give. 
