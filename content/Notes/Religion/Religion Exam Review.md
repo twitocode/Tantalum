@@ -76,7 +76,7 @@ TARGET DECK: Grade 12::HRT4M1::Exam
 -   [ ] good moral life,
 -   [x] Holy Spirit,
 -   [ ] how to fulfil the Kingdom of God???,
--   [ ] Jesus left to His followers+why??,
+-   [x] Jesus left to His followers+why??,
 -   [ ] missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give.
 -   [ ] most important duty of parents is??,good moral life,
 -   [ ] O.T. and view of sin,
