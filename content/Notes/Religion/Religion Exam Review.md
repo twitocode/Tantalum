@@ -95,3 +95,12 @@ You will analyze 1 of these: Good Samaritan, Parable of the Mustard Seed, Lost C
 
 Hermeneutics: The study of how texts should be interpreted; the text's meaning in today's time.
 
+To develop as an ethical person one needs to
+- trust in the integrity of others
+- feel capable of acting morally
+- believe in objective truth and principles
+- despite ones limitations, one can overcome whatever threatens to diminish one's worth and dignity
+- have a sense of one's own identity
+- compassion: in order to forgive and be forgiven
+- have autonomy for the ability to follow on'es conscience
+- pursue a meaningful life, not just for one's self but also for others
