@@ -109,3 +109,5 @@ become makers of peace
 know the difference between good an evil light and ark life and death
 live a life of justice
 believe in the good.
+
+the servants are followers of christ that are entrusted to the gifts and opportunities that god has entrusted to them. we should use the opportunities for others and outselves to give more to god. When we only use his gifts for ourselves, we are breaking the realtioship between him and us. The faithful are awarded with rewards in heaven.
