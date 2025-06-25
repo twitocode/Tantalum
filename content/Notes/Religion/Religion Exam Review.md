@@ -111,3 +111,16 @@ live a life of justice
 believe in the good.
 
 the servants are followers of christ that are entrusted to the gifts and opportunities that god has entrusted to them. we should use the opportunities for others and outselves to give more to god. When we only use his gifts for ourselves, we are breaking the realtioship between him and us. The faithful are awarded with rewards in heaven.
+
+
+this parable is basically saying that god does not choose favourites. the workers who worked longer are us and the workers who worked least are our neighbours. Love your neightbous and trea tthem the same way as yourself. 
+eternal life is not given by working harder. god is generous to everyone. 
+
+
+beleievei n htobjective truth and principles
+despirete ones limits one can recognzie their self worth and diginity
+compassion - forgive and be forgiven
+feel capable of acting morally
+have the authomyo to follow on'es conscinec
+havea senf o of one identity
+trust in the integrity of anothers 
