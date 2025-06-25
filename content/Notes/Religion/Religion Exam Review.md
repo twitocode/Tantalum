@@ -104,3 +104,8 @@ To develop as an ethical person one needs to
 - compassion: in order to forgive and be forgiven
 - have autonomy for the ability to follow on'es conscience
 - pursue a meaningful life, not just for one's self but also for others
+
+become makers of peace
+know the difference between good an evil light and ark life and death
+live a life of justice
+believe in the good.
