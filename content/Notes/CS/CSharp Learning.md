@@ -1,7 +1,7 @@
 # “C#”
 - [x] Classes
-- [ ] Access Modifiers
-- [ ] Virtual
+- [x] Access Modifiers
+- [x] Virtual
 - [ ] Generics
 - [ ] using keyword
 - [ ] out keyword
