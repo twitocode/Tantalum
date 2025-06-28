@@ -9,8 +9,8 @@
 - [x] operators
 - [x] *assemblies* - dont really understand it 
 - [x] parameter types
-- [ ] interfaces
-- [ ] casting
+- [x] interfaces
+- [x] casting
 - [ ] strings
 - [ ] collections
 - [ ] boxing/unboxing
