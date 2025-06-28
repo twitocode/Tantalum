@@ -2,7 +2,7 @@
 - [x] Classes
 - [x] Access Modifiers
 - [x] Virtual
-- [ ] Generics
+- [x] Generics
 - [ ] using keyword
 - [ ] out keyword
 - [ ] reference vs values
