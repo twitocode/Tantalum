@@ -1,1 +1,25 @@
-- [ ] 
+# “C#”
+- [ ] Classes
+- [ ] Access Modifiers
+- [ ] Virtual
+- [ ] Generics
+- [ ] using keyword
+- [ ] out keyword
+- [ ] reference vs values
+- [ ] operators
+- [ ] assemblies
+- [ ] paramter types
+- [ ] interfaces
+- [ ] casting
+- [ ] strings
+- [ ] collections
+- [ ] boxing/unboxing
+- [ ] async/await
+- [ ] delegates/event
+
+# .NET
+- [ ] File IO
+- [ ] Networking
+- [ ] Collections
+- [ ] Exceptions
+- [ ] Channels
