@@ -6,7 +6,7 @@
 - [x] using keyword
 - [x] out keyword
 - [x] reference vs values
-- [ ] operators
+- [x] operators
 - [ ] assemblies
 - [ ] paramter types
 - [ ] interfaces
