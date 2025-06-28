@@ -27,7 +27,7 @@
 - [x] Channels
 
 # ASP.NET Core
-- [ ] REST
+- [x] REST
 - [ ] MVC????
 - [ ] Minimal API
 	- [ ] Fast Endpoints
