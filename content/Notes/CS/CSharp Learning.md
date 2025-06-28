@@ -24,4 +24,4 @@
 - [ ] Networking
 - [ ] Collections
 - [x] Exceptions
-- [ ] Channels
+- [x] Channels
