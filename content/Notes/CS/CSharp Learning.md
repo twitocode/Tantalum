@@ -20,7 +20,7 @@
 - [x] readonly/const/get/required/init all that bs
 
 # .NET
-- [ ] File IO
+- [x] File IO
 - [ ] Networking
 - [ ] Collections
 - [ ] Exceptions
