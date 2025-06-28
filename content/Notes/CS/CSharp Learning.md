@@ -7,8 +7,8 @@
 - [x] out keyword
 - [x] reference vs values
 - [x] operators
-- [ ] assemblies
-- [ ] paramter types
+- [x] *assemblies* - dont really understand it 
+- [ ] parameter types
 - [ ] interfaces
 - [ ] casting
 - [ ] strings
