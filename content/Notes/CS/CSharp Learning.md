@@ -3,9 +3,9 @@
 - [x] Access Modifiers
 - [x] Virtual
 - [x] Generics
-- [ ] using keyword
-- [ ] out keyword
-- [ ] reference vs values
+- [x] using keyword
+- [x] out keyword
+- [x] reference vs values
 - [ ] operators
 - [ ] assemblies
 - [ ] paramter types
