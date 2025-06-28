@@ -16,6 +16,8 @@
 - [ ] boxing/unboxing
 - [ ] async/await
 - [ ] delegates/event
+- [ ] Nullability
+- [ ] readonly/const/get/required/init all that bs
 
 # .NET
 - [ ] File IO
