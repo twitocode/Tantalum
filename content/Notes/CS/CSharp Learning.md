@@ -23,5 +23,5 @@
 - [x] File IO
 - [ ] Networking
 - [ ] Collections
-- [ ] Exceptions
+- [x] Exceptions
 - [ ] Channels
