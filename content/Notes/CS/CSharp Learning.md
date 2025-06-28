@@ -8,7 +8,7 @@
 - [x] reference vs values
 - [x] operators
 - [x] *assemblies* - dont really understand it 
-- [ ] parameter types
+- [x] parameter types
 - [ ] interfaces
 - [ ] casting
 - [ ] strings
