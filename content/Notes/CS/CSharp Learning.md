@@ -17,7 +17,7 @@
 - [ ] async/await
 - [x] delegates/event
 - [x] Nullability
-- [ ] readonly/const/get/required/init all that bs
+- [x] readonly/const/get/required/init all that bs
 
 # .NET
 - [ ] File IO
