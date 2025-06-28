@@ -12,8 +12,8 @@
 - [x] interfaces
 - [x] casting
 - [x] strings
-- [ ] collections
-- [ ] boxing/unboxing
+- [x] collections
+- [x] boxing/unboxing
 - [ ] async/await
 - [ ] delegates/event
 - [ ] Nullability
