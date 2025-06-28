@@ -16,7 +16,7 @@
 - [x] boxing/unboxing
 - [ ] async/await
 - [x] delegates/event
-- [ ] Nullability
+- [x] Nullability
 - [ ] readonly/const/get/required/init all that bs
 
 # .NET
