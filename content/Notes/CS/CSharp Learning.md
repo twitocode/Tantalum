@@ -11,7 +11,7 @@
 - [x] parameter types
 - [x] interfaces
 - [x] casting
-- [ ] strings
+- [x] strings
 - [ ] collections
 - [ ] boxing/unboxing
 - [ ] async/await
