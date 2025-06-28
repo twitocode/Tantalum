@@ -25,3 +25,11 @@
 - [ ] Collections
 - [x] Exceptions
 - [x] Channels
+
+# ASP.NET Core
+- [ ] REST
+- [ ] MVC????
+- [ ] Minimal API
+	- [ ] Fast Endpoints
+- [ ] Cookies
+- [ ] OAuth 2.0
