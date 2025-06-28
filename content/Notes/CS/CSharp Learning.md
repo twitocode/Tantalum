@@ -15,7 +15,7 @@
 - [x] collections
 - [x] boxing/unboxing
 - [ ] async/await
-- [ ] delegates/event
+- [x] delegates/event
 - [ ] Nullability
 - [ ] readonly/const/get/required/init all that bs
 
