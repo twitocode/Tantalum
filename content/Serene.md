@@ -1,0 +1,60 @@
+# Goals (MVP)
+Journaling
+	- See which days an entry has been made
+- Password lock **ON EACH ENTRY**  so that only you can see your data
+- Profile
+	- Username & email
+- Relaxing sound player
+- Guided Check-ins
+	- What is one thing you’re grateful for today
+- Breathing Exercises
+- Suggested Articles based on user preferences?
+- Self-Help Library (Wiki)
+- Chatbot for help???? ==maybe not==
+- Daily Affirmations
+	- Categories
+		- Stress & anxiety
+		- think positive
+		- heartbreak
+		- relationships
+		- motivation
+		- self care
+		- confidence
+		- body positivity
+		- school
+- Mood Check-in  - notifications too 
+	- Steps
+		- Last night, **I had a … sleep** slider for each mood
+		- What activities have  you done today? - select
+		- What do you plan to do today/what has happened today
+	- Notifications
+	- Moods
+	    - good, meh, bad, awful
+	    - slider with each mood being a point
+	- Quick note
+	- what you’ve been up to
+	    - select
+	        - gaming, reading, movies, sports, relax, family, friends, love, party, good sleep, bad sleep, eating healthy, fast food, homemade, delivery, no sweets, soda, or meat, exercise, drink water, walking, meditation, kindness, cleaning, cooking, clouds, rain, snow, heat, sunny, windy, store
+- Stories (kind of like Instagram, doesn’t have to be)
+	- List of all entries in a given day. 
+	- Moods throughout the day
+- Calendar
+	- Loading entries from different days
+- Stats Page
+	- number of daily entries
+	- Number of words written
+	- Most popular moods
+		- Mood overtime (not sure how to implement)
+	- Your top emotion today
+	- Mood Count
+- User Data
+	- Gender
+	- Age
+	- Ask what change they want to make in their life
+		- Reduce stress, be happy, relationships, sleep, loneliness, etc.
+- Page of just daily affirmations/quotes in a carousel
+	- Different categories
+	- Favourite an affirmation
+	- Adding your own affirmations???? ==Too hard to implement==
+- Reflection.app is a very big inspiration
+- https://dribbble.com/shots/25248027-Equilibrium-AI-Mental-Health-Wellness-App![[original-a8d72be39a7aac14ccdc59a9eb4c21bb.webp]]
