@@ -29,7 +29,7 @@
 # ASP.NET Core
 - [x] REST
 - [ ] MVC????
-- [ ] Minimal API
-	- [ ] Fast Endpoints
+- [x] Minimal API
+	- [x] Fast Endpoints
 - [ ] Cookies
 - [ ] OAuth 2.0
