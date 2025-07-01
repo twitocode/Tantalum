@@ -78,7 +78,7 @@ Journaling
 	- Bogus
 	- fluent validation alternative
 - Database - 
-	- Schema Link - 
+	- Schema Link - [Serene \| DrawSQL](https://drawsql.app/teams/nova-3/diagrams/serene/embed)![[Pasted image 20250701171808.png]]
 - API Design
 - Authentication & Authorization
 - Hosting
