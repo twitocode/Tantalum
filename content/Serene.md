@@ -4,7 +4,10 @@
 1. 
 ## Goals
 1. gamified 
-2. 
+2. interactive journal
+3. mood tracker
+4. daily affirmations
+5. content wiki
 ## Target Audience
 
 # Features (MVP)
