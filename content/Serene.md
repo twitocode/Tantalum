@@ -9,7 +9,7 @@
 4. daily affirmations
 5. content wiki
 ## Target Audience
-
+- anyone struggling with mental health
 # Features (MVP)
 
 Journaling
