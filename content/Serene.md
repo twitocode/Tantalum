@@ -2,12 +2,11 @@
 # The basics
 ## What are the common issues that people have in life?
 1. 
-## Goals
-1. gamified 
-2. interactive journal
-3. mood tracker
-4. daily affirmations
-5. content wiki
+## Goals 
+1. journal
+2. mood tracker
+3. daily affirmations
+4. content wiki
 ## Target Audience
 - anyone struggling with mental health
 # Features (MVP)
