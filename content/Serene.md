@@ -11,12 +11,13 @@
 - anyone struggling with mental health
 # Features (MVP)
 
-Journaling
+-  Journaling
 	- See which days an entry has been made
-- Password lock **ON EACH ENTRY**  so that only you can see your data
+	- Password lock **ON EACH ENTRY**  so that only you can see your data
 - Profile
 	- Username & email
 - Relaxing sound player
+- Therapist lookup based on location
 - Guided Check-ins
 	- What is one thing you’re grateful for today
 - Breathing Exercises
@@ -61,6 +62,7 @@ Journaling
 	- Mood Count
 - Reflection.app is a very big inspiration
 - https://dribbble.com/shots/25248027-Equilibrium-AI-Mental-Health-Wellness-App![[original-a8d72be39a7aac14ccdc59a9eb4c21bb.webp]]
+
 
 
 # User Interaction
