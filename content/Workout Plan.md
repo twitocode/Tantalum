@@ -2,5 +2,6 @@
 - 1 set 30 reps of alternating lunges
 - 1 set 30 reps of jumping alternative lunges
 - 3 sets of 10 leg raises
-- 1 set of 5 skull crushers
+- 1 set of 5 skull crushers with backpack
+- 1 set of 5 triceps with backpack up and down left right
 - []
