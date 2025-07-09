@@ -1,3 +1,6 @@
 - 3 sets 25 reps of wall pushups
 - 1 set 30 reps of alternating lunges
 - 1 set 30 reps of jumping alternative lunges
+- 3 sets of 10 leg raises
+- 1 set of 5 skull crushers
+- []
