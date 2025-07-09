@@ -1,0 +1,2 @@
+- 3 sets 25 reps of wall pushups
+- 
