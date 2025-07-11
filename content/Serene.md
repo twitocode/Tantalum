@@ -22,6 +22,8 @@
 
 List all features, breaking them down into user stories where applicable. For each, identify its frontend and backend implications.
 
+  
+
 | Feature Name        | Description                                            | User Story (if applicable)                                                                                                       | Frontend Implication                                           | Backend Implication                                                                   | Priority (High/Medium/Low) |
 | ------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------- |
 | User Authentication | Users can sign up, log in, and log out.                | As a user, I want to create an account so I can access personalized features.                                                    | Login/Signup forms, session management, protected routes.      | User model, authentication service (e.g., JWT, OAuth), database for user data.        | High                       |
