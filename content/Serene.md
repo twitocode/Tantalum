@@ -1,6 +1,3 @@
-
----
-
 ### 1. Project Overview & Goals
 
 - **Project Vision:** Briefly describe the overall purpose and desired outcome of the project.
