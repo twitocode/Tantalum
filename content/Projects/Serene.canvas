@@ -36,7 +36,7 @@
 		{"id":"ca03d664f1ef2250","type":"file","file":"Assets/Pasted image 20250314183507.png","x":-1600,"y":-1185,"width":400,"height":275},
 		{"id":"6a5b5eb144ce34e1","type":"file","file":"Assets/Pasted image 20250310213815.png","x":-2240,"y":-1486,"width":400,"height":312},
 		{"id":"e667b3b37d8b8040","type":"file","file":"Assets/Pasted image 20250314183347.png","x":-1600,"y":-1465,"width":400,"height":275},
-		{"id":"880b369ea5fa0b5a","type":"file","file":"Serene.md","x":360,"y":-420,"width":400,"height":400}
+		{"id":"880b369ea5fa0b5a","type":"file","file":"Serene (Old).md","x":360,"y":-420,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"00a5d70851f3e65c","fromNode":"b29f912130daea9f","fromSide":"left","toNode":"b1d55dd20488dca1","toSide":"right"},
