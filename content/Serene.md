@@ -19,16 +19,8 @@
 ---
 
 ### 2. Core Features & User Stories
+[Serene Trello](https://trello.com/b/PLKVRoKk/serene)
 
-List all features, breaking them down into user stories where applicable. For each, identify its frontend and backend implications.
-
-  
-
-| Feature Name     | Description                                            | User Story (if applicable)                                                                                                       | Frontend Implication                                           | Backend Implication                                                                   | Priority (High/Medium/Low) |
-| ---------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------- |
-| Daily Mood Entry | Users can make a  new entry  at 00:00 about their mood | As a user, I want to be able to enter in my current mood, energy level, and physical discomfort, as well as something good today | Product listing page, filtering/sorting UI.                    | Product model, API endpoint for fetching products, database for product data.         | High                       |
-| Add Item to Cart | Users can add products to their shopping cart.         | As a user, I want to add items to my cart so I can purchase them later.                                                          | "Add to Cart" button, cart icon updates, cart summary display. | Cart model, API endpoint for adding items to cart, session/database storage for cart. | High                       |
-|                  |                                                        |                                                                                                                                  |                                                                |                                                                                       |                            |
 
 ---
 
