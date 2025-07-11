@@ -39,7 +39,7 @@ List all features, breaking them down into user stories where applicable. For ea
 - **State Management:** [Svelte Runes]
 - **Build Tools:** [Vite]
 - **Styling:** [Tailwind CSS, shadcn]
-- **Deployment Strategy:** [Vercel, Azure → If you chose app service free Tier and static apps free Tier you'll never get charged]
+- **Deployment Strategy:** [Vercel]
 - **Key Frontend Libraries:** [List any other significant libraries]
 - **Design System/Guidelines:** ==[Link to Figma, Sketch, or design documentation]==
 - **Forms** [SvelteKit built-in forms]
@@ -47,62 +47,15 @@ List all features, breaking them down into user stories where applicable. For ea
 #### 3.2. Backend Architecture
 
 - **Language/Runtime:** [C# .NET]
-    
 - **Framework:** [ASP.NET Core]
-    
 - **Database:**
-    
     - **Type:** [PostgreSQL, Redis]
-        
-    - **ORM/ODM (if applicable):** [e.g., Sequelize, Mongoose, SQLAlchemy, ActiveRecord]
-        
-- **API Design:** [e.g., RESTful, GraphQL, gRPC]
-    
-- **Authentication/Authorization:** [e.g., JWT, OAuth, Session-based]
-    
-- **Deployment Strategy:** [e.g., AWS EC2, Heroku, Docker, Kubernetes, Serverless (Lambda)]
-    
-- **Key Backend Libraries/Tools:** [List any other significant libraries/tools]
-    
-- **Logging & Monitoring:** [e.g., ELK Stack, Prometheus, Grafana, CloudWatch]
-    
-
-#### 3.3. API Design & Contract (Crucial for Integration)
-
-- **Endpoint Specifications:** For each major feature, define the API endpoints.
-    
-    - **Example:**
-        
-        - **Feature:** User Login
-            
-        - **Endpoint:** `POST /api/auth/login`
-            
-        - **Request Body:** `{"email": "string", "password": "string"}`
-            
-        - **Successful Response (200):** `{"token": "string", "userId": "string"}`
-            
-        - **Error Response (401):** `{"message": "Invalid credentials"}`
-            
-        - **Notes:** (e.g., expected headers, rate limiting)
-            
-- **Data Models:** Define shared data structures (e.g., User, Product, Order).
-    
-    - **Example (User Model):**
-        
-        JSON
-        
-        ```
-        {
-          "id": "string",
-          "firstName": "string",
-          "lastName": "string",
-          "email": "string",
-          "createdAt": "date-time"
-        }
-        ```
-        
-- **Error Handling Strategy:** Define consistent error response formats.
-    
+    - **ORM/ODM (if applicable):** [Entity Framework Core]
+- **API Design:** [RESTful]
+- **Authentication/Authorization:** [e.g., JWT, OAuth, ==Session-based—maybe==]
+- **Deployment Strategy:** [Azure → If you chose app service free Tier and static apps free Tier you'll never get charged]
+- **Key Backend Libraries/Tools:** [xUnit, Bogus, NSubstitute]
+- **Logging & Monitoring:** ==[Prometheus, Grafana]==
 
 ---
 
