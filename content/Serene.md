@@ -74,10 +74,7 @@ List all features, breaking them down into user stories where applicable. For ea
 
 - **Unit Tests:** [Vitest]
 - **Integration Tests:** [Playwright]
-- **End-to-End (E2E) Tests:** [e.g., Cypress, Playwright]
-- **Accessibility Testing:** [Tools/Practices]
-- **Browser Compatibility Testing:** [Tools/Browsers to support]
-    
+- **End-to-End (E2E) Tests:** [ Playwright]
 
 #### 5.2. Backend Testing
 
@@ -86,6 +83,7 @@ List all features, breaking them down into user stories where applicable. For ea
 - **Load/Stress Testing:** [e.g., JMeter, K6]
 ---
 
+# Can come later
 ### 6. Deployment & Operations
 
 - **Deployment Environments:** [e.g., Development, Staging, Production]
