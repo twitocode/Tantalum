@@ -71,13 +71,11 @@ List all features, breaking them down into user stories where applicable. For ea
 ### 5. Testing Strategy
 
 #### 5.1. Frontend Testing
-
 - **Unit Tests:** [Vitest]
-- **Integration Tests:** [Playwright]
+- **Integration Tests:** [Playwright. MSW]
 - **End-to-End (E2E) Tests:** [ Playwright]
 
 #### 5.2. Backend Testing
-
 - **Unit Tests:** [xUnit, Bogus, Moq, Shouldly]
 - **Integration Tests (API Endpoints):** [Playwright, Test Containers]
 - **Load/Stress Testing:** [e.g., JMeter, K6]
