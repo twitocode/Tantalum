@@ -35,32 +35,24 @@ List all features, breaking them down into user stories where applicable. For ea
 
 #### 3.1. Frontend Architecture
 
-- **Framework/Library:** [e.g., React, Angular, Vue.js, Svelte]
-    
-- **State Management:** [e.g., Redux, Zustand, Vuex, NGRX, Context API]
-    
-- **UI Component Library (optional):** [e.g., Material-UI, Ant Design, Bootstrap]
-    
-- **Build Tools:** [e.g., Webpack, Vite, Parcel]
-    
-- **Styling:** [e.g., CSS Modules, Styled Components, Tailwind CSS, Sass]
-    
-- **Deployment Strategy:** [e.g., Netlify, Vercel, AWS Amplify, Surge]
-    
+- **Framework/Library:** [Svelte]
+- **State Management:** [Svelte Runes]
+- **Build Tools:** [Vite]
+- **Styling:** [Tailwind CSS, shadcn]
+- **Deployment Strategy:** [Vercel, Azure → If you chose app service free Tier and static apps free Tier you'll never get charged]
 - **Key Frontend Libraries:** [List any other significant libraries]
-    
-- **Design System/Guidelines:** [Link to Figma, Sketch, or design documentation]
-    
+- **Design System/Guidelines:** ==[Link to Figma, Sketch, or design documentation]==
+- **Forms** [SvelteKit built-in forms]
 
 #### 3.2. Backend Architecture
 
-- **Language/Runtime:** [e.g., Node.js, Python, Ruby, Go, Java, PHP]
+- **Language/Runtime:** [C# .NET]
     
-- **Framework:** [e.g., Express.js, Django, Ruby on Rails, Spring Boot, Laravel]
+- **Framework:** [ASP.NET Core]
     
 - **Database:**
     
-    - **Type:** [e.g., PostgreSQL, MongoDB, MySQL, Redis, DynamoDB]
+    - **Type:** [PostgreSQL, Redis]
         
     - **ORM/ODM (if applicable):** [e.g., Sequelize, Mongoose, SQLAlchemy, ActiveRecord]
         
