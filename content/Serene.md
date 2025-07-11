@@ -72,8 +72,8 @@ List all features, breaking them down into user stories where applicable. For ea
 
 #### 5.1. Frontend Testing
 
-- **Unit Tests:** [e.g., Jest, React Testing Library]
-- **Integration Tests:** [e.g., Cypress, Playwright]
+- **Unit Tests:** [Vitest]
+- **Integration Tests:** [Playwright]
 - **End-to-End (E2E) Tests:** [e.g., Cypress, Playwright]
 - **Accessibility Testing:** [Tools/Practices]
 - **Browser Compatibility Testing:** [Tools/Browsers to support]
