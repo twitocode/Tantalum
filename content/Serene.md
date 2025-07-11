@@ -4,15 +4,15 @@
 	- Serene should be a small platform that can help people with their mental health struggles. People should feel less overwhelmed in their life when they can document and learn about their struggles.
 	    
 - **Key Business Goals:** What are the primary objectives this project aims to achieve?
-	- 
+	- A very cheap subscription (if possible a $1/month) that is actually useful. It’s just me working on it I am not Jeff Bezos.
 	    
 - **Target Audience:** Who will be using this application?
-	1. Students
-	2. Everyone else
+	1. **HIGH PRIORITY** - Highschool and University Students
+	2. **LOW PRIORITY** - Everyone else
 	    
 - **Scope Definition:** What's in and what's out for this initial phase/version?
-	- 
-	    
+	- MVP
+	    - 
 
 ---
 
