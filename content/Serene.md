@@ -1,13 +1,14 @@
 ### 1. Project Overview & Goals
 
 - **Project Vision:** Briefly describe the overall purpose and desired outcome of the project.
-	- Serene should be a small platform that can help people with their mental health struggles
+	- Serene should be a small platform that can help people with their mental health struggles. People should feel less overwhelmed in their life when they can document and learn about their struggles.
 	    
 - **Key Business Goals:** What are the primary objectives this project aims to achieve?
 	- 
 	    
 - **Target Audience:** Who will be using this application?
-	- 
+	1. Students
+	2. Everyone else
 	    
 - **Scope Definition:** What's in and what's out for this initial phase/version?
 	- 
