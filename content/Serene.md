@@ -22,12 +22,12 @@
 
 List all features, breaking them down into user stories where applicable. For each, identify its frontend and backend implications.
 
-|Feature ID|Feature Name|Description|User Story (if applicable)|Frontend Implication|Backend Implication|Priority (High/Medium/Low)|Status|
-|---|---|---|---|---|---|---|---|
-|F001|User Authentication|Users can sign up, log in, and log out.|As a user, I want to create an account so I can access personalized features.|Login/Signup forms, session management, protected routes.|User model, authentication service (e.g., JWT, OAuth), database for user data.|High|To Do|
-|F002|Product Catalog Display|Users can view a list of products.|As a user, I want to see a list of available products so I can browse them.|Product listing page, filtering/sorting UI.|Product model, API endpoint for fetching products, database for product data.|High|To Do|
-|F003|Add Item to Cart|Users can add products to their shopping cart.|As a user, I want to add items to my cart so I can purchase them later.|"Add to Cart" button, cart icon updates, cart summary display.|Cart model, API endpoint for adding items to cart, session/database storage for cart.|High|To Do|
-|...|...|...|...|...|...|...|...|
+| Feature Name            | Description                                    | User Story (if applicable)                                                    | Frontend Implication                                           | Backend Implication                                                                   | Priority (High/Medium/Low) |
+| ----------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------- |
+| User Authentication     | Users can sign up, log in, and log out.        | As a user, I want to create an account so I can access personalized features. | Login/Signup forms, session management, protected routes.      | User model, authentication service (e.g., JWT, OAuth), database for user data.        | High                       |
+| Product Catalog Display | Users can view a list of products.             | As a user, I want to see a list of available products so I can browse them.   | Product listing page, filtering/sorting UI.                    | Product model, API endpoint for fetching products, database for product data.         | High                       |
+| Add Item to Cart        | Users can add products to their shopping cart. | As a user, I want to add items to my cart so I can purchase them later.       | "Add to Cart" button, cart icon updates, cart summary display. | Cart model, API endpoint for adding items to cart, session/database storage for cart. | High                       |
+| ...                     | ...                                            | ...                                                                           | ...                                                            | ...                                                                                   | ...                        |
 
 ---
 
