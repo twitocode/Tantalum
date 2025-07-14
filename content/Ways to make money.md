@@ -1,1 +1,1 @@
-1. 
+1. Etsy selling - maybe app icons and backgrounds and such
