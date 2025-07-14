@@ -3,3 +3,4 @@
 	2. 
 2. Trading
 3. Building Serene??????????
+4. Notion Templates for students and such
