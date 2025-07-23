@@ -12,6 +12,7 @@ affiliation
 	- 
 	- likes working in groups
 	- cant have tought conversations because they do not want to ruin relationships but they also want good grades that is in conflict with others
+	- 
 autonomy
 - motivated to do things their own way - power over self
 	- likes owkring alone
