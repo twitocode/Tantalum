@@ -6,3 +6,4 @@ Residence
 - Storage bins
 - Hangers
 - Trash can
+- bring my monitor
