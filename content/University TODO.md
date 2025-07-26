@@ -5,3 +5,4 @@ Residence
 - LEDs for ambience
 - Storage bins
 - Hangers
+- Trash can
