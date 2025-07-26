@@ -7,3 +7,4 @@ Residence
 - Hangers
 - Trash can
 - bring my monitor
+- lamp
