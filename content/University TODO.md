@@ -5,7 +5,7 @@ Residence
 - LEDs for ambience
 - Storage bins
 - Hangers
-- Trash can
+- Trash can (might not be needed)
 - bring my monitor
 - lamp
 - extension chords
