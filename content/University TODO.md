@@ -8,3 +8,4 @@ Residence
 - Trash can
 - bring my monitor
 - lamp
+- extension chords
