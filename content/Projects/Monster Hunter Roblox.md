@@ -23,6 +23,10 @@ Game loop
 8. Mobs can help you in fights
 9. Gain achievements from different things
 
+Possible weather events
+- more coins?
+
+
 Cross-Server
 - leaderboard
 	- most kills
