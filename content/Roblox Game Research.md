@@ -7,7 +7,8 @@
 2. Achievements 
 3. Classes - could be bought with currency
 4. Leveling system
-
+	1. Predatory rolling/gambling system
+		1. Chance booster
 5. Leaderboards
 6. In your face popup of oh buy this pack for $340 like in Destiny 2
 	   ![[Pasted image 20250728131710.png]]![[Pasted image 20250728132239.png]]![[Pasted image 20250728133106.png]]
@@ -27,12 +28,13 @@
 16. Progress bars
 17. Controls in the bottom right
 18. cute animals/brainrot for some reason
-19. Simple UI
+19. Funny sound effects
+20. Simple UI
 	1. Satisfying UI animations
 	2. Sound effects for buttons
 	    ![[Pasted image 20250728132153.png]]![[Pasted image 20250728132221.png]]
-20. Daily Rewards
+21. Daily Rewards
     ![[Pasted image 20250728133623.png]]
-21. Invite friends
-22. Custom running animation (in my case like 5fps instead of 60fps)
+22. Invite friends
+23. Custom running animation (in my case like 5fps instead of 60fps)
 	1. [Die of Death - Roblox](https://www.roblox.com/games/71895508397153/Die-of-Death)
