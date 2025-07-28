@@ -14,7 +14,7 @@
 	   ![[Pasted image 20250728131710.png]]![[Pasted image 20250728132239.png]]![[Pasted image 20250728133106.png]]
 7. Multiple ways to access the shop (GUI or Physical NPC)
 8. **LIMITED TIME ITEMS**
-	   ![[Pasted image 20250728133841.png]]
+	   ![[Pasted image 20250728133841.png]]![[Pasted image 20250728135717.png]]
 9. Creating parties or Low player count lobbies
 10. Quests
 11. ![[Pasted image 20250728132816.png]]
@@ -28,6 +28,7 @@
 16. Progress bars
 17. Controls in the bottom right
 18. cute animals/brainrot for some reason
+    ![[Pasted image 20250728135731.png]]
 19. Funny sound effects
 20. Simple UI
 	1. Satisfying UI animations
@@ -40,3 +41,5 @@
 	1. [Die of Death - Roblox](https://www.roblox.com/games/71895508397153/Die-of-Death)
 24. Start menu
     ![[Pasted image 20250728134934.png]]
+25. Weather events
+26. Click button to teleport
