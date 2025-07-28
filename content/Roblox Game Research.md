@@ -5,41 +5,45 @@
 	3. Skip things with currency
 	   ![[Pasted image 20250728132600.png]]
 2. Achievements 
-3. Classes - could be bought with currency
-4. Leveling system
+3. Inventory
+   ![[Pasted image 20250728140137.png]]![[Pasted image 20250728140232.png]]
+4. Classes - could be bought with currency
+5. **REPEATABLE GAMEPLAY**
+6. Leveling system
 	1. Predatory rolling/gambling system
 		1. Chance booster
-5. Leaderboards
-6. In your face popup of oh buy this pack for $340 like in Destiny 2
+7. Leaderboards
+8. In your face popup of oh buy this pack for $340 like in Destiny 2
 	   ![[Pasted image 20250728131710.png]]![[Pasted image 20250728132239.png]]![[Pasted image 20250728133106.png]]
-7. Multiple ways to access the shop (GUI or Physical NPC)
-8. **LIMITED TIME ITEMS**
+9. Multiple ways to access the shop (GUI or Physical NPC)
+   ![[Pasted image 20250728140305.png]]
+10. **LIMITED TIME ITEMS**
 	   ![[Pasted image 20250728133841.png]]![[Pasted image 20250728135717.png]]
-9. Creating parties or Low player count lobbies
-10. Quests
-11. ![[Pasted image 20250728132816.png]]
-12. Round Objectives
-13. **OFFLINE COLLECTION**
+11. Creating parties or Low player count lobbies
+12. Quests
+13. ![[Pasted image 20250728132816.png]]
+14. Round Objectives
+15. **OFFLINE COLLECTION**
 	1. Growing some kind of animal or crop
-14. **VERY I MEAN DEAD SIMPLE GAMEPLAY A 1 MONTH OLD COULD UNDERSTAND**
+16. **VERY I MEAN DEAD SIMPLE GAMEPLAY A 1 MONTH OLD COULD UNDERSTAND**
 	1. Sometimes a simple tutorial
 	2. Markers ![[Pasted image 20250728133148.png]]
-15. Drag and drop
-16. Progress bars
-17. Controls in the bottom right
-18. cute animals/brainrot for some reason
+17. Drag and drop
+18. Progress bars
+19. Controls in the bottom right
+20. cute animals/brainrot for some reason
     ![[Pasted image 20250728135731.png]]
-19. Funny sound effects
-20. Simple UI
+21. Funny sound effects
+22. Simple UI
 	1. Satisfying UI animations
 	2. Sound effects for buttons
 	    ![[Pasted image 20250728132153.png]]![[Pasted image 20250728132221.png]]
-21. Daily Rewards
+23. Daily Rewards
     ![[Pasted image 20250728133623.png]]![[Pasted image 20250728135003.png]]
-22. Invite friends
-23. Custom running animation (in my case like 5fps instead of 60fps)
+24. Invite friends
+25. Custom running animation (in my case like 5fps instead of 60fps)
 	1. [Die of Death - Roblox](https://www.roblox.com/games/71895508397153/Die-of-Death)
-24. Start menu
+26. Start menu
     ![[Pasted image 20250728134934.png]]
-25. Weather events
-26. Click button to teleport
+27. Weather events
+28. Click button to teleport
