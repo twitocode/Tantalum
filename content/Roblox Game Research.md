@@ -18,10 +18,10 @@
 9. Multiple ways to access the shop (GUI or Physical NPC)
    ![[Pasted image 20250728140305.png]]
 10. **LIMITED TIME ITEMS**
-	   ![[Pasted image 20250728133841.png]]![[Pasted image 20250728135717.png]]
+	   ![[Pasted image 20250728133841.png]]![[Pasted image 20250728135717.png]]![[Pasted image 20250728140543.png]]
 11. Creating parties or Low player count lobbies
 12. Quests
-13. ![[Pasted image 20250728132816.png]]
+13. ![[Pasted image 20250728132816.png]]![[Pasted image 20250728140521.png]]
 14. Round Objectives
 15. **OFFLINE COLLECTION**
 	1. Growing some kind of animal or crop
