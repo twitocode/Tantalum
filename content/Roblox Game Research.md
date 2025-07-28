@@ -22,11 +22,10 @@
 14. Drag and drop
 15. Progress bars
 16. Controls in the bottom right
-17. cute animals for some reason
-18. 
-19. Simple UI
+17. cute animals/brainrot for some reason
+18. Simple UI
 	1. Satisfying UI animations
 	2. Sound effects for buttons
 	    ![[Pasted image 20250728132153.png]]![[Pasted image 20250728132221.png]]![[Pasted image 20250728132513.png]]
+19. 
 20. 
-21. 
