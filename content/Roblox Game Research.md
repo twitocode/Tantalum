@@ -47,10 +47,19 @@
     ![[Pasted image 20250728133623.png]]![[Pasted image 20250728135003.png]]
 24. Invite friends
 25. Custom running animation (in my case like 5fps instead of 60fps)
-	1. [Die of Death - Roblox](https://www.roblox.com/games/71895508397153/Die-of-Death)
+	1. Simple animations
+	2. [Die of Death - Roblox](https://www.roblox.com/games/71895508397153/Die-of-Death)
 26. Start menu
     ![[Pasted image 20250728134934.png]]
 27. Main Menu
     ![[Pasted image 20250728140410.png]]
 28. Weather events
 29. Click button to teleport
+30. **The game needs a central theme**
+	1. brainrot
+	2. pets
+	3. old roblox style
+	4. trees
+	5. ores & crystals
+	6. fishing
+	7. etc
