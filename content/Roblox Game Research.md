@@ -34,3 +34,5 @@
 20. Daily Rewards
     ![[Pasted image 20250728133623.png]]
 21. Invite friends
+22. Custom running animation (in my case like 5fps instead of 60fps)
+	1. [Die of Death - Roblox](https://www.roblox.com/games/71895508397153/Die-of-Death)
