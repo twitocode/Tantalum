@@ -15,3 +15,5 @@
 	2. Markers 
 13. Drag and drop
 14. Progress bars
+15. Controls in the bottom right
+16. cute animals for some reason
