@@ -1,7 +1,9 @@
 
 Setting/Theme
 - Main area
-	- Dark forest
+	- lighter atmosphere
+- Dark forest
+	- darker atmosphere
 	- hard to see
 	- Monster are around and you must defeat them
 - Base
