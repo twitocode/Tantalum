@@ -12,18 +12,20 @@
 8. **LIMITED TIME ITEMS**
 9. Creating parties
 10. Quests
-11. Round Objectives
-12. **VERY I MEAN DEAD SIMPLE GAMEPLAY A 1 MONTH OLD COULD UNDERSTAND**
+11. ![[Pasted image 20250728132816.png]]
+12. Round Objectives
+13. **OFFLINE COLLECTION**
+14. **VERY I MEAN DEAD SIMPLE GAMEPLAY A 1 MONTH OLD COULD UNDERSTAND**
 	1. Sometimes a simple tutorial
 	2. Markers 
-13. Drag and drop
-14. Progress bars
-15. Controls in the bottom right
-16. cute animals for some reason
-17. 
-18. Simple UI
+15. Drag and drop
+16. Progress bars
+17. Controls in the bottom right
+18. cute animals for some reason
+19. 
+20. Simple UI
 	1. Satisfying UI animations
 	2. Sound effects for buttons
 	    ![[Pasted image 20250728132153.png]]![[Pasted image 20250728132221.png]]![[Pasted image 20250728132239.png]]![[Pasted image 20250728132513.png]]
-19. 
-20. 
+21. 
+22. 
