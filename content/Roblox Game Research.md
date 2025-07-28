@@ -6,7 +6,7 @@
 	   ![[Pasted image 20250728132600.png]]
 2. Achievements 
 3. Inventory
-   ![[Pasted image 20250728140137.png]]![[Pasted image 20250728140232.png]]
+   ![[Pasted image 20250728140137.png]]![[Pasted image 20250728140232.png]]![[Pasted image 20250728140434.png]]![[Pasted image 20250728140439.png]]
 4. Classes - could be bought with currency
 5. **REPEATABLE GAMEPLAY**
 6. Leveling system
@@ -45,5 +45,7 @@
 	1. [Die of Death - Roblox](https://www.roblox.com/games/71895508397153/Die-of-Death)
 26. Start menu
     ![[Pasted image 20250728134934.png]]
-27. Weather events
-28. Click button to teleport
+27. Main Menu
+    ![[Pasted image 20250728140410.png]]
+28. Weather events
+29. Click button to teleport
