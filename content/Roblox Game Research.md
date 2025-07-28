@@ -16,7 +16,8 @@
 8. In your face popup of oh buy this pack for $340 like in Destiny 2
 	   ![[Pasted image 20250728131710.png]]![[Pasted image 20250728132239.png]]![[Pasted image 20250728133106.png]]
 9. Multiple ways to access the shop (GUI or Physical NPC)
-   ![[Pasted image 20250728140305.png]]
+   ![[Pasted image 20250728140305.png]]![[Pasted image 20250728140743.png]]
+   ![[Pasted image 20250728140815.png]]
 10. **LIMITED TIME ITEMS**
 	   ![[Pasted image 20250728133841.png]]![[Pasted image 20250728135717.png]]![[Pasted image 20250728140543.png]]
 11. Creating parties or Low player count lobbies
