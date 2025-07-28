@@ -31,7 +31,7 @@
 3.  In your face popup of oh buy this pack for $340 like in Destiny 2
     ![[Pasted image 20250728131710.png]]![[Pasted image 20250728132239.png]]![[Pasted image 20250728133106.png]]
 4.  Multiple ways to access the shop (GUI or Physical NPC)
-    ![[Pasted image 20250728140305.png]]![[Pasted image 20250728140743.png]]![[Pasted image 20250728140815.png]]
+    ![[Pasted image 20250728140305.png]]![[Pasted image 20250728140743.png]]![[Pasted image 20250728140815.png]]![[Pasted image 20250728155521.png]]
 5.  **LIMITED TIME ITEMS**
     *   Conveyor system
         ![[Pasted image 20250728141025.png]]
@@ -64,7 +64,7 @@
 2.  Main Menu
     ![[Pasted image 20250728140410.png]]
 3.  Inventory
-    ![[Pasted image 20250728140137.png]]![[Pasted image 20250728140232.png]]![[Pasted image 20250728140434.png]]![[Pasted image 20250728140439.png]]
+    ![[Pasted image 20250728140137.png]]![[Pasted image 20250728140232.png]]![[Pasted image 20250728140434.png]]![[Pasted image 20250728140439.png]]![[Pasted image 20250728155538.png]]
 4.  Progress bars
 5.  Controls in the bottom right
 6.  **REPEATABLE GAMEPLAY**
