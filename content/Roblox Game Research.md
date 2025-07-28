@@ -11,3 +11,7 @@
 10. Quests
 11. Round Objectives
 12. **VERY I MEAN DEAD SIMPLE GAMEPLAY A 1 MONTH OLD COULD UNDERSTAND**
+	1. Sometimes a simple tutorial
+	2. Markers 
+13. Drag and drop
+14. Progress bars
