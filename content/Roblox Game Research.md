@@ -34,7 +34,9 @@
 	2. Sound effects for buttons
 	    ![[Pasted image 20250728132153.png]]![[Pasted image 20250728132221.png]]
 21. Daily Rewards
-    ![[Pasted image 20250728133623.png]]
+    ![[Pasted image 20250728133623.png]]![[Pasted image 20250728135003.png]]
 22. Invite friends
 23. Custom running animation (in my case like 5fps instead of 60fps)
 	1. [Die of Death - Roblox](https://www.roblox.com/games/71895508397153/Die-of-Death)
+24. Start menu
+    ![[Pasted image 20250728134934.png]]
