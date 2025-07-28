@@ -1,65 +1,78 @@
-# What are prominent features in these games?
-1. Gems/Coins
-	1. Only 1 currency
-	2. Gifting currency to others
-	3. Skip things with currency
-	   ![[Pasted image 20250728132600.png]]
-2. Achievements 
-3. Inventory
-   ![[Pasted image 20250728140137.png]]![[Pasted image 20250728140232.png]]![[Pasted image 20250728140434.png]]![[Pasted image 20250728140439.png]]
-4. Classes - could be bought with currency
-5. **REPEATABLE GAMEPLAY**
-6. Leveling system
-	1. Predatory rolling/gambling system
-		1. Chance booster
-7. Leaderboards
-8. In your face popup of oh buy this pack for $340 like in Destiny 2
-	   ![[Pasted image 20250728131710.png]]![[Pasted image 20250728132239.png]]![[Pasted image 20250728133106.png]]
-9. Multiple ways to access the shop (GUI or Physical NPC)
-   ![[Pasted image 20250728140305.png]]![[Pasted image 20250728140743.png]]
-   ![[Pasted image 20250728140815.png]]
-10. **LIMITED TIME ITEMS**
-	1. Conveyor system
-		   ![[Pasted image 20250728141025.png]]
-		1. Shop items
-		   ![[Pasted image 20250728133841.png]]![[Pasted image 20250728135717.png]]![[Pasted image 20250728140543.png]]
-11. Creating parties or Low player count lobbies
-12. Quests
-13. ![[Pasted image 20250728132816.png]]![[Pasted image 20250728140521.png]]
-14. Round Objectives
-15. **OFFLINE COLLECTION**
-	1. Growing some kind of animal or crop
-16. **VERY I MEAN DEAD SIMPLE GAMEPLAY A 1 MONTH OLD COULD UNDERSTAND**
-	1. Sometimes a simple tutorial
-	2. Markers ![[Pasted image 20250728133148.png]]
-17. Drag and drop
-18. Progress bars
-19. Controls in the bottom right
-20. cute animals/brainrot for some reason
-    ![[Pasted image 20250728135731.png]]
-21. Funny sound effects
-22. Simple UI
-	1. Satisfying UI animations
-	2. Sound effects for buttons
-	   ![[Pasted image 20250728141005.png]]
-	    ![[Pasted image 20250728132153.png]]![[Pasted image 20250728132221.png]]
-23. Daily Rewards
+**I. Core Gameplay & Mechanics**
+1. **VERY I MEAN DEAD SIMPLE GAMEPLAY A 1 MONTH OLD COULD UNDERSTAND**
+    *   Sometimes a simple tutorial
+    *   Markers ![[Pasted image 20250728133148.png]]
+2. Drag and drop
+3. Round Objectives
+4. Click button to teleport
+
+**II. Progression & Rewards**
+
+1.  Leveling system
+    *   Predatory rolling/gambling system
+        *   Chance booster
+2.  Achievements
+3.  Quests
+    ![[Pasted image 20250728132816.png]]![[Pasted image 20250728140521.png]]
+4.  Leaderboards
+5.  Daily Rewards
     ![[Pasted image 20250728133623.png]]![[Pasted image 20250728135003.png]]
-24. Invite friends
-25. Custom running animation (in my case like 5fps instead of 60fps)
-	1. Simple animations
-	2. [Die of Death - Roblox](https://www.roblox.com/games/71895508397153/Die-of-Death)
-26. Start menu
+6.  **OFFLINE COLLECTION**
+    *   Growing some kind of animal or crop
+
+**III. Monetization & Scarcity**
+
+1.  Gems/Coins
+    *   Only 1 currency
+    *   Gifting currency to others
+    *   Skip things with currency
+        ![[Pasted image 20250728132600.png]]
+2.  Classes - could be bought with currency
+3.  In your face popup of oh buy this pack for $340 like in Destiny 2
+    ![[Pasted image 20250728131710.png]]![[Pasted image 20250728132239.png]]![[Pasted image 20250728133106.png]]
+4.  Multiple ways to access the shop (GUI or Physical NPC)
+    ![[Pasted image 20250728140305.png]]![[Pasted image 20250728140743.png]]![[Pasted image 20250728140815.png]]
+5.  **LIMITED TIME ITEMS**
+    *   Conveyor system
+        ![[Pasted image 20250728141025.png]]
+    *   Shop items
+        ![[Pasted image 20250728133841.png]]![[Pasted image 20250728135717.png]]![[Pasted image 20250728140543.png]]
+
+**IV. Social & Community**
+
+1.  Creating parties or Low player count lobbies
+2.  Invite friends
+
+**V. Visuals & Polish**
+
+1.  Simple UI
+    *   Satisfying UI animations
+    *   Sound effects for buttons
+        ![[Pasted image 20250728141005.png]]![[Pasted image 20250728132153.png]]![[Pasted image 20250728132221.png]]
+2.  Funny sound effects
+3.  Custom running animation (in my case like 5fps instead of 60fps)
+    *   Simple animations
+    *   [Die of Death - Roblox](https://www.roblox.com/games/71895508397153/Die-of-Death)
+4.  cute animals/brainrot for some reason
+    ![[Pasted image 20250728135731.png]]
+5.  Weather events
+
+**VI. Game Structure & UI**
+
+1.  Start menu
     ![[Pasted image 20250728134934.png]]
-27. Main Menu
+2.  Main Menu
     ![[Pasted image 20250728140410.png]]
-28. Weather events
-29. Click button to teleport
-30. **The game needs a central theme**
-	1. brainrot
-	2. pets
-	3. old roblox style
-	4. trees
-	5. ores & crystals
-	6. fishing
-	7. etc
+3.  Inventory
+    ![[Pasted image 20250728140137.png]]![[Pasted image 20250728140232.png]]![[Pasted image 20250728140434.png]]![[Pasted image 20250728140439.png]]
+4.  Progress bars
+5.  Controls in the bottom right
+6.  **REPEATABLE GAMEPLAY**
+7.  **The game needs a central theme**
+    *   brainrot
+    *   pets
+    *   old roblox style
+    *   trees
+    *   ores & crystals
+    *   fishing
+    *   etc
