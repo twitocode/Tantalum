@@ -17,3 +17,9 @@
 14. Progress bars
 15. Controls in the bottom right
 16. cute animals for some reason
+17. Simple UI
+	1. Satisfying UI animations
+	2. Sound effects for buttons
+	    ![[Pasted image 20250728132153.png]]![[Pasted image 20250728132221.png]]![[Pasted image 20250728132239.png]]
+18. 
+19. 
