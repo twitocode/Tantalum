@@ -17,7 +17,7 @@ Quests
 Game loop 
 1. Defeat mob
 2. get mob or consume for essence
-3. gather resources
+3. gather resources from resource growers (offline mode available)
 4. level up by defeating mobs (don’t have to destroy)
 5. upgrade tool and mobs with essence + resources
 6. Upgrades are locked to player level
