@@ -18,6 +18,16 @@ Quests
 
 Mob Index
 - Lets the user know how many more mobs they need
+Mob
+- Increasing level increases the rate of harvesting a resource
+
+Resources
+- Haunted trees
+- pumpkins
+- Devil’s root
+- etc
+  
+  
 Game loop 
 1. Defeat mob
 2. get mob or consume for essence
