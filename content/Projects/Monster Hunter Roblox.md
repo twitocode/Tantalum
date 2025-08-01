@@ -10,6 +10,8 @@ Setting/Theme
 	- Invite friends
 	- Separate from main area
 	- Must travel back  to main area to teleport to base (or pay)
+	- Showcase mobs
+	- Resource farm
 
 Quests
 - defeat x y’s → resources + xp + coins
