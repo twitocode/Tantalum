@@ -14,6 +14,8 @@ Setting/Theme
 Quests
 - defeat x y’s → resources + xp + coins
 
+Mob Index
+- Lets the user know how many more mobs they need
 Game loop 
 1. Defeat mob
 2. get mob or consume for essence
