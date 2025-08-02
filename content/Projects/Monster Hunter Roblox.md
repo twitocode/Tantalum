@@ -49,8 +49,8 @@ Cross-Server
 - leaderboard
 	- most kills
 Server Events
-- let everyone know if a player got a rare mob
-  
+- let everyone know if a player got a rare mob (notification)
+- if a player has slain a rare mob, then let the server know the location of it. There will be fog in the forest so it will be hard to navigate
 Monetization
 **Intermediate currency:** coins - can only be bought with robux
 - Gamepasses - *not bought with coins*
