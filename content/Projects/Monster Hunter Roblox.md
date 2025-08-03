@@ -6,12 +6,15 @@ Setting/Theme
 	- darker atmosphere
 	- hard to see
 	- Monster are around and you must defeat them
+	- ![[Pasted image 20250803192343.png]]
+		- think of this but the fog is very intense, where i am standing will have based behind me
 - Base
 	- Invite friends
 	- Separate from main area
 	- Must travel back  to main area to teleport to base (or pay)
 	- Showcase mobs
 	- Resource farm
+	- 
 
 Quests
 - defeat x y’s → resources + xp + coins
