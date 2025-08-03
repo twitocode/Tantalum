@@ -1,5 +1,6 @@
 
 Setting/Theme
+![[Pasted image 20250803193445.png]]
 - Main area
 	- lighter atmosphere
 - Dark forest
@@ -15,6 +16,7 @@ Setting/Theme
 	- Showcase mobs
 	- Resource farm
 	- 
+	  ![[Pasted image 20250803193528.png]]
 
 Quests
 - defeat x y’s → resources + xp + coins
