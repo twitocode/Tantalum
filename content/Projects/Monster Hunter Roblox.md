@@ -16,7 +16,8 @@ Setting/Theme
 	- Showcase mobs
 	- Resource farm
 	- 
-	  ![[Pasted image 20250803193528.png]]![[Pasted image 20250803193601.png]]![[Pasted image 20250803194249.png]]
+	  ![[Pasted image 20250803193528.png]]![[Pasted image 20250803193601.png]]![[Pasted image 20250803194249.png]]![[Pasted image 20250803194934.png]]![[Pasted image 20250803194942.png]]![[Pasted image 20250803195014.png]]
+[Shadovia - Roblox](https://www.roblox.com/games/12914593633/Shadovia#ropro-quick-play)
 
 Quests
 - defeat x y’s → resources + xp + coins
