@@ -20,7 +20,7 @@ Mob Index
 - Lets the user know how many more mobs they need
 Mob
 - Increasing level increases the rate of harvesting a resource
-
+- When they do an attack, they stop and a aoe visualizer pops up with the length of the mob’s attack range
 Resources
 - Haunted trees
 - pumpkins
