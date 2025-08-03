@@ -16,7 +16,7 @@ Setting/Theme
 	- Showcase mobs
 	- Resource farm
 	- 
-	  ![[Pasted image 20250803193528.png]]
+	  ![[Pasted image 20250803193528.png]]![[Pasted image 20250803193601.png]]
 
 Quests
 - defeat x y’s → resources + xp + coins
