@@ -63,7 +63,7 @@ Daily Checkin
 - 
 
 Daily Quests
-- ![[Pasted image 20250804182801.png]]
+- ![[Pasted image 20250804182801.png]]![[Pasted image 20250804183035.png]]
 Cross-Server
 - leaderboard
 	- most kills
