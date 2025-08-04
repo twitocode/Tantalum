@@ -53,7 +53,7 @@ Possible weather events
 Inventory System
 - Equip a max of 3 spirits
 - Can only delete mobs that were not purchased with robux
-- 
+- ![[Pasted image 20250804182352.png]]
 Cross-Server
 - leaderboard
 	- most kills
