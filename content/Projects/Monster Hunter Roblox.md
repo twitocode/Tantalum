@@ -50,7 +50,10 @@ Game loop
 Possible weather events
 - more coins?
 
-
+Inventory System
+- Equip a max of 3 spirits
+- Can only delete mobs that were not purchased with robux
+- 
 Cross-Server
 - leaderboard
 	- most kills
