@@ -7,7 +7,7 @@ Setting/Theme
 	- darker atmosphere
 	- hard to see
 	- Monster are around and you must defeat them
-	- ![[Pasted image 20250803192343.png]]![[Pasted image 20250804183947.png]]![[Pasted image 20250804184036.png]]
+	- ![[Pasted image 20250803192343.png]]![[Pasted image 20250804183947.png]]![[Pasted image 20250804184036.png]]![[Pasted image 20250804184506.png]]
 		- think of this but the fog is very intense, where i am standing will have based behind me
 - Base
 	- Invite friends
