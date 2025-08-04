@@ -57,6 +57,12 @@ Inventory System
 General UI
 ![[Pasted image 20250804182459.png]]
 
+Daily Checkin
+- ![[Pasted image 20250804182738.png]]
+- 
+
+Daily Quests
+- ![[Pasted image 20250804182801.png]]
 Cross-Server
 - leaderboard
 	- most kills
