@@ -53,10 +53,10 @@ Possible weather events
 Inventory System
 - Equip a max of 3 spirits
 - Can only delete mobs that were not purchased with robux
-- ![[Pasted image 20250804182352.png]]![[Pasted image 20250804182952.png]]
+- ![[Pasted image 20250804182352.png]]![[Pasted image 20250804182952.png]]![[Pasted image 20250804183751.png]]
 General UI
 ![[Pasted image 20250804182459.png]]
-
+![[Pasted image 20250804183731.png]]
 Daily Checkin
 - ![[Pasted image 20250804182738.png]]
 - ![[Pasted image 20250804182927.png]]
