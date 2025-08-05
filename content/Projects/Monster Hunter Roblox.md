@@ -59,7 +59,7 @@ General UI
 ![[Pasted image 20250804183731.png]]
 Daily Checkin
 - ![[Pasted image 20250804182738.png]]
-- ![[Pasted image 20250804182927.png]]
+- ![[Pasted image 20250804182927.png]]![[Pasted image 20250804182927.png]]
 - 
 
 Daily Quests
