@@ -1,62 +1,51 @@
-Residence
-- Vaccum
-- Mattress Topper
-- Shoe rack
-- LEDs for ambience
-- Storage bins
-- Hangers
-- Trash can (might not be needed)
-- bring my monitor
-- lamp
-- extension chords
 [JONAXEL storage combination, white, 25x51x70 cm (97/8x201/8x271/2") - IKEA CA](https://www.ikea.com/ca/en/p/jonaxel-storage-combination-white-s89297130/)
 
 # From McMaster
 Here's your list converted into a Markdown checklist:
 
 ## Bedding 🛌
-- [ ] Twin XL bedsheets
+- [x] Twin XL bedsheets
 - [ ] Comforter/duvet
-- [ ] Mattress topper
-- [ ] Pillows
-- [ ] Pillow cases
+- [x] Mattress topper
+- [x] Pillows
+- [x] Pillow cases
 - [ ] Blanket/throw
 
 ## For the Room 🚪
 - [ ] Underbed storage bins
 - [ ] Coat hangers
-- [ ] Alarm clock
-- [ ] Slippers
-- [ ] Snacks
+- [x] Alarm clock
+- [x] Slippers
+- [x] Snacks
 
 ## Essentials 🔑
-- [ ] Health card
-- [ ] Driver's license
+- [x] Health card
+- [x] Driver's license
 - [ ] McMaster student ID
-- [ ] Medications
-- [ ] Passport
-- [ ] Wallet
-- [ ] Earplugs
+- [x] Medications
+- [x] Passport
+- [x] Wallet
+- [x] Earplugs
 
 ## Toiletries & Hygiene Products 🚿
 - [ ] Bathrobe
 - [ ] Towel
-- [ ] Wash cloths
+- [x] Wash cloths
 - [ ] Shower caddy
-- [ ] Shower shoes
+- [x] Shower shoes
 
 ## Cleaning 🧼
 - [ ] Paper towels
-- [ ] Disinfectant wipes
+- [x] Disinfectant wipes
 - [ ] Small trash bags
 - [ ] Vacuum
 
 ## Electronics 💻
-- [ ] Cell phone & charger
+- [x] Cell phone & charger
 - [ ] Laptop/tablet & charger
 - [ ] Surge protector
-- [ ] Extension cord
-- [ ] Headphones
+- [x] Extension cord
+- [x] Headphones
 
 ## Decorations ✨
 - [ ] Tapestries
@@ -66,23 +55,23 @@ Here's your list converted into a Markdown checklist:
 - [ ] Command strips
 
 ## School Supplies ✍️
-- [ ] Binders
+- [x] Binders
 - [ ] Notebooks
-- [ ] HB pencils
-- [ ] Pens
-- [ ] Highlighters
-- [ ] Casio fx-991 calculator
+- [x] HB pencils
+- [x] Pens
+- [x] Highlighters
+- [x] Casio fx-991 calculator
 - [ ] USB stick
-- [ ] Stapler
+- [x] Stapler
 
 ## Miscellaneous 🎒
 - [ ] First aid kit/supplies
 - [ ] Batteries
 - [ ] Microwave safe containers
 - [ ] Mugs
-- [ ] Reusable water bottle
+- [x] Reusable water bottle
 - [ ] Umbrella
-- [ ] Sunscreen
+- [x] Sunscreen
 - [ ] Hair dryer
 
 ## Laundry 🧺
