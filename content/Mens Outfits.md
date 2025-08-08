@@ -3,3 +3,5 @@ Need
 	- light blue jeens
 - troussers
 - cargo pants
+- Shorts
+- 
