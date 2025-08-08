@@ -1,4 +1,4 @@
-mckellams's needs
+ mcclelland  needs
 
 achievement
  - motivated to perfomr their best. i want that 100%
