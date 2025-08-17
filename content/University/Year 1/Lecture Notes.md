@@ -1,7 +1,7 @@
 
 ### CS 1JC3
 ```dataview
-TABLE CreatedAt
+LIST
 FROM #lecture
 WHERE class = "CS 1JC3"
 SORT file.name
@@ -9,9 +9,17 @@ SORT file.name
 
 ### CS 1MD3
 ```dataview
-TABLE CreatedAt
+LIST
 FROM #lecture
 WHERE class = "CS 1MD3"
+SORT file.name
+```
+
+### CS 1JC3
+```dataview
+LIST
+FROM #lecture
+WHERE class = "CS 1JC3"
 SORT file.name
 ```
 
