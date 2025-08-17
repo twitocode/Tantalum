@@ -2,5 +2,5 @@
 CreatedAt: <% tp.file.creation_date("YYYY-MM-DD") %>
 tags:
   - lecture
-class:
+class: <% tp.file.folder() %>
 ---
