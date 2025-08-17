@@ -1,6 +1,7 @@
 
 ```dataview
 LIST
-FROM #class-note
+FROM #lecture
+WHERE class = "CS 1JC3"
 SORT file.name
 ```
