@@ -5,7 +5,7 @@ Here's your list converted into a Markdown checklist:
 
 ## Bedding 🛌
 - [x] Twin XL bedsheets
-- [ ] Comforter/duvet
+- [x] Comforter/duvet
 - [x] Mattress topper
 - [x] Pillows
 - [x] Pillow cases
@@ -13,7 +13,7 @@ Here's your list converted into a Markdown checklist:
 
 ## For the Room 🚪
 - [ ] Underbed storage bins
-- [ ] Coat hangers
+- [x] Coat hangers
 - [x] Alarm clock
 - [x] Slippers
 - [x] Snacks
@@ -35,7 +35,7 @@ Here's your list converted into a Markdown checklist:
 - [x] Shower shoes
 
 ## Cleaning 🧼
-- [ ] Paper towels
+- [x] Paper towels
 - [x] Disinfectant wipes
 - [ ] Small trash bags
 - [ ] Vacuum
