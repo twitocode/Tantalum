@@ -1,4 +1,0 @@
-- [ASTRON 1F03 - Introduction to Astronomy and Astrophysics](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=56&poid=28351#/usr/local/webroot/acalog-legacy/shared/htdocs_gateway/ajax/preview_course.php)
-- [BIOLOGY 1P03 - Introductory Biology](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=56&poid=28351#) 
-- [CMST 1A03 - Introduction to Communication](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=56&poid=28351#)
-- [COMMERCE 1AA3 - Introductory Financial Accounting](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=56&poid=28351#/usr/local/webroot/acalog-legacy/shared/htdocs_gateway/ajax/preview_course.php) §

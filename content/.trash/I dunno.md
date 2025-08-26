@@ -1,9 +1,0 @@
-Christianity
-Buddhism
-Hinduism
-Confucianism
-Shintoism
-Taoism
-Judaism
-Islam
-Zoroastrianism

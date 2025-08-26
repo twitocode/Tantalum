@@ -5,8 +5,8 @@ title: Tantalum OS
 - [ ] Complete Serene
 - [ ] Make an orbit simulation with OpenGL and C++
 - [ ] Get into my dream universities
-- [ ] Get good midterm marks
-- [ ] Get Good study music
+- [x] Get good midterm marks
+- [x] Get Good study music
 # Making Math Notes
 Graphs, Triangles, matrices: https://www.mathcha.io/editor
 Image to Latex: https://simpletex.cn/ai/latex_ocr
