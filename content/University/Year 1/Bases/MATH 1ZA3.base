@@ -6,6 +6,7 @@ views:
         - file.ext == "md"
         - file.tags.contains("lecture")
         - '!file.name.endsWith("Template")'
+        - class == "MATH 1ZA3"
     order:
       - file.name
       - CreatedAt
