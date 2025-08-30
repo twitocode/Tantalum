@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+        - file.tags.contains("lecture")
+        - class == "CS 1JC3"
+    sort:
+      - property: file.ctime
+        direction: ASC
