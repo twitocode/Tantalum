@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+        - file.tags.contains("lecture")
+        - '!file.name.endsWith("Template")'
+    order:
+      - file.name
+      - CreatedAt
+    sort:
+      - property: file.ctime
+        direction: ASC
