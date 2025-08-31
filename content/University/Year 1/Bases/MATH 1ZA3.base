@@ -8,8 +8,8 @@ views:
         - '!file.name.endsWith("Template")'
         - class == "MATH 1ZA3"
     order:
-      - file.name
       - CreatedAt
+      - file.name
     sort:
       - property: file.ctime
         direction: ASC
