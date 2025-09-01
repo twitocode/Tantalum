@@ -22,3 +22,5 @@ professor: Aaron Childs
 
 ## Lectures
 ![[University/Year 1/MATH 1ZA3/Lectures.base]]
+
+
