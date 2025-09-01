@@ -1,18 +1,15 @@
 ---
 tags:
   - course
-course: <% tp.system.prompt("Course Code (e.g., MATH201 or CS220)") %>
+class: <% tp.file.folder() %>
 course_name: <% tp.system.prompt("Course Name") %>
-semester: <% tp.system.prompt("Semester (e.g., Fall 2025)") %>
+year: <% tp.system.prompt("Year (e.g., 1)") %>
+semester: ' <% tp.system.prompt("Semester (e.g., Fall 2025)") %>'
 professor: <% tp.system.prompt("Professor Name") %>
 ---
-
-# <% tp.frontmatter.course_code %> – <% tp.frontmatter.course_name %>
-
 ## Course Information
 - **Professor:** <% tp.frontmatter.professor %>  
 - **Semester:** <% tp.frontmatter.semester %>  
-- **Schedule:** <% tp.system.prompt("Class schedule (e.g., Mon/Wed 2–3:30 PM)") %>  
 - **Office Hours:**  
 
 ## Overview
@@ -26,6 +23,7 @@ professor: <% tp.system.prompt("Professor Name") %>
 - GitHub/Class Repo:  
 
 ## Lectures
+[[University/Year <% tp.frontmatter.year %>/<% tp.file.folder() %>/Lectures]]
 ```dataview
 TABLE date AS "Date", topic AS "Topic"
 FROM "Lectures/<% tp.frontmatter.course_code %>"
