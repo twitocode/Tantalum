@@ -2,10 +2,10 @@
 tags:
   - course
 class: <% tp.file.folder() %>
-course_name: <% tp.system.prompt("Course Name") %>
-year: <% tp.system.prompt("Year (e.g., 1)") %>
-semester: ' <% tp.system.prompt("Semester (e.g., Fall 2025)") %>'
-professor: <% tp.system.prompt("Professor Name") %>
+course_name: <% await tp.system.prompt("Course Name") %>
+year: <% await tp.system.prompt("Year (e.g., 1)") %>
+semester: ' <% await tp.system.prompt("Semester (e.g., Fall 2025)") %>'
+professor: <% await tp.system.prompt("Professor Name") %>
 ---
 ## Course Information
 - **Professor:** <% tp.frontmatter.professor %>  
