@@ -2,7 +2,7 @@
 tags:
   - course
 class: <% tp.file.folder() %>
-course_name:
+course name:
 year:
 semester:
 professor:
