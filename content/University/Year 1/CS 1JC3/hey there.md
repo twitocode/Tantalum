@@ -1,8 +1,8 @@
 ---
-CreatedAt: <% tp.file.creation_date("YYYY-MM-DD") %>
+CreatedAt: 2025-08-31
 tags:
   - lecture
-class: <% tp.file.folder() %>
+class: CS 1JC3
 ---
 ## Overview
 - Topic:
