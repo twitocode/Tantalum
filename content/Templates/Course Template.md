@@ -1,7 +1,7 @@
 ---
 tags:
   - course
-course_code: <% tp.system.prompt("Course Code (e.g., MATH201 or CS220)") %>
+course: <% tp.system.prompt("Course Code (e.g., MATH201 or CS220)") %>
 course_name: <% tp.system.prompt("Course Name") %>
 semester: <% tp.system.prompt("Semester (e.g., Fall 2025)") %>
 professor: <% tp.system.prompt("Professor Name") %>
