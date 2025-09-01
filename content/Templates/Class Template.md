@@ -11,14 +11,14 @@ professor:
 - **Office Hours:**  
 
 ## Overview
-- Course Description:  
-- Learning Outcomes:  
+- **Course Description:**  
+- **Learning Outcomes:**  
 
 ## Resources
-- Syllabus:  
-- Textbook(s):  
-- Online Resources:  
-- GitHub/Class Repo:  
+- **Syllabus:**  
+- **Textbook(s):**  
+- **Online Resources:**  
+- **GitHub/Class Repo:**  
 
 ## Lectures
 ![[University/Year 1/<% tp.file.folder() %>/Lectures.base]]
