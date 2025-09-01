@@ -34,5 +34,8 @@ professor: William Farmer
 	- Haskell stuff: [Stack](https://docs.haskellstack.org/en/stable/)
 - GitHub/Class Repo:  
 
+## Marking Scheme
+![[Pasted image 20250901182635.png]]\
+
 ## Lectures
 ![[University/Year 1/CS 1JC3/Lectures.base]]
