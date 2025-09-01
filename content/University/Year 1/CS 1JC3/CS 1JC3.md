@@ -2,14 +2,12 @@
 tags:
   - course
 class: CS 1JC3
-course_name: sdf
-year: sdf
-semester: ' ssdf'
-professor: sdf
+course name: Introduction to Computational Thinking
+year: "1"
+semester: Fall 2025
+professor: William Farmer
 ---
 ## Course Information
-- **Professor:** <% await tp.system.prompt("Professor Name") %>  
-- **Semester:**  <% await tp.system.prompt("Semester (e.g., Fall 2025)") %>  
 - **Office Hours:**  
 
 ## Overview
@@ -23,8 +21,4 @@ professor: sdf
 - GitHub/Class Repo:  
 
 ## Lectures
-[[University/Year <% await tp.system.prompt("Year (e.g., 1)") %>/CS 1JC3/Lectures]]
-```dataview
-TABLE date AS "Date", topic AS "Topic"
-FROM "Lectures/undefined"
-SORT date ASC
+[[University/Year 1/CS 1JC3/Lectures]]
