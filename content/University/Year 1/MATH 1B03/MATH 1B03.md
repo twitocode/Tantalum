@@ -1,11 +1,11 @@
 ---
 tags:
   - course
-class: MATH 1ZA3
-course name: Engineering Mathematics I
-year: "1"
-semester: Fall 2025
-professor: Aaron Childs
+class: MATH 1B03
+course name:
+year:
+semester:
+professor:
 ---
 ## Course Information
 - **Office Hours:**  
@@ -21,4 +21,4 @@ professor: Aaron Childs
 - **GitHub/Class Repo:**  
 
 ## Lectures
-![[University/Year 1/MATH 1ZA3/Lectures.base]]
+![[University/Year 1/MATH 1B03/Lectures.base]]
