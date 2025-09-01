@@ -3,9 +3,6 @@ tags:
   - study-session
 date: <% tp.date.now("YYYY-MM-DD") %>
 ---
-
-# Study Session – <% tp.date.now("dddd, MMMM D, YYYY") %>
-
 ## Focus Topic
 <% tp.system.prompt("What are you focusing on?") %>
 

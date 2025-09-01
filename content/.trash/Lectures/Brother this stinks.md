@@ -1,9 +1,12 @@
 ---
-CreatedAt: <% tp.file.creation_date("YYYY-MM-DD") %>
+CreatedAt: 2025-08-31
 tags:
   - lecture
-class: <% tp.file.folder().folder() %>
+class: <% tp.file.folder() %>
 ---
+
+# null – Lecture Notes
+
 ## Overview
 - Topic:
 - Main objectives:

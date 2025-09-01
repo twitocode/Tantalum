@@ -5,9 +5,6 @@ course: <% tp.system.prompt("Course") %>
 due: <% tp.system.prompt("Due Date (YYYY-MM-DD)") %>
 CreatedAt:
 ---
-
-# Research Project: <% tp.file.title %>
-
 ## Thesis / Research Question
 - 
 
