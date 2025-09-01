@@ -21,4 +21,4 @@ professor:
 - GitHub/Class Repo:  
 
 ## Lectures
-[[University/Year 1/<% tp.file.folder() %>/Lectures]]
+![[University/Year 1/<% tp.file.folder() %>/Lectures.base]]

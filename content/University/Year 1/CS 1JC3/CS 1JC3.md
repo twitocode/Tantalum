@@ -21,4 +21,4 @@ professor: William Farmer
 - GitHub/Class Repo:  
 
 ## Lectures
-[[University/Year 1/CS 1JC3/Lectures]]
+![[University/Year 1/CS 1JC3/Lectures.base]]
