@@ -8,7 +8,8 @@ semester: Fall 2025
 professor: Aaron Childs
 ---
 ## Course Information
-- **Office Hours:**  
+- **Office Hours:**  HH213
+- **Office**: TBA
 
 ## Overview
 - **Course Description:**  
