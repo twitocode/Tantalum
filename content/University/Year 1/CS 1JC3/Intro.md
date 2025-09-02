@@ -9,7 +9,8 @@ class: CS 1JC3
 - Main objectives:
 
 ## Notes
-- 
+- its just basic stuff from the slides, no real information
+- you can get marks by doing the work
 
 ## Key Terms
 - Term 1: Definition
