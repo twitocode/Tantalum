@@ -12,6 +12,7 @@ class: ECON 1BB3
 - most countries are mixed, north korea - planned, singapore  - market
 - central planning is not as efficient as mixed.
 - theres no incentive to work hard when youll get what you want anyways
+- 
 
 ## Key Terms
 - Term 1: Definition
