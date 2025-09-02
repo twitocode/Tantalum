@@ -11,6 +11,7 @@ class: CS 1JC3
 ## Notes
 - its just basic stuff from the slides, no real information
 - you can get marks by doing the work
+- tutorials will have attendance
 
 ## Key Terms
 - Term 1: Definition
