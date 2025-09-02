@@ -11,6 +11,7 @@ professor: Vincent Maccio
 - **Office Hours:**  Tuesday 10:30-11:30, Friday 10:30-11:30
 - **Office**: ITB219
 - prefers teams but will use email
+- no attendance from lectures
 
 ## Overview
 - **Course Description:**  
