@@ -23,7 +23,7 @@ professor: William Farmer
 			simple requirements specification.  
 		2. Formulate a test plan for a simple functional program.  
 		3. Analyze a simple functional program.  
-		4. Use Haskell as a problem-solving tool
+		4. Use *Haskell* as a problem-solving tool
 
 ## Resources
 - Syllabus:  
