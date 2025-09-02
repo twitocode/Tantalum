@@ -8,7 +8,8 @@ semester: Fall 2025
 professor: Vincent Maccio
 ---
 ## Course Information
-- **Office Hours:**  
+- **Office Hours:**  Tuesday 10:30-11:30, Friday 10:30-11:30
+- **Office**: ITB219
 
 ## Overview
 - **Course Description:**  
