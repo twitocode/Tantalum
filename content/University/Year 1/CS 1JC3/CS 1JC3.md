@@ -18,12 +18,12 @@ professor: William Farmer
 	    1. What computational thinking is.  
 	    2. The key ideas, methods, technologies, and areas of computing.  
 	    3. Functional programming language concepts.  
-	2. Students should be able to: 
-		1. Design and write a simple functional program that satisfies a  
-			simple requirements specification.  
-		2. Formulate a test plan for a simple functional program.  
-		3. Analyze a simple functional program.  
-		4. Use *Haskell* as a problem-solving tool
+	    4. Students should be able to: 
+	    	5. Design and write a simple functional program that satisfies a  
+	    		simple requirements specification.  
+	    	6. Formulate a test plan for a simple functional program.  
+	    	7. Analyze a simple functional program.  
+	    	8. Use *Haskell* as a problem-solving tool
 
 ## Resources
 - Syllabus:  
