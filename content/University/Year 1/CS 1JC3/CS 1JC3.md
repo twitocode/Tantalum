@@ -36,25 +36,25 @@ professor: William Farmer
 - GitHub/Class Repo:  
 
 ## Marking Scheme
-| Component                                   | Weight   |
-| ------------------------------------------- | -------- |
-| **Class participation**                     |          |
-| a. Discussion session questions             | 8%       |
-| b. Tutorial attendance                      | 2%       |
-| c. Discussion forum                         | 2%       |
-| d. Meaningfuls and memorables (M&Ms)        | 2%       |
-| c. Bio sheet                                | 2%       |
-| Programming exercises (8)                   | 8%       |
-| Programming assignments (4)                 | 20%      |
-| Midterm test 1                              | 12%      |
-| Midterm test 2                              | 16%      |
-| Final exam                                  | 28%      |
-| **Total**                                   | **100%** |
-| **Bonus**                                   |          |
-| Maximum discussion session bonus            | 2%       |
-| Course review session bonus                 | 1%       |
-| Maximum end-of-term course evaluation bonus | 2%       |
-| McMaster Engineering Competition (MEC)      | 1%       |
+| Component                                             | Weight   |
+| ----------------------------------------------------- | -------- |
+| **Class participation**                               |          |
+| a. Discussion session questions                       | 8%       |
+| b. Tutorial attendance                                | 2%       |
+| c. Discussion forum                                   | 2%       |
+| d. Meaningfuls and memorables (M&Ms)                  | 2%       |
+| c. Bio sheet                                          | 2%       |
+| Programming exercises (8)                             | 8%       |
+| Programming assignments (4)                           | 20%      |
+| Midterm test 1                                        | 12%      |
+| Midterm test 2                                        | 16%      |
+| Final exam                                            | 28%      |
+| **Total**                                             | **100%** |
+| **Bonus**                                             |          |
+| Maximum discussion session bonus                      | 2%       |
+| Course review session bonus                           | 1%       |
+| Maximum end-of-term course evaluation bonus           | 2%       |
+| Participate in McMaster Engineering Competition (MEC) | 1%       |
 
 ## Extra Information
 
