@@ -22,6 +22,7 @@ import Search from "./Search"
 import Spacer from "./Spacer"
 import TableOfContents from "./TableOfContents"
 import TagList from "./TagList"
+import ConditionalRender from "./ConditionalRender"
 
 export {
   ArticleTitle,
@@ -31,6 +32,7 @@ export {
   Comments,
   Content,
   ContentMeta,
+  ConditionalRender,
   Darkmode,
   DesktopOnly,
   Explorer,

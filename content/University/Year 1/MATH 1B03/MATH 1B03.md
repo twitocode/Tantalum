@@ -10,7 +10,7 @@ professor: Bradd Hart
 ## Course Information
 - **Office Hours**:   Tuesday Thursday 12:30 – 1:30 or by appointment
 - **Office**: HH420
-
+- msaf does not really apply to this class because if i fail something, then it "doesnt count" whatever that means.
 ## Overview
 - **Course Description:** This course is an introduction to linear algebra, covering both computational and theoretical approaches. Topics include vector spaces, linear independence, dimension, determinants, eigenvalues, eigenvectors, and diagonalization.
 - **Course Objectives:** By the end of this course, you should be able to perform computations involving matrices (e.g., solving linear systems, finding determinants) and understand the theoretical concepts behind them.
