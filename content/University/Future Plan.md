@@ -1,6 +1,8 @@
 **Major:** Computer Science 
 **Minor(s):** Statistics or Economics
 
+*I am already on track for a minor in stats with my current courses, i could keep going with economics or switch to stats*
+
 ---
 
 ## 🎯 Goals
