@@ -9,6 +9,7 @@ professor: William Farmer
 ---
 ## Course Information
 - **Office Hours:**  4pm every Thursday, he prefers that you send an email saying what times I want to have with him and then he chooses them.
+	- **Letter of Recommendation**: want one????? go to office hours to let them know more about you
 
 ## Overview
 - **Course Description:**  The mission of the course is to (1) introduce students to computational thinking (i.e., thinking that is inspired, supported, or enabled by computing) and (2) help students begin the process of developing a sophisticated understanding of computing. The students will achieve these goals by exploring the salient ideas, methods, and technologies in computing and by solving problems using functional programming
