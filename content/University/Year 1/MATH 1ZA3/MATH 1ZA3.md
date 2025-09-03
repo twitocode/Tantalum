@@ -10,7 +10,7 @@ professor: Aaron Childs
 ## Course Information
 - **Office Hours:**  HH213
 - **Office**: TBA
-
+**find everything on childsmath** no avenuetolearn
 ## Overview
 - **Course Description:**  
 - **Learning Outcomes:**  
