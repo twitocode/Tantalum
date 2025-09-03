@@ -12,8 +12,7 @@ professor: Aaron Childs
 - **Office**: TBA
 **find everything on childsmath** no avenuetolearn
 all tests will be multiple choice in person
-
-
+**no rough work will be marked**
 
 ## Overview
 - **Course Description:**  
