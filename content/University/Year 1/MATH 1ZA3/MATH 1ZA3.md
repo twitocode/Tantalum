@@ -11,6 +11,10 @@ professor: Aaron Childs
 - **Office Hours:**  HH213
 - **Office**: TBA
 **find everything on childsmath** no avenuetolearn
+all tests will be multiple choice in person
+
+
+
 ## Overview
 - **Course Description:**  
 - **Learning Outcomes:**  
