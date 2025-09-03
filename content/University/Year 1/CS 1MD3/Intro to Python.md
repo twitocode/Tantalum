@@ -17,6 +17,7 @@ class: CS 1MD3
 - modulo 5%2 = 1
 - max(123, 123, 1,2, 44444) = 44444
 - min(123, 123, 2, 1) = 1
+- 4**2 == pow(4, 2)
 
 ## Key Terms
 - Term 1: Definition
