@@ -14,6 +14,9 @@ class: CS 1MD3
 - integer division = 4//2
 - float division = 4/2
 - pyhtong rounding down might become an issue
+- modulo 5%2 = 1
+- max(123, 123, 1,2, 44444) = 44444
+- min(123, 123, 2, 1) = 1
 
 ## Key Terms
 - Term 1: Definition
