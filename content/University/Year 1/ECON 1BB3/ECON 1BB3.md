@@ -11,8 +11,6 @@ professor: Bridget ...
 - **Office Hours:**  
 no msaf on homework   
 no cheatsheet given
-*tutorials are not on every week, TODO: REMOVE THEM FROM GCAL*
-![[Pasted image 20250902124554.png]]
 ## Overview
 - **Course Description:**  
 - **Learning Outcomes:**  
