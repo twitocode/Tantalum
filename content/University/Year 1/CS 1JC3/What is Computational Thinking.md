@@ -36,6 +36,8 @@ class: CS 1JC3
 	 - universal computation now vs single computation from the past
 	 - comptuers cand o things very very fast. (nano seconds)
 	 - engineering, math, art and design is involved. 
+- **develop software using the principles of engineering**
+	- radical b/c in normal engineering things interact physically, not in softeng
 ## Key Terms
 - Semantics:
 - Syntax:
