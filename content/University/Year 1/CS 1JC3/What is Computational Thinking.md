@@ -9,7 +9,7 @@ class: CS 1JC3
 - Main objectives:
 
 ## Notes
-- 
+- morning vs night person
 
 ## Key Terms
 - Term 1: Definition
