@@ -10,10 +10,10 @@ class: CS 1JC3
 
 ## Notes
 - morning vs night person
-- turning and churchill figured out that current computation has some problems
-	- They came out with problems that can not be solved
+- alan turning and alonzo church figured out that current computation has some problems
+	- They came out with problems that can not be solved - **a scientific fact**
 		- Halting problem
-- Alonzo Church (godfather sort of )
+
 - semantics vs syntax in computing
 - semantics and syntax in real life
 	- macid
@@ -35,6 +35,7 @@ class: CS 1JC3
 	 - **computers can store lots of stuff**
 	 - universal computation now vs single computation from the past
 	 - comptuers cand o things very very fast. (nano seconds)
+	 - engineering, math, art and design is involved. 
 ## Key Terms
 - Semantics:
 - Syntax:
