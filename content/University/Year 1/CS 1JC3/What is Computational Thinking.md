@@ -13,6 +13,7 @@ class: CS 1JC3
 - turning and churchill figured out that current computation has some problems
 	- They came out with problems that can not be solved
 		- Halting problem
+- Alonzo Church (godfather sort of )
 
 ## Key Terms
 - Term 1: Definition
