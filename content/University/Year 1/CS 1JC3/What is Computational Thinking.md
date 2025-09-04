@@ -14,6 +14,8 @@ class: CS 1JC3
 	- They came out with problems that can not be solved
 		- Halting problem
 - Alonzo Church (godfather sort of )
+- semantics vs syntax in computing
+- semantics and syntax in real life
 
 ## Key Terms
 - Term 1: Definition
