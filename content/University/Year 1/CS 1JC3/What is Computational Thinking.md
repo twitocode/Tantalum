@@ -16,13 +16,24 @@ class: CS 1JC3
 - Alonzo Church (godfather sort of )
 - semantics vs syntax in computing
 - semantics and syntax in real life
+	- macid
+		- semanticly it is ...
+		- cant find information about people
+		- public identifier
+	- student number
+		- a number that uniquely identifies you
+		- hides your idnetiyy better
+		- needed to find personal information about you
+		- private identifier
 
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
 
 ## Questions
-- 
+- What is computing?
+- What is computation thinking?
+- What makes computational thinking different from other kinds of thinking?
 
 ## Summary
 - 
