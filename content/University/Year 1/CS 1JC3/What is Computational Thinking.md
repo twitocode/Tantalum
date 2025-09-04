@@ -25,10 +25,14 @@ class: CS 1JC3
 		- hides your idnetiyy better
 		- needed to find personal information about you
 		- private identifier
-
+ - Bifficus in the past
+	 - Does addition have anything to do with counting?
+	 - 7+6=13 calculato
+	 - Using sets (x, x ,x , x ,x , x) and (x,x,x,x,x,x,). count 7 from the first set then continue with the second set to get 13.
+	 - **Getting the answer is not enough, you need to understand how your got thant answer**
 ## Key Terms
-- Term 1: Definition
-- Term 2: Definition
+- Semantics:
+- Syntax:
 
 ## Questions
 - What is computing?
