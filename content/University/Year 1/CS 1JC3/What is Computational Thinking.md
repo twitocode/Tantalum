@@ -30,6 +30,11 @@ class: CS 1JC3
 	 - 7+6=13 calculato
 	 - Using sets (x, x ,x , x ,x , x) and (x,x,x,x,x,x,). count 7 from the first set then continue with the second set to get 13.
 	 - **Getting the answer is not enough, you need to understand how your got thant answer**
+ - Cmomputation
+	 - essence: taking hardware that allows you to manipulate data and wirting software that contorls how you manipulate the daata.
+	 - **computers can store lots of stuff**
+	 - universal computation now vs single computation from the past
+	 - comptuers cand o things very very fast. (nano seconds)
 ## Key Terms
 - Semantics:
 - Syntax:
