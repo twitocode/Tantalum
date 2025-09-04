@@ -10,6 +10,9 @@ class: CS 1JC3
 
 ## Notes
 - morning vs night person
+- turning and churchill figured out that current computation has some problems
+	- They came out with problems that can not be solved
+		- Halting problem
 
 ## Key Terms
 - Term 1: Definition
