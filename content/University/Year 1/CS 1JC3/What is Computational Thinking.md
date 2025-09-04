@@ -38,6 +38,8 @@ class: CS 1JC3
 	 - engineering, math, art and design is involved. 
 - **develop software using the principles of engineering**
 	- radical b/c in normal engineering things interact physically, not in softeng
+- elegance can be signfiicant in cs. easy to produce and modifyable software
+- not a pure form of art, it is mroe like architecture
 ## Key Terms
 - Semantics:
 - Syntax:
