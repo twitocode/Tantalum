@@ -11,6 +11,9 @@ class: CS 1JC3
 ## Notes
 - bifficus
 	- wow calculaotrs always output the correct answers
+	- chatpgt generateed response
+		- must use natural numbers for the sum of nth real numbers
+		- 4 ``div`` 2 instead of 4/2 for integer division
 
 ## Key Terms
 - Term 1: Definition
