@@ -13,7 +13,7 @@ class: CS 1JC3
 - alan turning and alonzo church figured out that current computation has some problems
 	- They came out with problems that can not be solved - **a scientific fact**
 		- Halting problem
-
+- Wilhelm Leibniz and newton invented calculus - infitesimal calculus was the orignal name. They used infitesimalt to caluclate values. Now we use limits
 - semantics vs syntax in computing
 - semantics and syntax in real life
 	- macid

@@ -17,7 +17,7 @@ class: CS 1JC3
 		- must use natural numbers for the sum of nth real numbers
 		- 4 ``div`` 2 instead of 4/2 for integer division
 			$$sum(n) = \frac{n(n+1)}{2}$$
-	- Proof by induction
+	- **Proof by induction**
 	- $P(n) = 0 + 1 + 2+3+\dots n = \frac{n(2+1)}{2}$
 	- Base case $n = 0$ ✅
 	- Induction Step. Let $n >0$
@@ -28,6 +28,7 @@ class: CS 1JC3
 		- $(n+1)(\frac{n}{2} + 1)$
 		- $(n+1)\left( \frac{n}{2} + \frac{2}{2} \right)$
 		- $(n+1)\frac{(n+2)}{2}$
+- 
 w## Key Terms
 - Term 1: Definition
 - Term 2: Definition
