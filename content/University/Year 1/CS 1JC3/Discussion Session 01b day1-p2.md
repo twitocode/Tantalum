@@ -23,11 +23,11 @@ class: CS 1JC3
 	- Induction Step. Let $n >0$
 		- Assume $P(n)$ is true
 		- Show $P(n+1)$ is true
-	- $0 + 1 + 2 + \dots + n + n +1 = \frac{(n+1)(n+2)}{2}$
-	- $0 + 1 + 2 + \dots + n = \frac{n(2+1)}{2}$ 
-	- $(n+1)(\frac{n}{2} + 1)$
-	- $(n+1)\left( \frac{n}{2} + \frac{2}{2} \right)$
-	- $(n+1)\frac{(n+2)}{2}$
+		- $0 + 1 + 2 + \dots + n + n +1 = \frac{(n+1)(n+2)}{2}$
+			- $0 + 1 + 2 + \dots + n = \frac{n(2+1)}{2}$ 
+		- $(n+1)(\frac{n}{2} + 1)$
+		- $(n+1)\left( \frac{n}{2} + \frac{2}{2} \right)$
+		- $(n+1)\frac{(n+2)}{2}$
 w## Key Terms
 - Term 1: Definition
 - Term 2: Definition
