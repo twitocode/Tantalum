@@ -14,7 +14,10 @@ class: CS 1JC3
 	- They came out with problems that can not be solved - **a scientific fact**
 		- Halting problem
 - Wilhelm Leibniz and newton invented calculus - infitesimal calculus was the orignal name. They used infitesimalt to caluclate values. Now we use limits
-
+	- the formula for the derivative was slightly different
+	- infinitesmial - $0 < \epsilon < r$
+		- for all real numbers $r > 0$
+		- $st()$ is the standard part
 - semantics vs syntax in computing
 - semantics and syntax in real life
 	- macid
