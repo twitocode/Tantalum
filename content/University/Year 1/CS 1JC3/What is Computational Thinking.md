@@ -18,6 +18,9 @@ class: CS 1JC3
 	- infinitesmial - $0 < \epsilon < r$
 		- for all real numbers $r > 0$
 		- $st()$ is the standard part
+- Leibniz celebrated the binary system.
+	- binary is like boolean arithmetic
+- Leibniz had the same ideas as George Boole about boolean algebra like and conjuction and stuff but he was not as popular and his stuff was lost to time.
 - semantics vs syntax in computing
 - semantics and syntax in real life
 	- macid
