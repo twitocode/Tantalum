@@ -9,7 +9,8 @@ class: CS 1JC3
 - Main objectives:
 
 ## Notes
-- 
+- bifficus
+	- wow calculaotrs always output the correct answers
 
 ## Key Terms
 - Term 1: Definition
