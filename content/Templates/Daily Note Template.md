@@ -1,3 +1,4 @@
 #DailyNote 
-# Today's Goals
+
+## What will I study today?
 - [ ] 
