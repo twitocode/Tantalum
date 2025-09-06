@@ -7,7 +7,6 @@ class: CS 1MD3
 ## Overview
 - Topic:
 - Main objectives:
-
 ## Notes
 - Basic python arithmetic
 - errors with floating point arithemtic 0.1 + 0.1 + 0.1 = 0.300000004
