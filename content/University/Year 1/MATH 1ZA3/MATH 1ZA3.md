@@ -38,3 +38,18 @@ all tests will be multiple choice in person
 ![[University/Year 1/MATH 1ZA3/Lectures.base]]
 
 
+# Hard Questions I could not figure out (Math Help Centre?)
+Assignment #1 **Question #1:** Which of the following is equal to $\cot(x) \sin(2x)$ ?
+
+(i) $1 - \cos(2x)$
+(ii) $\frac{2}{1 + \cot^2(x)}$
+(iii) $2(1 - \sin^2(x))$
+
+(A) (i) and (iii) only
+(B) (i) only
+(C) all of them
+(D) (iii) only
+(E) (ii) only
+(F) none of them
+(G) (i) and (ii) only
+(H) (ii) and (iii) only
