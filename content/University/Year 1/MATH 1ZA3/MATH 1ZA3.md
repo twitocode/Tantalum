@@ -26,7 +26,6 @@ all tests will be multiple choice in person
 
 ## Marking Scheme
 
-
 | Assignment  | Weight | Notes                            |
 | ----------- | ------ | -------------------------------- |
 | Assignments | 15%    | 10 online assignments, 1.5% each |
