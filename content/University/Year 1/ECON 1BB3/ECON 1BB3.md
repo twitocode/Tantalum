@@ -63,3 +63,7 @@ no cheatsheet given
 | **Exam Period** | TBA | Final Exam (Cumulative) | |
 ## Lectures
 ![[University/Year 1/ECON 1BB3/Lectures.base]]
+
+## Things i do not understand
+![[Pasted image 20250907145524.png]]
+MyLab Graphing #2 - Why is it that quantity can be dependant on price that makes no sense graphing wise.
