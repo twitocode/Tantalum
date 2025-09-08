@@ -51,3 +51,4 @@ professor: Bradd Hart
 ![[University/Year 1/MATH 1B03/Lectures.base]] 
 
 # stuff i didnt understand
+Assignment #1 Q4 - infinitely many solutions, use paremters like s t r
