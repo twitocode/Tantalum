@@ -48,4 +48,6 @@ professor: Bradd Hart
 | **14** | Dec 1-4 | Lecture 35, 36, 37 | Gram-Schmidt Process (continued), Exam review | MATLAB Assignments #4 and 5: Due Thurs. Dec. 4<br>Assignment #9: Due Thurs. Dec. 4 |
 
 ## Lectures
-![[University/Year 1/MATH 1B03/Lectures.base]]
+![[University/Year 1/MATH 1B03/Lectures.base]] 
+
+# stuff i didnt understand
