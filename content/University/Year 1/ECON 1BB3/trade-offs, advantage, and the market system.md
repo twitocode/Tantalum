@@ -22,6 +22,17 @@ protection of property ights is essential for a market economy to function somot
 ecocnomics  is about hwo people deal with scarce resources and goals
 equity is not a big part of the market - government does not have to do anything about it
 
+- ppf
+	- curve down vs linear down graph
+		- curve is more accurate but straight is easier
+		- ![[Pasted image 20250909125424.png]]
+- opportunity cost
+	- how much i need to give up to make something else
+- attainable/feasible vs efficient
+- using ppf to show economic growth
+- 2x2 trade model
+- price of trade
+	- 
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
