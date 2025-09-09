@@ -5,8 +5,7 @@ tags:
 class: CS 1MD3
 ---
 ## Overview
-- Topic:
-- Main objectives:
+- Topic: boolean logic
 
 ## Notes
 ```python
