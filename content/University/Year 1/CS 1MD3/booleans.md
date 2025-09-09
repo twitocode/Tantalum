@@ -38,6 +38,22 @@ False != False = False
 a = True
 b = not a  = False
 b = b and a = False
+
+a or True
+
+a or False
+-> a
+
+a and True
+-> True
+
+a and False 
+-> a
+
+a or (not a)
+-> True
+a and (not a)
+-> False
 ```
 And is always false unless both are true
 Or is always true unless both are false
