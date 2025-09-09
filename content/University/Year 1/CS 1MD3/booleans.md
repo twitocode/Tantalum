@@ -34,6 +34,10 @@ True != True = False
 True != False = True
 False != True = True
 False != False = False
+
+a = True
+b = not a  = False
+b = b and a = False
 ```
 And is always false unless both are true
 Or is always true unless both are false
