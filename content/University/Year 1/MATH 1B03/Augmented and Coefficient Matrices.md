@@ -88,12 +88,16 @@ vice versa for x
 
 ### In bigger augmented matrices
 $$
-\begin{bmatrix}
-1 & 1 & 0 & -4 & 2 \\
-0 & 0 & 1 & 4  & -\frac{1}{2}\\
-0 & 0 & 0 & 0 & 0
+
+\begin{bmatrix} \\
+
+\color{magenta} 1 & \color{lime}  1 & 0 & \color{lime}-4 & 2 \\
+0 & \color{lime}0 & \color{magenta}  1 & \color{lime}4  & -\frac{1}{2}\\
+0 & \color{lime}0 & 0 & \color{lime}0 & 0
 \end{bmatrix}
 $$
+no pivots in the third row, all zeroes
+the second and fourth columns will be free columns in the general solution. This has infinitely many solutions because there zeros at the bottom (no pivots underneath)
 
 ### Finding a free variable early on
 in this example
@@ -142,4 +146,5 @@ $$
 > [!NOTE]
 > # The entire point
 > Theorem: every matrix can be reduced to a **unique** matrix reduced row echelon form. This does not apply to row echelon form
-> 
+
+
