@@ -33,6 +33,8 @@ equity is not a big part of the market - government does not have to do anything
 - 2x2 trade model
 - price of trade
 	- 
+![[Pasted image 20250909125605.png]]	  
+improved machine producing tech = 
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
