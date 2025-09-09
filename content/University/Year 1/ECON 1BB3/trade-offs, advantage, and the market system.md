@@ -36,8 +36,9 @@ equity is not a big part of the market - government does not have to do anything
 			- 6T -> 24C
 			- 1T -> 4C (opportunity cost of it)
 		- sandy will specalize in selling tables
-		- mike will specialize in selling tables b/c he has a higher opportunity
-		- 
+		- mike will specialize in selling chairs
+		- price has to be high enough for the seller but low enough for the buyer
+		- between 4C per T and 5C per chair
 - attainable/feasible vs efficient
 - using ppf to show economic growth
 - 2x2 trade model
@@ -48,3 +49,4 @@ improved machine producing tech =
 ![[Pasted image 20250909125817.png]]
 ![[Pasted image 20250909130138.png]]
 
+comparative advantage
