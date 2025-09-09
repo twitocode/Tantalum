@@ -49,10 +49,16 @@ improved machine producing tech =
 ![[Pasted image 20250909125817.png]]
 ![[Pasted image 20250909130138.png]]
 
-comparative advantage
+comparative advantage (2x2 trade model)
 
-|         | cheese (labour hours per unit) | bread (labour hours per unit) |
-| ------- | ------------------------------ | ----------------------------- |
-| england | 1                              | 4                             |
-| spain   | 2                              | 8                             |
-england will import bread and spain will import cheese
+|         | cheese (labour hours per unit) | bread (labour hours per unit) | amount produced in 40 hours | amount produced in 40 hours |
+| ------- | ------------------------------ | ----------------------------- | --------------------------- | --------------------------- |
+| england | 1                              | 4                             | 40                          | 20                          |
+| spain   | 2                              | 8                             | 20                          | 5                           |
+|         |                                |                               |                             |                             |
+england will import cheese and spain will import bread
+england will export bread and spain will import cheese
+
+> [!important] Title
+> Dont look at the labour (input), choose the amount produced columns (output)
+> for this,  **ALWAYS USE OUTPUT**
