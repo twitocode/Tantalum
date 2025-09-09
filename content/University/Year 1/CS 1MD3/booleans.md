@@ -40,18 +40,20 @@ b = not a  = False
 b = b and a = False
 
 a or True
+-> True
 
 a or False
 -> a
 
 a and True
--> True
+-> a
 
 a and False 
--> a
+-> False
 
 a or (not a)
 -> True
+
 a and (not a)
 -> False
 ```
