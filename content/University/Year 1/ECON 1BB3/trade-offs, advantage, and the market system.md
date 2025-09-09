@@ -35,6 +35,7 @@ equity is not a big part of the market - government does not have to do anything
 	- 
 ![[Pasted image 20250909125605.png]]	  
 improved machine producing tech = 
+![[Pasted image 20250909125817.png]]
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
