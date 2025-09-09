@@ -67,7 +67,9 @@ a and (not a)
 -> error
 
 6 > 5 or 12 / 0 > 1
--> True #if the first condition is true then python does not waste time evaluating the second one in an or statement
+-> True #if the first condition is true then python does not waste time evaluating the second one in an or statement.
+
+#this is known as short circuit evaluation
 ```
 And is always false unless both are true
 Or is always true unless both are false
