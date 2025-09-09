@@ -50,3 +50,9 @@ improved machine producing tech =
 ![[Pasted image 20250909130138.png]]
 
 comparative advantage
+
+|         | cheese (labour hours per unit) | bread (labour hours per unit) |
+| ------- | ------------------------------ | ----------------------------- |
+| england | 1                              | 4                             |
+| spain   | 2                              | 8                             |
+england will import bread and spain will import cheese
