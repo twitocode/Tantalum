@@ -14,7 +14,11 @@ class: CS 1JC3
 - Int is like int in other languages
 	- Integer represents all integers that can fit on memory, not just 32bit
 - stop focusing on the future
-
+- Haskell curry was one of the peopole helping the ground for logic and computing in the 20th century
+  
+  - Church - lambda calculus
+  - Turing - turning machine
+  - Curry - combinatory logic
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
