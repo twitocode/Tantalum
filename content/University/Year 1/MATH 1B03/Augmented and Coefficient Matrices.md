@@ -74,17 +74,16 @@ $$
 $$
 - zeroes are above and below the pivot
 - **The pivot points MUST BE 1**
-
 $$
 \begin{bmatrix}
-0 & 1 & * & * & * & * & * & * & * & * \\
-0 & 0 & 0 & 1 & * & * & * & * & * & * \\
-0 & 0 & 0 & 0 & 1 & * & * & * & * & * \\
-0 & 0 & 0 & 0 & 0 & 1 & * & * & * & * \\
-0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & *
+0 & 1 & * & 0 & 0 & 0 & * & * & 0 & * \\
+0 & 0 & 0 & 1 & 0 & 0 & * & * & 0 & * \\
+0 & 0 & 0 & 0 & 1 & 0 & * & * & 0 & * \\
+0 & 0 & 0 & 0 & 0 & 1 & * & * & 0 & * \\
+0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & * \\
 \end{bmatrix}
 $$
-
+this is also reduced row echelon form
 # Infinite many solutions
 take this example in reduced row echelon form
 
