@@ -19,6 +19,7 @@ class: CS 1JC3
   - Church - lambda calculus
   - Turing - turning machine
   - Curry - combinatory logic
+  - Church-turing thesis - we believe what computation is something like that 
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
