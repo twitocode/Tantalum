@@ -26,14 +26,13 @@ professor: William Farmer
 	    	8. Use *Haskell* as a problem-solving tool
 
 ## Resources
-- Syllabus:  
 - Textbook(s): 
 	- Paul S. Wang, From Computing to Computational Thinking  [abbreviated CCT], Chapman and Hall/CRC, 2015. ISBN-13: 978-
 	- Simon Thompson, Haskell: The Craft of Functional Programming (3rd Edition) [abbreviated HCFP], Addison-Wesley, 2011.  ISBN-13: 978-0201882957.
 	- Learn You a Haskell for Great Good! *optional not really needed*
 - Online Resources:  
 	- Haskell stuff: [Stack](https://docs.haskellstack.org/en/stable/)
-- GitHub/Class Repo:  
+
 
 ## Marking Scheme
 | Component                                             | Weight   |
