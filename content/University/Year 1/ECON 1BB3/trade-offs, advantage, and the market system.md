@@ -19,7 +19,8 @@ protection of property ights is essential for a market economy to function somot
 - why would i build a factory on my land if the system will not proetect it?
 - why should i do x to get y
 
-
+ecocnomics  is about hwo people deal with scarce resources and goals
+equity is not a big part of the market - government does not have to do anything about it
 
 ## Key Terms
 - Term 1: Definition
