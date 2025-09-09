@@ -9,11 +9,13 @@ class: ECON 1BB3
 - Main objectives:
 
 ## Notes
-- market is agroup of buyers and sellers
+- market is a group of buyers and sellers
 	- type1 - goods and services market
 		- firm sellling services to you
 	- type2 - labour market
 		- selling the services of your labour to a firm
+"freer" markets = higher living standards
+protection of property rights is essential for a market economy to function somothly and succesffully 
 
 ## Key Terms
 - Term 1: Definition
