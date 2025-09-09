@@ -56,6 +56,13 @@ a or (not a)
 
 a and (not a)
 -> False
+
+12/0
+-> error
+
+3 + 4 > 6 or 3 -2 > 10
+-> True or False
+-> True
 ```
 And is always false unless both are true
 Or is always true unless both are false
