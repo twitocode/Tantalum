@@ -33,10 +33,10 @@
 		{"id":"e867b30e0416e770","type":"file","file":"Assets/Pasted image 20250314191944.png","x":-110,"y":-2825,"width":642,"height":403},
 		{"id":"b1d55dd20488dca1","type":"text","text":"# Frontend\n- Svelte\n- shadcn-svelte \n\t- mixed with a little bit of daisy-ui when needed\n- TailwindCSS\n- classnames for components?\n- Tanstack Query???\n- unplugin-icons\n- Superforms or Formsnap??\n- Neodrag - dragging items\n- localization??? **later**\n- Authenticaiton done on frontend","x":-1200,"y":-580,"width":470,"height":450,"color":"1"},
 		{"id":"36296ca78249ebcc","type":"text","text":"# Backend\nResource Server\nAuth done on the sveltekit server for ease of development\n\n## Requirements\n- No advanced CQRS Methods\n- Monolithic\n- Authentication\n    - JWT\n    - OAuth2 Login\n    - Email & Password\n## Stack\n- ASP.net Core\n- xUnit ==later==\n- PostgreSQL\n- Entity Framework Core\n- Redis ==not needed for now==\n- Serilog\n\t- Some kind of monitoring tool?? ==overkill==\n- ","x":-1187,"y":-55,"width":445,"height":520,"color":"2"},
-		{"id":"b9ab300bdc33fee6","type":"file","file":"Assets/Pasted image 20250314191902.png","x":-658,"y":-2825,"width":538,"height":2316},
-		{"id":"b29f912130daea9f","type":"text","text":"# Serene","x":-360,"y":-280,"width":250,"height":60},
 		{"id":"88e1be4e630ca790","type":"text","text":"# Summary\nLogin page should be different from signup page\nhttps://apps.apple.com/us/app/journal-mental-health-stoic/id1312926037 - this app is a really good example\n\nLanding Page Inspo\nhttps://www.landingfolio.com/inspiration/post/riley-parenting-with-superpowers-riley","x":-515,"y":-55,"width":810,"height":555,"color":"#ffffff"},
-		{"id":"880b369ea5fa0b5a","type":"file","file":"Serene (Old).md","x":360,"y":-420,"width":400,"height":400}
+		{"id":"880b369ea5fa0b5a","type":"file","file":"Serene (Old).md","x":360,"y":-420,"width":400,"height":400},
+		{"id":"b29f912130daea9f","type":"text","text":"# Serene","x":-360,"y":-280,"width":250,"height":60},
+		{"id":"b9ab300bdc33fee6","type":"file","file":"Assets/Pasted image 20250314191902.png","x":-658,"y":-2825,"width":538,"height":2316}
 	],
 	"edges":[
 		{"id":"00a5d70851f3e65c","fromNode":"b29f912130daea9f","fromSide":"left","toNode":"b1d55dd20488dca1","toSide":"right"},

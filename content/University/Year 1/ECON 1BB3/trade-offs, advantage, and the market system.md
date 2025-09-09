@@ -15,7 +15,11 @@ class: ECON 1BB3
 	- type2 - labour market
 		- selling the services of your labour to a firm
 "freer" markets = higher living standards
-protection of property rights is essential for a market economy to function somothly and succesffully 
+protection of property ights is essential for a market economy to function somothly and succesffully 
+- why would i build a factory on my land if the system will not proetect it?
+- why should i do x to get y
+
+
 
 ## Key Terms
 - Term 1: Definition
