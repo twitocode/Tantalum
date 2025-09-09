@@ -54,6 +54,16 @@ $$
 - In this form, the numbers are not fully reduced. 
 - it is debated on whether the pivots must be 1. Machines prefer to have it as a non zero to remove rounding errors. Plus you can still solve the problem without reducing
 - 0's only have to be below the pivot
+$$
+\begin{bmatrix}
+0 & 1 & * & * & * & * & * & * & * & * \\
+0 & 0 & 0 & 1 & * & * & * & * & * & * \\
+0 & 0 & 0 & 0 & 1 & * & * & * & * & * \\
+0 & 0 & 0 & 0 & 0 & 1 & * & * & * & * \\
+0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & *
+\end{bmatrix}
+$$
+this is also in row echelon form
 ## Reduced Row Echelon
 $$
 \begin{bmatrix}
@@ -64,7 +74,16 @@ $$
 $$
 - zeroes are above and below the pivot
 - **The pivot points MUST BE 1**
-- 
+
+$$
+\begin{bmatrix}
+0 & 1 & * & * & * & * & * & * & * & * \\
+0 & 0 & 0 & 1 & * & * & * & * & * & * \\
+0 & 0 & 0 & 0 & 1 & * & * & * & * & * \\
+0 & 0 & 0 & 0 & 0 & 1 & * & * & * & * \\
+0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & *
+\end{bmatrix}
+$$
 
 # Infinite many solutions
 take this example in reduced row echelon form
