@@ -23,6 +23,11 @@ True and True = True
 False and True = False
 False and False = False
 False and True = False
+
+True or True = True
+True or False = True
+False or True = True
+False or False = False
 ```
 
 
