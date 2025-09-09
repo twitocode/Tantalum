@@ -70,12 +70,22 @@ a and (not a)
 -> True #if the first condition is true then python does not waste time evaluating the second one in an or statement.
 
 #this is known as short circuit evaluation
+
+0 and 1293123
+-> 0
+
+"asdas" or "asdasdasdsd"
+-> "asdas"
+
+"" and "asdasd"
+-> ""
 ```
 And is always false unless both are true
 Or is always true unless both are false
 
 xor - if one of the inputs is true then its good but if both are true then its false
 
+a
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
