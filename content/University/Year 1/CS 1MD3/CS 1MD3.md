@@ -13,10 +13,7 @@ professor: Vincent Maccio
 - prefers teams but will use email
 - no attendance from lectures
 - does not care about syntax on midterm and exam (oh i forgot a colon)
-- *Python*
-[## Overview
-- **Course Description:**  
-- **Learning Outcomes:**  
+- *Python*  
 
 ## Overview
 - **Calendar Description:** Introduction to fundamental programming concepts: values and types, expressions and evaluation, control flow constructs and exceptions, recursion, input/output and file processing.
