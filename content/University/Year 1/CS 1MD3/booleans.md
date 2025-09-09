@@ -29,7 +29,10 @@ True or False = True
 False or True = True
 False or False = False
 ```
+And is always false unless both are true
+Or is always true unless both are false
 
+xor - if one of the inputs is true then its good but if both are true then its false
 
 ## Key Terms
 - Term 1: Definition
