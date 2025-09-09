@@ -13,13 +13,22 @@ class: CS 1JC3
 - injective is like one to one 
 - Int is like int in other languages
 	- Integer represents all integers that can fit on memory, not just 32bit
+- stop focusing on the future
 
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
 
 ## Questions
-- 
+- What is computational thinking
+- What is computing
+- Fundamental question of computational thinking
+- Stuff about Gottfried Leibniz
+- what do computers do
+- what is a programming language
+- What is the difference between syntax and semantics?
+- What are functions
+- what is functional programming?
 
 ## Summary
 - 
