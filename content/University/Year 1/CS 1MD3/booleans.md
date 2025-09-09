@@ -10,10 +10,19 @@ class: CS 1MD3
 
 ## Notes
 ```python
-
 1 < 4 < 5 < 9 = True
 4 <= 3 = False
 and or not
+
+not False = True
+not True = False
+
+not not not not not True = False
+
+True and True = True
+False and True = False
+False and False = False
+False and True = False
 ```
 
 
