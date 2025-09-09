@@ -28,14 +28,15 @@ equity is not a big part of the market - government does not have to do anything
 		- ![[Pasted image 20250909125424.png]]
 - opportunity cost
 	- how much i need to give up to make something else
-	- mike and sandy are two woodworkes who both make tables and chairs. in 1 month, mike can make 4 tables or 20 chairs, while sand ycan make 6 tables or 24 chairs. What range of "prices" makes both parties better off?
+	- mike and sandy are two woodworkers who both make tables and chairs. in 1 month, mike can make 4 tables or 20 chairs, while sand ycan make 6 tables or 24 chairs. What range of "prices" makes both parties better off?
 		- for mike -> 
 			- 4T -> 20C
 			- 1T -> 5C (opportunity cost of it)
 		- for sandy ->
 			- 6T -> 24C
 			- 1T -> 4C (opportunity cost of it)
-			- 
+		- sandy will specalize in selling tables
+		- mike will specialize in selling tables b/c he has a higher opportunity
 		- 
 - attainable/feasible vs efficient
 - using ppf to show economic growth
