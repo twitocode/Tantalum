@@ -53,6 +53,7 @@ $$
 $$
 - In this form, the numbers are not fully reduced. 
 - it is debated on whether the pivots must be 1. Machines prefer to have it as a non zero to remove rounding errors. Plus you can still solve the problem without reducing
+- 0's only have to be below the pivot
 ## Reduced Row Echelon
 $$
 \begin{bmatrix}
@@ -61,8 +62,9 @@ $$
 \color{lime}0 &\color{lime} 0 & \color{magenta} 1 & 3
 \end{bmatrix}
 $$
-- in this form the pivot point has only zeros adjacent to them
+- zeroes are above and below the pivot
 - **The pivot points MUST BE 1**
+- 
 
 # Infinite many solutions
 take this example in reduced row echelon form
