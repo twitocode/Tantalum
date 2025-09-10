@@ -10,17 +10,17 @@ tags:
 
 **Economic models**:  simplifications of reality used to analyze real-world economic issues
 
-# people are rational
+# People are rational
 Economists think that people are rational in a sense that they will make decisions and do actions that they *believe* will make them happy
 
 People prefer benefits > cost. People dont do things to make them worse off
 
-# people respond to incentive
+# People respond to incentive
 ex. banks. our banks dont have crazy security like in the movies because the economic incentive for banks says that it is less costly to deal with the robberies than to have expensive armed security.
 
 ex. dont have to pay for healthcare? i am less incentive to be healthy so then i could become obese easier
 
-# optimal decisions are made at the margin
+# Optimal decisions are made at the margin
 Economics is also known as *marginal science* because of how economists tend to think about decision. Some decisions are "all or nothing". Some decisions involve doing a little more or a little less
 
 **Marginal**: extra or additional
@@ -51,22 +51,22 @@ when revenue brought = cost brougt, then net benefit is maximized. this kind of 
 > 2. How will the goods and services be produced?
 > 3. Who will recieve the goods and services produced? 
 
-## what goods and services will be produced?
+## What goods and services will be produced?
 Consumers, firms, and governments make these decisions and deal with scarcity by trading off one good or service for another. 
 
 Each choice made comes with an opportunity cost, measured by the value of the best alternative given up.
-## how will the good and services be produced?
+## How will the good and services be produced?
 Usually firms or governments make this decision
 Producers of goods and services face a trade-off between using more workers and using more machine
 - Firms have to decide whether to produce in Canada using few workers and many machines or produce in developing countries using many workers and fewer machines
 
-## who will receive the good and services produced?
+## Who will receive the good and services produced?
 In Canada, it is dependant on how income is distributed. 
 High income = ability to buy the most
 
 Governments use taxes to help provide income to people in need. They also use taxes to supply goods and services that are not being provided in other ways.
 
-# centrally planned vs market  vs mixed economies
+# Centrally planned vs market  vs mixed economies
 
 **Centrally Planned Economy:** An economy in which the government decides how economic resources will be allocated (ex. Soviet Union
 - not good at producing low cost (plentiful), high quality goods and services. 
@@ -148,4 +148,84 @@ Ex. Behavioural assumptions - motives of consumers and firms
 **Scientific Method** (in economics): The process of developing models, testing hypothesis, and revising models.
 
 **Positive analysis**: concerns facts or logic (**economics is about this**)
+- looks at measurable effects—such as job losses, firms’ costs and profits, and wage gains for employed workers
 **Normative analysis**: about value judgements or what ought to be, 
+- whether the policy is “good” or “bad.”
+
+**Microeconomics**: The study of how individual economic agents make choices, how these choices come together to determine what happens in a single market, and the impact of government intervention on market outcomes
+
+**Macroeconomics**: The study of the economy as a whole, usually of a country, province, or region. Focuses on inflation, unemployment, and economic growth, policy issues, and government intervention to prevent recessions.
+
+
+# some more key terms 
+
+## Production
+- The process of making goods and services.  
+- Often undertaken by **entrepreneurs**.
+
+## Entrepreneur
+- Someone who operates a business.  
+- Decides what to produce and how to produce it.  
+- Often invests their own money and takes on risk.  
+- About half of new businesses close within a few years.  
+- Essential for economic progress.
+
+## Innovation
+- **Invention**: Creation of a new good or process.  
+- **Innovation**: Practical application of an invention or a major improvement.  
+- Example:  
+  - 1945: ENIAC computer (invention).  
+  - 1981: First personal computer (innovation).  
+  - 1990s: Widespread adoption and ongoing improvements.
+
+## Technology
+- The processes a firm uses to turn inputs into outputs (goods/services).  
+- Depends on:  
+	- Managers’ skills  
+	- Workers’ education  
+	- Quality of equipment  
+
+## Firms (Company/Business)
+- An organization that produces goods or services.  
+- Usually for profit, though some are non-profit (e.g., universities).  
+- Terms **firm**, **company**, and **business** are interchangeable.
+
+## Goods
+- Tangible items people want (e.g., books, computers, clothing).
+
+## Services
+- Activities done for others (e.g., haircuts, house cleaning, banking).
+
+## Revenue
+- Total money a firm receives from selling goods/services.  
+- Formula:  $\text{Price per unit} * \text{Quantity sold}$
+
+## Profit
+- The difference between a firm’s revenue and its costs.  
+- **Accounting profit**: Excludes some costs, only considers explicit costs.  
+- **Economic profit**: Includes all costs, including opportunity costs.  
+- In economics, *profit* usually means **economic profit**.  
+- ⚠️ Don’t confuse profit with revenue!
+
+## Household
+- Consists of all people making joint decisions in a home.  
+- Roles:  
+	- Supply factors of production (especially labour).  
+	- Consume goods and services produced in the economy.
+
+## Factors of Production (Economic Resources)
+Firms use these to produce goods and services:
+- **Labour**
+- **Capital**
+- **Natural resources** (including land)
+- **Entrepreneurial ability**
+Households earn income by supplying these factors.
+
+## Capital
+- **Financial capital**: Stocks, bonds, bank accounts, money.  
+- **Physical capital** (the usual meaning in economics): Manufactured goods used to make other goods (e.g., computers, factories, tools, trucks).  
+- **Capital stock**: Total physical capital in a country.
+
+## Human Capital
+- Training, skills, and knowledge accumulated by individuals.  
+- Example: University graduates generally have higher human capital than high school graduates.
