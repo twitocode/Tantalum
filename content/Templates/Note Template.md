@@ -1,6 +1,7 @@
 ---
 CreatedAt: <% tp.file.creation_date("YYYY-MM-DD") %>
-MOC: "[[]]"
-tags: 
+class:
+tags:
+  - "#classnote"
 aliases:
 ---
