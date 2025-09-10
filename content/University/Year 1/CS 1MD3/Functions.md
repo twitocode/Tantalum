@@ -4,19 +4,10 @@ tags:
   - lecture
 class: CS 1MD3
 ---
-## Overview
-- Topic:
-- Main objectives:
+```python
+def my_function(x,y ):
+  return x+ y;
 
-## Notes
-- 
-
-## Key Terms
-- Term 1: Definition
-- Term 2: Definition
-
-## Questions
-- 
-
-## Summary
-- 
+a = my_function()
+print(a)
+```
