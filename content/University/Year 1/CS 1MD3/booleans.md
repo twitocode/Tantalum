@@ -28,6 +28,7 @@ True or False = True
 False or True = True
 False or False = False
 
+#and has a higher priority than or
 #XOR in python != behaves the exact same way
 True != True = False
 True != False = True
