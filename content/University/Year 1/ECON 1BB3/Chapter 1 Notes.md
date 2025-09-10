@@ -17,3 +17,5 @@ People prefer benefits > cost. People dont do things to make them worse off
 
 # people respond to incentive
 ex. banks. our banks dont have crazy security like in the movies because the economic incentive for banks says that it is less costly to deal with the robberies than to have expensive armed security.
+
+ex. dont have to pay for healthcare? i am less incentive to be healthy so then i could become obese easier
