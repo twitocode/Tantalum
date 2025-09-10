@@ -66,7 +66,7 @@ High income = ability to buy the most
 
 Governments use taxes to help provide income to people in need. They also use taxes to supply goods and services that are not being provided in other ways.
 
-# centrally planned economies vs market economies
+# centrally planned vs market  vs mixed economies
 
 **Centrally Planned Economy:** An economy in which the government decides how economic resources will be allocated (ex. Soviet Union
 - not good at producing low cost (plentiful), high quality goods and services. 
@@ -75,6 +75,77 @@ Governments use taxes to help provide income to people in need. They also use ta
 	- always leads to collapse
 
 **Market Economy**: An economy which relies on privately owned firms to produce goods and services and to decide how to produce them.
+- **Market**: all potential buyers and sellers of a good or service as well as the rules that determine how buyer and sellers interact
+- Firms must produce what people want or else they go out of business. 
+- All trades must be agreed to by all the people involved. 
+- People's income is determines by what they have to sell (goods, labour, services)
+- **Directly awards people's hard work**
+- **Decision making is shared by everyone in the market**
+- Luck is a large factor
 
-**Market**: all potential buyers and sellers of a good or service as well as the rules that determine how buyer and sellers interact
-- Pr
+**Mixed Economy**: An economy in which most economic decisions result from the i**nteraction of buyers and sellers in markets**, but in which **the government plays a significant role** in the allocation of resources.
+- In Canada, most of the things you buy are produced by privately owned firms in response to the demands of consumers: 
+- Other goods and services are provided by the government, such as roads, national defence, and health care.
+
+
+# Efficiency vs Equity
+Market economies are more efficient than centrally planned economies
+
+**Productive Efficiency**: occurs when a good or service is produced at the lowest possible cost.
+
+**Allocative Efficiency**: occurs when a country’s resources are used to produce the mix of goods and services that consumers want.
+
+**Voluntary Exchange**: A situation that occurs in markets when both the buyer and seller of a product are made better off by the transaction.
+
+Markets tend to be efficient because they rely on *voluntary exchange*. The voluntary nature of the exchange promotes competition that encourages producers to find cheaper ways to make good and services that they want to sell (customers want to pay less)
+- leads to productive efficiency - can't compete? go out of business
+	- competition promotes allocative efficiency
+		- A firm that uses scarce resources to produce goods and services that consumers don’t want to buy goes out of business.
+
+**Markets and competition promote efficiency but dont guarantee it** 
+R&D costs, environmental damage, etc. Governments can intervene and increase efficiency. 
+
+**Equity**: The fair distribution of economic benefits
+Many people prefer equity because then governments can tax the richer to help provide for those who need the money; produces a more equal distribution of economic benefits. 
+- This may reduce efficiency 
+
+
+> [!NOTE] Title
+> People have less incentive to open new businesses, to supply labour, and to save if the government takes a significant amount of the income they earn from working or saving.
+
+
+# Economic Models
+**Economic models**: simplified representations of reality used by economists to analyze complex real-world issues. 
+- They help in understanding interactions between different economic variables, such as prices, wages, and consumer behaviour.
+
+Examples
+**“How much will you be paying for a cup of coffee?**
+Models to consider:
+- they may use a model of how wages are determined to analyze the flexibility different firms have in their cost structures. 
+- They may use another model to consider how people will change their purchasing patterns. 
+- Yet another model might be used to explore how growers will react to a change in the price of raw coffee. 
+
+## Steps to making a model
+1. Decide on the assumptions to use in developing the model.
+2. Formulate a testable hypothesis.
+3. Use economic data to test the hypothesis.
+4. Revise the model if it fails to explain the economic data well.
+5. Retain the revised model to help answer similar economic questions in the future.
+
+## Assumptions
+Economic models must be simple so we make assumptions
+Ex. Behavioural assumptions - motives of consumers and firms
+- Economists assume consumers will buy the goods and services that make them most happy
+- Assume firms will maximize profits
+
+**Economic Variable**: something measurable, like wages. 
+
+**Hypothesis**: a statement about an economic variable that may be either correct or incorrect (mainly a prediction)
+- ex. favourable weather in Brazil will decrease the price of coffee in Canada
+- **They must be tested first.** To test a hypothesis, we analyze statistics on the relevant economic variables (ex. get data on coffee prices and other variables).
+- Note that hypotheses must be statements that could, in fact, turn out to be incorrect. Statements such as “high coffee prices are bad” or “high wages for baristas are good” are value judgments rather than hypotheses because there is no way to disprove them.
+
+**Scientific Method** (in economics): The process of developing models, testing hypothesis, and revising models.
+
+**Positive analysis**: concerns facts or logic (**economics is about this**)
+**Normative analysis**: about value judgements or what ought to be, 
