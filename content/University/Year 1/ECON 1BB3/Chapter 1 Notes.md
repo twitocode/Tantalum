@@ -51,10 +51,30 @@ when revenue brought = cost brougt, then net benefit is maximized. this kind of 
 > 2. How will the goods and services be produced?
 > 3. Who will recieve the goods and services produced? 
 
-# what goods and services will be produced?
+## what goods and services will be produced?
 Consumers, firms, and governments make these decisions and deal with scarcity by trading off one good or service for another. 
 
 Each choice made comes with an opportunity cost, measured by the value of the best alternative given up.
-# how will the good and services be produced?
+## how will the good and services be produced?
 Usually firms or governments make this decision
 Producers of goods and services face a trade-off between using more workers and using more machine
+- Firms have to decide whether to produce in Canada using few workers and many machines or produce in developing countries using many workers and fewer machines
+
+## who will receive the good and services produced?
+In Canada, it is dependant on how income is distributed. 
+High income = ability to buy the most
+
+Governments use taxes to help provide income to people in need. They also use taxes to supply goods and services that are not being provided in other ways.
+
+# centrally planned economies vs market economies
+
+**Centrally Planned Economy:** An economy in which the government decides how economic resources will be allocated (ex. Soviet Union
+- not good at producing low cost (plentiful), high quality goods and services. 
+	- the material standard of living for the average person was low.
+- have all been dictatorships
+	- always leads to collapse
+
+**Market Economy**: An economy which relies on privately owned firms to produce goods and services and to decide how to produce them.
+
+**Market**: all potential buyers and sellers of a good or service as well as the rules that determine how buyer and sellers interact
+- Pr
