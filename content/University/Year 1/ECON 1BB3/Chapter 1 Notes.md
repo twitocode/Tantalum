@@ -21,3 +21,32 @@ ex. banks. our banks dont have crazy security like in the movies because the eco
 ex. dont have to pay for healthcare? i am less incentive to be healthy so then i could become obese easier
 
 # optimal decisions are made at the margin
+Economics is also known as *marginal science* because of how economists tend to think about decision. Some decisions are "all or nothing". Some decisions involve doing a little more or a little less
+
+**Marginal**: extra or additional
+
+Study or Netflix?
+**Marginal Benefit**: watching another hour
+**Marginal Cost:** lower grade from not studying
+
+**Net Benefit**: benefit - cost
+If you want a big net benefit then Marginal Benefit > Marginal Cost
+getting as much net benefit as possible means that MB = MC
+
+a company maximizes their profits when their producing a product brings more revenue (MB) than costs (MC)
+when revenue brought = cost brougt, then net benefit is maximized. this kind of thinking is called *marginal analysis*
+
+**Marginal Analysis**: analysis that involved comparing marginal benefits and marginal costs
+
+**Trade-offs**: doing more of one thing means that we have to do less of something else
+
+**Opportunity cost**: the value of what we give up to engage in an activity. For something (like a good or service), it is the value of the next best alternative. 
+- ex. opportunity cost of studying could be watching tv instead
+- ex. I make $80k a year but i want to start a business, the opportunity cost of starting the business is the $80k i will lose out on (*does not matter if i make $80k in the business*)
+
+
+> [!NOTE] Title
+> # Fundamental economic Questions
+> 1. What goods and services will be produced?
+> 2. How will the goods and services be produced?
+> 3. Who will recieve the goods and services produced? 
