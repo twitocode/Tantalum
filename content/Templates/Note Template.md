@@ -1,6 +1,6 @@
 ---
 CreatedAt: <% tp.file.creation_date("YYYY-MM-DD") %>
-class:
+class: <% tp.file.folder() %>
 tags:
   - "#classnote"
 ---
