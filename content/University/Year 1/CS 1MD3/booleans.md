@@ -110,10 +110,10 @@ a and (not b) or (not a) or b
 def get(a, b):
   return not((a or b) and not (b or not a or not b))
 
-print(get(True, True))
-print(get(True, False))
-print(get(False, True))
-print(get(False, False))
+print(get(True, True)) #true
+print(get(True, False)) #true
+print(get(False, True)) #true
+print(get(False, False)) #true
 
 #ignore everything above this
 not((a or b) and not ((b or (not a)) or (not b)))
