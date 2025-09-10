@@ -78,6 +78,12 @@ a and (not a)
 -> "asdas"
 
 "" and "asdasd"
+
+def veryLongFunction() -> bool:
+	pass
+	
+veryLongFunction() or 10 > 4 #this will take forever to run
+10 > 4 or veryLongFunction() #this will take 1.0ns to run
 -> ""
 ```
 And is always false unless both are true
