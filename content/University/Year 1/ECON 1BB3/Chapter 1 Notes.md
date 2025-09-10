@@ -50,3 +50,11 @@ when revenue brought = cost brougt, then net benefit is maximized. this kind of 
 > 1. What goods and services will be produced?
 > 2. How will the goods and services be produced?
 > 3. Who will recieve the goods and services produced? 
+
+# what goods and services will be produced?
+Consumers, firms, and governments make these decisions and deal with scarcity by trading off one good or service for another. 
+
+Each choice made comes with an opportunity cost, measured by the value of the best alternative given up.
+# how will the good and services be produced?
+Usually firms or governments make this decision
+Producers of goods and services face a trade-off between using more workers and using more machine
