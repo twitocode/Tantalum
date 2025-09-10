@@ -86,6 +86,44 @@ def veryLongFunction() -> bool:
 veryLongFunction() or 10 > 4 #this will take forever to run
 10 > 4 or veryLongFunction() #this will take 1.0ns to run
 -> ""
+
+"""
+priority of boolean operations
+()
+not
+and
+or
+"""
+a = True
+
+a or True = True
+a or False = True
+a and True= True
+a and False = False
+a or (not a) = True
+a and (not a) = False
+
+#complete order of operations
+a and (not b) or (not a) or b
+
+#for what values or "a" and "b" is the following False/True
+def get(a, b):
+  return not((a or b) and not (b or not a or not b))
+
+print(get(True, True))
+print(get(True, False))
+print(get(False, True))
+print(get(False, False))
+
+#ignore everything above this
+not((a or b) and not ((b or (not a)) or (not b)))
+not((a or b) and not (True))
+not((a or b) and False)
+not(False)
+True
+
+#no matter it will always be true
+#tautaology always evaluates to true, contradictions always evaluate to false
 ```
 And is always false unless both are true
 Or is always true unless both are false
