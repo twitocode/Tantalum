@@ -23,4 +23,6 @@ ga eplay vs cinematic:
 
 tech artists
 - interacting with the programming and "art" teamsto bridge the gap between them
-- 
+- 3ds max
+- houdini
+- making cusotm plugins
