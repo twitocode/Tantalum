@@ -166,3 +166,26 @@ There are two groups of people that participate in markets:
 Used to see how participants in a market are linked. 
 
 ![[Pasted image 20250910215459.png]]
+The blue arrow shows the flow of the factors of production.
+The red arrows show the flow of goods and services from firms to households.
+The green arrows shows the flow of funds.
+
+# The gains from Free Markets
+**Free Market**: exists when the government places few restrictions on how goods or services can be produced or sold, on who can buy or sell goods or services, or on how factors of production can be employed.
+- doesnt really exist but canada comes close
+- Countries that come closest to the free-market benchmark have much higher standards of living than those with centrally planned economies.
+
+# The Legal Basis of a Successful Market System
+Government must take active steps to provide a legal environment that will allow the market system to succeed.
+
+## Protection of Private Property
+For the market system to work well, individuals must be willing to take risks. Someone with $250 000 can be cautious and keep it safely in a bank—or even as cash. *But the market system won’t work unless a lot of people are willing to risk their savings by investing them in businesses.*
+
+**Property Rights**: the rights individuals or firms have to the exclusive use of their property, including the right to buy or sell it. 
+
+
+## Enforcement of Contracts and Property Rights
+Business activity often involves someone agreeing to carry out some action in the future. 
+- For example, you borrow $20 000 to buy a car and promise the bank—by signing a loan contract—that you will pay back the money (with interest) over the next five years.
+
+For the market system to work, businesses and individuals have to rely on these contracts being honoured. If one party to a legal contract does not fulfill its obligations, the other party to the contract can take the other party to court to have the deal enforced.
