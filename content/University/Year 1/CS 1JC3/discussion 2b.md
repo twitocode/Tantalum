@@ -29,6 +29,31 @@ class: CS 1JC3
 	- We need a deep understanding of computing and we need to be learning everyday.
 	- theres entrepeneurship 
 		- hey this thing is good show it to manager, then manager say you should lead team in making it and show it to all department heads in the company.
+- Paradoxes
+	- Liar's paradox
+		- sentence has to be true or false
+		- A is equal to not A $A\equiv \neg A$
+	- Curry's paradox
+		- $A \equiv A \implies B$
+		- if this sentence is true, then B is true
+			- suppose its true, then that means then $A \implies B$
+				- this is an implication, which cant be true
+				- huhhhh?????? 
+			- conclusion -> the sentence can only be true
+		- self reference
+	- Russel's paradox
+		- $R=\{ x \set \text{is a set} | x \notin x \}$re out what is wrong
+			- a set that does not contain itself
+			- if no set contains it self then its the set of all sets that does not contain itself
+			- assume $R \in R \implies R \notin R$, then $R \notin R \implies R \in R$ but that makes no sense
+		- MOST IMPORTANT
+			- so siple but hard to figu
+	- Crisis in math - lead to the foundations of computing
+	- propositional logic
+	- ![[Pasted image 20250911090608.png]]
+		- boolean algebra is the algebra of propositional logic
+- 
+
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
