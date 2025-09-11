@@ -122,6 +122,9 @@ Specialization and trade let both you and your neighbour consume outside your ow
 **Absolute Advantage**: the ability of an individual, a firm, or a country *to produce more of a good or service than potential trading partners*, using the same amount of resources.
 - In the example, the neighbour has an absolute advantage
 
+> [!NOTE]
+>  producing "more of a good or service... using the same amount of resources" is the same concept as producing the same amount of a good or service using fewer resources.
+
 **Comparative Advantage**: the ability of an individual, a firm, or a country to produce a good or service *at a lower opportunity cost than potential trading partners*. **It is the basis for trade**
 
 Why do we both benefit?
