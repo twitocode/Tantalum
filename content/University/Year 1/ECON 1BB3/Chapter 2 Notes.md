@@ -66,7 +66,7 @@ Produce more cars <=> Producing less Machines
 
 **Shifts in the PPF represent economic growth because they allow the economy to increase the production of goods and services, which raises the standard of living**
 
-# Comparative Advantage and Trade
+# Trade
 **Trade**: the act of buying and selling
 - Markets are fundamentally about trade
 - Directly - toys for games
@@ -113,3 +113,31 @@ I may not be able to pick apples and cherries as good as my neighbour, **but we 
 	- After trade:
 		- You: 10 apples + 15 cherries (better off: more of both).
 		- Neighbour: 10 apples + 45 cherries (better off: more of both).
+
+Specialization and trade let both you and your neighbour consume outside your own PPFs (Points B and D), **meaning you both enjoy more apples and cherries than you could without trade.** This illustrates the classic economic principle that comparative advantage and trade create mutual gains.
+
+![[Pasted image 20250910213003.png]]
+# Comparative Advantage vs Absolute Advantage
+**Absolute Advantage**: the ability of an individual, a firm, or a country *to produce more of a good or service than potential trading partners*, using the same amount of resources.
+- In the example, the neighbour has an absolute advantage
+
+**Comparative Advantage**: the ability of an individual, a firm, or a country to produce a good or service *at a lower opportunity cost than potential trading partners*.
+
+Why do we both benefit?
+- my PPF indicates that my opportunity cost of picking 1 kilogram of cherries is 1 kilogram of apples, vice versa.
+- My neighbour's opportunity cost of **picking cherries is 0.5 kilogram of apples per kilogram of cherries**
+	- If they were going the other way, shifting time from picking cherries to picking apples, **they would have to give up 2 kilograms of cherries in order to pick 1 kilogram of apples**
+- Opportunity cost of picking apples is greater than picking cherries so the neighbour would rather make more cherries and trade for apples.
+	- **The opportunity cost of picking apples is higher for my neighbour than for me**
+	- **Even though they have an absolute advantage in picking both apples and cherries, you have a comparative advantage in picking apples**
+		- *my neighbour still has the absolute and comparative advantage of picking cherries*
+
+![[Pasted image 20250910213720.png]]
+
+Determining whether a specific trade will lead to gains requires that we know the **exchange ratio**—in this case, the number of kilograms of cherries you would get for each kilogram of apples (or, more often, a price in terms of dollars)
+
+
+> [!IMPORTANT] Title
+> It is possible to have an absolute advantage in producing something without having a comparative advantage. This is the case with your neighbour and picking apples.
+> 
+> It is possible to have a comparative advantage without having an absolute advantage. In our example, you have the comparative advantage in picking apples, even though your neighbour can pick more than you.
