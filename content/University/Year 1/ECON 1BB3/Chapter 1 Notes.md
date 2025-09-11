@@ -68,9 +68,10 @@ Governments use taxes to help provide income to people in need. They also use ta
 
 # Centrally planned vs market  vs mixed economies
 
-**Centrally Planned Economy:** An economy in which the government decides how economic resources will be allocated (ex. Soviet Union
+**Centrally Planned Economy:** An economy in which the government decides how economic resources will be allocated (ex. Soviet Union)
 - not good at producing low cost (plentiful), high quality goods and services. 
 	- the material standard of living for the average person was low.
+- **The incentive to work hard is not there compared to market economies**
 - have all been dictatorships
 	- always leads to collapse
 
@@ -112,6 +113,8 @@ Many people prefer equity because then governments can tax the richer to help pr
 
 > [!NOTE] Title
 > People have less incentive to open new businesses, to supply labour, and to save if the government takes a significant amount of the income they earn from working or saving.
+> ___
+> **Market economies are more efficient while centrally planned economies are more equitable**
 
 
 # Economic Models
