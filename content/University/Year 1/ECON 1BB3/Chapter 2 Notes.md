@@ -25,6 +25,7 @@ All the combinations on the frontier (such as A, B, C, D, and E) or inside it (s
 
 **Firms would like to be beyond the frontier**—at a point like G, where it would be producing 600 sedans and 500 pickups.
 - *points outside the PPF are unattainable with the workers, equipment, materials, and technology currently in use*. To be able to produce 600 sedans and 500 pickups, **Tesla would require more resources.**
+- **trade can help a country consume beyond the PPF, but not PRODUCE beyond its PPF**
 
 
 > [!Important] Content
