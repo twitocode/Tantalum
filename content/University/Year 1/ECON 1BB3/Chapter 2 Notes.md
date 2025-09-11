@@ -163,3 +163,6 @@ There are two groups of people that participate in markets:
 
 
 ## Circular-flow diagram
+Used to see how participants in a market are linked. 
+
+![[Pasted image 20250910215459.png]]
