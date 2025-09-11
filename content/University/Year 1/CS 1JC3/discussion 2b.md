@@ -24,12 +24,19 @@ class: CS 1JC3
 		- yes or no
 	- there are some that cannot be solved by computers
 	- turning and church showed that they do exist and gave examples
+- 
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
 
 ## Questions
-- 
+1. How can a decision problem be undecidable?
+2. What are infinitesimals and why are they useful?
+3. What is proof by induction?
+4. What are G ̈odel’s incompleteness theorems?
+	- there are some facts about natural numbers that we cannot derive
+5. Where is art in computing?
+6. How can an n-ary function be represented as a unary function?
 
 ## Summary
 - 
