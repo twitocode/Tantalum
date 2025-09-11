@@ -42,4 +42,38 @@ This is a curved PPF, not a 1:1 linear relationship.
 As the economy moves down the PPF, it experiences increasing marginal opportunity costs. Marginal opportunity costs increase because some workers, machines, and other resources are *better suited to some uses than to others.*
 
 To move from point A to point B, the resources best suited to producing cars (and worst suited to performing operations) are shifted to car production.
-The result is a large gain in cars made while giving up few operations.
+*The result is a large gain in cars made while giving up few operations.*
+
+ **Economists generally think that PPFs are bowed outward** (as in this example) rather than linear (as in the Tesla example earlier in the chapter).
+ 
+## Diminishing Returns (not in textbook just my definition)
+> [!error] Title
+> The more resources already devoted to an activity, the smaller the payoff to devoting additional resources to that activity.
+
+For example, the more hours you have already spent studying economics, the smaller the increase in your test grade from each additional hour you spend studying—and the greater the opportunity cost of using the hour in that way.
+
+# Economic Growth
+At any given time, the total resources available to an economy are fixed.
+Produce more cars <=> Producing less Machines
+
+**Over time the resources available to an economy may increase.** 
+![[Pasted image 20250910211404.png]]
+- Panel (a) shows that as more *economic resources become available and technological change occurs*, the economy can move from point A to point B, performing more operations and producing more cars. 
+	- Increase Tech & Resources -> Increase Operations and Cars
+- Panel (b) shows the results of technological change in the automobile industry that increases the quantity of cars workers can produce per year while leaving unchanged the maximum quantity of operations that can be performed. Shifts in the PPF represent economic growth.
+	- Increase Tech -> Increase Cars and Keep Operations the same
+		- **Making workers more efficient**
+
+**Shifts in the PPF represent economic growth because they allow the economy to increase the production of goods and services, which raises the standard of living**
+
+# Comparative Advantage and Trade
+**Trade**: the act of buying and selling
+- Markets are fundamentally about trade
+- Directly - toys for games
+- Indirectly - labour for money
+
+![[Pasted image 20250910212055.png]]
+
+I may not be able to pick apples and cherries as good as my neighbour, **but we both can still benefit from trading**. 
+
+![[Pasted image 20250910212228.png]]
