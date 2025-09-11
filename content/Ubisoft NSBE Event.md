@@ -10,4 +10,17 @@ programming teams
 vfx teams
 technical animator does programming and animation together
 qa testeres.
+tech artsits 
 
+vfx makes sure that stuff looks proper, the artist needs ot make sure that the scene is looks like how it should be played. and how the diredctors want it to look like. 
+
+ga eplay vs cinematic:
+- cinmeatic
+	- more finessed, you can see heatwaves of an explosion
+	- sequenced animation
+- gamplay
+	- not as heavy computationally
+
+tech artists
+- interacting with the programming and "art" teamsto bridge the gap between them
+- 
