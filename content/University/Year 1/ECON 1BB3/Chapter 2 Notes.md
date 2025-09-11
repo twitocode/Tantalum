@@ -141,3 +141,25 @@ Determining whether a specific trade will lead to gains requires that we know th
 > It is possible to have an absolute advantage in producing something without having a comparative advantage. This is the case with your neighbour and picking apples.
 > 
 > It is possible to have a comparative advantage without having an absolute advantage. In our example, you have the comparative advantage in picking apples, even though your neighbour can pick more than you.
+
+# The Market System
+There are physical markets like a grocery store, or virtual places like Amazon
+In a market, the buyers are the people who demand goods or services (consumers), and the sellers are the people willing to provide them (suppliers).
+
+**Product Markets**: markets for goods, such as computers, or services, such as haircuts.
+- Households demand the good and services supplied by firms
+
+**Factor Markets**: markets for the *factors of production (chapter 1)* and are divided into 4 categories:
+	1.  Labour - all types of work
+	2. Capital - physical capital (computers, machines, buildings, etc) that are used to make other goods
+	3. Natural Resources - land, water, ore, etc, that are used in producing goods
+	4. **Entrepreneurial Ability** - the ability to successfully produce and sell goods and services.
+
+There are two groups of people that participate in markets:
+- Households 
+	- The owners and suppliers of factors of production, employed by firms to make goods and services. *Households use the income they receive from selling their factors of production to purchase the goods and services produced by firms.*
+	- **Households also own all the other factors of production, either directly or indirectly, by owning the firms that have these resources. All firms are owned by households.**
+- Firms are suppliers of goods and services. Firms use the funds they receive from selling goods and services to buy the factors of production needed to make the goods and services they sell.
+
+
+## Circular-flow diagram
