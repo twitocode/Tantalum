@@ -45,3 +45,6 @@ know whst the job is and what it means for the end user and make your portfolio 
 
 side projects and gamejams and havkathons
 tailor your resume to the job
+
+it is better to make multiple small projects than to make big projects
+compound your learning on one project to the other
