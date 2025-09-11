@@ -38,3 +38,5 @@ know more tools. so that you can adapt to knew tools
 GDC on youtube 
 research papers 
 - for things like physics and realism
+
+scope creep is a very big problem
