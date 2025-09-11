@@ -121,7 +121,7 @@ Specialization and trade let both you and your neighbour consume outside your ow
 **Absolute Advantage**: the ability of an individual, a firm, or a country *to produce more of a good or service than potential trading partners*, using the same amount of resources.
 - In the example, the neighbour has an absolute advantage
 
-**Comparative Advantage**: the ability of an individual, a firm, or a country to produce a good or service *at a lower opportunity cost than potential trading partners*.
+**Comparative Advantage**: the ability of an individual, a firm, or a country to produce a good or service *at a lower opportunity cost than potential trading partners*. **It is the basis for trade**
 
 Why do we both benefit?
 - my PPF indicates that my opportunity cost of picking 1 kilogram of cherries is 1 kilogram of apples, vice versa.
