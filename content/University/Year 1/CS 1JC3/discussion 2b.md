@@ -26,6 +26,9 @@ class: CS 1JC3
 	- turning and church showed that they do exist and gave examples
 - bifficus of the future
 	- focused on getting the answer instead of the understanding
+	- We need a deep understanding of computing and we need to be learning everyday.
+	- theres entrepeneurship 
+		- hey this thing is good show it to manager, then manager say you should lead team in making it and show it to all department heads in the company.
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
