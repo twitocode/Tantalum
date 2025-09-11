@@ -30,3 +30,6 @@ tech artists
 
 
 UBISOFT NEXT COPNFERENCE 
+
+communication is very important.
+watch and go to game dev conferences
