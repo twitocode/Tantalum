@@ -40,7 +40,7 @@ when revenue brought = cost brougt, then net benefit is maximized. this kind of 
 
 **Trade-offs**: doing more of one thing means that we have to do less of something else
 
-**Opportunity cost**: the value of what we give up to engage in an activity. For something (like a good or service), it is the value of the next best alternative. 
+**Opportunity cost**: the value of what we give up to engage in an activity. For something (like a good or service), it is the value of the next best alternative. (**IF THERE ARE MULTIPLE ALTERNATIVES, THEN THE HIGHESET VALUE IS THE OPPORTUNITY COST**)
 - ex. opportunity cost of studying could be watching tv instead
 - ex. I make $80k a year but i want to start a business, the opportunity cost of starting the business is the $80k i will lose out on (*does not matter if i make $80k in the business*)
 
