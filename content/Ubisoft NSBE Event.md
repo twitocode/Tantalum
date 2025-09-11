@@ -33,3 +33,4 @@ UBISOFT NEXT COPNFERENCE
 
 communication is very important.
 watch and go to game dev conferences
+know more tools. so that you can adapt to knew tools
