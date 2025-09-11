@@ -50,6 +50,15 @@ class: CS 1JC3
 			- so siple but hard to figu
 	- Crisis in math - lead to the foundations of computing
 	- propositional logic
+	- value is has a representation in memoru
+	- expression is a sequence of symbols that has a meaning and that meaning is value. by itself it is jsut syntax
+		- **expressions do not use values**. but parts of it denote values
+			- 2 "blank" + "blank" 3, the whitespace is also a symbol, 2 is a symbol, 3 is a symbol
+				- syntax that has semantics (what it denotes)
+				- syntax - how it looks
+				- semantics - meaning
+				- 2 is a numerial (syntax) whose value is a number (semantics)
+	- 
 	- ![[Pasted image 20250911090608.png]]
 		- boolean algebra is the algebra of propositional logic
 - 
