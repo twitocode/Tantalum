@@ -77,3 +77,39 @@ Produce more cars <=> Producing less Machines
 I may not be able to pick apples and cherries as good as my neighbour, **but we both can still benefit from trading**. 
 
 ![[Pasted image 20250910212228.png]]
+
+1. Without Trade
+	- You (Panel a):
+		- Choose to produce and consume 8 kg apples + 12 kg cherries (Point A).
+	- Neighbour (Panel b):	
+		- Produces and consumes 9 kg apples + 42 kg cherries (Point C).
+
+**Here, both of you are producing a mix of apples and cherries for yourselves.**
+
+2. Specialization
+	- If you specialize in apples, you can produce 20 kg apples.
+	- If your neighbour specializes in cherries, she can produce 60 kg cherries.
+
+**This maximizes total production by each focusing on what they are relatively better at producing.**
+
+3. Trade Agreement
+	- You trade 10 kg of apples to your neighbour.
+	- In exchange, you receive 15 kg of cherries.
+
+4. With Trade
+	- You:
+		- Start with 20 kg apples (from specialization).
+		- After trading 10 away, you have 10 kg apples.
+		- Receive 15 kg cherries in return → 10 kg apples + 15 kg cherries (Point B)
+	- Neighbour:
+		- Starts with 60 kg cherries (from specialization).
+		- After trading 15 away, has 45 kg cherries left.
+		- Gains 10 kg apples from you → 10 kg apples + 45 kg cherries (Point D).
+
+5. Why Trade Helps
+	- Before trade:
+		- You: 8 apples + 12 cherries.
+		- Neighbour: 9 apples + 42 cherries.
+	- After trade:
+		- You: 10 apples + 15 cherries (better off: more of both).
+		- Neighbour: 10 apples + 45 cherries (better off: more of both).
