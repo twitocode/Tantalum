@@ -19,7 +19,11 @@ class: CS 1JC3
 - n-nary to u-nary, take inputs and make a tuple of it. n arguments -> tuple of n arguments
 	- the other method is to use the curry function. 
 		- first function takes an argument and returns a function that takes in the second argument.
-			- 
+- decision problems
+	- making a binary decision
+		- yes or no
+	- there are some that cannot be solved by computers
+	- turning and church showed that they do exist and gave examples
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
