@@ -24,7 +24,8 @@ class: CS 1JC3
 		- yes or no
 	- there are some that cannot be solved by computers
 	- turning and church showed that they do exist and gave examples
-- 
+- bifficus of the future
+	- focused on getting the answer instead of the understanding
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
