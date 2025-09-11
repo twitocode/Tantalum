@@ -40,3 +40,5 @@ research papers
 - for things like physics and realism
 
 scope creep is a very big problem
+
+know whst the job is and what it means for the end user and make your portfolio around thast premise
