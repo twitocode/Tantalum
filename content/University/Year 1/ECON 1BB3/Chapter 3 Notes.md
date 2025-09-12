@@ -4,6 +4,7 @@ class: ECON 1BB3
 tags:
   - "#classnote"
 ---
+# Demand
 **Perfectly Competitive Market:** A market that meets the conditions of (1) many buyers and sellers, (2) all firms selling identical products, and (3) no barriers to new firms entering the market.
 - *These assumptions are very restrictive and only describe a very small number of real-world markets*, such as the global market for wheat or a few other agricultural products.
 
@@ -100,9 +101,38 @@ Happens when **other factors** (like income, preferences, or related goods) chan
 Happens when the **price** of the product changes. This is shown as a **movement along the same demand curve**.
 - ex - When the price of shoes falls from **$150 to $125**, demand increases from **8 million (point A)** to **9 million pairs (point B)**.
 
-___
+# Supply
+
 **Quantity Supplied**: The amount of a good or service that a firm is willing and able to supply at a given price, assuming all other variables are constant (*ceteris paribus*)
 - when the price of a good rises, producing (and selling) that good is more profitable, and the quantity supplied will increase
 - *As the marginal costs of making a product rise as output increases, a firm will supply more of that product only if the price is higher.*
 
-**Supply Schedule**: a table that shows the relationship between the price of a product and the quantiyy of the product supplied
+**Supply Schedule**: a table that shows the relationship between the price of a product and the quantity of the product supplied
+
+**Supply curve**: shows the relationship between the price of a product and the quantity of the product supplied
+
+![[Pasted image 20250912181232.png]]
+
+**Law of Supply**: states that, holding everything else constant, increases in price cause increases in the quantity supplied, and decreases in price result in decreases in the quantity supplied
+
+> [!NOTE]
+> - If only the price of the product changes, there is a movement along the supply curve, which is _an increase or a decrease in the quantity supplied_.
+> - if any other variable that affects the willingness of firms to supply a good changes, the supply curve will shift, which is _an increase or a decrease in supply_
+
+![[Pasted image 20250912181406.png]]
+
+# Variables that Shift Market Supply
+- Price of inputs
+- Technological change
+- Prices of substitutes in production    
+- Number of firms in the market
+- Expected future prices
+
+## Price of Inputs
+The factor most likely to cause the supply curve for a product to shift is a change in the price of an *input*
+- increase price of input -> increase price of product, vice versa
+**Input**: anything used in the making of a good or service. 
+**Any time something like wages or interest rates (the price of labour and capital) change, the market supply curve will shift.**
+
+
+## Technological Change
