@@ -37,6 +37,7 @@ class: CS 1JC3
 				- t is an ordered triple
 			- instead do g(x, y, z) = x + y + z
 				- pattern matching
+				- 
 ## Questions
 - Bro please learn these random terms
 - learn bijection surjective injective
