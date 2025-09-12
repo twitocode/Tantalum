@@ -170,5 +170,29 @@ If a firm expects that the price of its product will be higher in the future tha
     - Example: A decrease in input costs shifts the curve from **S₁ to S₂**, so at the same price of **$150**, supply rises from **12 million (point B)** to **14 million pairs (point C)**.
 
 ___
-
+![[Pasted image 20250912183153.png]]
 **Market Equilibrium**: A situation in which quantity demanded equals quantity supplied
+- Only at this point is the quantity of athletic shoes consumers are willing to buy equal to the quantity of athletic shoes firms are willing to sell
+- In this case, the _equilibrium price_ is $100 and the _equilibrium quantity_ is 10 million pairs per week
+
+**Competitive Market Equilibrium**: A market equilibirum with many buyers and seller
+
+# How Markets Eliminate Surpluses and Shortages: Getting to Equilibrium
+**A market that is not in equilibrium moves toward equilibrium.**
+
+**Surplus**: When the quantity supplied is greater than the quantity demanded
+- A surplus means that firms will be unable to sell all the goods they would like and the goods they’re producing will start piling up
+- *Easiest way to get rid of it is to put goods on sale*
+
+**Shortage**: When the quantity demanded is greater than the quantity supplied
+- When a shortage occurs, some consumers will be unable to buy athletic shoes at the current price. When this happens, firms will realize they can raise the price without losing sales. 
+	- A higher price means a decrease in the quantity demanded and an increase in the quantity supplied. The increase in price will reduce the size of the shortage, *but as long as the price remains below the equilibrium price of $100, there will be a shortage and firms will have an incentive to increase the prices they charge. Only when the price has risen to $100 will the market be in equilibrium.*
+
+
+> [!NOTE]
+> Keep in mind that the interaction of demand and supply determines the equilibrium price. Neither consumers nor firms can dictate what the equilibrium price will be. No firm can sell anything, at any price, unless it can find a willing buyer, and no consumer can buy anything, at any price, without finding a willing seller.
+
+
+___
+
+# The Effect of Shifts in Supply on Equilibrium
