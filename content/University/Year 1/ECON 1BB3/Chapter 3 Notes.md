@@ -213,3 +213,7 @@ The supply often shifts to the right over time too, as new firms enter the marke
 
 ![[Pasted image 20250912184300.png]]
 
+# Shifts in a Curve versus Movements along a Curve
+
+> [!ERROR] Title
+> When analyzing markets using demand and supply curves, it is important to remember that _when a shift in a demand or supply curve causes a change in equilibrium price, the change in price does not cause a further shift in demand or supply_
