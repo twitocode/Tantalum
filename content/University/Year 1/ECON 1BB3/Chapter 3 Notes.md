@@ -152,3 +152,23 @@ Firms often have to choose which goods they will produce at a particular time
 
 ## Number of Firms in the Market
 When new firms _enter_ a market, the supply curve shifts to the right, and when existing firms leave, or _exit_, a market, the supply curve shifts to the left
+
+## Expected Future Prices
+If a firm expects that the price of its product will be higher in the future than it is today, it has an incentive to decrease supply now and increase supply in the future
+
+![[Pasted image 20250912182741.png]]
+
+# Change in Supply vs Change in Quantity Supplied
+- Change in quantity supplied:
+    - Caused by a **change in the product’s price**.
+    - Shown as a **movement along the supply curve**.
+    - Example: If the price of athletic shoes rises from **$125 to $150**, supply increases from **11 million (point A)** to **12 million pairs (point B)**.
+        
+- Change in supply (just like change in demand):
+    - Caused by a **factor other than price** (e.g., lower input costs, better technology).
+    - Shown as a **shift of the supply curve**.
+    - Example: A decrease in input costs shifts the curve from **S₁ to S₂**, so at the same price of **$150**, supply rises from **12 million (point B)** to **14 million pairs (point C)**.
+
+___
+
+**Market Equilibrium**: A situation in which quantity demanded equals quantity supplied
