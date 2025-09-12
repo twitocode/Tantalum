@@ -151,3 +151,4 @@ Firms often have to choose which goods they will produce at a particular time
 
 
 ## Number of Firms in the Market
+When new firms _enter_ a market, the supply curve shifts to the right, and when existing firms leave, or _exit_, a market, the supply curve shifts to the left
