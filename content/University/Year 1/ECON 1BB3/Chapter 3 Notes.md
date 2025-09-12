@@ -52,3 +52,42 @@ A shift of a demand curve is _an increase or a decrease in demand_. **the curve 
 
 ## Income
 **Normal Good**: A good for which the demand increases as income rises and decreases as income falls.
+- *most goods are this type*
+- I can buy more athletic shoes.
+**Inferior Good**: A good for which the demand increases as income falls and decreases as income rises.
+- buy less poor people food when you get money
+
+## Prices of Related Goods
+**Substitutes**: Goods and services that can be used for the same purpos
+- ex. such as athletic shoes and casual shoes
+- Two goods are substitutes of one another if, when you buy more of one, you buy less of the other.
+- A decrease in the price of a substitute causes the demand curve for a good to shift to the left. An increase in the price of a substitute causes the demand curve for a good to shift to the right.
+	- tldr - balenciaga becomes cheaper -> i buy less champions
+**Compliments**: Goods and Services that are used together
+- ex - hamburgers and buns
+- When two goods are complements, the more consumers buy of one, the more they will buy of the other.
+- A decrease in the price of a complement causes the demand curve for a good to shift to the right. An increase in the price of a complement causes the demand curve to shift to the left.
+
+
+## Tastes
+Advertising shoe means customers are more likely to buy the product at any price, demand will shift right.
+- an ad campaign affected consumers' *taste* for athletic shoes. 
+**Taste is a catchall category that refers to the many subjective elements that can enter into a consumer’s decision to buy a product**
+
+## Population and Demographcis
+Population determines the total number of consumers who could demand a product.
+- increase pops increase demand
+	- demand curve shifts right
+**Demographics**: the different types of people that make up a population
+- young ppl, old ppl
+- ex. Crumbl Cookies have a higher demand with young ppl more than old ppl
+
+## Expectations
+**Consumers choose not only which products to buy but also when to buy them.**
+- ex. if enough consumers become convinced that houses will be selling for lower prices in three months:
+	- the demand for houses will decrease now, as some consumers delay their purchases to wait for prices to fall.
+**Consumers also change their purchasing habits when their expected income changes**
+- ex. i start buying more now because i will get a promotion in 2 days
+![[Pasted image 20250912175600.png]]
+
+# A Change in Demand versus a Change in Quantity Demanded
