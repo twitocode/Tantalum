@@ -35,6 +35,8 @@ class: CS 1JC3
 			- g: N x N x N -> N (cross product)
 			- g t = (first t) + (second t) + (third t)
 				- t is an ordered triple
+			- instead do g(x, y, z) = x + y + z
+				- pattern matching
 ## Questions
 - Bro please learn these random terms
 - learn bijection surjective injective
