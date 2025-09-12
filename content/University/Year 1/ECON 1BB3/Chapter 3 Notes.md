@@ -90,4 +90,12 @@ Population determines the total number of consumers who could demand a product.
 - ex. i start buying more now because i will get a promotion in 2 days
 ![[Pasted image 20250912175600.png]]
 
-# A Change in Demand versus a Change in Quantity Demanded
+# Change in Demand vs Change in Quantity Demanded
+
+## Demand
+Happens when **other factors** (like income, preferences, or related goods) change, not the price. This is shown as a **shift of the entire demand curve**.
+- ex - When the price of shoes falls from **$150 to $125**, demand increases from **8 million (point A)** to **9 million pairs (point B)**.
+
+## Quantity Demanded
+Happens when the **price** of the product changes. This is shown as a **movement along the same demand curve**.
+- ex - If incomes rise, the demand curve shifts rightward from **D₁ to D₂**, so at the same price of **$150**, demand increases from **8 million (point A)** to **10 million pairs (point C)**.
