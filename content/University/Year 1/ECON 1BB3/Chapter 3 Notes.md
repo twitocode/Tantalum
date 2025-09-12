@@ -143,3 +143,11 @@ The factor most likely to cause the supply curve for a product to shift is a cha
 
 ## Prices of Substitutes in Production
 Firms often have to choose which goods they will produce at a particular time
+
+- Example: Firms like Authentic Brands (Reebok/Tretorn) and Nike (Nike/Converse) make both athletic and casual shoes.
+	- If the **price of casual shoes falls**, producing them becomes less profitable.    
+	- Firms shift resources from casual shoes to athletic shoes.
+	- This increases the **supply of athletic shoes**, shifting the **supply curve to the right**, even if the price of athletic shoes stays the same.
+
+
+## Number of Firms in the Market
