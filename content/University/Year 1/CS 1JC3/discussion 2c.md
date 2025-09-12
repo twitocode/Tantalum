@@ -23,7 +23,13 @@ class: CS 1JC3
 			- ![[Pasted image 20250912085200.png]]
 		- the cardinality of the set of all natural numbers is less than the cardianlity of all real numbers
 			- proved with a diagonalzation argument
-
+		- cardinal numbers 
+			- represent the cardianlity of sets
+		- theorem 5 - the cardinality of the set of programs in any normal programming language is $|\mathbb{N}|$
+		- the cardinality of the set of decision problems over $\mathbb{N}$ is $\mathcal{P} (\mathbb{N})$
+			- P is the power set **look this up**
+		- there are undeciable decision problems
+		- 
 ## Questions
 - Bro please learn these random terms
 - learn bijection surjective injective
