@@ -33,7 +33,8 @@ class: CS 1JC3
 			- f: N, N, N -> N
 			- f(x, y, z) -> x + y + z
 			- g: N x N x N -> N (cross product)
-			- 
+			- g t = (first t) + (second t) + (third t)
+				- t is an ordered triple
 ## Questions
 - Bro please learn these random terms
 - learn bijection surjective injective
