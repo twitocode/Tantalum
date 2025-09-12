@@ -196,3 +196,20 @@ ___
 ___
 
 # The Effect of Shifts in Supply on Equilibrium
+![[Pasted image 20250912183923.png]]
+
+# The Effect of Shifts in Demand on Equilibrium
+![[Pasted image 20250912184029.png]]
+
+# The Effect of Shifts in Demand and Supply over Time
+In many markets, the demand curve shifts to the right over time as populations and incomes grow. 
+The supply often shifts to the right over time too, as new firms enter the market or technology improves.
+
+**Whether the equilibrium price rises or falls over time depends on which shift is bigger**. 
+- If the *shift in the demand curve is bigger* than the shift in the supply curve, **the price will rise.**
+- If the *shift in the supply curve is bigger* than the shift in the demand curve, **the price will fall**
+
+![[Pasted image 20250912184221.png]]
+
+![[Pasted image 20250912184300.png]]
+
