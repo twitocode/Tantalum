@@ -63,6 +63,7 @@ A shift of a demand curve is _an increase or a decrease in demand_. **the curve 
 - Two goods are substitutes of one another if, when you buy more of one, you buy less of the other.
 - A decrease in the price of a substitute causes the demand curve for a good to shift to the left. An increase in the price of a substitute causes the demand curve for a good to shift to the right.
 	- tldr - balenciaga becomes cheaper -> i buy less champions
+
 **Compliments**: Goods and Services that are used together
 - ex - hamburgers and buns
 - When two goods are complements, the more consumers buy of one, the more they will buy of the other.
@@ -91,11 +92,17 @@ Population determines the total number of consumers who could demand a product.
 ![[Pasted image 20250912175600.png]]
 
 # Change in Demand vs Change in Quantity Demanded
-
+![[Pasted image 20250912180531.png]]
 ## Demand
 Happens when **other factors** (like income, preferences, or related goods) change, not the price. This is shown as a **shift of the entire demand curve**.
-- ex - When the price of shoes falls from **$150 to $125**, demand increases from **8 million (point A)** to **9 million pairs (point B)**.
-
+- ex - If incomes rise, the demand curve shifts rightward from **D₁ to D₂**, so at the same price of **$150**, demand increases from **8 million (point A)** to **10 million pairs (point C)**.
 ## Quantity Demanded
 Happens when the **price** of the product changes. This is shown as a **movement along the same demand curve**.
-- ex - If incomes rise, the demand curve shifts rightward from **D₁ to D₂**, so at the same price of **$150**, demand increases from **8 million (point A)** to **10 million pairs (point C)**.
+- ex - When the price of shoes falls from **$150 to $125**, demand increases from **8 million (point A)** to **9 million pairs (point B)**.
+
+___
+**Quantity Supplied**: The amount of a good or service that a firm is willing and able to supply at a given price, assuming all other variables are constant (*ceteris paribus*)
+- when the price of a good rises, producing (and selling) that good is more profitable, and the quantity supplied will increase
+- *As the marginal costs of making a product rise as output increases, a firm will supply more of that product only if the price is higher.*
+
+**Supply Schedule**: a table that shows the relationship between the price of a product and the quantiyy of the product supplied
