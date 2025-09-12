@@ -59,7 +59,7 @@ A shift of a demand curve is _an increase or a decrease in demand_. **the curve 
 - buy less poor people food when you get money
 
 ## Prices of Related Goods
-**Substitutes**: Goods and services that can be used for the same purpos
+**Substitutes**: Goods and services that can be used for the same purpose
 - ex. such as athletic shoes and casual shoes
 - Two goods are substitutes of one another if, when you buy more of one, you buy less of the other.
 - A decrease in the price of a substitute causes the demand curve for a good to shift to the left. An increase in the price of a substitute causes the demand curve for a good to shift to the right.
