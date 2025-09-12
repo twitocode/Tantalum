@@ -136,3 +136,10 @@ The factor most likely to cause the supply curve for a product to shift is a cha
 
 
 ## Technological Change
+**Technological Change**: positive or negative change in the ability of a firm to produce a given level of output from a given quantity of inputs
+- Positive technological change occurs when a firm is able to produce _more_ output with the same amount of inputs. 
+	- This change will happen when the _productivity_ of workers or machines increases
+- when positive technological change occurs, a firm will want to sell more of its product at every given price, making the market supply curve shift to the right
+
+## Prices of Substitutes in Production
+Firms often have to choose which goods they will produce at a particular time
