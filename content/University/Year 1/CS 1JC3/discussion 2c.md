@@ -19,10 +19,10 @@ class: CS 1JC3
 	- there are multiple theorems
 		- the cardinality of the set of all even nautral numbers = the cardinality of the set of all natural numbers
 		- the cardinality of the set of all natural numbers = the cardinality of the set of all rational numbers
-			- proved with a diagonization argument
+			- proved with a diagonalzation argument
 			- ![[Pasted image 20250912085200.png]]
 		- the cardinality of the set of all natural numbers is less than the cardianlity of all real numbers
-		- 
+			- proved with a diagonalzation argument
 
 ## Questions
 - Bro please learn these random terms
