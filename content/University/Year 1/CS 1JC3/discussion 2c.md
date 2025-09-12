@@ -29,7 +29,11 @@ class: CS 1JC3
 		- the cardinality of the set of decision problems over $\mathbb{N}$ is $\mathcal{P} (\mathbb{N})$
 			- P is the power set **look this up**
 		- there are undeciable decision problems
-		- 
+		- converting n-nary to u-nary
+			- f: N, N, N -> N
+			- f(x, y, z) -> x + y + z
+			- g: N x N x N -> N (cross product)
+			- 
 ## Questions
 - Bro please learn these random terms
 - learn bijection surjective injective
