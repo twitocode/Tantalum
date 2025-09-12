@@ -5,4 +5,4 @@ tags:
   - "#classnote"
 ---
 **Perfectly Competitive Market:** A market that meets the conditions of (1) many buyers and sellers, (2) all firms selling identical products, and (3) no barriers to new firms entering the market.
-
+- *These assumptions are very restrictive and only describe a very small number of real-world markets*, such as the global market for wheat or a few other agricultural products.
