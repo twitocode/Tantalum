@@ -182,6 +182,8 @@ ___
 
 **Surplus**: When the quantity supplied is greater than the quantity demanded
 - A surplus means that firms will be unable to sell all the goods they would like and the goods they’re producing will start piling up
+	- translates into an excess of quantity supplied over quantity demanded
+		- **ONLY HAPPENS WHEN THE MARKET PRICE IS ABOVE THE EQUILIBIRUM PRICE**
 - *Easiest way to get rid of it is to put goods on sale*
 
 **Shortage**: When the quantity demanded is greater than the quantity supplied
