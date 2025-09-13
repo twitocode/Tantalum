@@ -43,3 +43,13 @@ Computational thinking includes all of these types of thinking
 2. What are the *practical* limits of computing?
 
 
+## Gottfried Leibniz
+- A german polymath 
+	- can do multiple math things really well
+- Developed calculus (1684) independently of Newton
+- A great computer scientist and engineer
+	- **created the binary number system**
+		- you can express any number with 0 and 1
+	- Created a calculator called the Staffelwalze. 
+		- He designed and it was the most advanced calculator at the time
+
