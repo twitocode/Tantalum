@@ -263,3 +263,6 @@ Example:
 	- they can be used just like any other value (string, int, bool, etc)
 - *Recursion* eww
 - *State change* and *data mutation* are avoided as much as possible
+- **The focus is on what instead of how**
+	- The implementation takes care of the how
+	- 
