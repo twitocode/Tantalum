@@ -31,6 +31,8 @@ add 2 3    -- gives 5
 -- (add 2) returns a new function: \y -> 2 + y
   ```
 
+## Important Paradoxes
+
 **Curry Paradox**
 - Consider the sentence:
     **“If this sentence is true, then 2 + 2 = 5.”**
@@ -43,6 +45,10 @@ add 2 3    -- gives 5
 **Liar Paradox** says that if $A\equiv \neg A$ which means "A is true if and only if A is false", then if A is true, then it must be false, and if A is false, then it must be true. 
 - This is a contradiction, *it is stuck in a loop*
 
+**Russel's Paradox** says that R = {x | x is a set, x ∉ x}. "The set of all sets that do not contain themselves."
+- If R ∈ R (R contains itself), then by its definition, R ∉ R (R does not contain itself) – *a contradiction.*
+- If R ∉ R (R does not contain itself), then by its definition, R should be in R – *also a contradiction.*
+- This paradox revealed fundamental flaws in early naive set theory and led to more rigorous axiomatic set theories.
 ## What do computers do?
 They store and manipulate information. 
 
