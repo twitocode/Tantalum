@@ -227,4 +227,4 @@ As a Value
 
 # Haskell-ing
 Functions in Haskell are usually in the curry-ed form
-
+But they can also be defined as tuples
