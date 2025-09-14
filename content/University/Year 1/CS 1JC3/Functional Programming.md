@@ -57,6 +57,7 @@ A sequence of statements called *programs*
 **Programming paradigm**: a well-developed style of programming. 
 **Imperative Statements** express an action to be performed
 **Declarative Statements** express a property to be employed
+- say what should be true, not how to make it true.
 
 **Imperative Programs** are a sequence of imperative statements that express *how* a program will work
 - Do this, then this, then this, then tell me the result
