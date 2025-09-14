@@ -224,3 +224,7 @@ As a Value
 		- it went from multiple inputs to a chain of one input
 		- $\cdots$ is the chain of function calls
 	- **GO TO THE DEFINITON FROM BEFORE**
+
+# Haskell-ing
+Functions in Haskell are usually in the curry-ed form
+
