@@ -25,3 +25,19 @@ They all have addition and multiplication in each number system
 - Roman numerals
 - Hindu-Arabic Numerals
 	- Introduced to Europse by Leonardo of Pisa (Fibonacci)
+
+## Mohammad Al-Khwarizmi
+aka Algoritmi
+- he made a method called algorism
+	- the word algorithm comes from him
+	- he introduced arithmetic based on the Hindu-Arabic numeral system to the Middle East and Europe
+- He also showed how to solve all linear and quadratic equations in an algebraic way and justified it with geometry (the greeks only knew geometry)'
+	- His book *al-jabr* (algebra)
+
+## Decimal vs Binary
+
+|        | Decimal | Binary |
+| ------ | ------- | ------ |
+| Digits | 0-9     | 0, 1   |
+| Base   | 10^X    | 2^x    |
+
