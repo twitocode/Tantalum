@@ -89,3 +89,5 @@ where $1.m$ is called the *mantissa* and $e$ is the *exponent*
 Since $(0.1)_{10} = (0.000110011000\dots)$ in base 10, 0.1 cannot be represented exactly as a floating point number
 
 We cannot represent 0
+
+## Arithmetic
