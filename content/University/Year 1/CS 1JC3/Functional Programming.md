@@ -160,6 +160,22 @@ As a Value
 		- The set of actual outputs (**the Range R**) is a subset of the set of all theoretically possible outputs.
 	- $x \subseteq y$ *means x is a subset of y*
 
+### n-Ary Functions
+As a Rule
+ - For $n \geq 0$, f : I_1, \dots, I_n \to O$ is a rule that associates a list of inputs from $I_1, \dots, I_n$ with a member of $O$ (the output). 
+    - ex - Division can be a binary function (n=2): $div : \mathbb{R}, \mathbb{R} \to \mathbb{R}$ where the input list $(x, y)$ maps to the output $x/y$.
+	- *Some lists of inputs may not be associated with an output.*
+	- In the division example, the input list (5, 0) **is not associated with any output because division by zero is undefined.**
+
+As a Value
+- An n-ary function is a set of ordered tuples. E*ach tuple consists of $n$ inputs followed by one output.*
+	- An n-ary function is a set $f \subseteq I_1 \times \dots \times I_n \times O$ such that if $(x_1, \dots, x_n, y) \in f$ and $(x_1, \dots, x_n, y') \in f$, then $y=y'$. 
+        $I_1 \times \dots \times I_n$ is the Cartesian Product of the input sets. It represents the set of all possible lists of inputs.
+        *The condition ensures that any given list of inputs $(x_1, \dots, x_n)$ maps to only one output.*
+	- Each function $f$ has a domain $D \subseteq I_1 \times \dots \times I_n$ and a range $R \subseteq O$.
+        - The set of valid input lists (the Domain D) is a subset of the set of all theoretically *possible input lists*.
+        - The set of actual outputs (the Range R) is a subset of the set of all theoretically possible outputs.
+          
 ![[Pasted image 20250913222320.png]]
 
 ![[Pasted image 20250913221931.png]]
@@ -178,3 +194,4 @@ As a Value
 - bijective = total + injective + surjective
 - Every element of A maps to a unique element of B (injective)
 - Every element of B is mapped by some element of A (surjective)
+
