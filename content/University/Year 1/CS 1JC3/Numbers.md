@@ -74,5 +74,7 @@ Hexadecimal allows us to represent binary numbers in a compact way,
 
 # Floating Point Numbers
 Rational numbers are represented in base 2 scientific notation with a fixed number of bits
-$$\ 1.m *2^e$$
-where $1.m$ is called the 
+$$\pm 1.m *2^e$$
+where $1.m$ is called the *mantissa* and $e$ is the *exponent*
+
+**Single-precision floating numbers**
