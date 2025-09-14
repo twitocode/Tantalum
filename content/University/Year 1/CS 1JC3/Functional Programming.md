@@ -90,4 +90,10 @@ A sequence of statements called *programs*
 
 # The math-y side of Functional Programming
 
+## Syntax vs Semantics
 ## Values
+information (data) stored and manipulated by computer programs
+- booleans, machine integers (small integers), floating point numbers (scientific notation rational numbers), strings, types, lists, functions
+
+## Expressions
+A syntactic entity that denotes a value
