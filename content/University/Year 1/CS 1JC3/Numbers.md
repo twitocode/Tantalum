@@ -24,3 +24,4 @@ They all have addition and multiplication in each number system
 **Numeral Systems** are a writing system for expressing numbers
 - Roman numerals
 - Hindu-Arabic Numerals
+	- Introduced to Europse by Leonardo of Pisa (Fibonacci)
