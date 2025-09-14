@@ -227,4 +227,34 @@ As a Value
 
 # Haskell-ing
 Functions in Haskell are usually in the curry-ed form
+$$
+\begin{align*}
+f &:: t_{1}^{i} \to \dots \to t_{n}^{i} \to t^{o} \\
+f & \ p_{1} \dots p_{n} = e
+\end{align*}
+$$
+$i$ is input
+$t$ is the type (string, bool, int, etc)
+$p$ is format parameter of the definition that represents the inputs to the function $f$
+$e$ is an expression that is result, defined in terms of the formal parameteres.
+
+
 But they can also be defined as tuples
+$$
+\begin{align*}
+f &:: (t_{1}^{i}, \dots, t_{n}^{i}) \to t^{o} \\
+f & (\color{red}(\color{white}p_{1}, \dots, p_{n}\color{red})\color{white} = e
+\end{align*}
+$$
+
+
+where $n \geq 0$.
+In this case, the function takes in **1** singular input (a tuple of size n) instead of n inputs
+
+Example:
+- represent $f(x,y) = x^2 + y^2$ as a unary function
+	- curryed: $f1 \text{ }x\text{ } y = x^2 + y^2$
+	- tuples:  $f2 \text{ }(x,y) = x^2 + y^2$
+
+# What Exactly is Functional Programming?
+*Declarative* programs
