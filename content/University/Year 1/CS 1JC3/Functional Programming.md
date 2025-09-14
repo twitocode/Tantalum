@@ -212,7 +212,7 @@ As a Value
 ## Representing n-ary functions as unary functions
 1. As a function of tuples $f: I_{1}, \dots, I_{n} \to O$ is represented as
 	- $f' : I_{1} \times \dots \times I_{n} \to O$
-	- where  $f(x_{1},\dots,x_{n}) = f'(\color{red}(\color{white}x_{1},\dots, x_{n}\color{red})\color{white})$
+	- where  $f(x_{1},\dots,x_{n}) = f'(\textcolor{red}{(}x_{1},\dots, x_{n}\textcolor{red}{)})$
 		- it went from multiple inputs, to one input as a tuple
 		
 2. As a *Curryed function* $f: I_{1}, \dots, I_{n} \to O$ is represented as
@@ -244,7 +244,7 @@ But they can also be defined as tuples
 $$
 \begin{align*}
 f &:: (t_{1}^{i}, \dots, t_{n}^{i}) \to t^{o} \\
-f & (\color{red}(\color{white}p_{1}, \dots, p_{n}\color{red})\color{white} = e
+f & (\textcolor{red}{(}p_{1}, \dots, p_{n}\textcolor{red}{)} = e
 \end{align*}
 $$
 
