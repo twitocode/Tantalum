@@ -91,9 +91,33 @@ A sequence of statements called *programs*
 # The math-y side of Functional Programming
 
 ## Syntax vs Semantics
+1. **Syntax**: The raw symbols you type — their structure and placement.  
+2. **Semantics**: The meaning of each symbol — what each represents.  
+### Example: `2 + 3`
+- Symbols: `2`, `+`, `3`, and even the whitespace are all **syntax**.
+- Each symbol has **semantics**:
+  - `2` → a numeral symbol (syntax) that represents the number two (semantics/value) 
+  - `3` → a numeral symbol (syntax) that represents the number three (semantics/value)  
+  - `+` → a symbol (syntax) that denotes addition (semantics)
+
+This shows how the expression `2 + 3` is **more than just symbols**:  
+- Syntax gives **form**,  
+- Semantics gives **meaning**,  
 ## Values
 information (data) stored and manipulated by computer programs
 - booleans, machine integers (small integers), floating point numbers (scientific notation rational numbers), strings, types, lists, functions
 
 ## Expressions
-A syntactic entity that denotes a value
+A syntactic entity that *denotes a value*, they are not the value itself but specifies how to get a value
+```haskell
+(x * 2) + 7
+"abc"
+True && y
+```
+**Atomic Expressions** are an identifier - $x$ or $rotateHorse$. 
+**Literals** are an expression in which its form literally tells you its value -  2.3, "cat", True
+
+**Compound expressions** are formed by applying a *function* or *operator* to other expressions. 
+- ex. abs 10 
+- ex. 1 + 2
+	- applying the addition operator to 1 and 2 but infixing it
