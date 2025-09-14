@@ -64,7 +64,8 @@ Hexadecimal allows us to represent binary numbers in a compact way,
 - Integers are represented with a fixed number of bits.
 - Computers use two's complement bits using $2^n$ bits
 	- Has one 0; $2^{n - 1} - 1$ positives and $2^{n-1}$ negatives
-	- To negate a number
+	- ![[Pasted image 20250914154828.png]]
+	 - To negate a number
 		- invert its bits and add 1
 			- $x + (-x) = 0$
 	- addition and multiplication are performed using *modular arithmetic* 
