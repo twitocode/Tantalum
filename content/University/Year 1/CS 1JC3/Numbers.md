@@ -107,3 +107,25 @@ arithmetic operations on floating point numbers **return the float point number 
 > addition and multiplication are not *associative*
 > - $(a + b) + c = a + (b + c)$
 > - $(a \times b) \times c = a \times (b \times c)$
+
+
+## Things to be carefull of with floating point numbers
+1. if x and y are floating point numbers, then x == y is very very VERY unlikely. 
+2. only a small number of real numbers are exactly represented by floating point numbers
+3. In Haskell, f(x) == 0.0 will frequently be False even if x is close
+	1. instead use abs (f x) < epsilon
+		1. where epsilon is a very very small number that is not 0. *epsilon can change depending on the context*
+
+
+# Numeric types
+**Numeric Types** are types of values that represent a number system
+In Haskell:
+1. Int (32-bit, or 64-bit *machine integers*)
+2. Integer (all integers)
+3. Float (*32-bit* floating point numbers)
+4. Double (*64-bit* floating point numbers)
+5. Rational (all rational numbers)
+
+> [!NOTE]
+> the arithmetic operations have the same usage but give differing outputs depending on the number type used.
+> ex. 2/3 == 0 (Integer) is not the same as 2.0/3.0 == 0.66... (Float)
