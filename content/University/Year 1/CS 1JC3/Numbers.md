@@ -101,6 +101,6 @@ arithmetic operations on floating point numbers **return the float point number 
 > [!NOTE]
 > Float point numbers can produce inaccurate or insane results because of the lack precision
 > ___
-> addition and multiplication are not associative
+> addition and multiplication are not *associative*
 > - $(a + b) + c = a + (b + c)$
 > - $(a \times b) \times c = a \times (b \times c)$
