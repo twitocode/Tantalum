@@ -161,3 +161,5 @@ As a Value
 	- $x \subseteq y$ *means x is a subset of y*
 
 ![[Pasted image 20250913221931.png]]
+
+**Total** = D = I, the domain is the whole set of equals, the function is defined 
