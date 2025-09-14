@@ -200,13 +200,16 @@ As a Value
 
 ![[Pasted image 20250913221931.png]]
 
+## Cardinality & Undecidability
+**Cardinality** $|A|$** is the size of set $A$
+
 **Total** = D = I, the domain is the whole set of inputs, the function is defined in every input
 - in computing we don't assume that all functions are total
 
 **Surjective**: The range is the entire set of outputs
 - tldr - you can get every output from some input
 
-**Inejctive**: one-to-one functions
+**Injective**: one-to-one functions
 - different inputs map to different outputs
 - $f(a) = f(b) \implies a = b$
 
@@ -214,6 +217,10 @@ As a Value
 - bijective = total + injective + surjective
 - Every element of A maps to a unique element of B (injective)
 - Every element of B is mapped by some element of A (surjective)
+- *If a bijection exists between two sets A and B, then |A| = |B|*
+- This allows comparing the sizes of *infinite sets.*
+
+**Infinite Set:** A set A is infinite if there exists a proper subset A' ⊂ A such that |A'| = |A|. (e.g., there are as many even natural numbers as there are natural numbers).
 
 ## Representing n-ary functions as unary functions
 1. As a function of tuples $f: I_{1}, \dots, I_{n} \to O$ is represented as
@@ -229,7 +236,7 @@ As a Value
 					- that returns an output
 	- where $f({x_{1}, \dots, x_{n}) = f"(x_{1})\cdots (x_{n })}$
 		- it went from multiple inputs to a chain of one input
-		- $\cdots$ is the chain of function calls
+		- "$\cdots$" is the chain of function calls
 	- **GO TO THE DEFINITON FROM BEFORE**
 
 # Haskell-ing
@@ -272,4 +279,3 @@ Example:
 - *State change* and *data mutation* are avoided as much as possible
 - **The focus is on what instead of how**
 	- The implementation takes care of the how
-	- 
