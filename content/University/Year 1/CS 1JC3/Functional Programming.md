@@ -218,4 +218,5 @@ As a Value
 	- $f" : I_{1} \to (I_{2} \to (\cdots (I_{n} \to O) \cdots))$
 	- where $f({x_{1}, \dots, x_{n}) = f"(x_{1})\cdots (x_{n })}$
 		- it went from multiple inputs to a chain of one input
+		- $\cdots$ is the chain of function calls
 	- **GO TO THE DEFINITON FROM BEFORE**
