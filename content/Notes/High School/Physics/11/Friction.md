@@ -26,6 +26,8 @@ Once the applied force overcomes the Maximum amount of static friction ($\vec{F}
 
 ### Examples:
 ![[Pasted image 20240419134542.png]]
+<!--ID: 1757893916077-->
+
 
 ## Kinetic Friction ($\vec{F}_{{Fk}}$)
 This type of friction occurs when an object is sliding on another. It is a force exerted on a moving object by a surface and acts opposite to the direction. **If the object moves at a constant velocity, then the applied force must be equal in magnitude to the kinetic friction**

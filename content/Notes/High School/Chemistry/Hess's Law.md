@@ -21,6 +21,8 @@ If the overall equation for a reaction can be expressed as the algebraic sum of 
 
 ## Energy State Diagram
 ![[Pasted image 20241207122443.png]]
+<!--ID: 1757893916198-->
+
 
 > [!ERROR] Rules of Enthalpy Changes
 > 1. If you reverse a chemical reaction, you must also reverse the sign for $\Delta H$

@@ -29,6 +29,8 @@ $$K_{sp} = [\ce{K+(aq)}]^2[\ce{Cr2O7^2-(aq)}$$
 
 # Molar Solubility for **Salts**
 The amount of solute (salt) dissolved in 1.0L of its saturated solution
+<!--ID: 1757893916166-->
+
 
 > [!NOTE]
 > **Salts** are any ionic compound that doesn't contain $\ce{OH-}$ or $\ce{O^{2=}}$
@@ -65,6 +67,8 @@ $$
 
 # Common Ion Effect
 The phenomenon that occurs when a salt tries to dissolve into a solution that has one or both of the ions in the salt.
+<!--ID: 1757893916169-->
+
 
 $$\ce{AgBr(s) + H2O(l) <=> Ag+(aq) + Br-(aq)}$$
 ![[Pasted image 20250109165754.png]]
@@ -74,6 +78,8 @@ The $[\ce{Br-}]$ is greater compared to an aqueous environment (pure water). Thi
 1. Find Molar Solubility in Water
 2. Find final concentration of solution with common ion
 3. Find molar solubility in the solution with the common ion
+<!--ID: 1757893916172-->
+
 
 Compare the molar solubility of $\ce{AgBr}$ in pure water to a 0.10 mol/L solution of $\ce{NaBr}$. 
 $K_{sp}$ of $\ce{AgBr}$ at 25°C is $5.4 \times 10^{-13} mol^2/L^2$.

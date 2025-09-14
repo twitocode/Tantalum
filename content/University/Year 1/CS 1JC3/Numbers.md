@@ -14,11 +14,15 @@ tags:
 5. $\mathbb{C}$ = complex numbers
 6. $\mathbb{Z}_{n}$ = modular integers for solving arithmetic modulo $n$ where $n \geq 1$ (Clock arithmetic)
 	- $3 +5 = 2\text{ in } \mathbb{Z}_{6}$![[Pasted image 20250914151012.png]]
+<!--ID: 1757893915512-->
+
 
 ## More and more subsets
 each group is a subset of the other
 $\mathbb{Z}_{n} \subseteq \mathbb{N} \subseteq \mathbb{Z} \subseteq \mathbb{Q} \subseteq \mathbb{R} \subseteq \mathbb{C}$
 They all have addition and multiplication in each number system
+<!--ID: 1757893915514-->
+
 
 
 # Numeral Systems
@@ -26,6 +30,8 @@ They all have addition and multiplication in each number system
 - Roman numerals
 - Hindu-Arabic Numerals
 	- Introduced to Europse by Leonardo of Pisa (Fibonacci)
+<!--ID: 1757893915516-->
+
 
 ## Mohammad Al-Khwarizmi
 aka Algoritmi
@@ -34,6 +40,8 @@ aka Algoritmi
 	- he introduced arithmetic based on the Hindu-Arabic numeral system to the Middle East and Europe
 - He also showed how to solve all linear and quadratic equations in an algebraic way and justified it with geometry (the greeks only knew geometry)'
 	- His book *al-jabr* (algebra)
+<!--ID: 1757893915519-->
+
 
 ## Decimal vs Binary
 
@@ -41,11 +49,15 @@ aka Algoritmi
 | ------ | ------- | ------ |
 | Digits | 0-9     | 0, 1   |
 | Base   | 10^X    | 2^x    |
+<!--ID: 1757893915522-->
+
 
 ## Representation of Numbers in different bases
 $$
 (a_n a_{n-1} \dots a_1 a_0)_b = \sum_{k=0}^{n} a_k b^k
 $$
+<!--ID: 1757893915524-->
+
 
 bases used in computing are 2, 10, and 16
 
@@ -59,6 +71,8 @@ Hexadecimal allows us to represent binary numbers in a compact way,
 2. Represent each member of the system using an *unbounded number of bits*
 	- every member can be represented
 	- it is has a very bad space and time complexity.
+<!--ID: 1757893915526-->
+
 
 ## Machine Integers
 - Integers are represented with a fixed number of bits.
@@ -71,6 +85,8 @@ Hexadecimal allows us to represent binary numbers in a compact way,
 > **To negate a number**
 > invert its bits and add 1
 > in math notation: $x + (-x) = 0$
+<!--ID: 1757893915528-->
+
 
 	
 ![[Pasted image 20250914154343.png]]
@@ -79,6 +95,8 @@ Hexadecimal allows us to represent binary numbers in a compact way,
 Rational numbers are represented in base 2 scientific notation with a fixed number of bits
 $$\pm 1.m *2^e$$
 where $1.m$ is called the *mantissa* and $e$ is the *exponent*
+<!--ID: 1757893915530-->
+
 
 **Single-precision floating numbers (floats)** use 32. bits with 1 bit for the sign, 23. bits for the (unsigned) mantissa, and 8 for the (signed) exponent.
 **Double-precision float numbers (doubles)** are the same but use 32 bits.
@@ -95,6 +113,8 @@ We cannot represent 0
 
 ## Arithmetic
 arithmetic operations on floating point numbers **return the float point number that is the best approximation to the true value**
+<!--ID: 1757893915533-->
+
 
 **-0.0** or **0.0** is returned if the result is too close to zero to be represented (**underflow**)
 **Infinity** is returned if the result is too large be represented(**positive overflow**)
@@ -115,6 +135,8 @@ arithmetic operations on floating point numbers **return the float point number 
 3. In Haskell, f(x) == 0.0 will frequently be False even if x is close
 	1. instead use abs (f x) < epsilon
 		1. where epsilon is a very very small number that is not 0. *epsilon can change depending on the context*
+<!--ID: 1757893915534-->
+
 
 
 # Numeric types
@@ -125,6 +147,8 @@ In Haskell:
 3. Float (*32-bit* floating point numbers)
 4. Double (*64-bit* floating point numbers)
 5. Rational (all rational numbers)
+<!--ID: 1757893915537-->
+
 
 > [!NOTE]
 > the arithmetic operations have the same usage but give differing outputs depending on the number type used.

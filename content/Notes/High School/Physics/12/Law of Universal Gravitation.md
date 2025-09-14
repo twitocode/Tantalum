@@ -19,6 +19,8 @@ $$\vec{F}_{g} = \frac{Gm_1m_2}{r^2}$$Gravitational Constant: $G = 1.67\times10^{
 A collection of vectors that determines the magnitude and direction of gravitational force.
 $$g = \frac{Gm_{1}m_{2}}{r^2}$$
 ![[Earth-moon-field.svg.png]]
+<!--ID: 1757893915966-->
+
 
 > [!INFO] Altitude
 > To get the altitude of a satellite:
@@ -29,6 +31,8 @@ $$g = \frac{Gm_{1}m_{2}}{r^2}$$
 $$F_{g} = F_{c}$$
 $$\frac{Gm_{1}m_{2}}{r^2}=\frac{m_{1}v^2}{r}$$
 $$\sqrt{ \frac{Gm}{r} }=v$$
+<!--ID: 1757893915968-->
+
 
 Where $m$ is the mass of the planet the satellite is orbiting around
 Too much speed and it escapes the atmosphere, Too little speed and it will burn up or fall into earth.
@@ -38,12 +42,20 @@ $$F_{g} = F_{c}$$
 $$\frac{Gm_{1}m_{2}}{r^2}=\frac{m_{1}4\pi^2r}{T^2}$$
 $$4\pi^2r^3 = Gm_{2}T^2$$
 $$\sqrt{ \frac{4\pi^2r^3}{Gm} } = T$$
+<!--ID: 1757893915970-->
+
 ### Orbital Radius $r$
 $$\sqrt[3]{ \frac{Gm_{2}T^2}{4\pi^2} } = r$$
+<!--ID: 1757893915972-->
+
 #### Geosynchronous Orbit
 When the orbital period of a satellite is equal to the period of rotation of a planet on its axis
+<!--ID: 1757893915974-->
+
 
 #### Geostationary Orbit
 When a satellite lies in the same plane as the equator
+<!--ID: 1757893915975-->
+
 
 ![[Pasted image 20241205122711.png]]

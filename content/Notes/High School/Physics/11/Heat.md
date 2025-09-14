@@ -28,6 +28,8 @@ TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 | **State**         | Solids                                                                            | Liquids or gases                     | No particles required                |
 | **Heat Transfer** | Collision of atoms. Atoms are heated and gain kinetic energy and vibrate quicker. | Circulating paths of fluids          | Electromagnetic waves                |
 | **Diagram**       | ![[Pasted image 20240503094942.png]]                                              | ![[Pasted image 20240503095014.png]] | ![[Pasted image 20240503095030.png]] |
+<!--ID: 1757893916070-->
+
 
 ## What are Thermal Conductors?
 Allow [[Thermal Energy]] to pass through them easily an quickly

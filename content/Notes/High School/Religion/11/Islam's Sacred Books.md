@@ -11,6 +11,8 @@ TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 ---
 # Islam's Sacred Books
 The three books form the [[Shariah]] law.
+<!--ID: 1757893915896-->
+
 
 ## Qu'ran
 **The direct revealed record of God**. It is the complete, accurate and final book. Best understood in Arabic, "The language of angels".
@@ -34,5 +36,7 @@ E.g. If he taught a prayer or explained a religious practice, his followers woul
 
 ### Comparison to The Sunna
 Hadith **is not** based on first person accounts by Muhammad’s inner circle of followers and authenticity is debated.
+<!--ID: 1757893915899-->
+
 
 

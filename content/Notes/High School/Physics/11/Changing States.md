@@ -11,6 +11,8 @@ TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 
 ![[Pasted image 20240513095003.png]]
 ![[Pasted image 20240513095015.png]]
+<!--ID: 1757893916097-->
+
 
 # Why does the [[Thermal Energy|temperature]] not change during phase changes?
 [[Thermal Energy]] is being transformed into [[Energy|Chemical Potential Energy]] to make or break bonds, not [[Mechanical Energy|Kinetic Energy]], therefore, **the [[Thermal Energy|temperature]] does not change.**

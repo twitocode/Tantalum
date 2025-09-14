@@ -60,6 +60,8 @@ This statement takes place of the owner's equity section on the balance sheet. T
 
 ### Schedule of A/R
 Lists all the company's debtors and all the amounts they owe the company
+<!--ID: 1757893916362-->
+
 
 
 
@@ -67,6 +69,8 @@ Lists all the company's debtors and all the amounts they owe the company
 
 ### Schedule of A/P
 Lists all the company's creditors and all the accounts the company owes them.
+<!--ID: 1757893916365-->
+
 
 
 

@@ -41,10 +41,16 @@ TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 - **They do not follow Muslim rulers, salvation is more individualized**
 - Believe that meditation and prolonged fasts will lead to illumination from Allah
 - The word **sufi means “wool-wearers”** since they wear simple wool robe as a sign of their poverty
+<!--ID: 1757893915799-->
+
 
 ## Imams
 ### Sunni
 The [[Imams]] in the Sunnis are local leaders of prayer
 - Imam is a God-given post that is open only to a descendent of Muhammad through Ali
+<!--ID: 1757893915801-->
+
 ### Shia
 Believed that [[Islam Prophets|Muhammad]] intended to be established a hereditary line of religious leaders called Imams to teach and guide the faithful
+<!--ID: 1757893915803-->
+

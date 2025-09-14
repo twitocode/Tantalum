@@ -29,6 +29,8 @@ Like poles repel
 - Generated in our planet's interior and extends out into space
 - Earth has two sets of poles - **geographic poles** and **magnetic poles**
 - The magnetic poles are relatively close (about 500 km away) from the geographic poles.
+<!--ID: 1757893916052-->
+
 
 ## The Compass
 A magnetized needle is placed on a pivot so that it may rotate freely.

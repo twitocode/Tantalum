@@ -20,6 +20,8 @@ Most of the atom is empty space
 - Although neutrons have no charge, they help to hold the nucleus together.
 - Neutrons add to the strong interaction that holds the nucleus together without adding to the repulsive forces of the positively charged protons
 - **In general, the more protons there are in the nucleus, the higher the proportion of neutrons needed to hold the nucleus together.**
+<!--ID: 1757893916102-->
+
 
 
 > [!INFO] Mass
@@ -33,6 +35,8 @@ Most of the atom is empty space
 ## Atomic Mass Units ($u$)
 The weighted average of all naturally occurring isotopes of the atom
 $1 u = 1.66 \cdot 10^{-27} kg$
+<!--ID: 1757893916105-->
+
 
 | Particle | Mass (kg)         | Mass (u)         |
 | -------- | ----------------- | ---------------- |
@@ -68,8 +72,12 @@ A form of an element that has the same number of protons, but different numbers 
 
 ### Stable Nuclei
 Remain in the same form with the same number of protons and neutrons **forever**
+<!--ID: 1757893916107-->
+
 ### Unstable Nuclei
 Has too few or too many neutrons; The atom will exist for a while, but will eventually break up;
+<!--ID: 1757893916109-->
+
 
 
 > [!INFO] In relation to Mass

@@ -8,3 +8,5 @@ aliases:
 # Tension
 ### Examples
 ![[Pasted image 20240419135039.png]]
+<!--ID: 1757893915982-->
+

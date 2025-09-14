@@ -30,14 +30,20 @@ Young people go through this. It is an intense solitary spiritual experience for
 
 ## Hair
 Long, uncut hair is sacred. Braided Hair has three strands that signify body, mind, and spirit. Cut hair is a sign of mourning.
+<!--ID: 1757893915931-->
+
 ## Death
 Different cultures have their own version of rituals. The **death feast** is help for the spirit of the person who died.
 Ojibwa celebrate the **Feast of Death** each autumn to remember all who died the previous year
 Cree people believe that the spirit remains unchanged and ascends into another realm to join its ancestors.
 The **Wake** is a ceremony for returning the body to Mother Earth
 The **Round Dance** is a ceremony to commune with the spirits who have passed to the spirits of the world.
+<!--ID: 1757893915934-->
+
 ## Harvest Feast (Thanksgiving)
 It recognizes he spirits that acted on their behalf to give them food. It renews the earth with prayers, chants, and dances
+<!--ID: 1757893915936-->
+
 
 ## Powwow
 A Dance of renewal for restoration of right relationships and healing of all creation. It takes place in a circle which is blessed by a spiritual leader.
@@ -50,6 +56,8 @@ Celebrated by peoples of the Prairies in **June or July, during the full moon.**
 Renewal of dedication to the [[Sacred Indigenous People|Great Spirit]]
 Four days before the ceremony, dancers purify themselves and they fast during the four days of the sun dance.
 Final Stage of the rite involves piercing the body and tearing away from the piercing to symbolize a renewal of the quest for the spirit.
+<!--ID: 1757893915939-->
+
 
 ## Potlatch
 It is a giveaway ceremony where families gather, names are given, births are announced, marriages conducted, mourn losses of loved ones, and where a chief passes on rights/privileges to eldest son.

@@ -27,10 +27,16 @@ TARGET DECK: Grade 11::HRT3M1::Unit 2 - Indigenous Spirituality
 
 ## Drums
 They represent the heartbeat of the nation and of Mother Earth. It is also the pulse of the universe. It provides life through beat. They are circular which is a sacred shape.
+<!--ID: 1757893915916-->
+
 ### Uses
 - Various Ceremonies
+<!--ID: 1757893915918-->
+
 ## Eagle Feathers
 Represents power and protection. It symbolizes the power of words and communication
+<!--ID: 1757893915921-->
+
 ### Uses
 - Used in talking circles
 - Whoever holds the feather can speak and the rest must listen

@@ -31,14 +31,20 @@ $\ce{[H_{2}_{(g)}}]$ and $\ce{[I_{2}_{(g)}]}$ decrease as they react to produce 
 3. *At the macroscopic level*, the system does not change (eg. colour, pressure, volume, temperature, concentration)
 4. The system must be closed
 ![[Pasted image 20241231130037.png]]
+<!--ID: 1757893916220-->
+
 
 
 ![[Pasted image 20250106181545.png]]
 In this example, the composition of the mixture is the same no matter which gas you start with
 # Stress
 A change in the environmental conditions of a system ex. Adding heat
+<!--ID: 1757893916222-->
+
 ## Le Chatelier's Principle
 **When an equilibrium is subject to stress, the system reacts to this stress in an attempt to minimize it** (since the system is temporarily unbalanced). This stress cannot be entirely removed but if it is not too great, the system may "settle down" into a new equilibrium state.
+<!--ID: 1757893916225-->
+
 
 ![[sOBQyp.gif]]
 
@@ -48,11 +54,15 @@ A change in the environmental conditions of a system ex. Adding heat
 - Pressure/Volume changes (gaseous systems only)
 - Catalysts
 - Addition of an inert gas
+<!--ID: 1757893916227-->
+
 
 #### Concentration Change
 ___
 $$\ce{Fe^{3+}_{(aq)} + SCN-_{(aq)} <=> FeSCN^{2+}_{(aq)}}$$
 How does increasing $\ce{[SCN-_{(aq)}]}$ affect equilibrium
+<!--ID: 1757893916228-->
+
 
 Single step mechanism:
 $\text{rate}_{\text{(forward)}} = k_1 \ce{[Fe^{3+}_{(aq)}] [SCN-_{(aq)}] }$
@@ -70,9 +80,13 @@ $$\ce{heat + H2(g) + I2(g) <=> 2HI(g)}$$
 	- **The system will react so as to remove as as much heat as possible.** *the forward reaction converts the additional heat into stored energy therefore this reaction takes over.* The equilibrium shifts to the right and $$\ce{[HI] \text{increases}, [H_{2}] \text{decreases}, [I_{2}] \text{decreases}}$$
 2. If the temperature is decreased
 	- The reverse reaction will take over. **This reaction can replace the removed heat by shifting the reaction to the left**
+<!--ID: 1757893916231-->
+
 
 #### Pressure or Volume change
 ___
+<!--ID: 1757893916233-->
+
 ##### Example 1
 $$\ce{3H2(g) + N2(g) <=> 2NH3(g)}$$
 If the volume of the system decreases, the pressure will increase $P \propto  \frac{1}{V}$ (Boyle's Law). **The system will try to move in a direction which will minimize pressure. To do this, the system will try to decrease the total number of particles.** *Since there are 4 particles on the left side (3 $\ce{H2}$ molecules & 1 $\ce{N2}$ molecule) and 2 particles on the right side (2 $\ce{NH3}$ molecules), the reaction will shift to the right.*
@@ -83,11 +97,15 @@ In this case, the number of particles is the same on both sides of the equation 
 ___
 $$\ce{H2(g) + Br2(g) <=> 2HBr(g)} \quad \Delta H < 0$$
 Le Chatelier's principle predicts that the addition of a catalyst will have no impact on the rate of a reaction.
+<!--ID: 1757893916239-->
+
 
 <p style="color: red;">CANNOT COMPLETE YET (note not finished)</p>
 
 #### Addition of Inert Gas
 ___
+<!--ID: 1757893916241-->
+
 
 ##### Example: $\ce{Ar(g) + 3H2(g) + N2(g) <=> 2NH3(g) + Ar(g)}$
 
@@ -95,3 +113,4 @@ ___
 	- The argon causes the container to expand thereby increasing the total volume of the container. As a result, the partial pressure of each component gas decreases ([[Dalton's Law]]). The reaction shifts to the left so as to increase the number of particles.
 3. If the container is rigid.
 	- The argon gas causes the total pressure to increase according to [[Dalton's Law]]. However the partial pressure of each component gas remains the same. As a result , the equilibrium will not be affected.
+<!--ID: 1757893916243-->

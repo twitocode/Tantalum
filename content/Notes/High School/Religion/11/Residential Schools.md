@@ -46,5 +46,7 @@ It documented stories of trauma and tragedy that came out of the residential sch
 Children's hair were cropped and dosed in kerosene.
 Indigenous peoples were broken because of addiction, alcohol, violence, segregation, and lack of social skills.
 Around 150K Indigenous children went to residential schools.
+<!--ID: 1757893915843-->
+
 
 Canada has committed cultural genocide

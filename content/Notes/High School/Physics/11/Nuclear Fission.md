@@ -74,3 +74,5 @@ A series of nuclear fissions that starts with one fission
 reaction that produces free neutrons.
 These neutrons carry away the energy released by fission
 ![[Pasted image 20240514095227.png]]
+<!--ID: 1757893916026-->
+

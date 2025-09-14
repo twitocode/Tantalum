@@ -13,9 +13,13 @@ It is a type of [[Financial Statement]] that records revenue generated and expen
 
 ### Example
 For the month ended September 30, 19--
+<!--ID: 1757893916323-->
+
 
 # Ordering
 The order of the [[Expenses]] does not matter but the [[Revenue]] must be in order of highest value
+<!--ID: 1757893916324-->
+
 
 
 ![[Pasted image 20240318213839.png]]

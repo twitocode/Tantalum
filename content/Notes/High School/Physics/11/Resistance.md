@@ -22,6 +22,8 @@ A device that has a specific resistance value. As charges move through a resisto
 
 ## Ohm's Law
 $$I = \frac{V}{R}$$
+<!--ID: 1757893915992-->
+
 
 | Voltage & Current | Resistance & Current   |
 | ----------------- | ---------------------- |
@@ -31,4 +33,6 @@ $$I = \frac{V}{R}$$
 ## In Parallel Circuits
 The total resistance is always less than any individual resistor.
 $$\frac{1}{R_{T}} = \frac{1}{R_{1}} + \frac{1}{R_{2}} +\dots + \frac{1}{R_{n}}$$
+<!--ID: 1757893915994-->
+
 

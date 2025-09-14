@@ -18,6 +18,8 @@ The rate of electron flow
 $$I = \frac{Q}{\Delta t}$$
 Q is in Coulombs ($6.2 \cdot 10^{-18}$ electrons)
 I = is Amperes (A)
+<!--ID: 1757893916093-->
+
 
 A current of 1A means over 6 billion electrons moving past a point each second.
 

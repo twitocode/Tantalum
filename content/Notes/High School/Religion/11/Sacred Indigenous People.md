@@ -23,6 +23,8 @@ Some thing share a greater quantity of this spirit or energy, while others have 
 
 ## The Trickster
 Important figure in the creation of the world. They're impulsive, a bungler, a joker or buffoon. They act as if there is no moral value. Lastly, they often are pleasure-seaking and troublemakers.
+<!--ID: 1757893915841-->
+
 
 
 ## The Shaman

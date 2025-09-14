@@ -8,6 +8,8 @@ tags:
 American Mathematician
 Developed **Combinatory Logic** which is a system for defining and using functions, you can define a function and use them without variables
 - normally we would do this $f(x) = x^2$ but this function requires variables
+<!--ID: 1757893915577-->
+
 
 **Curry-Howard Correspondence** was a way of merging logic and programming together so that proofs and programs are equivalent to each other.
 
@@ -41,6 +43,8 @@ add 2 3    -- gives 5
     → _2 + 2 = 5._
 - But notice: by accepting $x$ as true, we are automatically forced to accept the conclusion (_2 + 2 = 5_).
 - **This is a problem because it means that in logic and math, we can prove anything we want even when things are false, then the entire system we created becomes useless**
+<!--ID: 1757893915579-->
+
 
 **Liar Paradox** says that if $A\equiv \neg A$ which means "A is true if and only if A is false", then if A is true, then it must be false, and if A is false, then it must be true. 
 - This is a contradiction, *it is stuck in a loop*
@@ -51,19 +55,27 @@ add 2 3    -- gives 5
 - This paradox revealed fundamental flaws in early naive set theory and led to more rigorous axiomatic set theories.
 ## What do computers do?
 They store and manipulate information. 
+<!--ID: 1757893915582-->
+
 
 ## How do you control computers?
 A sequence of statements called *programs*
+<!--ID: 1757893915584-->
+
 
 ## why are computers so useful?
 1. *Hardware* enables a large amount of data to be store and manipulated fast
 2. *Software* provides the ability to controls hardware with a lot of control and flexibility. 
+<!--ID: 1757893915586-->
+
 
 ## Declarative and Imperative
 
 **Imperative Statements** express an action to be performed
 **Declarative Statements** express a property to be employed
 - say what should be true, not how to make it true.
+<!--ID: 1757893915589-->
+
 
 **Imperative Programs** are a sequence of imperative statements that express *how* a program will work
 - Do this, then this, then this, then tell me the result
@@ -73,6 +85,8 @@ A sequence of statements called *programs*
 
 ## Programming Paradigms
 **Programming paradigm**: a well-developed style of programming. 
+<!--ID: 1757893915592-->
+
 
 **Procedural**: Programs are *imperative*; a program is a collection of procedures that could have *side-effects*
 
@@ -93,16 +107,22 @@ A sequence of statements called *programs*
 - uses a virtual machine that can be interpreted or compiled
 - programs are portable
 - byte code is slower than machine code.
+<!--ID: 1757893915595-->
+
 
 ## Syntax vs Semantics
 1. **Syntax**: The raw symbols you type — their structure and placement.  
 2. **Semantics**: The meaning of each symbol — what each represents.  
+<!--ID: 1757893915598-->
+
 ### Example: `2 + 3`
 - Symbols: `2`, `+`, `3`, and even the whitespace are all **syntax**.
 - Each symbol has **semantics**:
   - `2` → a numeral symbol (syntax) that represents the number two (semantics/value) 
   - `3` → a numeral symbol (syntax) that represents the number three (semantics/value)  
   - `+` → a symbol (syntax) that denotes addition (semantics)
+<!--ID: 1757893915600-->
+
 
 This shows how the expression `2 + 3` is **more than just symbols**:  
 - Syntax gives **form**,  
@@ -110,6 +130,8 @@ This shows how the expression `2 + 3` is **more than just symbols**:
 ## Values
 information (data) stored and manipulated by computer programs
 - booleans, machine integers (small integers), floating point numbers (scientific notation rational numbers), strings, types, lists, functions
+<!--ID: 1757893915602-->
+
 
 ## Expressions
 A syntactic entity that *denotes a value*, they are not the value itself but specifies how to get a value
@@ -120,6 +142,8 @@ True && y
 ```
 **Atomic Expressions** are an identifier - $x$ or $rotateHorse$. 
 **Literals** are an expression in which its form literally tells you its value -  2.3, "cat", True
+<!--ID: 1757893915605-->
+
 
 **Compound expressions** are formed by applying a *function* or *operator* to other expressions. 
 - ex. abs 10 
@@ -128,6 +152,8 @@ True && y
 
 ## Types
 A syntactic entity that denotes a collection values of a similar form
+<!--ID: 1757893915607-->
+
 
 | Type              | Denotion                                 |
 | ----------------- | ---------------------------------------- |
@@ -144,12 +170,18 @@ Expressions in Haskell are *type checked*
 
 ### Integer vs Int
 Integers grow until memory runs out and are much slower, Int has a domain of $-2^{31}  \leq x \leq 2^{31}$
+<!--ID: 1757893915608-->
+
 
 # The math-y side of Functional Programming
 **Everything is all about sets**
+<!--ID: 1757893915610-->
+
 
 ## A side-tangent, What is Proof by Induction?
 It’s a method to prove that a statement is true for **all natural numbers** (1, 2, 3, …).
+<!--ID: 1757893915613-->
+
 
 Think of it like **dominoes falling**
 - If the first domino falls (base case), and
@@ -173,6 +205,8 @@ If both steps succeed, then $P(n)$ is true for all $n \geq n_0$.
 
 ## Functions
 there are different definitions for functions
+<!--ID: 1757893915614-->
+
 
 ### unary function
 As a Rule
@@ -189,6 +223,8 @@ As a Value
 		- The set of valid inputs (**the Domain D**) is a subset of the set of all theoretically possible inputs
 		- The set of actual outputs (**the Range R**) is a subset of the set of all theoretically possible outputs.
 	- $x \subseteq y$ *means x is a subset of y*
+<!--ID: 1757893915616-->
+
 
 ### n-Ary Functions
 As a Rule
@@ -198,6 +234,8 @@ As a Rule
     - ex - Division can be a binary function (n=2): $div : \mathbb{R}, \mathbb{R} \to \mathbb{R}$ where the input list $(x, y)$ maps to the output $x/y$.
 	- *Some lists of inputs may not be associated with an output.*
 	- In the division example, the input list (5, 0) **is not associated with any output because division by zero is undefined.**
+<!--ID: 1757893915619-->
+
 
 As a Value
 - An n-ary function is a set of ordered tuples. *Each tuple consists of $n$ inputs followed by one output.*
@@ -226,6 +264,8 @@ As a Value
 ## Cardinality & Undecidability
 **Cardinality $|A|$** is the size of set $A$
 - **Cardinal Numbers:** Used to represent the cardinality of sets (essentially normal numbers)
+<!--ID: 1757893915623-->
+
 
 **Total** = D = I, the domain is the whole set of inputs, the function is defined in every input
 - in computing we don't assume that all functions are total
@@ -263,6 +303,8 @@ States that for any consistent axiomatic system powerful enough to describe arit
 - Gödel showed:
 	- **No matter how good your rulebook is**, there will always be some statements that are true but **cannot be proven** using the rules inside the book.
 	- And the rulebook **cannot prove its own consistency** (that it never leads to contradictions).
+<!--ID: 1757893915626-->
+
 ## Representing n-ary functions as unary functions
 1. As a function of tuples $f: I_{1}, \dots, I_{n} \to O$ is represented as
 	- $f' : I_{1} \times \dots \times I_{n} \to O$
@@ -279,6 +321,8 @@ States that for any consistent axiomatic system powerful enough to describe arit
 		- it went from multiple inputs to a chain of one input
 		- "$\cdots$" is the chain of function calls
 	- **GO TO THE DEFINITON FROM BEFORE**
+<!--ID: 1757893915629-->
+
 
 # Haskell-ing
 Functions in Haskell are usually in the curry-ed form
@@ -292,6 +336,8 @@ $i$ is input
 $t$ is the type (string, bool, int, etc)
 $p$ is format parameter of the definition that represents the inputs to the function $f$
 $e$ is an expression that is result, defined in terms of the formal parameteres.
+<!--ID: 1757893915632-->
+
 
 
 But they can also be defined as tuples
@@ -320,3 +366,5 @@ Example:
 - *State change* and *data mutation* are avoided as much as possible
 - **The focus is on what instead of how**
 	- The implementation takes care of the how
+<!--ID: 1757893915634-->
+

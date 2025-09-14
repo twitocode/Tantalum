@@ -19,9 +19,13 @@ TARGET DECK: Grade 11::SPH3U1::Unit 2 - Forces
 2. Cause objects to speed up, slow down, change direction, or stay still
 3. Compress, stretch, or twist matter
 4. A Vector Quantity
+<!--ID: 1757893916080-->
+
 ## Measuring Forces
 The unit of force is the newton ($N$)
 $1N$ = $kg * m/s^2$
+<!--ID: 1757893916082-->
+
 
 ## Everyday forces
 
@@ -61,6 +65,8 @@ $$\vec{F}_{g} = m\vec{g}$$
 $\vec{F}_{g}$ is the force of [[Gravity]] in newtons ($N$),
 $m$ is the [[Gravity|mass]] in $kg$.
 $\vec{g}$ is the gravity constant ($9.8N/kg$ [Down])
+<!--ID: 1757893916084-->
+
 ## Free Body Diagrams (FBD)
 A simple drawing representing the object being analyzed and all the forces acting on it.
 **NOT THE FORCES IT EXERTS ON OTHER OBJECTS.**
@@ -77,9 +83,13 @@ A simple drawing representing the object being analyzed and all the forces actin
 > A desk is pushed to the left across the floor.
 >
 > ![[Pasted image 20240325094604.png]]
+<!--ID: 1757893916087-->
+
 ## Calculating Net Forces
 Net Force ($\vec{F}_{net}$) is the combined forces of a single object.
 Horizontal and vertical forces are calculated seperately
+<!--ID: 1757893916089-->
+
 ## The Four Fundamental Forces
 
 ### Strong Force
@@ -111,6 +121,8 @@ Relative Strength - $10^{-5}$
 
 ### [[Gravity]]
 Attracts objects due to their mass
+<!--ID: 1757893916090-->
+
 
 Range - Infinite
 Relative Strength - $6\cdot 10^{-39}$

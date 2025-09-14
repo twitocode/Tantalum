@@ -6,3 +6,5 @@ tags:
 ---
 # T-Account
 Simplest form of an account. They allow the accountant to record [[Transactions]] as they occur.
+<!--ID: 1757893916274-->
+

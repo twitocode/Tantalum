@@ -41,6 +41,8 @@ Ishmael is the ancestor of the Arab people and his descendants were loved and bl
 
 ### Isaac
 Isaac is the ancestor of the Jews, and other Israelites of the other 11 tribes and his descendant were loved and blessed by God, but in a different way for a different purpose
+<!--ID: 1757893915883-->
+
 
 
 ### Jacob (Israel)

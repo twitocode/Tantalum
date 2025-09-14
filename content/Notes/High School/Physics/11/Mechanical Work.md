@@ -25,10 +25,14 @@ $$W = F\Delta d$$
 ### When Force and Displacement are in different directions
 $$ W = F\cos \theta \Delta d$$
 ![[Pasted image 20240428124912.png]]
+<!--ID: 1757893916044-->
+
 
 
 ### Zero Work
 The work done by a force is **zero** when
+<!--ID: 1757893916046-->
+
 
 1. The **displacement is 0**
 2. The **force is 0** (not even friction)

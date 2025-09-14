@@ -35,6 +35,8 @@ A period of seven day's formal mourning for the dead. Beginning immediately afte
 
 ## Tzitzit
 ![[Pasted image 20240604095406.png]]
+<!--ID: 1757893915879-->
+
 
 ## Yarmulke/Kippah
 skull cap worn as a sign of identity and to show reverence and respect, particularly in a house of worship.

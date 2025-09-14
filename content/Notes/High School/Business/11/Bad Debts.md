@@ -48,6 +48,8 @@ A contra asset account that reduces [[Accounts Receivable]]. Found in the [[Clas
 |          | 300         |             |                   |                    |                   | 300              |
 |          | 200         |             |                   | 200                |                   |                  |
 | Total    | 2500        | 800         | 180               | 2020               | 1000              | 300              |
+<!--ID: 1757893916384-->
+
 
 ## Estimated Bad Debts
 
@@ -59,10 +61,14 @@ A contra asset account that reduces [[Accounts Receivable]]. Found in the [[Clas
 | 61-90 Days                 | 1000   | 20%                                             | 200                |
 | +90 Days                   | 300    | 50%                                             | 150                |
 | Total                      | 2500   |                                                 | 387.50             |
+<!--ID: 1757893916385-->
+
 
 ## Methods for  dealing with Estimates
 ### Balance Sheet Method
 Must **take into consideration any amount that is in the allowance for bad debts accounts** already before making the adjustments for Bad Debts
+<!--ID: 1757893916388-->
+
 
 > [!INFO] TLDR
 > Allowance for Bad Debts is **Credit** = Subtract it
@@ -78,10 +84,14 @@ To Bring Allowance for bad Debts = $3000
 
 ### Income Statement Method
 Ignore what is in Allowance For Bad Debts.
+<!--ID: 1757893916390-->
+
 
 
 ## Write-Offs
 When a company realizes that it will never collect payment from a customer
+<!--ID: 1757893916392-->
+
 
 | Allowance for Bad Debts |     | $80 |     |
 | ----------------------- | --- | --- | --- |
@@ -90,6 +100,8 @@ When a company realizes that it will never collect payment from a customer
 ### What about when they do pay?
 
 Reverse write-off
+<!--ID: 1757893916393-->
+
 
 | A/R |                         | $80 |     |
 | --- | ----------------------- | --- | --- |

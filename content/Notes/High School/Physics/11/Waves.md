@@ -49,6 +49,8 @@ The material through which a mechanical wave travels. (Solid, Liquid, Gas)
 | Solid | LIquid    | Gas |
 | ----- | --------- | --- |
 | High  | very good | Low |
+<!--ID: 1757893915978-->
+
 
 ## Transverse Waves
 The direction of the wave is perpendicular to the motion of the source

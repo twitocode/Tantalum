@@ -97,3 +97,5 @@ $$^3_{2}He ^\star \to ^{3}_{2}He + ^0_{0}\gamma$$
 
 ### Gamma ray
 highly energetic form of electromagnetic radiation emitted as a photon (high energy particle with no mass)
+<!--ID: 1757893915996-->
+

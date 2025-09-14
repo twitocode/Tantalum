@@ -50,6 +50,8 @@ Muslims have to complete the pilgrimage (Go to Mecca) once in a lifetime. Only t
 
 ### Men's Clothing
 Two seamless garments made from white cloth.
+<!--ID: 1757893915956-->
+
 ### Women's Clothing
 Clothes that conceal their bodies and their hair, leaving their faces and hands uncovered.
 **This reminds Men and Women that they will leave all material things in death.**

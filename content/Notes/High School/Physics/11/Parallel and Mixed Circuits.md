@@ -16,3 +16,5 @@ Has more than one path for current to follow. If one load stops working, the res
 
 ## Junctions
 The point at which the paths split.
+<!--ID: 1757893916013-->
+

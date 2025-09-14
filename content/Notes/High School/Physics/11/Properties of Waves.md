@@ -59,6 +59,8 @@ $$f = \frac{\text{Number of cycles}}{\text{Unit time (s)}}$$
 
 ### Hertz ($hz$)
 Cycles per second
+<!--ID: 1757893915998-->
+
 
 ## Period ($T$)
 The time taken for a vibrating particle to complete one cycle (seconds)

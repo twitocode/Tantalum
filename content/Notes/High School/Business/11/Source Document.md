@@ -43,6 +43,8 @@ Received when items are purchased
 
 ## Purchase and Sales Invoices
 Copies 1 and 2 of a sales invoice are called the "purchase invoice" by the buyer. Consequently, the same source document represents a sales invoice to the "**Seller"** and it represents a purchase invoice to the **"Buyer"**
+<!--ID: 1757893916275-->
+
 
 ## More types
 
@@ -79,6 +81,10 @@ e.g. Service charges
 
 ## Should Debit and Credit Memos be swapped?
 **Look at it from the bank's perspective.** Our money represents a liability to the bank. It owes it back to us - therefore when our bank account goes up, the bank owes us **more** and therefore their liability goes up; therefore credit
+<!--ID: 1757893916279-->
+
 
 ## Security
 All source documents are prenumbered and must be accounted for. This is an [[Internal Control]] procedure because it prevents theft by employees.
+<!--ID: 1757893916281-->
+

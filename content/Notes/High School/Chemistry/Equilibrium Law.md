@@ -22,6 +22,8 @@ $$
 [\ce{HI}] &= 1.02 \ \mathrm{mol/L}
 \end{align*}
 $$
+<!--ID: 1757893916203-->
+
 
 > [!IMPORTANT] 
 > Only equilibrium concentrations can be substituted into equilibrium law
@@ -69,6 +71,8 @@ $$
 
 ## Significance of different $K_{eq}$ values
 $$\ce{A + B <=> C + D}$$ $$K_{eq} = \frac{[C][D]}{[A][B]}$$If $K_{eq}$​ is very large, **the equilibrium must lie far to the right since product concentrations must be greater than reactant concentrations** for the numerator to be greater than the denominator in the equilibrium law.
+<!--ID: 1757893916206-->
+
 
 If $K_{eq}​$ is very small, **the equilibrium must lie far to the left since reactant concentrations must be greater than the product concentrations** for the denominator to be greater than the numerator in the equilibrium law.
 
@@ -82,6 +86,8 @@ When $K_{eq}$​ = 1, **the equilibrium does not lie in any particular direction
    **Increasing the temperature causes the equilibrium to shift to the right as predicted by Le Chatelier's Principle**. This increases the concentration of the products $B + C$. Therefore for endothermic reactions, $K_{eq}$ increases as temperature increases and decreases if temperature decreases
 2. For the reaction $\ce{A + B <=> C + \text{heat}}$
    **Increasing the temperature causes the equilibrium to shift to the left**. This increases the concentration for the reactant $A$. Therefore, for exothermic reactions, $K_{eq}$ increases as the temperature decreases and decreases if the temperature increases. 
+<!--ID: 1757893916207-->
+
 
 
 | Type of Reaction | Temperature Change | $K_{eq}$ change |
@@ -94,6 +100,8 @@ When $K_{eq}$​ = 1, **the equilibrium does not lie in any particular direction
 # Solids and Liquids in equilibrium?
 **Heterogenous Systems**: one which involves a reaction between 2 or states of matter.
 **Homogenous Systems**: a reaction where all participants are present in the same state.
+<!--ID: 1757893916209-->
+
 
 $$\ce{CaCO_{3(g)} <=> CaO_{(s)} + CO_{2(g)}} $$
 $$K_{eq} = \frac{[CaO_{(s)}][CO_{2(g)}]}{[CaCO_{3(s)}]}$$

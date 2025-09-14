@@ -36,3 +36,5 @@ $L_{v}$ is the specific latent heat of vaporization (J/kg)
 
 # Examples
 ![[Pasted image 20240513095641.png]]
+<!--ID: 1757893916062-->
+

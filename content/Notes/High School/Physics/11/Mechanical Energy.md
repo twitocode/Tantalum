@@ -25,6 +25,8 @@ $$E_{k} = \frac{1}{2} mv^2$$
 ## The Relationship Between [[Mechanical Work]] and Kinetic Energy
 $$W = \Delta E_{k}$$
 $$W = E_{k_{f}} - E_{k_{i}}$$
+<!--ID: 1757893916049-->
+
 
 
 ## Work-Energy Principle

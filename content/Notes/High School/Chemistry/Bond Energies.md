@@ -18,12 +18,16 @@ aliases:
 ### Trends in Bond Energies
 1. Multiple bonds are generally stronger than single bonds
 2. As the number of bonds increases, the bond length shortens
+<!--ID: 1757893916245-->
+
 
 ![[Pasted image 20241207125716.png]]
 
 # What happens in a reaction?
 1. The bonds in the reactants break first. For bonds to be broken, energy must be added (endothermic). 
 2. Then new bonds are made in the products which releases energy (exothermic)
+<!--ID: 1757893916248-->
+
 
 $\Delta H=$ 
 	sum of energies required to break old bonds **-** 

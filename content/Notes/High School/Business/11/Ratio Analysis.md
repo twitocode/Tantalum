@@ -91,6 +91,8 @@ $$\frac{\text{Net Income}}{\text{Net Sales}} \cdot 100$$
 ## Rate of Return on Average Owner's Equity
 ### Step 1
 $$\text{Average OE} = \frac{\text{Beginning OE + Ending OE}}{2}$$
+<!--ID: 1757893916296-->
+
 ### Step 2
 $$\text{Rate of Return on Average OE} = \frac{\text{Net Income}}{\text{Average OE}} \cdot 100$$
 The rate of return should be higher than the rate of return an owner could receive from other forms of investments (Stock Market, Deposits in Bank, Bonds)

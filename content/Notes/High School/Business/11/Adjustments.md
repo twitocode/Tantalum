@@ -30,6 +30,8 @@ Prepaid Rent -> Rent Expense
 ## Supplies
 Must be adjusted because over the [[Fiscal Period]] some supplies are used up.
 Supplies -> Supplies Expense
+<!--ID: 1757893916397-->
+
 
 # Depreciation
 The loss of value of a Fixed asset over a period of time
@@ -39,6 +41,8 @@ The loss of value of a Fixed asset over a period of time
 ## Accounts
 Depreciation Expense - Equipment
 Accumulated Depreciation - Equipment
+<!--ID: 1757893916399-->
+
 
 Accumulated Depreciation
 A **contra asset**, it reduces the original value of a fixed asset and is recorded on the balance sheet.

@@ -7,6 +7,10 @@ MOC: "[[Studying MOC 1]]"
 
 >[!Summary]
 >
+<!--ID: 1757893915773-->
+
 
 ### Important things to know
 1. Do not make summaries of your notes, it is not worth the time. Instead, you show make questions about your notes. Then when you ask yourself a question, you are engaging your brain with [[Active Recall]].
+<!--ID: 1757893915775-->
+

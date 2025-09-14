@@ -13,6 +13,8 @@ Develop a system of [[Internal Control]] to ensure that correct data is entered 
 Ensure that [[Accounting Standards|GAAPs]] or [[Accounting Standards|IFRS]] are followed.
 Prepare Financial Reports.
 Supervise the work of other accounting employees.
+<!--ID: 1757893916410-->
+
 
 ## Accounting Clerks (Bookkeepers)
 Ensures that all [[Transactions]] are recorded properly.
@@ -20,8 +22,12 @@ Ensures that supporting documents provide proof of the transactions.
 Records transactions in the journal and balances the [[Ledger]].
 Does the accounting related to payroll and prepares payroll cheques.
 Completes all necessary banking transactions.
+<!--ID: 1757893916412-->
+
 
 ## Replacing Accountants
 Computers cannot replace accountants because they can't analyze information, problem solve, and make decisions
+<!--ID: 1757893916414-->
+
 
 Investors and Shareholders can benefit from the information produced by accountants

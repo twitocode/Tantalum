@@ -4,6 +4,8 @@
 
 >[!Summary]
 >Second Brains are used to solve the problem of **information overload**
+<!--ID: 1757893915778-->
+
 
  The easiest solution to information overload is to write down what we consume. Most of us do not think about writing things down because "I will just remember it".
 

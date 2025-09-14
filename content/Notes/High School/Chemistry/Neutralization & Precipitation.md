@@ -8,6 +8,8 @@ aliases:
 ---
 # Predicting Precipitation Formation
 Solubility curves are used in chemical applications to determine whether a reaction will result in the formation of a precipitate. For example,
+<!--ID: 1757893916190-->
+
 
 $\ce{Ag+ + Cl- <=> AgCl_{(s)}}$
 
@@ -19,6 +21,8 @@ This curve gives all the possible combinations of concentrations which are likel
 
 # Example 1
 50.0 mL of both 0.100 mol/L $\ce{Pb(NO3)2}$ and 0.015 mol/L KI solutions are mixed together. A yellow precipitate forms. Determine the type of precipitate formed in a quantitative manner.
+<!--ID: 1757893916193-->
+
 
 Solution:
 $\ce{Pb(NO3)2_{(s)} -> Pb^{2+}_{(aq)} + 2NO3^-_{(aq)}}$
@@ -67,6 +71,8 @@ If the product of $[\ce{Pb^{2+}}]$ and $[\ce{I^-}]^2$ was less than $K_{sp}$, no
 
 # Example 2
 Should precipitation occur when 50.0 mL of 5.00 × 10^-4 mol/L calcium nitrate solution is mixed with 50.0 mL of 2.00 × 10^-4 mol/L sodium fluoride solution. The $K_{sp}$ for calcium fluoride is 1.7 × 10^-10 (mol/L)^3.
+<!--ID: 1757893916196-->
+
 
 Solution:
 - $\ce{NaNO3}$ is not likely to precipitate according to solubility rules.

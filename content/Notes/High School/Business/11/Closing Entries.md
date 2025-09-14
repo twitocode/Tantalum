@@ -13,6 +13,8 @@ TARGET DECK: Grade 11::BAF3M1::Unit 4
 
 # Closing Entries
 When one [[Fiscal Period]] ends and a new one begins, the revenue, expense, and drawings should show zero balances so that in the new [[Fiscal Period]], these accounts only contain data pertaining to that period.
+<!--ID: 1757893916345-->
+
 
 ## Purpose of Closing Entries
 It reduces the revenue, expense, and drawings accounts to zero so that they are ready for the next fiscal period.
@@ -51,16 +53,24 @@ Accounts with balances that are carried from [[Fiscal Period]] to the next. They
 
 ## Close all Expense accounts into the Income Summary
 A compound journal entry can be used to close all the expense accounts at once
+<!--ID: 1757893916347-->
+
 ## Close all Revenue accounts into the Income Summary
 A compound journal entry can be used to close all the revenue accounts at once
+<!--ID: 1757893916350-->
+
 ## Close the Income Summary account into the Capital Account
 
 > [!ERROR] Make a Quick T-Account
 >  The account balance in the income summary account is not the net income/loss for the [[Fiscal Period]] and it will affect the closing entry
+<!--ID: 1757893916353-->
+
 
 
 ## Close the Drawings account into the Capital Account
 This entry decreases the capital account and while at the same time reduces the drawings account to zero
+<!--ID: 1757893916356-->
+
 
 > [!ERROR] DOUBLE UNDERLINE THE LEDGER ACCOUNTS WITH A ZERO BALANCE
 

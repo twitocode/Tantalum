@@ -22,3 +22,5 @@ The customs, and civil laws of each country or culture influence how the shariah
 
 # Fatwa
 **A religious edict (a decree or order) on Islamic law** delivered by a learned scholar versed in Qur’an, Hadith, and other sources. Can be about any matter from a difficult legal problem to an everyday issue
+<!--ID: 1757893915819-->
+

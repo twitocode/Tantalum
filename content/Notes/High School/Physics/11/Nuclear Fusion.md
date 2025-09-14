@@ -19,6 +19,8 @@ A nuclear reaction in which the nuclei of two atoms fuse to form another element
 
 ## Nuclear Stability
 The higher the binding energy, the more stable the nucleus is. (iron-56 is the most stable, with the most tightly bound nucleus).
+<!--ID: 1757893916019-->
+
 
 ![[Pasted image 20240514140834.png]]
 
@@ -39,9 +41,13 @@ $$4(^1_{1}H) \to ^4_{2}He + 2(^0_{+1}e) + energy$$
 
 #### Nucleosynthesis
 The process of forming larger elements from smaller ones via nuclear fusion is known as nucleosynthesis.
+<!--ID: 1757893916022-->
+
 
 ### Carbon-Nitrogen-Oxygen Cycle
 Occurs in stars that are significantly larger and hotter than the Sun
 A carbon-12 nucleus undergoes a number of nuclear reactions involving fusion and decay.
 $$^{12}_{6}C \to ^{13}_{7}N \to ^{13}_{6}C \to ^{14}_{7}N \to ^{15}_{8}O \to ^{15}_{7}N \to ^{12}_{6}C + ^4_{2}He$$
+<!--ID: 1757893916024-->
+
 

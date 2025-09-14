@@ -25,6 +25,10 @@ the amount of electrical energy used is usually measured in kilowatt hours ($kWh
 
 ### Electrical Energy
 $$\Delta E = P \Delta t$$
+<!--ID: 1757893916001-->
+
 ### Cost
 $$\cos t = \Delta E \cdot rate$$
 ![[Pasted image 20240430101059.png]]
+<!--ID: 1757893916004-->
+

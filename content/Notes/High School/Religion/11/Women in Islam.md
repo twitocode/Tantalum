@@ -10,6 +10,8 @@ TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 ---
 # Women in Islam
 Islam is one of the most progressive supporters of women's liberation. It is why Islamic women support Muhammad's vision
+<!--ID: 1757893915791-->
+
 
 In the [[Islam's Sacred Books|Qu'ran]], **men and women are equal**
 
@@ -22,6 +24,8 @@ Women wear **hijab**, loose fitting clothes, and ankles and wrists should be cov
 
 ## Veils (Hijab)
 Arabic word for cover, a scarf that covers most or all a women’s hair
+<!--ID: 1757893915793-->
+
 
 
 
@@ -32,3 +36,5 @@ When Muslim women cover themselves, **they put themselves on a higher level and 
 
 ## Divorce
 It is allowed, Talaq is male initiated divorce, Khul is female initiated divorce.
+<!--ID: 1757893915795-->
+

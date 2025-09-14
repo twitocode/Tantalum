@@ -11,6 +11,8 @@ aliases:
 # Islam Concepts
 ## Jihad
 The struggle against anything that distracts one from receiving Allah or acting in accordance with Allah's will.
+<!--ID: 1757893915909-->
+
 
 ## Tawba
 A four-step process of repentance
@@ -18,6 +20,10 @@ A four-step process of repentance
 2. Repent of one’s action to God by saying, “My Lord forgive me”
 3. Make restitution for the sin if possible
 4. Resolve never to do the sin again.
+<!--ID: 1757893915911-->
+
 
 ## Salam
 "**and upon you be peace**"
+<!--ID: 1757893915914-->
+

@@ -42,11 +42,15 @@ Area under the graph during the time interval is [[Velocity]]
 ## Motion in two Directions
 ![[Pasted image 20240326131303.png]]
 [E 20° N] is the same thing as [N 70° E], the former is preferred.
+<!--ID: 1757893916031-->
+
 
 ### Steps
 1. Find component vectors and take the sum of them
 2. Find [[Distance]] using Pythagorean's Theorem
 3. Find angle using SOH CAH TOA
+<!--ID: 1757893916033-->
+
 
 ### Formulas for Motion in 2 directions
 $$ \Delta \vec{d}_{x} = \Delta \vec{d} \cos \theta$$
@@ -88,8 +92,14 @@ $\Delta t$ is the same for both horizontal and vertical motion
 #### When the projectile is lauched Horizontally
 
 ![[Pasted image 20240327084537.png]]
+<!--ID: 1757893916038-->
+
 #### When the projectile is launched with no vertical displacement
 ![[Pasted image 20240327084552.png]]
+<!--ID: 1757893916040-->
+
 
 #### When the projectile is launched with vertical displacement **EXAM QUESTION**
 ![[Pasted image 20240327084608.png]]
+<!--ID: 1757893916042-->
+

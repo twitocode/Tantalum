@@ -61,9 +61,12 @@ no cheatsheet given
 | **Nov. 24-30** | | Ch. 12 | MyLab Ch. 12 due |
 | **Dec. 1-4** | | Ch. 13 | MyLab Ch. 13 due |
 | **Exam Period** | TBA | Final Exam (Cumulative) | |
+<!--ID: 1757893915343-->
+
 ## Lectures
 ![[University/Year 1/ECON 1BB3/Lectures.base]]
 
 ## Things i do not understand
 ![[Pasted image 20250907145524.png]]
 MyLab Graphing #2 - Why is it that quantity can be dependant on price that makes no sense graphing wise.
+<!--ID: 1757893915347-->

@@ -24,6 +24,8 @@ concentration is either appearing (positive rate) or dissapearing(negative rate)
 ---
 ### Reaction Co-ordinate Diagram for the Formation of HBr
 ![[Pasted image 20241207152424.png]]
+<!--ID: 1757893916174-->
+
 
 **Activation Energy $E_{A}$**: the minimal starting energy (as $E_k$ changes to $E_P$) that the reactant molecules must have in order to undergo and *effective collision* and produce a reaction
 
@@ -52,11 +54,15 @@ concentration is either appearing (positive rate) or dissapearing(negative rate)
 
 # Collision Rate Theory
 for a reaction to occur, two particles must collide. Reactants must also have enough kinetic energy and collide at a certain orientation. 
+<!--ID: 1757893916176-->
+
 
 ![[Pasted image 20241207143700.png]]
 
 # Factors that affect the rate of reaction
 The first 4 are for **homogenous systems (reactants and products are present in the same phase)**
+<!--ID: 1757893916178-->
+
 
 ## Temperature
 TLDR - Increasing the temperature of the reactants increases the rate of reaction 
@@ -64,8 +70,12 @@ TLDR - Increasing the temperature of the reactants increases the rate of reactio
 Increasing Temperature also increases the total number of collisions/second. 
 - The likelihood of effective collisions will also increase since more collisions will increase the number of geometrically effective collisions.
 - **Effects endothermic reactions more than exothermic**
+<!--ID: 1757893916180-->
+
 ## Nature of Reactants
 TLDR - Increasing the complexity of reactants (more bonds) decreases the rate of reaction
+<!--ID: 1757893916181-->
+
 
 ![[Pasted image 20241207152715.png]]
 
@@ -73,6 +83,8 @@ TLDR - Increasing the complexity of reactants (more bonds) decreases the rate of
 ## Concentration
 TLDR - Increasing concentration of the reactants increases the rate of reaction
 - This is because there are more particles present.
+<!--ID: 1757893916183-->
+
 
 More particles = more collisions
 more collisions = more effective collisions
@@ -81,6 +93,8 @@ more effective collisions = higher rate of reaction
 
 ## Catalyst
 A chemical which speeds up a reaction by lowering the activation energy $E_A$. It does not participate in the reaction. It acts as a surface for where the reaction can take place.
+<!--ID: 1757893916185-->
+
 
 ![[Pasted image 20241207154739.png]]
 
@@ -93,6 +107,8 @@ TLDR - Adding a catalyst increases the rate of reaction
 
 # Surface Area
 TLDR - Increasing surface area of reactants increases the rate of reaction
+<!--ID: 1757893916188-->
+
 
 ![[lesson-plan-reaction-rates-surface-area.png]]
 

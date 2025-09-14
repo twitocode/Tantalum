@@ -55,6 +55,8 @@ A **field** is an influence on a suitable object over a region of space, whether
 
 # Gravity Constant Near Earth
 $$ \vec{g} = -9.8 m/s^2 $$
+<!--ID: 1757893916072-->
+
 
 ## Gravitational Field Strength
 It is the gravitational force per unit mass. It decreases as an object is moved farther away from earth's surface.
@@ -78,3 +80,5 @@ If the object is on a ramp of some kind, then the normal force does not equal gr
 
 ### Examples
 ![[Pasted image 20240419134651.png]]
+<!--ID: 1757893916074-->
+
