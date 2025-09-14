@@ -91,3 +91,16 @@ Since $(0.1)_{10} = (0.000110011000\dots)$ in base 10, 0.1 cannot be represented
 We cannot represent 0
 
 ## Arithmetic
+arithmetic operations on floating point numbers **return the float point number that is the best approximation to the true value**
+
+**-0.0** or **0.0** is returned if the result is too close to zero to be represented (**underflow**)
+**Infinity** is returned if the result is too large be represented(**positive overflow**)
+**-Infinity** is returned if the result is too small to be represented (**negative 
+**NaN** or not a number is returned if the result is not defined (**√-1**) 
+
+> [!NOTE]
+> Float point numbers can produce inaccurate or insane results because of the lack precision
+> ___
+> addition and multiplication are not associative
+> - $(a + b) + c = a + (b + c)$
+> - $(a \times b) \times c = a \times (b \times c)$
