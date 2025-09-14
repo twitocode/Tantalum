@@ -145,6 +145,7 @@ Integers grow until memory runs out and are much slower, Int has a domain of $-2
 ## Functions
 there are different definitions for functions
 
+### n-ary function
 As a Rule
 - $f : I \to O$ that associates members of I (inputs) with members of O (outputs)
 	- ex - $f : \mathbb{Z} \to \mathbb{Q}$ where $x \mapsto 1/x$
@@ -152,4 +153,7 @@ As a Rule
 	- in the function earlier, 1/0 is undefined so there is no output
 As a Value
 - A function is a set of ordered pairs of inputs and outputs
--  
+- **u-nary function** is a set $f \subseteq I \times O$ such that if $(x, y) \in f$ and $(x, y') \in f$ then $y=y'$. 
+	- Each function $f$ has a **domain** $D \subseteq I$ and a **range** $R \subseteq O$.
+	- 
+	- *$\subseteq$ means **subset of*** 
