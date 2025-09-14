@@ -147,6 +147,30 @@ Integers grow until memory runs out and are much slower, Int has a domain of $-2
 
 # The math-y side of Functional Programming
 **Everything is all about sets**
+
+## A side-tangent, What is Proof by Induction?
+It’s a method to prove that a statement is true for **all natural numbers** (1, 2, 3, …).
+
+Think of it like **dominoes falling**
+- If the first domino falls (base case), and
+- If whenever one domino falls it knocks over the next (induction step),
+- Then all dominoes will fall (the statement is true for all numbers).
+
+To prove a statement $P(n)$ is true for all $n \geq n_0$:
+1. **Base Case**
+    Show that $P(n_0)$ is true.
+    (Start the domino chain by knocking over the first one.)
+    
+2. **Induction Hypothesis**
+    Assume $P(k)$ is true for some arbitrary $k \geq n_0$.
+    (Pretend one domino in the middle has fallen.)
+    
+3. **Induction Step**
+    Show that if $P(k)$ is true, then $P(k+1)$ must also be true.
+    (If one domino falls, the next must fall.)
+
+If both steps succeed, then $P(n)$ is true for all $n \geq n_0$.
+
 ## Functions
 there are different definitions for functions
 
