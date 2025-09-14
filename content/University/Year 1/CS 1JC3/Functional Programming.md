@@ -217,4 +217,5 @@ As a Value
 2. As a *Curryed function* $f: I_{1}, \dots, I_{n} \to O$ is represented as
 	- $f" : I_{1} \to (I_{2} \to (\cdots (I_{n} \to O) \cdots))$
 	- where $f({x_{1}, \dots, x_{n}) = f"(x_{1})\cdots (x_{n })}$
+		- it went from multiple inputs to a chain of one input
 	- **GO TO THE DEFINITON FROM BEFORE**
