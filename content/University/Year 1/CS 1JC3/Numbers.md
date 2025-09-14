@@ -73,4 +73,6 @@ Hexadecimal allows us to represent binary numbers in a compact way,
 ![[Pasted image 20250914154343.png]]
 
 # Floating Point Numbers
-Rational numbers are represented in base 2 scientific not
+Rational numbers are represented in base 2 scientific notation with a fixed number of bits
+$$\ 1.m *2^e$$
+where $1.m$ is called the 
