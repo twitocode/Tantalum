@@ -201,7 +201,8 @@ As a Value
 ![[Pasted image 20250913221931.png]]
 
 ## Cardinality & Undecidability
-**Cardinality** $|A|$** is the size of set $A$
+**Cardinality $|A|$** is the size of set $A$
+- **Cardinal Numbers:** Used to represent the cardinality of sets (essentially normal numbers)
 
 **Total** = D = I, the domain is the whole set of inputs, the function is defined in every input
 - in computing we don't assume that all functions are total
@@ -220,8 +221,19 @@ As a Value
 - *If a bijection exists between two sets A and B, then |A| = |B|*
 - This allows comparing the sizes of *infinite sets.*
 
-**Infinite Set:** A set A is infinite if there exists a proper subset A' ⊂ A such that |A'| = |A|. (e.g., there are as many even natural numbers as there are natural numbers).
+**Infinite Set:** A set $A$ is infinite if there exists a proper subset $A' ⊂ A \text{ such that } |A'| = |A|$.
+- (e.g., there are as many even natural numbers as there are natural numbers).
 
+**Key Theorems about Cardinality:** 
+- $|\text{even } \mathbb{N}| = |\mathbb{N}|$.
+- $|\mathbb{N}| = |\mathbb{Q}|$ (proved using a **diagonalization argument**).
+- $|\mathbb{N}| < |\mathbb{R}|$ (proved using a **diagonalization argument**). 
+	- This means there are "more" real numbers than natural numbers, a foundational insight into different sizes of infinity.
+	- But they're both infinite sets?, just something to ponder
+- The cardinality of the set of all programs in any "normal" programming language is equal to the cardinality of the natural numbers ($|ℕ|$). *This implies that programs can be mapped to natural numbers.*
+
+### Gödel’s Incompleteness Theorems
+States that for any consistent axiomatic system powerful enough to describe arithmetic (natural numbers), there will always be true statements about natural numbers that cannot be proven (derived) within that system. This is another fundamental limitation of formal systems and, by extension, computation
 ## Representing n-ary functions as unary functions
 1. As a function of tuples $f: I_{1}, \dots, I_{n} \to O$ is represented as
 	- $f' : I_{1} \times \dots \times I_{n} \to O$
