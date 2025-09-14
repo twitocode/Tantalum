@@ -41,3 +41,9 @@ aka Algoritmi
 | Digits | 0-9     | 0, 1   |
 | Base   | 10^X    | 2^x    |
 
+## Representation of Numbers in different bases
+$$
+(a_n a_{n-1} \dots a_1 a_0)_b = \sum_{k=0}^{n} a_k b^k
+$$
+
+bases used in computing are 2, 10, and 16
