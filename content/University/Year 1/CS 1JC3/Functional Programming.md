@@ -151,6 +151,7 @@ As a Rule
 	- ex - $f : \mathbb{Z} \to \mathbb{Q}$ where $x \mapsto 1/x$
 - A function is a rule that takes an input and produces at most one output, *but it does not have to produce and output*
 	- in the function earlier, 1/0 is undefined so there is no output
+	  
 As a Value
 - A function is a set of ordered pairs of inputs and outputs
 - **unary function** is a set $f \subseteq I \times O$ such that if $(x, y) \in f$ and $(x, y') \in f$ then $y=y'$. 
