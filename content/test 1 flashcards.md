@@ -1,3 +1,6 @@
+---
+TARGET DECK: Year 1::ECON 1BB3::Test 1
+---
 # What is Scarcity?
 A situation in which unlimited wants exceed the limited resources available to fulfill those wants.
 
