@@ -257,4 +257,9 @@ Example:
 	- tuples:  $f2 \text{ }(x,y) = x^2 + y^2$
 
 # What Exactly is Functional Programming?
-*Declarative* programs
+- *Declarative* programs that are *side-effect free*
+- Results are produced by *evaluating expressions built from functions*
+- Functions are defined as *first-class values* and used as *rules*
+	- they can be used just like any other value (string, int, bool, etc)
+- *Recursion* eww
+- *State change* and *data mutation* are avoided as much as possible
