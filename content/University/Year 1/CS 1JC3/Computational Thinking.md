@@ -4,8 +4,6 @@ class: CS 1JC3
 tags:
   - "#classnote"
 ---
-Computing is theg 
-
 ## Types of Thinking
 **Mathematical Thinking**: 
 Mathematics is a process for understanding the mathematical aspeconcts of the world we live in. Mathematical aspects include time, space, pattern, measure, logical consequence, etc.
@@ -15,7 +13,7 @@ Mathematics is a process for understanding the mathematical aspeconcts of the wo
 			- ex. adding addition and subtraction
 **Scientific Thinking**: 
 Science is the systematic study of the world through observation an experiment
-This thinking is centered on the *scientific method* - a process of hypothesis formation and experimentation. 
+This thinking is centred on the *scientific method* - a process of hypothesis formation and experimentation. 
 
 **Engineering Thinking**:
 Engineering is the systematic and rational application of knowledge
@@ -52,4 +50,17 @@ Computational thinking includes all of these types of thinking
 		- you can express any number with 0 and 1
 	- Created a calculator called the Staffelwalze. 
 		- He designed and it was the most advanced calculator at the time
+
+ - Postulated *characteristica universalis* in which all scientific ideas could be expressed.
+	 - ex - the sun will burn out in 1 year
+ - Postulated *calculus ratiocinator* which was a computing device that could determine whether what you postulated with characteristicia unviersalis was true or false
+	- **not theoretically possible**, but no one knew that until 1936 with *Alonzo Church and Alan Turing*
+		- **They proved that there were undecidable decision problems** - meaning we cannot create a computer to solve the problem. Leibniz's dream was impossible
+			- ex. *decidable* - take the set of all natural numbers, is a natural number prime or not?
+			- ex. *undecidable* - 
+			- a computational problem that can be posed as a yes–no question on a set of input values
+		- Heavily influenced by *Kurt Godel* with his first and second incompleteness theorems. 
+			1. **First theorem**:  Any math system that’s powerful enough to describe basic arithmetic (like adding, multiplying, etc.) will always have some statements that are _true_ but can’t be proven within that system. *So, math is never “complete.”*
+			2. **Second theorem**:  Such a system also can’t prove its own consistency (that it won’t lead to contradictions) from inside itself. *So, math can’t fully guarantee its own safety.*
+    
 
