@@ -244,7 +244,7 @@ But they can also be defined as tuples
 $$
 \begin{align*}
 f &:: (t_{1}^{i}, \dots, t_{n}^{i}) \to t^{o} \\
-f & (\textcolor{red}{(}p_{1}, \dots, p_{n}\textcolor{red}{)} = e
+f & (\textcolor{red}{(}p_{1}, \dots, p_{n}\textcolor{red}{)}) = e
 \end{align*}
 $$
 
