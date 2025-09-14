@@ -15,7 +15,7 @@ Developed **Combinatory Logic** which is a system for defining and using functio
 - Ex. $f(x, y) = x + y$, normally you would do $f(3, 6) = 9$. 
 - With currying you would do $f(x)(y) = x + y$
 	- *The first function call returns a function to the next function call*
-		- $f(3) = (y \to 3 + y)$
+		- $f(3) = (y \mapsto 3 + y)$
 		- $f(3)(6) = 9$
 - Haskell example
 ```haskell
@@ -141,3 +141,15 @@ Expressions in Haskell are *type checked*
 
 ### Integer vs Int
 Integers grow until memory runs out and are much slower, Int has a domain of $-2^{31}  \leq x \leq 2^{31}$
+
+## Functions
+there are different definitions for functions
+
+As a Rule
+- $f : I \to O$ that associates members of I (inputs) with members of O (outputs)
+	- ex - $f : \mathbb{Z} \to \mathbb{Q}$ where $x \mapsto 1/x$
+- A function is a rule that takes an input and produces at most one output, *but it does not have to produce and output*
+	- in the function earlier, 1/0 is undefined so there is no output
+As a Value
+- A function is a set of ordered pairs of inputs and outputs
+- 
