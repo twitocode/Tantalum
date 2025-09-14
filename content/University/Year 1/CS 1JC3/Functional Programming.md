@@ -94,9 +94,6 @@ A sequence of statements called *programs*
 - programs are portable
 - byte code is slower than machine code.
 
-# The math-y side of Functional Programming
-**Everything is all about sets**
-
 ## Syntax vs Semantics
 1. **Syntax**: The raw symbols you type — their structure and placement.  
 2. **Semantics**: The meaning of each symbol — what each represents.  
@@ -148,6 +145,8 @@ Expressions in Haskell are *type checked*
 ### Integer vs Int
 Integers grow until memory runs out and are much slower, Int has a domain of $-2^{31}  \leq x \leq 2^{31}$
 
+# The math-y side of Functional Programming
+**Everything is all about sets**
 ## Functions
 there are different definitions for functions
 
