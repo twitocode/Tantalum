@@ -69,3 +69,4 @@ Hexadecimal allows us to represent binary numbers in a compact way,
 			- $x + (-x) = 0$
 	- addition and multiplication are performed using *modular arithmetic* 
 - **arithmetic operations on machine integers can cause overflow**
+![[Pasted image 20250914154343.png]]
