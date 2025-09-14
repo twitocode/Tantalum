@@ -180,6 +180,15 @@ As a Value
         - The set of valid input lists (the Domain D) is a subset of the set of all theoretically *possible input lists*.
         - The set of actual outputs (the Range R) is a subset of the set of all theoretically possible outputs.
           
+**Cartesian Product**: a fundamental concept in mathematics that combines sets to form a set of **ordered tuples**
+- $A \times B \times C = \{(a, b, c) | a \in A, b \in B, c \in C\}$
+- Each element of $A \times B$ is an *ordered pair* $(a, b)$, where the first element comes from $A$ and the second comes from $B$.
+- **Order matters**: $(a, b) \neq (b, a)$ unless $a = b$.
+- Example:
+	- Sets $A = \{ 1, 2\} \text{ and }B = \{ x,y\}$
+	- $A \times B = \{ (1,x), (1, y), (2,x), (2, y)\}$
+	- There are $2 \cdot 2 = 4$ elements because each element of $A$ pairs with **every element** of $B$.
+    
 ![[Pasted image 20250913222320.png]]
 
 ![[Pasted image 20250913221931.png]]
@@ -199,3 +208,13 @@ As a Value
 - Every element of A maps to a unique element of B (injective)
 - Every element of B is mapped by some element of A (surjective)
 
+## Representing n-ary functions as unary functions
+1. As a function of tuples $f: I_{1}, \dots, I_{n} \to O$ is represented as
+	- $f' : I_{1} \times \dots \times I_{n} \to O$
+	- where  $f(x_{1},\dots,x_{n}) = f'(\color{red}(\color{white}x_{1},\dots, x_{n}\color{red})\color{white})$
+		- it went from multiple inputs, to one input as a tuple
+		
+2. As a *Curryed function* $f: I_{1}, \dots, I_{n} \to O$ is represented as
+	- $f" : I_{1} \to (I_{2} \to (\cdots (I_{n} \to O) \cdots))$
+	- where $f({x_{1}, \dots, x_{n}) = f"(x_{1})\cdots (x_{n })}$
+	- **GO TO THE DEFINITON FROM BEFORE**
