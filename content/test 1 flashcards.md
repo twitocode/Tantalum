@@ -13,7 +13,6 @@ ___
 People prefer benefits > cost. People don't do things to make them worse off.
 
 # Explain "People respond to incentive" with an example.
-People respond to incentive.
 Ex. banks. Our banks don't have crazy security like in the movies because the economic incentive for banks says that it is less costly to deal with the robberies than to have expensive armed security.
 ___
 Ex. Don't have to pay for healthcare? I am less incentivized to be healthy so then I could become obese easier.
