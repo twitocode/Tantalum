@@ -152,4 +152,4 @@ As a Rule
 	- in the function earlier, 1/0 is undefined so there is no output
 As a Value
 - A function is a set of ordered pairs of inputs and outputs
-- 
+-  
