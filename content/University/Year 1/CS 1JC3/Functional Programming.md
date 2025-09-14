@@ -54,7 +54,7 @@ A sequence of statements called *programs*
 2. *Software* provides the ability to controls hardware with a lot of control and flexibility. 
 
 ## Declarative and Imperative
-**Programming paradigm**: a well-developed style of programming. 
+
 **Imperative Statements** express an action to be performed
 **Declarative Statements** express a property to be employed
 - say what should be true, not how to make it true.
@@ -65,3 +65,29 @@ A sequence of statements called *programs*
 **Declarative Programs** are a sequence of declarative statements that express *what* the program will achieve
 - I want you to get this result for me, I don't care how you do it. Just get it 
 
+## Programming Paradigms
+**Programming paradigm**: a well-developed style of programming. 
+
+**Procedural**: Programs are *imperative*; a program is a collection of procedures that could have *side-effects*
+
+**Object Oriented**: Programs are *imperative*; a program behaves as a collection of interacting objects
+
+**Functional**: Programs are *declarative*; a program is collection of *side-effect free function definitions*
+
+**Logical**: programs are *declarative*; a program is a collection of logical statements. **not as important**
+
+## Modes of Program Execution
+**Interpreted**: line by line execution by and interpreter. 
+- Supports interactive development and debugging. Something goes wrong? the interpreter is stops and tells you. 
+- *Way slower than compiled code*
+**Compiled**: programs are compiled into machine code
+- Very optimized
+- Development hell
+**Byte Code (C#, Java, Haskell)**
+- uses a virtual machine that can be interpreted or compiled
+- programs are portable
+- byte code is slower than machine code.
+
+# The math-y side of Functional Programming
+
+## Values
