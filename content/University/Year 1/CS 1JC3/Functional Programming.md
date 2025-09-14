@@ -154,6 +154,10 @@ As a Rule
 As a Value
 - A function is a set of ordered pairs of inputs and outputs
 - **u-nary function** is a set $f \subseteq I \times O$ such that if $(x, y) \in f$ and $(x, y') \in f$ then $y=y'$. 
+	- x = x, y = y' means that x will always have 1 output (or no output) but never > 1
 	- Each function $f$ has a **domain** $D \subseteq I$ and a **range** $R \subseteq O$.
-	- 
-	- *$x \subseteq y$ means x is a subset of y 
+		- The set of valid inputs (**the Domain D**) is a subset of the set of all theoretically possible inputs
+		- The set of actual outputs (**the Range R**) is a subset of the set of all theoretically possible outputs.
+	- $x \subseteq y$ *means x is a subset of y*
+
+![[Pasted image 20250913221931.png]]
