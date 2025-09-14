@@ -89,6 +89,7 @@ A sequence of statements called *programs*
 - byte code is slower than machine code.
 
 # The math-y side of Functional Programming
+**Everything is all about sets**
 
 ## Syntax vs Semantics
 1. **Syntax**: The raw symbols you type — their structure and placement.  
@@ -121,3 +122,22 @@ True && y
 - ex. abs 10 
 - ex. 1 + 2
 	- applying the addition operator to 1 and 2 but infixing it
+
+## Types
+A syntactic entity that denotes a collection values of a similar form
+
+| Type              | Denotion                                 |
+| ----------------- | ---------------------------------------- |
+| Bool              | True and False                           |
+| Int               | set of machine integer                   |
+| Float             | set of floating point numbers            |
+| Integer           | set of all integers                      |
+| Integer ->Integer | set of functions from Integer to Integer |
+**Type error** - cant do addition between 1 and False
+Expressions in Haskell are *type checked*
+```haskell
+:type e --find the type of something in haskell ghci
+```
+
+### Integer vs Int
+Integers grow until memory runs out and are much slower, Int has a domain of $-2^{31}  \leq x \leq 2^{31}$
