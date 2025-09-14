@@ -77,4 +77,15 @@ Rational numbers are represented in base 2 scientific notation with a fixed numb
 $$\pm 1.m *2^e$$
 where $1.m$ is called the *mantissa* and $e$ is the *exponent*
 
-**Single-precision floating numbers**
+**Single-precision floating numbers (floats)** use 32. bits with 1 bit for the sign, 23. bits for the (unsigned) mantissa, and 8 for the (signed) exponent.
+**Double-precision float numbers (doubles)** are the same but use 32 bits.
+- signed = - or +
+- unsigned = none
+```haskell
+23.678, -0.04
+69.78e-20
+```
+
+Since $(0.1)_{10} = (0.000110011000\dots)$ in base 10, 0.1 cannot be represented exactly as a floating point number
+
+We cannot represent 0
