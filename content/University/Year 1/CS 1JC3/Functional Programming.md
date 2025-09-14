@@ -156,4 +156,4 @@ As a Value
 - **u-nary function** is a set $f \subseteq I \times O$ such that if $(x, y) \in f$ and $(x, y') \in f$ then $y=y'$. 
 	- Each function $f$ has a **domain** $D \subseteq I$ and a **range** $R \subseteq O$.
 	- 
-	- *$\subseteq$ means **subset of*** 
+	- *$x \subseteq y$ means x is a subset of y 
