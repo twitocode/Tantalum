@@ -45,6 +45,8 @@ Computational thinking includes all of these types of thinking
 - A german polymath 
 	- can do multiple math things really well
 - Developed calculus (1684) independently of Newton
+	- His version was known as *infinitesimal calculus*. 
+		- infinitesimals were numbers greater than 0 but smaller than any positive real number, we now use **limits** instead.
 - A great computer scientist and engineer
 	- **created the binary number system**
 		- you can express any number with 0 and 1
@@ -56,9 +58,12 @@ Computational thinking includes all of these types of thinking
  - Postulated *calculus ratiocinator* which was a computing device that could determine whether what you postulated with characteristicia unviersalis was true or false
 	- **not theoretically possible**, but no one knew that until 1936 with *Alonzo Church and Alan Turing*
 		- **They proved that there were undecidable decision problems** - meaning we cannot create a computer to solve the problem. Leibniz's dream was impossible
+			-  **Decision Problems** are a computational problem that can be posed as a yes–no question on a set of input values
 			- ex. *decidable* - take the set of all natural numbers, is a natural number prime or not?
-			- ex. *undecidable* - 
-			- a computational problem that can be posed as a yes–no question on a set of input values
+			- ex. *undecidable* - **The Halting Problem**
+				- **Church-Turing Thesis** was the belief that what is computable is precisely what a Turing machine (or lambda calculus) can compute
+				![[Pasted image 20250914172154.png]]
+
 		- Heavily influenced by *Kurt Godel* with his first and second incompleteness theorems. 
 			1. **First theorem**:  Any math system that’s powerful enough to describe basic arithmetic (like adding, multiplying, etc.) will always have some statements that are _true_ but can’t be proven within that system. *So, math is never “complete.”*
 			2. **Second theorem**:  Such a system also can’t prove its own consistency (that it won’t lead to contradictions) from inside itself. *So, math can’t fully guarantee its own safety.*
