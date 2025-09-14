@@ -233,6 +233,12 @@ As a Value
 
 ### Gödel’s Incompleteness Theorems
 States that for any consistent axiomatic system powerful enough to describe arithmetic (natural numbers), there will always be true statements about natural numbers that cannot be proven (derived) within that system. This is another fundamental limitation of formal systems and, by extension, computation
+- **tldr** heres a simple example
+	1. Imagine you build a perfect rulebook (a formal system) to do math with whole numbers.
+	2. You’d expect this rulebook to be able to prove **every true statement** about numbers.
+- Gödel showed:
+	- **No matter how good your rulebook is**, there will always be some statements that are true but **cannot be proven** using the rules inside the book.
+	- And the rulebook **cannot prove its own consistency** (that it never leads to contradictions).
 ## Representing n-ary functions as unary functions
 1. As a function of tuples $f: I_{1}, \dots, I_{n} \to O$ is represented as
 	- $f' : I_{1} \times \dots \times I_{n} \to O$
