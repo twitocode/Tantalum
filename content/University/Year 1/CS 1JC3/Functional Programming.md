@@ -145,7 +145,7 @@ Integers grow until memory runs out and are much slower, Int has a domain of $-2
 ## Functions
 there are different definitions for functions
 
-### n-ary function
+### unary function
 As a Rule
 - $f : I \to O$ that associates members of I (inputs) with members of O (outputs)
 	- ex - $f : \mathbb{Z} \to \mathbb{Q}$ where $x \mapsto 1/x$
@@ -153,7 +153,7 @@ As a Rule
 	- in the function earlier, 1/0 is undefined so there is no output
 As a Value
 - A function is a set of ordered pairs of inputs and outputs
-- **u-nary function** is a set $f \subseteq I \times O$ such that if $(x, y) \in f$ and $(x, y') \in f$ then $y=y'$. 
+- **unary function** is a set $f \subseteq I \times O$ such that if $(x, y) \in f$ and $(x, y') \in f$ then $y=y'$. 
 	- x = x, y = y' means that x will always have 1 output (or no output) but never > 1
 	- Each function $f$ has a **domain** $D \subseteq I$ and a **range** $R \subseteq O$.
 		- The set of valid inputs (**the Domain D**) is a subset of the set of all theoretically possible inputs
@@ -165,9 +165,16 @@ As a Value
 ![[Pasted image 20250913221931.png]]
 
 **Total** = D = I, the domain is the whole set of inputs, the function is defined in every input
+- in computing we don't assume that all functions are total
 
 **Surjective**: The range is the entire set of outputs
 - tldr - you can get every output from some input
 
-**Inejctive**: f(x) = f(y) 
-- x = y
+**Inejctive**: one-to-one functions
+- different inputs map to different outputs
+- $f(a) = f(b) \implies a = b$
+
+**Bijective**: both injective and bijective
+- bijective = total + injective + surjective
+- Every element of A maps to a unique element of B (injective)
+- Every element of B is mapped by some element of A (surjective)
