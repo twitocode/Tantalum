@@ -167,3 +167,7 @@ As a Value
 **Total** = D = I, the domain is the whole set of inputs, the function is defined in every input
 
 **Surjective**: The range is the entire set of outputs
+- tldr - you can get every output from some input
+
+**Inejctive**: f(x) = f(y) 
+- x = y
