@@ -160,6 +160,10 @@ As a Value
 		- The set of actual outputs (**the Range R**) is a subset of the set of all theoretically possible outputs.
 	- $x \subseteq y$ *means x is a subset of y*
 
+![[Pasted image 20250913222320.png]]
+
 ![[Pasted image 20250913221931.png]]
 
-**Total** = D = I, the domain is the whole set of equals, the function is defined 
+**Total** = D = I, the domain is the whole set of inputs, the function is defined in every input
+
+**Surjective**: The range is the entire set of outputs
