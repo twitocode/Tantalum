@@ -10,4 +10,4 @@
 Math help centre - Hamilton Hall
 
 [wellfound.com - startup jobs and internships](https://wellfound.com/jobs)
-
+[Hoogle for Haskell](https://hoogle.haskell.org)
