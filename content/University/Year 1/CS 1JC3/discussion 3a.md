@@ -22,7 +22,7 @@ g [] = sdfsdfs
 ```haskell
 h x = h'
 	where
-		h y =  x^2 + y^2
+		h' y =  x^2 + y^2
 		
 h x y = x^2 + y^2
 ```
