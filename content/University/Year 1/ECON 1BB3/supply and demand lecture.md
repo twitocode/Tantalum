@@ -9,7 +9,7 @@ class: ECON 1BB3
 - Main objectives:
 
 ## Notes
-- 
+- use models to help make predictions when there is a shock in the market
 
 ## Key Terms
 - Term 1: Definition
