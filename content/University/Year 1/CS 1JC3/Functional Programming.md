@@ -277,6 +277,7 @@ As a Value
 **Injective**: one-to-one functions
 - different inputs map to different outputs
 - $f(a) = f(b) \implies a = b$
+	- in a function that is not injective, multiple inputs can go to one output
 
 **Bijective**: both injective and bijective
 - bijective = total + injective + surjective
