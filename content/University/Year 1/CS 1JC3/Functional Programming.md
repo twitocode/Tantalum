@@ -266,7 +266,7 @@ As a Value
 - **Cardinal Numbers:** Used to represent the cardinality of sets (essentially normal numbers)
 <!--ID: 1757893915623-->
 
-
+![[03-numbers.pdf]]
 **Total** = D = I, the domain is the whole set of inputs, the function is defined in every input
 - in computing we don't assume that all functions are total
 **Partial** is the same as total but it is not defined in every input
