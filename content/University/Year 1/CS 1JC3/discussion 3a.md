@@ -9,7 +9,15 @@ class: CS 1JC3
 - Main objectives:
 
 ## Notes
-- 
+- f :: Integer, Integer -> Integer
+	-  does not exist in haskell
+	- every function is unary
+
+**pattern matching**
+g x: xs = kdjfsldjf
+- as list with at least one thing
+g [] = sdfsdfs
+- the list is empty
 
 ## Key Terms
 - Term 1: Definition
