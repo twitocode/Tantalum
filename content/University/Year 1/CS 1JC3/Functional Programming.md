@@ -222,7 +222,7 @@ As a Value
 	- Each function $f$ has a **domain** $D \subseteq I$ and a **range** $R \subseteq O$.
 		- The set of valid inputs (**the Domain D**) is a subset of the set of all theoretically possible inputs
 		- The set of actual outputs (**the Range R**) is a subset of the set of all theoretically possible outputs.
-	- $x \subseteq y$ *means x is a subset of y*
+	- **$x \subseteq y$ *means x is a subset of y***
 <!--ID: 1757893915616-->
 
 
