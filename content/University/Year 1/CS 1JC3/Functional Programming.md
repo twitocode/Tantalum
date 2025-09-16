@@ -269,7 +269,8 @@ As a Value
 
 **Total** = D = I, the domain is the whole set of inputs, the function is defined in every input
 - in computing we don't assume that all functions are total
-
+**Partial** is the same as total but it is not defined in every input
+- in haskell, functions are partial for the most part
 **Surjective**: The range is the entire set of outputs
 - tldr - you can get every output from some input
 
