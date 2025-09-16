@@ -25,6 +25,10 @@ h x = h'
 		h' y =  x^2 + y^2
 		
 h x y = x^2 + y^2
+
+g (x, y) = x^2 + y^2
+
+g (x, y) == h x y
 ```
 ## Key Terms
 - Term 1: Definition
