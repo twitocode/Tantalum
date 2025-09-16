@@ -10,5 +10,4 @@ aliases: []
 ![[Mecca]]
 ![[Medina]]
 ![[Jerusalem]]
-<!--ID: 1757893915893-->
 

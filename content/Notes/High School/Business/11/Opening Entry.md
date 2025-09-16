@@ -6,7 +6,6 @@ tags:
 ---
 # Opening Entry
 The first entry in the [[General Journal]] (the one that starts the company). It records the [[Assets]] , [[Liabilities]], and [[Owner's Equity]] o the business when it first begins operation.
-<!--ID: 1757893916306-->
 
 
 ![[Pasted image 20240326100352.png]]

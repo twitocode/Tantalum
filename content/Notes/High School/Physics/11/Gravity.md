@@ -21,24 +21,20 @@ $$\vec{F}_{g} = m\vec{g}$$
 ___
 The negative indicates [[Acceleration|deceleration]]
 The [[Acceleration]] always stays the same, [[Velocity]] increases or decreases depending on the direction
-<!--ID: 1718370433081-->
 
 
 ## Free Fall
 [[Acceleration]] that occurs when there is no [[Air Resistance]] or other [[Forces]] affecting the [[Motion]] besides gravity
-<!--ID: 1718370433083-->
 
 
 ## Terminal Velocity
 When the [[Air Resistance]] on a parachute is equal to the [[Forces|force]] due to gravity acting on the parachute. It will stope [[Acceleration]] and stay at a a constant [[Velocity]]
-<!--ID: 1718370433086-->
 
 
 ## Gravitational Field
 The region of influence of gravitational force due to an object.
 A **field** is an influence on a suitable object over a region of space, whether it is an attraction or repulsion
 ![[Pasted image 20240419114701.png]]
-<!--ID: 1718370433092-->
 
 
 ## Mass vs Weight
@@ -50,12 +46,10 @@ A **field** is an influence on a suitable object over a region of space, whether
 | It does not change due to location or gravitational field strength |                                                                             |
 | Unit **kg**                                                        | Unit: **Newtons**                                                           |
 ![[Pasted image 20240419115433.png]]
-<!--ID: 1718377409611-->
 
 
 # Gravity Constant Near Earth
 $$ \vec{g} = -9.8 m/s^2 $$
-<!--ID: 1757893916072-->
 
 
 ## Gravitational Field Strength
@@ -67,18 +61,15 @@ ___
 The earth bulges at the equator.
 *At the North Pole*, it is 9.8322 N/kg [down]
 *At the equator* it is 9.7805 N/kg [down]
-<!--ID: 1718370433102-->
 
 ![[Pasted image 20240422105705.png]]
 ## When does the Normal Force = Gravity?
 The normal force is only equal to gravity when the degree of rotation is 0
 If the object is on a ramp of some kind, then the normal force does not equal gravity.
 ![[Pasted image 20240419132756.png]]
-<!--ID: 1718370433107-->
 
 
 
 ### Examples
 ![[Pasted image 20240419134651.png]]
-<!--ID: 1757893916074-->
 

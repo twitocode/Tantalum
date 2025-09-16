@@ -17,7 +17,6 @@ Certain items can be placed in the middle
 - eagle feather
 - etc.
 ![[Pasted image 20240408154926.png]]
-<!--ID: 1718379550425-->
 
 
 ## Medicine Wheel
@@ -29,7 +28,6 @@ The Powers of the four directions organize everything that exists
 - Life - child, youth, adult, [[Sacred Indigenous People|elder]]
 - Personality - spiritual, physical, mental, emotional
 ![[Pasted image 20240408155758.png]]
-<!--ID: 1718379550435-->
 
 
 

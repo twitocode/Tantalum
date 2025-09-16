@@ -6,5 +6,4 @@ tags:
 ---
 # Accounts Receivable
 Where [[Debit]] is stored
-<!--ID: 1757893916403-->
 

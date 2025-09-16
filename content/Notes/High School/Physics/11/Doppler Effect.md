@@ -9,5 +9,4 @@ TARGET DECK:
 
 # Doppler Effect
 ![[Pasted image 20240627212738.png]]
-<!--ID: 1757893916095-->
 

@@ -10,7 +10,6 @@ aliases:
 # Turtle Island
 ## Story
 **Kitchi-Manitou**: The Great Mystery
-<!--ID: 1718379549845-->
 
 
 1. Anishinaabe and Ojibway were killing each other over hunting grounds and other disagreements. Kitchi-Manitou decided to flood the Earth to purify it.

@@ -6,6 +6,5 @@ tags:
 ---
 # Accounts Payable
 Where [[Debit|Credit]] is stored
-<!--ID: 1757893916406-->
 
 

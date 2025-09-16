@@ -13,7 +13,6 @@ TARGET DECK: Grade 11::BAF3M1::Unit 5
 
 ## Perpetual Inventory System
 Involves maintaining a continuous record of the inventory after each sale or purchase
-<!--ID: 1717163511415-->
 
 
 ## Perpetual Inventory System

@@ -16,10 +16,8 @@ TARGET DECK: Grade 11::HRT3M1::Unit 5 - Buddhism
 ## Theravada
 
 ## Mahayana
-<!--ID: 1718200311903-->
 
 
 ## Vajrayana
 
 ## Zen
-<!--ID: 1718200311905-->

@@ -11,7 +11,6 @@ TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 
 ![[Pasted image 20240513095003.png]]
 ![[Pasted image 20240513095015.png]]
-<!--ID: 1757893916097-->
 
 
 # Why does the [[Thermal Energy|temperature]] not change during phase changes?
@@ -19,4 +18,3 @@ TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 
 - **Melting and boiling**: [[Thermal Energy]] absorbed by the particles of a substance is converted to [[Energy|Chemical Potential Energy]] to break the bonds that hold the particles together
 - **Condensation and freezing**: [[Thermal Energy]] is released to allow the particles to move closer together and become more organized
-<!--ID: 1715686690945-->

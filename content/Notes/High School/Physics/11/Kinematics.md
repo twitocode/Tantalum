@@ -8,20 +8,17 @@ TARGET DECK: Grade 11::SPH3U1::Unit 1 - Kinematics
 
 # Kinematics
 The study of how objects move
-<!--ID: 1718370433075-->
 
 
 ## Direction
 The line and object moves along from a particular starting point
 It can be expressed in degrees on a compass, as compass points (north, south, east, west) or as up, down, left, right, forward, backward
-<!--ID: 1757893916064-->
 
 
 
 ## Types of Quantities
 ### Scalar $V$
 A quantity that has magnitude (size) only.
-<!--ID: 1757893916065-->
 
 
 > [!Example] Distance
@@ -29,7 +26,6 @@ A quantity that has magnitude (size) only.
 
 ### Vector $\vec{V}$
 A quantity that has magnitude (size) and also direction.
-<!--ID: 1714135053490-->
 
 
 
@@ -38,7 +34,6 @@ A quantity that has magnitude (size) and also direction.
 
 ## Key Equations
 $$ \vec{V}_{f} = \vec{V}_{i} + \vec{a}_{av} \Delta t $$
-<!--ID: 1714135053499-->
 
 
 $$ \Delta \vec{d} = \Delta t (\frac{\vec{V}_{f} + \vec{V}_{i}} {2})$$
@@ -52,7 +47,6 @@ $$ {V_f}^2 = {V_i}^2 + 2a_{av}\Delta d $$
 ## Newton's Laws
 ### Examples
 ![[Pasted image 20240419135120.png]]
-<!--ID: 1757893916067-->
 
 
 ![[Pasted image 20240419135148.png]]

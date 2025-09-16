@@ -13,9 +13,7 @@ TARGET DECK: Grade 11::HRT3M1::Unit 1 - World Religions
 
 ## Ecumenical Council
 They are solemn assemblies. Convoked and presided over by the pope.
-<!--ID: 1718376822812-->
 
 
 ## Second Vatican Council
 Addressed pastoral and disciplinary issues dealing with the Church and its relation to the modern world. Including liturgy and  ecumenism.
-<!--ID: 1718376822816-->

@@ -18,7 +18,6 @@
 - [x] delegates/event
 - [x] Nullability
 - [x] readonly/const/get/required/init all that bs
-<!--ID: 1757893916250-->
 
 
 # .NET
@@ -27,7 +26,6 @@
 - [ ] Collections
 - [x] Exceptions
 - [x] Channels
-<!--ID: 1757893916253-->
 
 
 # ASP.NET Core
@@ -37,4 +35,3 @@
 	- [x] Fast Endpoints
 - [ ] Cookies
 - [ ] OAuth 2.0
-<!--ID: 1757893916255-->

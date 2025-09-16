@@ -14,13 +14,10 @@ TARGET DECK:
 
 ## Siddhartha Gautama
 He is the [[Buddhism General Information|Buddha]]. He was born a prince of a small Hindu kingdom spanning Northern India and Nepal. It was prophesied that he would become a great king or a great saviour.
-<!--ID: 1757893915962-->
 
 ## Buddha
 "The Enlightened One", Siddhartha Gautama. Often shown as a mediation figure
-<!--ID: 1718200311908-->
 
 
 ## Origin
 Began as a reform movement within Hinduism
-<!--ID: 1718200311910-->

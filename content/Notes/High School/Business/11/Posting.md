@@ -10,14 +10,11 @@ TARGET DECK: Grade 11::BAF3M1::Unit 3
 The transfer of information from the journal to the ledger
 ## PR
 Posting Reference.
-<!--ID: 1757893916300-->
 
 ### On a Ledger
 In this case, PR is used for the page in which the transaction was posted to. Make sure to **prefix the page number with "J"**
-<!--ID: 1757893916302-->
 
 ### On a Journal
 In this case, PR is used for the account number listed for each account in the [[Chart of Accounts]]
-<!--ID: 1718216451526-->
 
 

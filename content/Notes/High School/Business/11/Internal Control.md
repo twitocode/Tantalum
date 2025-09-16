@@ -10,4 +10,3 @@ TARGET DECK: Grade 11::BAF3M1::Unit 1
 The rules/procedures/guidelines that:
 - Protect the [[Assets]] of the company
 - Ensure the accuracy of [[Financial Statement|financial statements]]
-<!--ID: 1718370433078-->

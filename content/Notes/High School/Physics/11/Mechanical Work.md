@@ -11,7 +11,6 @@ TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 # Mechanical Work
 The [[Energy]] transferred to an object by a force applied over a measured distance
 $$W = F\Delta d$$
-<!--ID: 1715686690918-->
 
 
 > [!ERROR] Important
@@ -25,13 +24,11 @@ $$W = F\Delta d$$
 ### When Force and Displacement are in different directions
 $$ W = F\cos \theta \Delta d$$
 ![[Pasted image 20240428124912.png]]
-<!--ID: 1757893916044-->
 
 
 
 ### Zero Work
 The work done by a force is **zero** when
-<!--ID: 1757893916046-->
 
 
 1. The **displacement is 0**

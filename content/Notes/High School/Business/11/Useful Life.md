@@ -8,4 +8,3 @@ TARGET DECK: Grade 11::BAF3M1::Unit 1
 
 # Useful Life
 How long we will have an [[Assets|asset]].
-<!--ID: 1718216451491-->

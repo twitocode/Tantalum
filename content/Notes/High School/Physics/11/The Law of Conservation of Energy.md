@@ -14,14 +14,12 @@ $$E_{i} = E_{f}$$
 - **New energy cannot be created** out of nothing; and **existing energy cannot disappear**.
 - The energy that exists can only be changed from one form into another.
 - When an energy transformation occurs, **no energy is lost**.
-<!--ID: 1715096172996-->
 
 
 ![[Pasted image 20240428131133.png]]
 
 ## Energy Transformations
 The change of one form or type of energy into another.
-<!--ID: 1715895327924-->
 
 
 ![[Pasted image 20240428131100.png]]

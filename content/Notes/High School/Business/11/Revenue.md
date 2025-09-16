@@ -9,7 +9,6 @@ TARGET DECK: Grade 11::BAF3M1::Unit 2
 # Revenue
 It is the money earned from the sale of good or services
 Revenue increases [[Owner's Equity]]
-<!--ID: 1718216451502-->
 
 
 The reason why it is a [[Credit]] because [[Owner's Equity]] is increased by adding Credit

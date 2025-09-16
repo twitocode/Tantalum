@@ -15,7 +15,6 @@ TARGET DECK: Grade 11::HRT3M1::Unit 5 - Buddhism
 
 ## The Stupa
 ![[Pasted image 20240611141531.png]]
-<!--ID: 1718200311872-->
 
 
 ## The Pagoda
@@ -26,7 +25,6 @@ TARGET DECK: Grade 11::HRT3M1::Unit 5 - Buddhism
 ## The Monastery
 Rose during the lifetime of [[Buddhism General Information|Buddha]] (500 BCE). Provided shelter and study space for monks. Some monasteries, for [[Buddhism General Information|Buddha]] by kings and rich devotees, were sumptuous institutions.
 ![[Pasted image 20240611141420.png]]
-<!--ID: 1719277797583-->
 
 
 
@@ -35,4 +33,3 @@ Rose during the lifetime of [[Buddhism General Information|Buddha]] (500 BCE). P
 Unadorned places of meditation.
 An elevated stature of [[Buddhism General Information|Buddha]], surrounded by offerings of incense, candles, and flowers,
 ![[Pasted image 20240611141453.png]]
-<!--ID: 1718200311876-->

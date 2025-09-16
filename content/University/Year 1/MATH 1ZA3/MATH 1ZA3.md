@@ -13,13 +13,11 @@ professor: Aaron Childs
 **find everything on childsmath** no avenuetolearn
 all tests will be multiple choice in person
 **no rough work will be marked**
-<!--ID: 1757893915258-->
 
 
 ## Overview
 - **Course Description:**  
 - **Learning Outcomes:**  
-<!--ID: 1757893915260-->
 
 
 ## Resources
@@ -27,7 +25,6 @@ all tests will be multiple choice in person
 - **Calculators:** Only the McMaster standard calculators (Casio fx 991 MS or fx 991 MS Plus) are allowed on tests and exams.
 - **Required Textbook:** _Calculus, Early Transcendentals_ (9th Edition) by Stewart, Clegg, and Watson.
 - **Optional Materials:** _Student Solutions Manual for Single Variable Calculus, Early Transcendentals_.
-<!--ID: 1757893915261-->
 
 
 ## Marking Scheme
@@ -37,19 +34,16 @@ all tests will be multiple choice in person
 | Assignments | 15%    | 10 online assignments, 1.5% each |
 | Tests       | 40%    | 2 tests, 20% each.               |
 | Final Exam  | 50%    |                                  |
-<!--ID: 1757893915263-->
 
 
 
 ## Lectures
 ![[University/Year 1/MATH 1ZA3/Lectures.base]]
-<!--ID: 1757893915265-->
 
 
 
 # Hard Questions I could not figure out (Math Help Centre?)
 Assignment #1 **Question #1:** Which of the following is equal to $\cot(x) \sin(2x)$ ?
-<!--ID: 1757893915267-->
 
 
 (i) $1 - \cos(2x)$

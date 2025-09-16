@@ -9,7 +9,6 @@ TARGET DECK: Grade 11::HRT3M1::Unit 1 - World Religions
 
 # Tolerance
 An attitude that recognizes the right of others to think, live, or worship according to their own beliefs.
-<!--ID: 1718376822753-->
 
 
 Without tolerance and harmony lasting peace of societies cannot be maintained, and loyalty for each other cannot be established.
@@ -17,5 +16,4 @@ Without tolerance and harmony lasting peace of societies cannot be maintained, a
 ## How can a person be tolerant?
 Be willing to accept others opinions or behaviour you may not agree with or to behave sensibly
 with those who are not like yo
-<!--ID: 1718376822759-->
 

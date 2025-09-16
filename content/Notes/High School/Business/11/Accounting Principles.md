@@ -16,5 +16,4 @@ aliases: []
 ![[Double-Entry Accounting Principle]]
 ![[Concept of Objectivity]]
 ![[Principle of Materiality]]
-<!--ID: 1757893916408-->
 

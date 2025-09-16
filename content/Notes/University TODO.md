@@ -2,7 +2,6 @@
 
 # From McMaster
 Here's your list converted into a Markdown checklist:
-<!--ID: 1757893915748-->
 
 
 ## Bedding 🛌
@@ -12,7 +11,6 @@ Here's your list converted into a Markdown checklist:
 - [x] Pillows
 - [x] Pillow cases
 - [ ] Blanket/throw
-<!--ID: 1757893915750-->
 
 
 ## For the Room 🚪
@@ -21,7 +19,6 @@ Here's your list converted into a Markdown checklist:
 - [x] Alarm clock
 - [x] Slippers
 - [x] Snacks
-<!--ID: 1757893915753-->
 
 
 ## Essentials 🔑
@@ -32,7 +29,6 @@ Here's your list converted into a Markdown checklist:
 - [x] Passport
 - [x] Wallet
 - [x] Earplugs
-<!--ID: 1757893915755-->
 
 
 ## Toiletries & Hygiene Products 🚿
@@ -41,7 +37,6 @@ Here's your list converted into a Markdown checklist:
 - [x] Wash cloths
 - [ ] Shower caddy
 - [x] Shower shoes
-<!--ID: 1757893915757-->
 
 
 ## Cleaning 🧼
@@ -49,7 +44,6 @@ Here's your list converted into a Markdown checklist:
 - [x] Disinfectant wipes
 - [ ] Small trash bags
 - [ ] Vacuum
-<!--ID: 1757893915760-->
 
 
 ## Electronics 💻
@@ -58,7 +52,6 @@ Here's your list converted into a Markdown checklist:
 - [ ] Surge protector
 - [x] Extension cord
 - [x] Headphones
-<!--ID: 1757893915761-->
 
 
 ## Decorations ✨
@@ -67,7 +60,6 @@ Here's your list converted into a Markdown checklist:
 - [ ] Photographs
 - [ ] Fairy lights
 - [ ] Command strips
-<!--ID: 1757893915764-->
 
 
 ## School Supplies ✍️
@@ -79,7 +71,6 @@ Here's your list converted into a Markdown checklist:
 - [x] Casio fx-991 calculator
 - [ ] USB stick
 - [x] Stapler
-<!--ID: 1757893915766-->
 
 
 ## Miscellaneous 🎒
@@ -91,7 +82,6 @@ Here's your list converted into a Markdown checklist:
 - [ ] Umbrella
 - [x] Sunscreen
 - [ ] Hair dryer
-<!--ID: 1757893915768-->
 
 
 ## Laundry 🧺
@@ -99,5 +89,4 @@ Here's your list converted into a Markdown checklist:
 - [ ] Detergent
 - [ ] Fabric softener
 - [ ] Dryer sheets
-<!--ID: 1757893915770-->
 

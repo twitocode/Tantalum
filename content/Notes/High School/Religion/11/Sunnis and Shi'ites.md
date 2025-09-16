@@ -19,7 +19,6 @@ TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 - Believe that **Caliph** (spiritual and secular successor to [[Islam Prophets|Muhammad]]) must be a member of [[Islam Prophets|Muhammad]]'s tribe (the Koresh)
 - The **Caliph** is elected.
 - The Sunnis believe that each individual has a direct relationship with [[Six Essential Beliefs of Islam|Allah]]
-<!--ID: 1718379549856-->
 
 
 ## Shias
@@ -30,7 +29,6 @@ TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 - **The Shias believe that the Qur’an was tampered with by enemies of Ali since it does not mention his name**
 - They search for hidden meanings in the Qur’an and distrust the present world order
 - The Shias are the dominant sect in Iran, Iraq, Pakistan and Lebanon
-<!--ID: 1718379549868-->
 
 
 ## Sufi
@@ -41,16 +39,13 @@ TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 - **They do not follow Muslim rulers, salvation is more individualized**
 - Believe that meditation and prolonged fasts will lead to illumination from Allah
 - The word **sufi means “wool-wearers”** since they wear simple wool robe as a sign of their poverty
-<!--ID: 1757893915799-->
 
 
 ## Imams
 ### Sunni
 The [[Imams]] in the Sunnis are local leaders of prayer
 - Imam is a God-given post that is open only to a descendent of Muhammad through Ali
-<!--ID: 1757893915801-->
 
 ### Shia
 Believed that [[Islam Prophets|Muhammad]] intended to be established a hereditary line of religious leaders called Imams to teach and guide the faithful
-<!--ID: 1757893915803-->
 

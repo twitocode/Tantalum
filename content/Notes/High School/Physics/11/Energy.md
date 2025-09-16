@@ -15,11 +15,9 @@ TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 
 # Energy
 The ability to do work
-<!--ID: 1715686825827-->
 
 
 ## Different Forms of Energy
-<!--ID: 1715686690940-->
 
 
 | Form                        | Description                                                                                                                                                  |
@@ -31,7 +29,6 @@ The ability to do work
 
 ### Potential Energy
 The ability of an object to do work because of its position or the arrangement of its parts. It may be considered **a stored from of energy**.
-<!--ID: 1715686690943-->
 
 
 | Form                                 | Description                                                                             |
@@ -48,7 +45,6 @@ $$\text{\% eff} = \frac{E_{out}}{E_{in}} \cdot 100$$
 $E_{out}$ is the useful energy output
 $E_{in}$ is the total energy input
 **Most Energy is wasted in the form of [[Thermal Energy]]**
-<!--ID: 1715096173040-->
 
 
 | ![[Pasted image 20240429114137.png]] | ![[Pasted image 20240429114144.png]] | ![[Pasted image 20240429114157.png]] |

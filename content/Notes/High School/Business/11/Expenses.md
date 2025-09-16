@@ -9,7 +9,6 @@ TARGET DECK: Grade 11::BAF3M1::Unit 2
 # Expenses
 The money a business spends in order to operate
 Examples: Salaries, Rent, Advertising, Utilities (water)
-<!--ID: 1718216451542-->
 
 
 Expenses decrease [[Owner's Equity]]

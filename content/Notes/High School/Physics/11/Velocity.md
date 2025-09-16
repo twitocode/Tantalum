@@ -11,14 +11,11 @@ The total [[Displacement]] of an object in [[Motion]] divided by the total time 
 It describes the change in [[Position]] over time.
 It is a **Vectory Quantity**
 $$\vec{v}_{av} = \frac{\Delta \vec{d}}{\Delta t} $$
-<!--ID: 1718370433040-->
 
 
 ## Uniform Velocity
 [[Motion]] at a constant speed in a straight line
-<!--ID: 1718370433045-->
 
 
 ## Non-Uniform
 Motion that is not at a constant speed or not in a straight line. Also called [[Acceleration|accelerated]] motion
-<!--ID: 1718370433047-->

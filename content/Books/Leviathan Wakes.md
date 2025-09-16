@@ -56,7 +56,6 @@ tags:
 	- Earther
 	- Dies Later
 	- Irrelevant to the story for the most part
-<!--ID: 1757893916457-->
 
 
 - Fred Johnson
@@ -109,7 +108,6 @@ tags:
 | 117-119                                         | holden and lopez drugs, 30 billion on earth, multiple parents                                                                                                                                                                                                                                                                                                                                                                               |
 | 128-129                                         | julie is strong, was "attacked"                                                                                                                                                                                                                                                                                                                                                                                                             |
 | 130                                             | anderson dawes doe snot want julie to be found by miller. He works as the spokesperson for the OPA on Ceres. Jules Pierre Mao worked with him                                                                                                                                                                                                                                                                                               |
-<!--ID: 1757893916459-->
 
 ### Annotations
 
@@ -168,7 +166,6 @@ p.295 - there are faster ways of killing people on eros than this, not genocide 
 p.296 - miller and holden talk about the sensors and cameras that protogen is using. Eros is a laboratory - petri dish, and another miller psychological lens
 p.298 - the rad shelters made 'zombies' explains why julie broke all the lights, the *protomolecule* feeds of a radiation
 p. 304 - miller is ready to kill the half-zombie innocent person, holden stops him, argument
-<!--ID: 1757893916460-->
 
 
 ________
@@ -236,4 +233,3 @@ p.532 - **julie thinks shes in the razorback and wants to go home to earth**
  p.543-545 - **Miller meets julie finally, julie is scared, talked out of going to earth. Miller fought for a person he never met. Miller takes off his suit**
  p.556 - fred speaking, tension between earth mars and belt are the highest, martian elections could change 
  p.559 - **turn miller into a symbol of the belt**
-<!--ID: 1757893916462-->

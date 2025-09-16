@@ -15,17 +15,14 @@ The strength increases by:
 2. Increasing current
 3. Using any material that is quickly magnetized (soft iron)
 ![[Pasted image 20240611112209.png]]
-<!--ID: 1757893915986-->
 
 
 ## Electromagnets
 A device that has a magnetic field produced by an electric current
 They can be switched on and off.
-<!--ID: 1757893915988-->
 
 
 
 ## Right Hand Rule for Solenoids
 ![[Pasted image 20240611112336.png]]
-<!--ID: 1757893915990-->
 

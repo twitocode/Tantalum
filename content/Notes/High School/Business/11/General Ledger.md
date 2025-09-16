@@ -13,7 +13,6 @@ TARGET DECK: Grade 11::BAF3M1::Unit 3
 
 **Forwarding**
 A new account page must be opened and the last balance from the filled account balance must be transferred to the new account.
-<!--ID: 1718370433110-->
 
 
 ![[slide_6.jpg]]

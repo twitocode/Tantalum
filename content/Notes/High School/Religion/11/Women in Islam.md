@@ -10,7 +10,6 @@ TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 ---
 # Women in Islam
 Islam is one of the most progressive supporters of women's liberation. It is why Islamic women support Muhammad's vision
-<!--ID: 1757893915791-->
 
 
 In the [[Islam's Sacred Books|Qu'ran]], **men and women are equal**
@@ -19,12 +18,10 @@ In the [[Islam's Sacred Books|Qu'ran]], **men and women are equal**
 Women wear **hijab**, loose fitting clothes, and ankles and wrists should be covered
 **Veils** over the face like the niquab, wearing an all-enveloping robe like the burka, and wearing socks and gloves. They may practice a form of female seclusion called purdah.
 ![[Pasted image 20240624160408.png]]
-<!--ID: 1718379549828-->
 
 
 ## Veils (Hijab)
 Arabic word for cover, a scarf that covers most or all a women’s hair
-<!--ID: 1757893915793-->
 
 
 
@@ -36,5 +33,4 @@ When Muslim women cover themselves, **they put themselves on a higher level and 
 
 ## Divorce
 It is allowed, Talaq is male initiated divorce, Khul is female initiated divorce.
-<!--ID: 1757893915795-->
 

@@ -13,7 +13,6 @@
     
 - ## **Long-term goals (post-graduation):**
     
-<!--ID: 1757893915655-->
 
 
 ---
@@ -26,7 +25,6 @@
     
 - ## Prerequisites to complete:
     
-<!--ID: 1757893915657-->
 
 
 ### Minor(s)
@@ -35,13 +33,11 @@
     
 - ## Requirements checklist:
     
-<!--ID: 1757893915658-->
 
 
 ### Electives & Interests
 
 ---
-<!--ID: 1757893915660-->
 
 
 ## 🗓️ Timeline
@@ -54,7 +50,6 @@
     
 - Summer:
     
-<!--ID: 1757893915663-->
 
 
 ### Year 2
@@ -64,7 +59,6 @@
 ### Year 4
 
 ---
-<!--ID: 1757893915664-->
 
 
 ## 🌱 Extracurricular & Activities
@@ -75,7 +69,6 @@
     
 - Internships/Co-ops:
     
-<!--ID: 1757893915666-->
 
 
 ---
@@ -88,7 +81,6 @@
     
 - Budget notes:
     
-<!--ID: 1757893915669-->
 
 
 ---
@@ -101,4 +93,3 @@
     
 - Networking goals:
     
-<!--ID: 1757893915672-->

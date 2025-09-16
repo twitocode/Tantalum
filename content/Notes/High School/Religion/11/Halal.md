@@ -10,4 +10,3 @@ TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 
 # Halal
 It means permissible foods.
-<!--ID: 1718379550445-->

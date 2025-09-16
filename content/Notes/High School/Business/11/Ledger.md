@@ -10,7 +10,6 @@ TARGET DECK: Grade 11::BAF3M1::Unit 2
 
 # Ledger
 A book or digital record that stores bookkeeping entries.
-<!--ID: 1718216451534-->
 
 
 

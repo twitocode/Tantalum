@@ -20,14 +20,12 @@ TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 - At the break of dawn, the first prayers are recited
 - Muslims are encouraged to read the entire Qur’an during Ramadan
 - The “Night of Power” occurs during one of the last ten nights which commemorates the actual time when the first revelation was given to Muhammad
-<!--ID: 1718379550005-->
 
 
 ## Eid al-Fitr
 - The festival of the **Breaking of the Fast**
 - It marks the end of Ramadan
 - Families come together for a festive meal in homes
-<!--ID: 1718379550016-->
 
 
 ## Eid al-Adha
@@ -35,6 +33,5 @@ TARGET DECK: Grade 11::HRT3M1::Unit 3 - Islam
 - 10th month of Islamic calendar – **generally celebrated at the conclusion of the** **pilgrimage to Mecca**
 - **Marks Abraham’s submission to will of God & his willingness to sacrifice his son Ishmael**
 - As the Angel Gabriel substituted a ram for Ismael, **Muslims slaughter an animal and share it** with the family and those in need
-<!--ID: 1718379550026-->
 
 

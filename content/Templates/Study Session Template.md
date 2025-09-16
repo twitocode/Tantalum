@@ -5,12 +5,10 @@ date: <% tp.date.now("YYYY-MM-DD") %>
 ---
 ## Focus Topic
 <% tp.system.prompt("What are you focusing on?") %>
-<!--ID: 1757893915698-->
 
 
 ## Study Goals
 - 
-<!--ID: 1757893915701-->
 
 
 ## Resources
@@ -23,7 +21,6 @@ date: <% tp.date.now("YYYY-MM-DD") %>
 Start:  
 End:  
 Total:  
-<!--ID: 1757893915707-->
 
 
 ## Reflection

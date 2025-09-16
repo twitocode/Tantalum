@@ -12,7 +12,6 @@ TARGET DECK: Grade 11::BAF3M1::Unit 5
 
 ## Remitting
 Companies must regularly send (or remit) the taxes they collect to the federal government which in turn will forwards the provincial portion to the provincial government. **When companies remit the taxes they collect, they are reducing these liability or contra liability accounts to zero**. (Like [[Closing Entries]])
-<!--ID: 1757893916283-->
 
 
 

@@ -7,5 +7,4 @@ tags:
 # Liabilities
 Debts of the business.
 On a [[Balance Sheet]], they are listed according to when they are to be paid
-<!--ID: 1757893916317-->
 

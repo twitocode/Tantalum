@@ -19,7 +19,6 @@ The most important section of the bible. Written on scrolls. Includes the first 
 3. Leviticus
 4. Numbers
 5. Deuteronomy
-<!--ID: 1717596861424-->
 
 
 ## Talmud
@@ -30,7 +29,6 @@ The most important section of the bible. Written on scrolls. Includes the first 
 - Do not commit sexual immorality
 - Do not remove and eat the limb of a living animal
 - Establish a judicial system with court of law to enforce the first **six**
-<!--ID: 1717596966081-->
 
 
 
@@ -40,5 +38,4 @@ An acronym for:
 - Torah Law
 - Nievi'im (Prophets)
 - Ketuvim (Writings)
-<!--ID: 1717596966093-->
 

@@ -6,7 +6,6 @@ tags:
 ---
 # Balance Column Account
 Also known as the 3 column account. It is a type of account that maintains a running balance for the account and indicates where each [[Transactions|Transaction]] that is recorded in.
-<!--ID: 1757893916381-->
 
 
 It can be found in the [[General Journal]].

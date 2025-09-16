@@ -17,7 +17,6 @@ TARGET DECK: Grade 11::HRT3M1::Unit 4
 Hasid means "pious one". began in Eastern Europe. It stresses personal experience in worship.
 They follow all orthodox laws. Each group is centered on the teachings of a particular Rebbe. **They read the bible as the literal word God**
 ![[Pasted image 20240603194026.png]]
-<!--ID: 1717533948796-->
 
 
 ## Orthodox
@@ -27,7 +26,6 @@ They are strict on kosher and dietary laws. They use Hebrew prayers.
 ![[Pasted image 20240603194402.png]]
 ### Shabbat
 see these requirements as an opportunity to do God’s will and to lift Shabbat above the ordinary course of life. They believe observing the rules helps a person be constantly mindful of the purpose of Shabbat
-<!--ID: 1717533948798-->
 
 
 ## Conservative
@@ -35,7 +33,6 @@ Believes that Jewish law should be continually examined to meet the needs of eve
 ![[Pasted image 20240603194548.png]]
 ### Shabbat
 interpret these requirements more loosely. For example, they will switch on lights and drive to synagogue
-<!--ID: 1717533948801-->
 
 
 
@@ -49,4 +46,3 @@ It pioneered the ordination of women as rabbis
 ![[Pasted image 20240603194705.png]]
 ### Shabbat
 do not feel obligated by these rules, but many still observe Shabba
-<!--ID: 1717533948804-->

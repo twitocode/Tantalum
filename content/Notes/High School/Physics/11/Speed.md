@@ -9,7 +9,6 @@ TARGET DECK: Grade 11::SPH3U1::Unit 1 - Kinematics
 # Speed
 The total [[Distance]] travelled divided by the total time elapsed
 It is a **Scalar Quantity**
-<!--ID: 1718370433053-->
 
 
 $$v_{av} = \frac{d}{t}$$

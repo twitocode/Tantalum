@@ -14,21 +14,17 @@ $$P = \frac{\Delta E}{\Delta t}$$
 Power is measured in Watts ($W$) (Joules per second)
 ![[Figure_08_07_02a.jpg]]
 In this case, the amount of work is the same, only the time is changing.
-<!--ID: 1715096173004-->
 
 
 ## Energy Ratings
 The energy used (transformed) by an electrical appliance, $\Delta{E}$
 the amount of electrical energy used is usually measured in kilowatt hours ($kWh$)
-<!--ID: 1715096173007-->
 
 
 ### Electrical Energy
 $$\Delta E = P \Delta t$$
-<!--ID: 1757893916001-->
 
 ### Cost
 $$\cos t = \Delta E \cdot rate$$
 ![[Pasted image 20240430101059.png]]
-<!--ID: 1757893916004-->
 

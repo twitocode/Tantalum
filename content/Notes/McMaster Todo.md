@@ -12,4 +12,3 @@
 - [ ] [MAC FORMULA ELECTRIC](https://macformularacing.com/)
 - [ ] [Google Developer Group on Campus \| McMaster University](https://gdscmcmasteru.ca/)
 - [ ] 
-<!--ID: 1757893915783-->

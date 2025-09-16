@@ -13,7 +13,6 @@ TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 
 # What is Heat?
 **The transfer of [[Thermal Energy]]** from a warmer object to a colder object.
-<!--ID: 1715115920192-->
 
 
 > [!IMPORTANT] Heat vs [[Thermal Energy]]
@@ -28,23 +27,19 @@ TARGET DECK: Grade 11::SPH3U1::Unit 3 - Energy
 | **State**         | Solids                                                                            | Liquids or gases                     | No particles required                |
 | **Heat Transfer** | Collision of atoms. Atoms are heated and gain kinetic energy and vibrate quicker. | Circulating paths of fluids          | Electromagnetic waves                |
 | **Diagram**       | ![[Pasted image 20240503094942.png]]                                              | ![[Pasted image 20240503095014.png]] | ![[Pasted image 20240503095030.png]] |
-<!--ID: 1757893916070-->
 
 
 ## What are Thermal Conductors?
 Allow [[Thermal Energy]] to pass through them easily an quickly
-<!--ID: 1715096493389-->
 
 
 ## What are Thermal Insulators?
 Do not allow [[Thermal Energy]] pass through them easily
-<!--ID: 1715096493392-->
 
 
 
 # What is Specific Heat Capacity?
 The amount of energy needed to increase the [[Thermal Energy|temperature]] of a 1.0kg of substance by 1°C
-<!--ID: 1715096493395-->
 
 
 
@@ -52,7 +47,6 @@ The amount of energy needed to increase the [[Thermal Energy|temperature]] of a 
 > Water's specific heat capacity is $4.18 \cdot 10^3 J/(kg\cdot \text{°C})$ meaning it takes $4.18 \cdot 10^3 J/(kg\cdot \text{°C})$ of energy to increase the [[Thermal Energy|temperature]] of 1kg of water by 1°C
 >
 > ![[Pasted image 20240503100145.png]]
-<!--ID: 1715096173036-->
 
 
 ![[Pasted image 20240503100211.png]]
@@ -63,7 +57,6 @@ The total amount of [[Thermal Energy]] transferred from a warmer substance to a 
 $$Q = mc\Delta T$$
 $Q$ is measured in Joules
 $T$ is measured in °C
-<!--ID: 1715096404402-->
 
 
 

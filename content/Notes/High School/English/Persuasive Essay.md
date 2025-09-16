@@ -18,7 +18,6 @@ aliases:
 		- Makes people tired of original style, slowly degrades meaning
 - there is no inherent meaning in it 
 [[The harm & hypocrisy of AI art — Matt Corrall.pdf]]
-<!--ID: 1743891469434-->
 
 
 MAIN ONE: [[Artists’ AI dilemma can artificial intelligence make intelligent art]]

@@ -74,7 +74,6 @@ professor: William Farmer
 | **12**             | Mon, Nov 24 - Sun, Nov 30 | Software Development                | Chapter 13 of HCFP     |                                            | Lecture videos: 12a, 12b, 12c Tutorial video: Learning Haskell Week12                    | Exercises 08: Due on Sun, Nov 30 |                                                                                              |
 | **13**             | Mon, Dec 1 - Thu, Dec 4   | All Questions Answered!: Tue, Dec 2 | No tutorials this week |                                            |                                                                                          | Assignment 4: Due on Thu, Dec 4  | Review session: Wed, Dec 3 (C01/C03) and Thu, Dec 4 (C02/C04)                                |
 | **Final Exam**     | TBA (within Dec 6-19)     |                                     |                        |                                            |                                                                                          |                                  |                                                                                              |
-<!--ID: 1757893915649-->
 
 ## Lectures
 ![[University/Year 1/CS 1JC3/Lectures.base]]

@@ -37,7 +37,6 @@ aliases:
 	- Before I moved to Hamilton, I had many friends, some of which I still talk to everyday. I could not see my friends in person everyday. 
 		- I had
 	- I always wanted to be the smartest in my class ever since grade 5. I remember beating everyone in quick multiplication games.
-<!--ID: 1743891469319-->
 
 # Outline
 - Intro Paragraph
@@ -45,7 +44,6 @@ aliases:
 - Second Body Paragraph
 - Third Body Paragraph
 - Conclusion
-<!--ID: 1743891469358-->
 
 
 
@@ -55,7 +53,6 @@ aliases:
 # The actual essay
 
 Have you ever felt that the feeling of drowning in your own thoughts because of a tiny trigger in your life? Have you every felt the existential feeling of your stomach dropping to the floor because you fear what will happen to you in the future? If you currently have your life figured out and too advantage of every opportunity you could, then probably not. **Take advantage of the opportunities you’re given in life, or else you will lose out on shortcuts to success and feel dissatisfied with yourself**. My time at the University of Toronto St. George Campus (UTSG) in the summer was exhilarating but also made me worried about my future. 
-<!--ID: 1743891469395-->
 
 
 

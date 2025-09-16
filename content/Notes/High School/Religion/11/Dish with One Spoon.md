@@ -13,7 +13,6 @@ A concept developed by the Indigenous peoples of the Great Lakes region and nort
 It was often mentioned by Indigenous peoples while making treaties with one another to avoid violent conflict.
 - *“dish”* represents the land that is to be shared peacefully
 - *“spoon”* represents the individuals living on and using the resources of the land in the spirit of mutual cooperation.
-<!--ID: 1718379550508-->
 
 
 ## Wampum
@@ -22,5 +21,4 @@ ___
 They are tubular beads manufactured from Atlantic coast seashells. While a variety of shells may be used, most often the white shells are formed from the whelk shell and the purple from the quahog clam shell
 ![[Pasted image 20240411105217.png]]
 ![[Pasted image 20240411105228.png]]
-<!--ID: 1718379550524-->
 

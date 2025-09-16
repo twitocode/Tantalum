@@ -12,21 +12,18 @@ tags:
 
 # People are rational
 Economists think that people are rational in a sense that they will make decisions and do actions that they *believe* will make them happy
-<!--ID: 1757893915422-->
 
 
 People prefer benefits > cost. People dont do things to make them worse off
 
 # People respond to incentive
 ex. banks. our banks dont have crazy security like in the movies because the economic incentive for banks says that it is less costly to deal with the robberies than to have expensive armed security.
-<!--ID: 1757893915424-->
 
 
 ex. dont have to pay for healthcare? i am less incentive to be healthy so then i could become obese easier
 
 # Optimal decisions are made at the margin
 Economics is also known as *marginal science* because of how economists tend to think about decision. Some decisions are "all or nothing". Some decisions involve doing a little more or a little less
-<!--ID: 1757893915426-->
 
 
 **Marginal**: extra or additional
@@ -215,7 +212,6 @@ Ex. Behavioural assumptions - motives of consumers and firms
 - **Economic profit**: Includes all costs, including opportunity costs.  
 - In economics, *profit* usually means **economic profit**.  
 - ⚠️ Don’t confuse profit with revenue!
-<!--ID: 1757893915428-->
 
 
 ## Household
@@ -223,7 +219,6 @@ Ex. Behavioural assumptions - motives of consumers and firms
 - Roles:  
 	- Supply factors of production (especially labour).  
 	- Consume goods and services produced in the economy.
-<!--ID: 1757893915430-->
 
 
 ## Factors of Production (Economic Resources)
@@ -233,18 +228,15 @@ Firms use these to produce goods and services:
 - **Natural resources** (including land)
 - **Entrepreneurial ability**
 Households earn income by supplying these factors.
-<!--ID: 1757893915433-->
 
 
 ## Capital
 - **Financial capital**: Stocks, bonds, bank accounts, money.  
 - **Physical capital** (the usual meaning in economics): Manufactured goods used to make other goods (e.g., computers, factories, tools, trucks).  
 - **Capital stock**: Total physical capital in a country.
-<!--ID: 1757893915435-->
 
 
 ## Human Capital
 - Training, skills, and knowledge accumulated by individuals.  
 - Example: University graduates generally have higher human capital than high school graduates.
-<!--ID: 1757893915438-->
 

@@ -12,12 +12,10 @@ aliases:
 It is the primary journal of the [[Business]]. It represents a [[Transactions|Transaction]] diary. Records [[Transactions]] in chronological order.
 It is often called the book of original entry because it is where [[Transactions]] are first recorded.
 The entire transaction is recorded in one place
-<!--ID: 1718370433161-->
 
 
 **Journalizing**
 The process of recording transactions in a journal
-<!--ID: 1718370433165-->
 
 
 Each account in it has its own [[General Ledger]]

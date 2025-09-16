@@ -9,4 +9,3 @@ TARGET DECK: Grade 11::BAF3M1::Unit 4
 
 # Principle of Conservatism
 An accounting principle that states that accountants must be fair and reasonable when making estimates, and preparing financial statements. They must provide the worst case scenario to protect investors.
-<!--ID: 1715254937935-->

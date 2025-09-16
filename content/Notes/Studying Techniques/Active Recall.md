@@ -4,7 +4,6 @@
 
 >[!Summary]
 >Active recall is when you actively stimulate your memory for a piece of information.
-<!--ID: 1757893915781-->
 
 
 Active recall forces your brain to learn and make connections between different topics. When you learn with reading notes, you are not using brain power to make those connections. You remember better when you force your brain to think.

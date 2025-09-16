@@ -18,14 +18,12 @@ The total amount of kinetic and chemical potential energy possessed by the parti
 > [!NOTE] It Depends on
 > - How fast the particles of a substance move
 > - The quantity of particles in a substance
-<!--ID: 1715096750905-->
 
 
 ## Kinetic Molecular Theory
 Matter is composed of particles (atoms and molecules) that attract each other and have kinetic energy.
 Since these particles have kinetic energy, they are in a state of constant motion
 ![[Pasted image 20240503093618.png]]
-<!--ID: 1715096750912-->
 
 
 | State  | Kinetic Energy   | Particle Movement                       |
@@ -36,12 +34,10 @@ Since these particles have kinetic energy, they are in a state of constant motio
 
 ## What is Temperature?
 The **average Kinetic Energy** of the particles in an object
-<!--ID: 1715096750915-->
 
 
 ### Why can't we measure [[Thermal Energy]]?
 We cannot measure the total amount of thermal energy in an object because it is impossible to measure the kinetic and potential energy of every particle within the object.
-<!--ID: 1715096750918-->
 
 
 ### Melting Point

@@ -44,7 +44,6 @@ professor: Vincent Maccio
 | George Ghiugan       | ghiugang@mcmaster.ca |
 | Jack Easton          | eastoj2@mcmaster.ca  |
 | Nicholas Zajkeskovic | zajkeskn@mcmaster.ca |
-<!--ID: 1757893915465-->
 
 
 ---
@@ -79,7 +78,6 @@ professor: Vincent Maccio
 | T07 | Christian |
 | T08 | George |
 | T09 | George |
-<!--ID: 1757893915469-->
 
 
 ---
@@ -90,7 +88,6 @@ professor: Vincent Maccio
 - **Online Proctoring:** Some courses may use online proctoring software for tests and exams. This software may require students to turn on their video camera, present identification, monitor and record their computer activities, and/or lock/restrict their browser or other applications/software during tests or exams.
 - **Conduct Expectations:** All students share the responsibility of maintaining a positive environment for the academic and personal growth of all McMaster community members, whether in person or online. It is essential that students be mindful of their interactions online, as the Code of Student Rights & Responsibilities remains in effect in virtual learning environments.
 - **Copyright and Recording:** Students are advised that lectures, demonstrations, and any other course material provided by an instructor include copyright protected works. The recording of lectures, tutorials, or other methods of instruction may occur during a course. Students should be aware that their voice and/or image may be recorded by others during the class.
-<!--ID: 1757893915472-->
 
 
 ## Lectures

@@ -15,7 +15,6 @@ $$
 $$
 \Delta \vec{d}_{total} = \vec{d}_{1} + \vec{d}_{2} + \dots
 $$
-<!--ID: 1718370433202-->
 
 
 If the direction is the same, then add, otherwise subtract

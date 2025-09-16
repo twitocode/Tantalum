@@ -38,13 +38,11 @@ We want to turn it into **row-echelon form**
 1. Multiply a row through by a nonzero constant (row3 = 3row1 + row3).
 2. Interchange two rows (swap).
 3. Add a constant times one row to another (row3 = 1/2row3).
-<!--ID: 1757893915297-->
 
 
 
 # Matrix Forms
 The $\color{magenta} 1$'s are known as pivots - the left-most non zero number. every number in the same column as the pivot belongs to the pivot column
-<!--ID: 1757893915299-->
 
 ## Row Echelon
 
@@ -68,7 +66,6 @@ $$
 \end{bmatrix}
 $$
 this is also in row echelon form
-<!--ID: 1757893915301-->
 
 ## Reduced Row Echelon
 $$
@@ -90,11 +87,9 @@ $$
 \end{bmatrix}
 $$
 this is also reduced row echelon form
-<!--ID: 1757893915303-->
 
 # Infinite many solutions
 take this example in reduced row echelon form
-<!--ID: 1757893915306-->
 
 
 $$
@@ -118,7 +113,6 @@ vice versa for x
 
 ### In bigger augmented matrices
 $$
-<!--ID: 1757893915308-->
 
 
 \begin{bmatrix} \\
@@ -140,7 +134,6 @@ $$
 \end{bmatrix}
 $$
 1 is a pivot point while the column that 3 is in has no pivot. there is also no pivot point underneath. that means that there must be a free variable
-<!--ID: 1757893915310-->
 
 
 # One solution
@@ -153,7 +146,6 @@ $$
 \end{bmatrix}
 $$
 so there must be 1 solution which is $x = 9$, $y = -1$ and $z = 2$
-<!--ID: 1757893915312-->
 
 
 # No solution
@@ -167,7 +159,6 @@ $$
 $$
 The bottom two columns somehow equal each other but somehow equal different numbers. That makes no sense.
 It could also happen when an equation cannot be solved
-<!--ID: 1757893915314-->
 
 
 $$

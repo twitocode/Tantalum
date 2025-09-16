@@ -11,7 +11,6 @@ Scarcity requires trade-offs. *factors of production* are scarce, which means th
 
 # Production Possibilities Frontier
 **Production Possibilities Frontier (PPF)**: a curve showing the maximum attainable combination of two products that may be produced with available resources and technology. 
-<!--ID: 1757893915395-->
 
 
 Example:
@@ -41,7 +40,6 @@ For Tesla, the opportunity cost of producing one more pickup is the number of se
 # Increasing Marginal Opportunity Costs
 ![[Pasted image 20250910210156.png]]
 This is a curved PPF, not a 1:1 linear relationship. 
-<!--ID: 1757893915396-->
 
 
 As the economy moves down the PPF, it experiences increasing marginal opportunity costs. Marginal opportunity costs increase because some workers, machines, and other resources are *better suited to some uses than to others.*
@@ -54,7 +52,6 @@ To move from point A to point B, the resources best suited to producing cars (an
 ## Diminishing Returns (not in textbook just my definition)
 > [!error] Title
 > The more resources already devoted to an activity, the smaller the payoff to devoting additional resources to that activity.
-<!--ID: 1757893915398-->
 
 
 For example, the more hours you have already spent studying economics, the smaller the increase in your test grade from each additional hour you spend studying—and the greater the opportunity cost of using the hour in that way.
@@ -62,7 +59,6 @@ For example, the more hours you have already spent studying economics, the small
 # Economic Growth
 At any given time, the total resources available to an economy are fixed.
 Produce more cars <=> Producing less Machines
-<!--ID: 1757893915400-->
 
 
 **Over time the resources available to an economy may increase.** 
@@ -80,7 +76,6 @@ Produce more cars <=> Producing less Machines
 - Markets are fundamentally about trade
 - Directly - toys for games
 - Indirectly - labour for money
-<!--ID: 1757893915403-->
 
 
 ![[Pasted image 20250910212055.png]]
@@ -131,7 +126,6 @@ Specialization and trade let both you and your neighbour consume outside your ow
 # Comparative Advantage vs Absolute Advantage
 **Absolute Advantage**: the ability of an individual, a firm, or a country *to produce more of a good or service than potential trading partners*, using the same amount of resources.
 - In the example, the neighbour has an absolute advantage
-<!--ID: 1757893915406-->
 
 
 > [!NOTE]
@@ -161,7 +155,6 @@ Determining whether a specific trade will lead to gains requires that we know th
 # The Market System
 There are physical markets like a grocery store, or virtual places like Amazon
 In a market, the buyers are the people who demand goods or services (consumers), and the sellers are the people willing to provide them (suppliers).
-<!--ID: 1757893915408-->
 
 
 **Product Markets**: markets for goods, such as computers, or services, such as haircuts.
@@ -182,7 +175,6 @@ There are two groups of people that participate in markets:
 
 ## Circular-flow diagram
 Used to see how participants in a market are linked. 
-<!--ID: 1757893915410-->
 
 
 ![[Pasted image 20250910215459.png]]
@@ -194,17 +186,14 @@ The green arrows shows the flow of funds.
 **Free Market**: exists when the government places few restrictions on how goods or services can be produced or sold, on who can buy or sell goods or services, or on how factors of production can be employed.
 - doesnt really exist but canada comes close
 - Countries that come closest to the free-market benchmark have much higher standards of living than those with centrally planned economies.
-<!--ID: 1757893915412-->
 
 
 # The Legal Basis of a Successful Market System
 Government must take active steps to provide a legal environment that will allow the market system to succeed.
-<!--ID: 1757893915414-->
 
 
 ## Protection of Private Property
 For the market system to work well, individuals must be willing to take risks. Someone with $250 000 can be cautious and keep it safely in a bank—or even as cash. *But the market system won’t work unless a lot of people are willing to risk their savings by investing them in businesses.*
-<!--ID: 1757893915416-->
 
 
 **Property Rights**: the rights individuals or firms have to the exclusive use of their property, including the right to buy or sell it. 
@@ -213,7 +202,6 @@ For the market system to work well, individuals must be willing to take risks. S
 ## Enforcement of Contracts and Property Rights
 Business activity often involves someone agreeing to carry out some action in the future. 
 - For example, you borrow $20 000 to buy a car and promise the bank—by signing a loan contract—that you will pay back the money (with interest) over the next five years.
-<!--ID: 1757893915418-->
 
 
 For the market system to work, businesses and individuals have to rely on these contracts being honoured. If one party to a legal contract does not fulfill its obligations, the other party to the contract can take the other party to court to have the deal enforced.

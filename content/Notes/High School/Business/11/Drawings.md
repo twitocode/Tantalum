@@ -6,7 +6,6 @@ tags:
 ---
 # Drawings
 An account that records the withdrawal of [[Assets]] from the business by the owner for personal use
-<!--ID: 1757893916329-->
 
 
 Drawings decreases [[Owner's Equity]]
@@ -14,5 +13,4 @@ It also appears in the Equity section of the [[Balance Sheet]]
 The Owner's drawings account is [[Debit|Debited]] whenever [[Assets]] are withdrawn by the owner
 ### Be wary
 Whenever the owner gets paid, the drawings account must be debited.
-<!--ID: 1757893916331-->
 

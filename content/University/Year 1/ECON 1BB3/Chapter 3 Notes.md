@@ -7,7 +7,6 @@ tags:
 # Demand
 **Perfectly Competitive Market:** A market that meets the conditions of (1) many buyers and sellers, (2) all firms selling identical products, and (3) no barriers to new firms entering the market.
 - *These assumptions are very restrictive and only describe a very small number of real-world markets*, such as the global market for wheat or a few other agricultural products.
-<!--ID: 1757893915350-->
 
 
 **Demand Schedules**: A table that shows the relationship between the price of a product and the quantity of the product demanded.
@@ -30,13 +29,11 @@ This example illustrates the *law of demand*
 ## Substitution Effect
 **Substitution Effect**: The change in the quantity demanded of a good that results *from a change in price making the good more or less expensive relative to other goods*, holding constant the effect of the price change on consumers’ purchasing power.
 - tldr make thing cheap more people buy
-<!--ID: 1757893915352-->
 
 
 ## Income Effect
 **Income Effect**: The change in the quantity demanded of a good that results *from the effect of a change in the good’s price on consumers’ purchasing power*.
 - tldlr i got richer i can buy more
-<!--ID: 1757893915355-->
 
 
 
@@ -45,7 +42,6 @@ This example illustrates the *law of demand*
 
 # That Magic Latin Phrase *Ceteris Paribus*
 **Ceteris Paribus**: Meaning “all else equal,” *the requirement that when analyzing the relationship between two variables*—such as price and quantity demanded—*other variables must be held constant.*
-<!--ID: 1757893915358-->
 
 
 ![[Pasted image 20250912174321.png]]
@@ -58,7 +54,6 @@ A shift of a demand curve is _an increase or a decrease in demand_. **the curve 
 3. Tastes
 4. Population and Demographics
 5. Expectations
-<!--ID: 1757893915360-->
 
 
 ## Income
@@ -67,7 +62,6 @@ A shift of a demand curve is _an increase or a decrease in demand_. **the curve 
 - I can buy more athletic shoes.
 **Inferior Good**: A good for which the demand increases as income falls and decreases as income rises.
 - buy less poor people food when you get money
-<!--ID: 1757893915362-->
 
 
 ## Prices of Related Goods
@@ -76,7 +70,6 @@ A shift of a demand curve is _an increase or a decrease in demand_. **the curve 
 - Two goods are substitutes of one another if, when you buy more of one, you buy less of the other.
 - A decrease in the price of a substitute causes the demand curve for a good to shift to the left. An increase in the price of a substitute causes the demand curve for a good to shift to the right.
 	- tldr - balenciaga becomes cheaper -> i buy less champions
-<!--ID: 1757893915364-->
 
 
 **Compliments**: Goods and Services that are used together
@@ -89,7 +82,6 @@ A shift of a demand curve is _an increase or a decrease in demand_. **the curve 
 Advertising shoe means customers are more likely to buy the product at any price, demand will shift right.
 - an ad campaign affected consumers' *taste* for athletic shoes. 
 **Taste is a catchall category that refers to the many subjective elements that can enter into a consumer’s decision to buy a product**
-<!--ID: 1757893915366-->
 
 
 ## Population and Demographcis
@@ -99,7 +91,6 @@ Population determines the total number of consumers who could demand a product.
 **Demographics**: the different types of people that make up a population
 - young ppl, old ppl
 - ex. Crumbl Cookies have a higher demand with young ppl more than old ppl
-<!--ID: 1757893915368-->
 
 
 ## Expectations
@@ -109,12 +100,10 @@ Population determines the total number of consumers who could demand a product.
 **Consumers also change their purchasing habits when their expected income changes**
 - ex. i start buying more now because i will get a promotion in 2 days
 ![[Pasted image 20250912175600.png]]
-<!--ID: 1757893915372-->
 
 
 # Change in Demand vs Change in Quantity Demanded
 ![[Pasted image 20250912180531.png]]
-<!--ID: 1757893915375-->
 
 ## Demand
 Happens when **other factors** (like income, preferences, or related goods) change, not the price. This is shown as a **shift of the entire demand curve**.
@@ -122,7 +111,6 @@ Happens when **other factors** (like income, preferences, or related goods) chan
 ## Quantity Demanded
 Happens when the **price** of the product changes. This is shown as a **movement along the same demand curve**.
 - ex - When the price of shoes falls from **$150 to $125**, demand increases from **8 million (point A)** to **9 million pairs (point B)**.
-<!--ID: 1757893915380-->
 
 
 # Supply
@@ -192,7 +180,6 @@ If a firm expects that the price of its product will be higher in the future tha
     - Caused by a **factor other than price** (e.g., lower input costs, better technology).
     - Shown as a **shift of the supply curve**.
     - Example: A decrease in input costs shifts the curve from **S₁ to S₂**, so at the same price of **$150**, supply rises from **12 million (point B)** to **14 million pairs (point C)**.
-<!--ID: 1757893915382-->
 
 
 ___
@@ -205,7 +192,6 @@ ___
 
 # How Markets Eliminate Surpluses and Shortages: Getting to Equilibrium
 **A market that is not in equilibrium moves toward equilibrium.**
-<!--ID: 1757893915384-->
 
 
 **Surplus**: When the quantity supplied is greater than the quantity demanded
@@ -227,18 +213,15 @@ ___
 
 # The Effect of Shifts in Supply on Equilibrium
 ![[Pasted image 20250912183923.png]]
-<!--ID: 1757893915386-->
 
 
 # The Effect of Shifts in Demand on Equilibrium
 ![[Pasted image 20250912184029.png]]
-<!--ID: 1757893915389-->
 
 
 # The Effect of Shifts in Demand and Supply over Time
 In many markets, the demand curve shifts to the right over time as populations and incomes grow. 
 The supply often shifts to the right over time too, as new firms enter the market or technology improves.
-<!--ID: 1757893915391-->
 
 
 **Whether the equilibrium price rises or falls over time depends on which shift is bigger**. 
@@ -253,5 +236,4 @@ The supply often shifts to the right over time too, as new firms enter the marke
 
 > [!ERROR] Title
 > When analyzing markets using demand and supply curves, it is important to remember that _when a shift in a demand or supply curve causes a change in equilibrium price, the change in price does not cause a further shift in demand or supply_
-<!--ID: 1757893915393-->
 

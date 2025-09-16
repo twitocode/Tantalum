@@ -14,7 +14,6 @@ Mathematics is a process for understanding the mathematical aspeconcts of the wo
 **Scientific Thinking**: 
 Science is the systematic study of the world through observation an experiment
 This thinking is centred on the *scientific method* - a process of hypothesis formation and experimentation. 
-<!--ID: 1757893915568-->
 
 
 **Engineering Thinking**:
@@ -36,14 +35,12 @@ looks for new ideas
 
 ## Now what is Computational Thinking?
 Computational thinking includes all of these types of thinking
-<!--ID: 1757893915570-->
 
 
 ### What can and cannot we do with computing?
 1. What are the *theoretical* limits of computing?
 	- **yes, not every problem can be solved computationally** - very important 
 2. What are the *practical* limits of computing?
-<!--ID: 1757893915573-->
 
 
 
@@ -58,7 +55,6 @@ Computational thinking includes all of these types of thinking
 		- you can express any number with 0 and 1
 	- Created a calculator called the Staffelwalze. 
 		- He designed and it was the most advanced calculator at the time
-<!--ID: 1757893915575-->
 
 
  - Postulated *characteristica universalis* in which all scientific ideas could be expressed.

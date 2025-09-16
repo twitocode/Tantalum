@@ -46,7 +46,6 @@ professor: Bradd Hart
 | **12** | Nov 17-21 | Lecture 29, 30, 31, 32 | Complex eigenvalues, Diagonalization, Eigenvectors and Linear Transformations | Test #2: Nov. 17-27 (online) |
 | **13** | Nov 24-28 | Lecture 33, 34 | Inner Product, Length, and Orthogonality, Orthogonal Sets, Orthogonal Projections, Gram-Schmidt Process | |
 | **14** | Dec 1-4 | Lecture 35, 36, 37 | Gram-Schmidt Process (continued), Exam review | MATLAB Assignments #4 and 5: Due Thurs. Dec. 4<br>Assignment #9: Due Thurs. Dec. 4 |
-<!--ID: 1757893915278-->
 
 
 ## Lectures
@@ -54,4 +53,3 @@ professor: Bradd Hart
 
 # stuff i didnt understand
 Assignment #1 Q4 - infinitely many solutions, use paremters like s t r
-<!--ID: 1757893915282-->

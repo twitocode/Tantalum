@@ -9,7 +9,6 @@ aliases:
 # Molar Heat of Formation
 $\Delta H$ that accompanies the formation of 1 mole of a compound from its elements
 **You will be given a table of heat of formation values**
-<!--ID: 1757893916200-->
 
 
 > [!NOTE]

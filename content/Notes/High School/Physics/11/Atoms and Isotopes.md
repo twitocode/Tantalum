@@ -20,7 +20,6 @@ Most of the atom is empty space
 - Although neutrons have no charge, they help to hold the nucleus together.
 - Neutrons add to the strong interaction that holds the nucleus together without adding to the repulsive forces of the positively charged protons
 - **In general, the more protons there are in the nucleus, the higher the proportion of neutrons needed to hold the nucleus together.**
-<!--ID: 1757893916102-->
 
 
 
@@ -35,7 +34,6 @@ Most of the atom is empty space
 ## Atomic Mass Units ($u$)
 The weighted average of all naturally occurring isotopes of the atom
 $1 u = 1.66 \cdot 10^{-27} kg$
-<!--ID: 1757893916105-->
 
 
 | Particle | Mass (kg)         | Mass (u)         |
@@ -46,7 +44,6 @@ $1 u = 1.66 \cdot 10^{-27} kg$
 
 ## Neutral Atoms
 When the number of protons and neutrons in an atom is the same, it is called a neutral atom.
-<!--ID: 1715895328051-->
 
 
 ## Antiparticles
@@ -54,7 +51,6 @@ When the number of protons and neutrons in an atom is the same, it is called a n
 When a particle and its antiparticle meet, they annihilate each other into pure
 energy
 ![[Pasted image 20240513103531.png]]
-<!--ID: 1715895328057-->
 
 
 **Antimatter** is a form of matter composed only of antiparticles
@@ -67,16 +63,13 @@ energy
 
 ## What are Isotopes?
 A form of an element that has the same number of protons, but different numbers of neutrons
-<!--ID: 1715895328062-->
 
 
 ### Stable Nuclei
 Remain in the same form with the same number of protons and neutrons **forever**
-<!--ID: 1757893916107-->
 
 ### Unstable Nuclei
 Has too few or too many neutrons; The atom will exist for a while, but will eventually break up;
-<!--ID: 1757893916109-->
 
 
 
@@ -93,6 +86,5 @@ Has too few or too many neutrons; The atom will exist for a while, but will even
 ## What are Radioisotopes?
 An unstable isotope that spontaneously changes its nuclear structure and releases energy in the form of radiation
 If an nucleus has more then 83 protons, no number of neutrons can hold it together forever
-<!--ID: 1715895328068-->
 
 

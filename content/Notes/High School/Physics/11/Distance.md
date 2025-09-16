@@ -8,4 +8,3 @@ TARGET DECK: Grade 11::SPH3U1::Unit 1 - Kinematics
 
 # Distance $d$
 The total length of the path travelled by an object in motion.
-<!--ID: 1718370433198-->

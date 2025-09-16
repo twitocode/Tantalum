@@ -127,7 +127,6 @@ True
 ```
 And is always false unless both are true
 Or is always true unless both are false
-<!--ID: 1757893915444-->
 
 
 xor - if one of the inputs is true then its good but if both are true then its false

@@ -36,7 +36,6 @@ If $\Delta H < 0$ then the reaction is exothermic, meaning it releases heat
 # Calorimetry
 A process by which the energy changes of a system can be measured. 
 **Calorimeter**: a device that can measure $\Delta H$
-<!--ID: 1757893916210-->
 
 
 $$\Delta H = mc\Delta T$$
@@ -59,23 +58,19 @@ $H$ atoms
 
 ### Important Formulas
 ![[Pasted image 20241207121145.png]]
-<!--ID: 1757893916212-->
 
 
 ### Stoichiometry
 ![[Pasted image 20241207121021.png]]
 In this example, because there is twice as many reactants and products, $\Delta H$ will be 2x bigger.
-<!--ID: 1757893916214-->
 
 
 ---
 # State Property
 The enthalpy of matter depends on its state. Heat is a state property so it does not matter which path it takes to get from solid to gas for examples.
-<!--ID: 1757893916216-->
 
 ## SATP $\Delta H \degree$
 $25 \degree C$ and $100kPa$
-<!--ID: 1757893916217-->
 
 
 ![[Pasted image 20241207121553.png]]
