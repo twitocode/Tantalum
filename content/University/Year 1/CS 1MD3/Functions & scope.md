@@ -55,6 +55,8 @@ y = 5
 z = 1
 
 def my_fun(y):
+	#will cause an error, will not be on the test.
+	#python will look ahead and think it already has a local variable called x, it will not look at the global variable
 	y = z + y
 	z = 0
 	
