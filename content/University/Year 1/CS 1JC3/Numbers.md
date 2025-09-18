@@ -32,14 +32,15 @@ They all have addition and multiplication in each number system
 
 ## Mohammad Al-Khwarizmi
 aka Algoritmi
+- house of wisdom in bagdhad. 
+	- take greek stuff and translate into arabic
 - he made a method called algorism
 	- the word algorithm comes from him
 	- he introduced arithmetic based on the Hindu-Arabic numeral system to the Middle East and Europe
 	- latin name is algoritmi
 - He also showed how to solve all linear and quadratic equations in an algebraic way and justified it with geometry (the greeks only knew geometry)'
 	- His book *al-jabr* (algebra)
-
-
+**fibonacci brought ** ... into Europe
 ## Decimal vs Binary
 
 |        | Decimal | Binary |
