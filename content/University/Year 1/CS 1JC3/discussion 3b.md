@@ -19,6 +19,7 @@ class: CS 1JC3
 	- we do arithmetic by manipulating expressions 
 		- values are just the meanings of numerals, i'd be the same as manipulating meanings
 4 bits in 2s compilment means that the highest number is 7 (0111) not 16(1111)
+	- add 1 to 0111 makes it 1000 or -8
 
 ## Key Terms
 - Term 1: Definition
