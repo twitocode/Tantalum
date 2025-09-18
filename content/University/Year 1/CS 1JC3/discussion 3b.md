@@ -12,6 +12,7 @@ class: CS 1JC3
 - self reference
 	- 
 	- dangerous because of the paradoxes
+- $(101.11)_{(2)} = 5.75_{(10)}$
 
 ## Key Terms
 - Term 1: Definition
