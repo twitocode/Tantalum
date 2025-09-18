@@ -13,6 +13,11 @@ class: CS 1JC3
 	- 
 	- dangerous because of the paradoxes
 - $(101.11)_{(2)} = 5.75_{(10)}$
+- number vs numeral
+	- numeral - expression
+	- number - value
+	- we do arithmetic by manipulating expressions 
+		- values are just the meanings of numerals, i'd be the same as manipulating meanings
 
 ## Key Terms
 - Term 1: Definition
