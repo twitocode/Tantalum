@@ -9,7 +9,9 @@ class: CS 1JC3
 - Main objectives:
 
 ## Notes
-- 
+- self reference
+	- 
+	- dangerous because of the paradoxes
 
 ## Key Terms
 - Term 1: Definition
