@@ -90,7 +90,9 @@ Rational numbers are represented in base 2 scientific notation with a fixed numb
 $$\pm 1.m *2^e$$
 where $1.d_{1}d_{2}d_{3}\dots d_{23}$ is called the *mantissa* and it is in base 2
 $e$ is the *exponent*
-
+ex. 1.45678 * 2^7
+We cannot represent 0 normally
+we use some of the expoennet bits to represent -0.0, 0.0, Infinity, -Infinity, NaN, these are special numbers and is the reason why not all 8 exponent bits are used for exponents.
 
 **Single-precision floating numbers (floats)** use 32. bits with 1 bit for the sign, 23. bits for the (unsigned) mantissa, and 8 for the (signed) exponent.
 **Double-precision float numbers (doubles)** are the same but use 32 bits.
@@ -102,8 +104,6 @@ $e$ is the *exponent*
 ```
 
 Since $(0.1)_{10} = (0.000110011000\dots)$ in base 10, 0.1 cannot be represented exactly as a floating point number
-
-We cannot represent 0
 
 ## Arithmetic
 arithmetic operations on floating point numbers **return the float point number that is the best approximation to the true value**
