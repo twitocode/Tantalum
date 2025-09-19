@@ -13,6 +13,8 @@ class: CS 1JC3
 	- active learning vs passive learning
 - arithmeitc logic unit
 
+uses for clock arithmetic
+
 | +7  | 0111 |
 | --- | ---- |
 |     |      |
