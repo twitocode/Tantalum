@@ -88,7 +88,8 @@ This problem does not exist using **Integer** in Haskell
 # Floating Point Numbers
 Rational numbers are represented in base 2 scientific notation with a fixed number of bits. Can represetn all rational numbers.
 $$\pm 1.m *2^e$$
-where $1.m$ is called the *mantissa* and $e$ is the *exponent*
+where $1.d_{1}d_{2}d_{3}\dots d_{23}$ is called the *mantissa* and it is in base 2
+$e$ is the *exponent*
 
 
 **Single-precision floating numbers (floats)** use 32. bits with 1 bit for the sign, 23. bits for the (unsigned) mantissa, and 8 for the (signed) exponent.
