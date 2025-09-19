@@ -84,7 +84,7 @@ Hexadecimal allows us to represent binary numbers in a compact way,
 
 	
 ![[Pasted image 20250914154343.png]]
-
+This problem does not exist using **Integer** in Haskell
 # Floating Point Numbers
 Rational numbers are represented in base 2 scientific notation with a fixed number of bits
 $$\pm 1.m *2^e$$
