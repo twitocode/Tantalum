@@ -24,7 +24,9 @@ uses for clock arithmetic
 | -1  | 1111 |
 |     |      |
 | -8  | 1000 |
-
+|     |      |
+|     |      |
+you could solve getting bigger numbers by using overflow but it will slow down computation. Most of the time there will not be overflow
 
 ## Key Terms
 - Term 1: Definition
