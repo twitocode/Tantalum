@@ -90,9 +90,13 @@ Rational numbers are represented in base 2 scientific notation with a fixed numb
 $$\pm 1.m *2^e$$
 where $1.d_{1}d_{2}d_{3}\dots d_{23}$ is called the *mantissa* and it is in base 2
 $e$ is the *exponent*
-ex. 1.45678 * 2^7
+
 We cannot represent 0 normally
 we use some of the expoennet bits to represent -0.0, 0.0, Infinity, -Infinity, NaN, these are special numbers and is the reason why not all 8 exponent bits are used for exponents.
+
+if the exponent is 0
+then the smallest number you can make is 1
+and the biggest is $(1.11111\dots1)_{2}$ which approaches 2
 
 **Single-precision floating numbers (floats)** use 32. bits with 1 bit for the sign, 23. bits for the (unsigned) mantissa, and 8 for the (signed) exponent.
 **Double-precision float numbers (doubles)** are the same but use 32 bits.
