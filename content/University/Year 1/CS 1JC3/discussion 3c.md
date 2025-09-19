@@ -10,7 +10,7 @@ class: CS 1JC3
 
 ## Notes
 - bifficus of the present Part 2
-	- 
+	- active learning vs passive learning
 
 ## Key Terms
 - Term 1: Definition
