@@ -19,7 +19,7 @@ ___
 - Does not include used goods
 	- new textbook ✅
 	- sold to friend 🚫
-**Final good or service**: one that is purchased by its final user and is not included in the prodution of any other good or service.
+**Final good or service**: one that is purchased by its final user and is not included in the production of any other good or service.
 - ex: hamburgers
 
 **Intermediate goods**: a good or service that is an input into another good or service
@@ -28,3 +28,5 @@ ___
 > [!NOTE]
 > In calculating GDP, we include the value of the car but not the separate value of the car seats. If we included the value of the car seats, we would be _double counting_:
 
+## Production, Income, and the Circular-Flow Diagram
+$$\text{value of total production} =\text{value of total income}$$
