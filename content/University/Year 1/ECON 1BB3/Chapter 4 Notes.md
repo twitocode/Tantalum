@@ -259,3 +259,5 @@ $$\text{Household Income}- \text{Personal tax payments}$$
 we can measure GDP in terms of total expenditure or as the total income received by households
 **Gross Domestic Income**: the sum of income payments to households
 
+
+THERES MORE TO THIS I JUST DONT KNOW HOW TO DO IT
