@@ -61,3 +61,6 @@ ___
 **In the expendicture approach**, all the spending on domestically produced goods and services is added up
 **In the income approach**, all the income received by Canadians as the result of production that takes place in Canada is added up.
 ![[Pasted image 20250921141155.png]]
+
+### Income Approach
+
