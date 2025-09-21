@@ -54,8 +54,6 @@ Firms pay wages to households in exchange for the services of labour. interest f
 - includes employment insurance payments
 - **NOT INCLUDED IN GDP** because there is no exchange
 
-**Imports**: Spending on foreign-produced goods and services
-
 ___
 
 **In the expendicture approach**, all the spending on domestically produced goods and services is added up
@@ -97,3 +95,42 @@ Means the payments made to the owners of capital by firms and government for the
 - *The owners of these businesses often work there as well*. This makes it very hard to break their income down into payments as an employee and payments *because they own the capital*
 
 **Taxes less subsidies** represent the payment to governemnt that tmimics income recieved by the owenrs of other inputs.
+
+## Expenditure Approach
+
+
+Expenditures are divided into:
+1. Final consumption
+2. Gross fixed capital formation    
+3. Investment in inventories
+4. Net exports
+
+### Final Consumption
+Covers all domestic purchases of goods and services used to satisfy needs and wants. This is the *largest component* of GDP in the expenditure approach.
+- **Household consumption**: spending on food, clothing, etc
+	- *over half of GDP is household consumption alone*
+- **Government consumption**: spending on services like health care, education, defense.
+- **Not-for-profit organizations**: small portion, spending to serve households
+
+### Gross Fixed Capital Formation
+Purchases of *fixed assets (capital)* by firms, governments, and households.
+- **Fixed assets** = long-term tangible goods like buildings, houses, and machinery.
+
+**Basically: long-term investment in buildings, equipment, and infrastructure.**
+
+### Investment in Inventories
+Businesses also need *inventories*
+**Inventories**: finished products kept on hand to sell or inputs to turn into finished products
+- If inventories rise → counted as investment.
+- If inventories fall → businesses are selling off stock or using up inputs, which reduces GDP contribution.
+
+### Net Exports (Exports – Imports)
+
+**Exports**: goods and services produced in Canada and sold abroad (added to GDP). Example: wheat sold to China.
+**Imports**: goods and services produced abroad but bought in Canada (subtracted from GDP). Example: IKEA bookshelf made in Sweden.
+    
+- Example: In 2021:
+    - Exports = 30.8% of GDP.
+    - Imports = 30.6% of GDP.
+    - **Net exports = 2.8% of GDP (positive, Canada sold more than it bought).**
+- 
