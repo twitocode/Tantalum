@@ -187,5 +187,19 @@ We need a way of separating the price changes from the quantity changes.
 	- Each year’s real GDP is “chained” to the previous year.
 	- This reduces distortion from changes in relative prices.
 
+**Real GDP holdds prices constant**
 Holding prices constant means that the _purchasing power_ of a dollar remains the same from one year to the next. Ordinarily, the purchasing power of a dollar falls over the years, as price increases reduce the amount of goods and services that a dollar can buy.
 
+> [!NOTE]
+> Real GDP holds prices constant, which makes it a better measure than nominal GDP of changes in the production of goods and services from one year to the next
+> 
+> ![[Pasted image 20250921151754.png]]
+> red is real
+> blue is norminal
+
+
+## The GDP Deflator
+**Price Level**: measures the average prices of goods and services in the economy.
+- you want a stable price level
+
+$$\text{GDP Deflator} = \frac{\text{Nominal GDP}}{\text{Real GDP}} * 100 $$
