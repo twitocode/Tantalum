@@ -210,4 +210,36 @@ If **prices rise but production stays the same**:
 - GDP deflator ↑
 -  In reality, both prices and production usually rise.
     - If prices rise faster than production → nominal GDP grows faster than real GDP → GDP deflator increases.
+
+___
+# Other Measures of Total Production and Total Income
+**Natural income accounting**: methods government agencies use to track total production and income in the economy.
+- In Canada, the statistical tables containing this information are called the National Economic Accounts.
+
+In addition to GDP, Statistics Canada also calculates the following measures of production and income: 
+1. gross national income
+2. net national income
+3. household income
+4. household disposable income.
+
+## Gross National Income (GNI)
+The value of incomes received by Canadians for the use of their factors of production no matter where in the world those factors of production are used, including outside Canada.
+- ex: mining outside of Canada
+- GDP excludes the production of Canadian firms that takes place outside Canada even though Canadians receive a lot of the benefit of that production
+- GDP includes production done in Canada by foreign firms even though a significant portion of the benefit of that production is received by foreigners
+
+## Net National Income (NNI)
+$$\text{NNI}=\text{GNI} - \text{consumption of fixed capital (depreciation)}$$
+fixed capita is like machinery, equipment
+
+We said: total production = total income.
+But strictly:
+- **GDP / GNI (Gross measures)** include _all production_.        
+- **NNI (Net National Income)** subtracts **depreciation** (the wear-and-tear on capital).
         
+Since depreciation is always positive:  
+*$\text{NNI}<\text{GDP/GNI}$.
+- *In practice: the difference doesn’t really affect macroeconomic model predictions.*
+
+## Household Income
+Income received by households
