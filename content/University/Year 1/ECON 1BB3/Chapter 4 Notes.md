@@ -155,3 +155,31 @@ Nx - net exports
 - Value added = $1800
 
 ___
+# Does GDP Measure What We Want It to Measure?
+
+GDP is good at measuring **production**, but it’s not perfect. Economists also sometimes use GDP as a measure of **well-being**, but it only gives a **rough picture**.
+
+## Shortcomings of GDP as a Measure of Total Production
+
+**Household Production**: Goods/services people make for themselves (like childcare, cleaning, cooking, DIY projects) are not counted.
+    - If these tasks are outsourced (daycare, restaurants, cleaners), they _are_ counted, even though total production hasn’t really changed.
+            
+**Informal Economy**: Transactions hidden from the government (illegal goods/services, tax evasion, avoiding regulation) are excluded.
+Hard to measure, but studies estimate:
+- **Canada’s informal economy =** **13% of official GDP (****$295B in 2018).**
+- Shadow economies can be much larger in some countries (e.g., Bolivia 63% of GDP).
+
+___
+# Real vs Nominal GDP
+We need a way of separating the price changes from the quantity changes.
+
+**Nominal GDP**: calculated by summing the *current* values of final goods and services.
+
+**Real GDP**: is calculated by designating a particular year as the *base year* and then using the prices of goods and services in the base year to calculate the value of goods and services in all other years
+- Ex - *base year is 2012*, *real GDP for 2023* 
+	- would be calculated by using the price of goods and services from 2012. 
+	- By always using the same prices, we know that changes in real GDP represent changes in the quantity of goods and not changes in prices.
+- Drawback
+	- Prices may change relative to each other
+	- Iphone is $10000 in 2030 compared to $1000 now. Now the real GDP is distorted
+
