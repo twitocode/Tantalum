@@ -62,5 +62,25 @@ ___
 **In the income approach**, all the income received by Canadians as the result of production that takes place in Canada is added up.
 ![[Pasted image 20250921141155.png]]
 
-### Income Approach
+## Income Approach
+Income is divided into:
+1. compensation of employees
+2. gross operating surplus
+3. gross mixed income
+4. taxes - subsidies
 
+
+### Compensation of Employees
+- This is all the money workers get for their labour.
+- **Two parts:**
+    1. **Wages & salaries** → regular pay for work (86.3% of employee compensation = 44% of GDP).
+    2. **Employers’ social contributions** → money employers pay into programs for workers, like CPP, EI, or health plans (13.7% of employee compensation = 7% of GDP).
+    
+**Half of GDP comes from paying workers — mostly wages, plus some benefits.**
+
+### Gross Operating Surplus
+Means the payments made to the owners of capital by firms and government for the use of their capital in producing goods and services
+- Broken down into 3 elements
+	- operating surplus of corporations
+	- consumption of fixed capital by coporations
+	- consumption of fixed capital by governments or non-profit organizations
