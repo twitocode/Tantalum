@@ -201,5 +201,13 @@ Holding prices constant means that the _purchasing power_ of a dollar remains th
 ## The GDP Deflator
 **Price Level**: measures the average prices of goods and services in the economy.
 - you want a stable price level
+**GDP Deflator**:  tracks the overall price level (inflation/deflation) over time.
 
 $$\text{GDP Deflator} = \frac{\text{Nominal GDP}}{\text{Real GDP}} * 100 $$
+If **prices rise but production stays the same**:
+- Nominal GDP ↑
+- Real GDP = constant
+- GDP deflator ↑
+-  In reality, both prices and production usually rise.
+    - If prices rise faster than production → nominal GDP grows faster than real GDP → GDP deflator increases.
+        
