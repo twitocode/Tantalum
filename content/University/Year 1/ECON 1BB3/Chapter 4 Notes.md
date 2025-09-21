@@ -84,3 +84,5 @@ Means the payments made to the owners of capital by firms and government for the
 	- operating surplus of corporations
 	- consumption of fixed capital by coporations
 	- consumption of fixed capital by governments or non-profit organizations
+
+****
