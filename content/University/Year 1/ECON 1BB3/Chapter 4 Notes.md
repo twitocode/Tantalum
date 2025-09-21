@@ -243,3 +243,19 @@ Since depreciation is always positive:
 
 ## Household Income
 Income received by households
+Start with **Net National Income (NNI)**.
+- **Subtract**: corporate earnings kept by firms (not paid out as dividends).
+- **Add**: government transfer payments (e.g., CERB, EI) + interest households earn on government bonds.
+
+**Typical case**: Household income < NNI    
+- **Exception (2020, COVID-19)**: Household income > NNI because of large government transfers.
+
+## Household Disposable Income
+$$\text{Household Income}- \text{Personal tax payments}$$
+![[Pasted image 20250921153457.png]]
+
+## The Division of Income
+![[Pasted image 20250921153619.png]]
+we can measure GDP in terms of total expenditure or as the total income received by households
+**Gross Domestic Income**: the sum of income payments to households
+
