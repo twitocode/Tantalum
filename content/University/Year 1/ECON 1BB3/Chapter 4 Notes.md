@@ -182,4 +182,10 @@ We need a way of separating the price changes from the quantity changes.
 - Drawback
 	- Prices may change relative to each other
 	- Iphone is $10000 in 2030 compared to $1000 now. Now the real GDP is distorted
+	Solution: **chain-weighted prices**
+	- Uses **average prices** from two years (current year + previous year) instead of only base-year prices.
+	- Each year’s real GDP is “chained” to the previous year.
+	- This reduces distortion from changes in relative prices.
+
+Holding prices constant means that the _purchasing power_ of a dollar remains the same from one year to the next. Ordinarily, the purchasing power of a dollar falls over the years, as price increases reduce the amount of goods and services that a dollar can buy.
 
