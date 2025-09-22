@@ -7,4 +7,5 @@ tags:
 A logic is a reasoning system with:  
 1. A language with a **formal syntax** and **precise semantics.**  
 2. Concepts of **truth** and **logical consequence**.  
-3. A **proof system** for establishing that statements in the  language are true
+3. A **proof system** for establishing that statements in the language are true
+
