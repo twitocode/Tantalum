@@ -12,6 +12,9 @@ Another definition for **computational thinking** is
 The study of the principles underlying sound reasoning
 - branch of math underlying mathematical reasing
 - branch of math underlying computing
+- *What is not sound reasoning*
+	- if i break wood i get 2  wood
+	-  So If i break a person, i get two persons
   
 A logic is a reasoning system with:  
 1. A language with a **formal syntax** and **precise semantics.**  
