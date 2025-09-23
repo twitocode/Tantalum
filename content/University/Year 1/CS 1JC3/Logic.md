@@ -165,3 +165,10 @@ $f(2) = (\lambda x : \mathbb{R} . x *x)(2) = 2*2$
 - Sub 2 into the function for x
 
 f denotes squaring a function
+### In Haskell
+```haskell
+\x1 ... xn -> e
+
+--squaring a function
+\x -> x * x
+```
