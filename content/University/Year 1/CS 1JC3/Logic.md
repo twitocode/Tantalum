@@ -144,4 +144,7 @@ boolToInt b =
 ```
 
 # Alonzo Church
-The person who first showed that there were u
+The person who first showed that there were unsolvable decision problems using **Lambda Calculus** (proved Leibniz wrong)
+Developed Lambda Calculus Computational model based  on function application and abstraction
+
+
