@@ -51,11 +51,10 @@ A form of quantifier first-order logic is embedded in the language
         - Existential: $\exists$ (“there exists”).
             
 - **Example:**
-    $\forall x (Human(x)→Mortal(x))$
-    ("For every xxx, if xxx is human, then xxx is mortal.")
-    
-    $\exists x \; Human(x)$
-    ("There exists at least one human.")
+    - $\forall x (Human(x)→Mortal(x))$
+	    - ("For every xxx, if xxx is human, then xxx is mortal.")
+    - $\exists x \; Human(x)$
+	    - ("There exists at least one human.")
     
 ## Booleans
 A standard truth value (true or false)
