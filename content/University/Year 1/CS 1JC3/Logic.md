@@ -144,9 +144,10 @@ boolToInt b =
 ```
 
 # Alonzo Church
-The person who first showed that there were unsolvable decision problems using **Lambda Calculus** (proved Leibniz wrong)
+The person who first showed that there were unsolvable decision problems (**Church's Theorem**) using **Lambda Calculus** (proved Leibniz wrong)
 Developed Lambda Calculus Computational model based  on function application and abstraction
 
 ## Church's Theorem
-First
+First-order logic is undecidable
 There is lambda expression that will allow them 
+if you have a first order formula, can you allows show that the formula is always True
