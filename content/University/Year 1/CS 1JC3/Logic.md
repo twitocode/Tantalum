@@ -4,7 +4,7 @@ class: CS 1JC3
 tags:
   - "#classnote"
 ---
-Another defini tion for **computational thinking** is
+Another definition for **computational thinking** is
 - using the right computational tools in the right way for the problem at hand
 - understanding the limits and pitfalls of computational tools
 
