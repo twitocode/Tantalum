@@ -98,6 +98,9 @@ if the exponent is 0
 then the smallest number you can make is 1
 and the biggest is $(1.11111\dots1)_{2}$ which approaches 2
 ![[Pasted image 20250919092103.png]]
+![[Pasted image 20250922213907.png]]
+2^23 represents 2^23 bits in that section
+
 **Single-precision floating numbers (floats)** use 32. bits with 1 bit for the sign, 23. bits for the (unsigned) mantissa, and 8 for the (signed) exponent.
 **Double-precision float numbers (doubles)** are the same but use 32 bits.
 - signed = - or +

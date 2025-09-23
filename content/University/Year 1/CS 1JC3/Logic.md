@@ -13,7 +13,7 @@ A logic is a reasoning system with:
 2. Concepts of **truth** and **logical consequence**.  
 3. A **proof system** for establishing that statements in the language are true
 
-## Use-cases
+ ## Use-cases
 1. Theoretical
 	1. Computation
 	2. Programming langugaes
