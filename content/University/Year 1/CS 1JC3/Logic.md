@@ -161,4 +161,7 @@ denotes a function $f : \alpha \to \beta$ such that $f(a) = B[x \mapsto a]$
 $\beta$ is the output, $\alpha$ is the input
 
 Example:
-$f(2) = \lambda x : \mathbb{R} . x *x$
+$f(2) = (\lambda x : \mathbb{R} . x *x)(2) = 2*2$
+- Sub 2 into the function for x
+
+f denotes squaring a function
