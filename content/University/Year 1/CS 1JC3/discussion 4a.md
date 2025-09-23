@@ -30,7 +30,10 @@ Logic
 
 | A B | $A \implies B$ |
 | --- | -------------- |
-|     |                |
+| T T | T              |
+| T F | F              |
+| F T | T              |
+| F F | T              |
 
 ## Key Terms
 - Term 1: Definition
