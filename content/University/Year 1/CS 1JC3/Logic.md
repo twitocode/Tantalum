@@ -116,10 +116,17 @@ An expression whose value depends on the value of a boolean expression
 *Haskell:* $\text{if } c\text{ then }e_{1}\text{ else }e_{2}$
 **The condition c is a boolean expression**
 ```haskell
-absInteger :: In
+absInteger :: Integer -> Integer
+absInteger n = if n < 0 then -n else n
 ```
 ## Guarded Functions
 A convient alternative to defining a function using conditionals
 ![[Pasted image 20250922234037.png]]
 $g_{1},\dots g_{n}$ are boolean expressions
+```haskell
+absInteger :: Integer -> Integer
+absInteger n = 
+	| n < 0  = -n
+	| n >= 0 = n
+```
 
