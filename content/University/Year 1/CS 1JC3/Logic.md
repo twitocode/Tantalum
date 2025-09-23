@@ -135,3 +135,13 @@ enables a value to be chosen from a set of options, is a generalization of a con
 ![[Pasted image 20250922234350.png]]
 
 The value of the expression $e$ is matched against the **patterns** $p_{1}\dots p_{n}$
+```haskell
+boolToInt :: Bool -> Int
+boolToInt b =
+	case b of
+		False -> 0
+		True -> 1
+```
+
+# Alonzo Church
+The person who first showed that there were u
