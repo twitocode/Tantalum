@@ -157,4 +157,4 @@ if you have a first order formula, can you allows show that the formula is alway
 ## Lambda Notation
 if $B$ is an expression of type $\beta$
 $$\lambda x: \alpha . B$$
-denotes a function $f : \alpha \to \beta$ s
+denotes a function $f : \alpha \to \beta$ such that $f(a) = B[x \mapsto a]$
