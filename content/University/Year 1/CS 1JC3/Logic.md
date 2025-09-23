@@ -130,3 +130,5 @@ absInteger n =
 	| n >= 0 = n
 ```
 
+## Case Expressions
+enables a valu
