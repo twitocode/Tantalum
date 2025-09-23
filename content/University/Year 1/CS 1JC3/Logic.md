@@ -35,6 +35,12 @@ Ex
 
 ## In Haskell
 A form of quantifier first-order logic is embedded in the language
+- Bool, a type of truth values (booleans)
+- boolean functions
+- predicates
+- conditional expressions
+- guarded functions
+- case expressions
 
 ### First-order logic
 - **What it deals with:** Breaks statements into **objects** and **properties/relations**.
@@ -51,17 +57,6 @@ A form of quantifier first-order logic is embedded in the language
     $\exists x \; Human(x)$
     ("There exists at least one human.")
     
-- Bool, a type of truth values (booleans)
-- boolean functions
-- predicates
-- conditional expressions
-- guarded functions
-- case expressions
-  
-quantifiers - universal - for all natural numbers some property holds
-extistenial - there exists a natural number that quantifies a state
-
-
 ## Booleans
 A standard truth value (true or false)
 Named after George and Boole
@@ -100,3 +95,21 @@ DeMorgan laws
 - (not b1) or (not (not b2)) -> 
 - (not b1) or b2
 - if there is an and make it an or, vice versa
+
+## Predicates
+a function that returns a boolean. 
+$t_{1} \to \dots\to t_{n}\to Bool$
+A boolean function is a special kind of predicate
+Ex. 1 == 2
+### In Haskell
+- predefined binary predicates
+	- ==
+	- /=
+	- <
+	- <=
+	- >
+	- >=
+
+
+## Conditonal Expressions
+An expression whose value depends on the value of a boolean expression 
