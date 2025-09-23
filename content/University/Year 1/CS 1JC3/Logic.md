@@ -77,10 +77,19 @@ True == False
 	- Negation (not)
 	- Conjunction (&&)
 	- Disjunction (||)
+All can be represented as
+- *not* and *and*
+- *not* and *or*
+- *nand* (Sheffere stroke) or *nor* (Peirce arrow)
+There is also the implies function that is an implication
 
+> [!NOTE]
+> There is the confusing case of b1 being False
+> - If the condition b1 **happens**, then b2 must follow.
+> - If b1 **doesn’t happen**, the implication makes no promise — so it’s considered **true by default** (this is called _vacuous truth_).
+
+  
 **Truth Tables**
 ![[Pasted image 20250922232243.png]]
-
-
-
 ![[Pasted image 20250922232233.png]]
+![[Pasted image 20250922232601.png]]
