@@ -9,7 +9,10 @@ class: CS 1JC3
 - Main objectives:
 
 ## Notes
-- 
+Recursion abstract:
+- function take some input
+- certain cases i know what the answer is (base case)
+- look at others and see how i cna break it up into smaller cases with a similisimilarar complexity
 
 ## Key Terms
 - Term 1: Definition
