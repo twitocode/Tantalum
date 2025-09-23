@@ -130,5 +130,8 @@ absInteger n =
 	| n >= 0 = n
 ```
 
-## Case Expressions
-enables a valu
+## Case Expressions (switch statement bruh)
+enables a value to be chosen from a set of options, is a generalization of a conditional expression
+![[Pasted image 20250922234350.png]]
+
+The value of the expression $e$ is matched against the **patterns** $p_{1}\dots p_{n}$
