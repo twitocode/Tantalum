@@ -146,10 +146,12 @@ boolToInt b =
 # Alonzo Church
 The person who first showed that there were unsolvable decision problems (**Church's Theorem**) using **Lambda Calculus** (proved Leibniz wrong)
 - Turning used the Turning machine to prove this as well
-	- **What we consider to be an intuitive computation is captured by Church's or turing **
+	- Church-Turing thesis - **What we consider to be an intuitive computation is captured by Church's or Turing theorem**	  
 Developed Lambda Calculus Computational model based  on function application and abstraction
 
 ## Church's Theorem
 First-order logic is undecidable
 There is lambda expression that will allow them 
 if you have a first order formula, can you allows show that the formula is always True
+
+## Lambda Notation
