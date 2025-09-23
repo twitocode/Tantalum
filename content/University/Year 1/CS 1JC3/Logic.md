@@ -147,4 +147,6 @@ boolToInt b =
 The person who first showed that there were unsolvable decision problems using **Lambda Calculus** (proved Leibniz wrong)
 Developed Lambda Calculus Computational model based  on function application and abstraction
 
-
+## Church's Theorem
+First
+There is lambda expression that will allow them 
