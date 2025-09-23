@@ -24,6 +24,14 @@ Logic
 	- ... [[Logic]]
 	- $a_{1},\dots,a_{n} \vdash B$ semantics
 	- $a_{1},\dots,a_{n} \vDash B$ proof system
+  - Truth tables
+	  - A B - truth value variables
+	  - 
+
+| A B | $A \implies B$ |
+| --- | -------------- |
+|     |                |
+
 ## Key Terms
 - Term 1: Definition
 - Term 2: Definition
