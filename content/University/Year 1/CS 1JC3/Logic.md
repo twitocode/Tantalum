@@ -155,3 +155,6 @@ There is lambda expression that will allow them
 if you have a first order formula, can you allows show that the formula is always True
 
 ## Lambda Notation
+if $B$ is an expression of type $\beta$
+$$\lambda x: \alpha . B$$
+denotes a function $f : \alpha \to \beta$ s
