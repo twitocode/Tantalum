@@ -159,3 +159,6 @@ if $B$ is an expression of type $\beta$
 $$\lambda x: \alpha . B$$
 denotes a function $f : \alpha \to \beta$ such that $f(a) = B[x \mapsto a]$
 $\beta$ is the output, $\alpha$ is the input
+
+Example:
+$f(2) = \lambda x : \mathbb{R} . x *x$
