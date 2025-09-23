@@ -20,7 +20,7 @@ A logic is a reasoning system with:
 Ex
 - Higher-order logic
 - First-order-Log
-- Proposititional Logic
+- Propositional Logic
 
  ## Use-cases
 1. Theoretical (studying)
@@ -35,6 +35,22 @@ Ex
 
 ## In Haskell
 A form of quantifier first-order logic is embedded in the language
+
+### First-order logic
+- **What it deals with:** Breaks statements into **objects** and **properties/relations**.
+- **Adds:**
+    - **Predicates:** like $Human(x), Mortal(x)$.
+    - **Quantifiers:**
+        - Universal: $\forall$ (“for all”)
+        - Existential: $\exists$ (“there exists”).
+            
+- **Example:**
+    $\forall x (Human(x)→Mortal(x))$
+    ("For every xxx, if xxx is human, then xxx is mortal.")
+    
+    $\exists x \; Human(x)$
+    ("There exists at least one human.")
+    
 - Bool, a type of truth values (booleans)
 - boolean functions
 - predicates
@@ -44,3 +60,27 @@ A form of quantifier first-order logic is embedded in the language
   
 quantifiers - universal - for all natural numbers some property holds
 extistenial - there exists a natural number that quantifies a state
+
+
+## Booleans
+A standard truth value (true or false)
+Named after George and Boole
+- discovered that there is an algebra of truth values like there are with numbers
+
+**Boolean expressions**: any expression that denotes the values True or False. *used to make decisions*
+True == False
+1 == 2
+
+**Boolean function**: a function of a type of the following, the meaning of these functions are given by *truth tables*
+- $\text{Bool} \to \dots \to\text{Bool}\to\text{Bool}$
+- *In Haskell*
+	- Negation (not)
+	- Conjunction (&&)
+	- Disjunction (||)
+
+**Truth Tables**
+![[Pasted image 20250922232243.png]]
+
+
+
+![[Pasted image 20250922232233.png]]
