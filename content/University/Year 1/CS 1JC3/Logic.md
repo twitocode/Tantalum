@@ -4,6 +4,10 @@ class: CS 1JC3
 tags:
   - "#classnote"
 ---
+Another defini tion for **computational thinking** is
+- using the right computational tools in the right way for the problem at hand
+- understanding the limits and pitfalls of computational tools
+
 A logic is a reasoning system with:  
 1. A language with a **formal syntax** and **precise semantics.**  
 2. Concepts of **truth** and **logical consequence**.  
