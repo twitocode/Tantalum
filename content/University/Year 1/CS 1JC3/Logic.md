@@ -81,10 +81,10 @@ All can be represented as
 - *not* and *and*
 - *not* and *or*
 - *nand* (Sheffere stroke) or *nor* (Peirce arrow)
-There is also the implies function that is an implication
 
+There is also the implies function that is an implication
 > [!NOTE]
-> There is the confusing case of b1 being False
+> There is the confusing case of b1 being False in an **implication**
 > - If the condition b1 **happens**, then b2 must follow.
 > - If b1 **doesn’t happen**, the implication makes no promise — so it’s considered **true by default** (this is called _vacuous truth_).
 
@@ -93,3 +93,10 @@ There is also the implies function that is an implication
 ![[Pasted image 20250922232243.png]]
 ![[Pasted image 20250922232233.png]]
 ![[Pasted image 20250922232601.png]]
+
+DeMorgan laws
+- not (b1 and (not b2)) -> 
+- not b1) and (not (not b2)) -> 
+- (not b1) or (not (not b2)) -> 
+- (not b1) or b2
+- if there is an and make it an or, vice versa
