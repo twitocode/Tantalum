@@ -59,4 +59,4 @@ Assignment #1 **Question #1:** Which of the following is equal to $\cot(x) \sin(
 (G) (i) and (ii) only
 (H) (ii) and (iii) only
 
-Section 2.7 #29
+Section 2.7 #29, 34
