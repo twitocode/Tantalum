@@ -40,6 +40,17 @@ This means that it is a **valid** statement the contrapositive will always have 
 **A Complete set of boolean functions can define every possible boolean function with that function**
 Example: { and, not }
 - $\{ \cap, \neg \}$
-- $A  \vee B = \neg (A \cap B)$
-Example { nand }
-- 
+- $A  \vee B = \neg (\neg A \cap \neg B)$
+
+> [!NOTE]
+> Example { nand } *Sheffer's stroke*
+> - nand is a universal gate, a logical gate is how you implement a boolean function. if you have a nand gate you can define every boolean function. You can use nand alone
+> - example
+> 	- *not* $\neg A = nand(A, A)$ 
+> 	- *and* $A \cap B = \neg \neg(A \cap B)$ - this works the same as $20 = -(-20)$
+> 		- $=\neg nand(A, B)$
+> 		- $= nand(nand(A, B), nand(A, B))$
+
+Why bother using and n or when nand does everything? **because why tf would i want to read nand everytime, ITS COMPLICATED**
+- nand is very good for machines but horrible for humans
+*nor is also just like nand, a complete function*
