@@ -30,9 +30,11 @@ $\neg$ means the negative
 | T T | T              |          | F        | T                        | **T**                                            |
 This means that it is a **valid** statement the contrapositive will always have the same value as the original implication
 
-| A B | $b(A,B$) |
-| --- | -------- |
-| F F | F        |
-| F T | F        |
-| T F | F        |
-| T T | T        |
+| A B | $b(A,B$)        |
+| --- | --------------- |
+| F F | 2 possibilities |
+| F T | 2               |
+| T F | 2               |
+| T T | 2               |
+2^4 possibilities = 16 ways to fill it out
+Complete set of boolean functions
