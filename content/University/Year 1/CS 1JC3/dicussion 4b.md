@@ -19,6 +19,8 @@ $\cap$ = and/conjunction
 | T T | T          |
 
 $(A \implies B) \iff \neg B \implies \neg A$ : A contrapositive. This is a valid statement, it is true everywhere
+$\neg$ means the negative
+
 
 | A B | $A \implies B$ | $\neg B$ | $\neg A$ | $\neg B \implies \neg A$ |
 | --- | -------------- | -------- | -------- | ------------------------ |
