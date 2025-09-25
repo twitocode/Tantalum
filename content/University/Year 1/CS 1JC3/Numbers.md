@@ -76,13 +76,19 @@ Hexadecimal allows us to represent binary numbers in a compact way,
 	- ![[Pasted image 20250914154828.png]]
 - addition and multiplication are performed using *modular arithmetic* 
 - **arithmetic operations on machine integers can cause overflow**
-> [!NOTE]
+> [!important]
 > **To negate a number**
 > invert its bits and add 1
 > in math notation: $x + (-x) = 0$
+> Example: 
+> - Suppose we're working with 8 bit quantities (for simplicity's sake) and suppose we want to find how -28 would be expressed in two's complement notation. First we write out 28 in binary form.
+> - 00011100
+> - Then we invert the digits. 0 becomes 1, 1 becomes 0.
+> - 11100011
+> - Then we add 1.
+> - 11100100
+> - That is how one would write -28 in 8 bit binary. 
 
-
-	
 ![[Pasted image 20250914154343.png]]
 This problem does not exist using **Integer** in Haskell
 # Floating Point Numbers
