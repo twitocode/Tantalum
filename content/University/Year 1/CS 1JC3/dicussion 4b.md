@@ -24,7 +24,7 @@ $\neg$ means the negative
 
 | A B | $A \implies B$ | $\neg B$ | $\neg A$ | $\neg B \implies \neg A$ |
 | --- | -------------- | -------- | -------- | ------------------------ |
-| F F | T              | T        | T        |                          |
-| F T | T              | F        | T        |                          |
-| T F | F              | T        | F        |                          |
-| T T | T              | F        | F        |                          |
+| F F | T              | T        | T        | T                        |
+| F T | T              | F        | T        | T                        |
+| T F | F              | T        | F        | F                        |
+| T T | T              | F        | F        | T                        |
