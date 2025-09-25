@@ -24,10 +24,10 @@ $\neg$ means the negative
 
 | A B | $A \implies B$ | $\neg B$ | $\neg A$ | $\neg B \implies \neg A$ | $(A \implies B) \iff \neg B \implies \neg A$ |
 | --- | -------------- | -------- | -------- | ------------------------ | -------------------------------------------- |
-| F F | T              | T        | T        | T                        | **T**                                            |
-| F T | T              | F        | T        | T                        | **T**                                            |
-| T F | F              | T        | F        | F                        | **T**                                            |
-| T T | T              |          | F        | T                        | **T**                                            |
+| F F | T              | T        | T        | T                        | **T**                                        |
+| F T | T              | F        | T        | T                        | **T**                                        |
+| T F | F              | T        | F        | F                        | **T**                                        |
+| T T | T              | F        | F        | T                        | **T**                                        |
 This means that it is a **valid** statement the contrapositive will always have the same value as the original implication
 
 | A B | $b(A,B$)        |
@@ -37,4 +37,9 @@ This means that it is a **valid** statement the contrapositive will always have 
 | T F | 2               |
 | T T | 2               |
 2^4 possibilities = 16 ways to fill it out
-Complete set of boolean functions
+**A Complete set of boolean functions can define every possible boolean function with that function**
+Example: { and, not }
+- $\{ \cap, \neg \}$
+- $A  \vee B = \neg (A \cap B)$
+Example { nand }
+- 
