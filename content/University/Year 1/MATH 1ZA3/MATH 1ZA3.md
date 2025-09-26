@@ -64,4 +64,4 @@ section 3.1 #24, 73
 section 3.2 #56
 section 3.3 #39 b)
 Assignment #3 Question #8
-Section 3.4 #67
+Section 3.4 #67, 77, 79
