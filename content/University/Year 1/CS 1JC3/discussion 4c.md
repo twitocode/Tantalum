@@ -15,3 +15,7 @@ B, C - Expression
 --not bool -> alpha, it is not a function
 --the difference between this in other programming langauges, this is an conditioal expression (denotes a value), other languages have condition statements (commands)
 ```
+
+case expressions
+if we evaluate it with a value that does not have a matching pattern
+- we get undefined
