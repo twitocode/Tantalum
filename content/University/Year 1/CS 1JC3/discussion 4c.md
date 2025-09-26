@@ -18,6 +18,9 @@ B, C - Expression
 case A of
 	True -> B
 	False -> C --exhausts all possible patterns for bool
+	
+case [Int] of
+	length A
 ```
 
 case expressions
