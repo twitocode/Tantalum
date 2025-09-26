@@ -114,8 +114,8 @@ Ex. 1 == 2
 	- >
 	- >=
 
-
-## Conditonal Expressions
+# Conditional Statements
+## Conditional Expressions
 An expression whose value depends on the value of a boolean expression 
 *Haskell:* $\text{if } c\text{ then }e_{1}\text{ else }e_{2}$
 **The condition c is a boolean expression**
