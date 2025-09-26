@@ -10,4 +10,7 @@ conditional expressions
 if A then B else C
 A - boolean
 B, C - Expression
+
+--type of the expression is alpha (generic)
+--not bool -> alpha, it is not a function
 ```
