@@ -24,5 +24,6 @@ case expressions
 if we evaluate it with a value that does not have a matching pattern
 - we get undefined
 
-nested if statements look digusting
+nested if statements look disgusting in haskell
 - use a case statement
+- or use a table
