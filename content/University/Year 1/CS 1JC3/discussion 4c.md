@@ -23,3 +23,6 @@ case A of
 case expressions
 if we evaluate it with a value that does not have a matching pattern
 - we get undefined
+
+nested if statements look digusting
+- use a case statement
