@@ -62,3 +62,4 @@ Assignment #1 **Question #1:** Which of the following is equal to $\cot(x) \sin(
 Section 2.7 #29, 34
 section 3.1 #24, 73
 section 3.2 #56
+section 3.3 #39 b)
