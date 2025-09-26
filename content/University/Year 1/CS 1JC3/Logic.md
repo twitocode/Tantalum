@@ -119,6 +119,7 @@ Ex. 1 == 2
 An expression whose value depends on the value of a boolean expression 
 *Haskell:* $\text{if } c\text{ then }e_{1}\text{ else }e_{2}$
 **The condition c is a boolean expression**
+- important because you may not want to evaluate all your code
 ```haskell
 absInteger :: Integer -> Integer
 absInteger n = if n < 0 then -n else n
