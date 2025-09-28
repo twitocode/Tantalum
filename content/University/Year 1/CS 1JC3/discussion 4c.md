@@ -19,7 +19,7 @@ case A of
 	True -> B
 	False -> C --exhausts all possible patterns for bool
 	
-case [Int] of --we forgot to add booleans
+case [Int] of --lets say that we forgot to add booleans
 	[] -> B
 	(x:xs) -> C
 ```
