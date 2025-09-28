@@ -119,6 +119,7 @@ Used to measure changes in the prices faced by the average household.
 $$\text{CPI} = \frac{\text{Expenditures now}}{\text{Expenditures in base year}}\cdot{100\%}$$
 We can’t use the CPI to tell us in an absolute sense how high the price level is—only how much it has changed over time
 **We measure the inflation rate as the percentage increase in the CPI from one year to the next.**
+$$\frac{\text{New CPI value} - \text{Initial CPI value}}{\text{Initial CPI value}} \cdot {100}$$
 
 However not all is good
 - **Substitution bias**: The CPI assumes people buy the same items each month, but in reality, *they switch to cheaper alternatives when prices change*.
