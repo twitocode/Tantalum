@@ -139,6 +139,7 @@ For example, a $30,000 salary in 1993 is equivalent to about $49,626 in 2021 dol
 
 In the solved problem, although today’s minimum wage is $15 compared to $5 in 1992, once adjusted for inflation using the CPI, today’s real wage is higher but not three times higher. **This demonstrates why real wages (inflation-adjusted) are more useful than nominal wages when comparing earnings across different years.**
 
+![[Pasted image 20250928171933.png]]
 ___
 # Real vs Nominal Interest Rates
 **Interest Rate**: the cost of borrowing money expressed as a percentage of the amount borrowed
