@@ -157,3 +157,13 @@ $$\text{Real Interest rate}=\text{Nominal Interest rate}-\text{Inflation rate}$$
 When **inflation is high**, the nominal interest rate is high and the gap between the nominal interest rate and the real interest rate is large. 
 When **inflation is low**, the nominal interest rate is low and the gap between the nominal interest rate and the real interest rate is quite small.
 
+___
+# Does inflation do anything?
+> [!important]
+> Nominal income generally increases with inflation. Rising prices don’t always mean we can afford less. An expected inflation rate of 10 percent will raise the average price of goods and services by 10 percent, but it will also raise average incomes by 10 percent. **Goods and services will be as affordable to the average consumer as they were before inflation.**
+
+# Inflation Affects the Distribution of Income
+Reasons people don't like inflation
+- there are very few *average people*. Some people's income rises faster than inflations; purchasing power increases, others do not. People on fixed incomes will be hurt more (veterans)
+	- Inflation can be anticipated beforehand in which we can prepare, or unanticipated.
+	- 
