@@ -95,7 +95,7 @@ There is also the implies function that is an implication
 
 DeMorgan laws
 - not (b1 and (not b2)) -> 
-- not b1) and (not (not b2)) -> 
+- (not b1) and (not (not b2)) -> 
 - (not b1) or (not (not b2)) -> 
 - (not b1) or b2
 - if there is an and make it an or, vice versa
