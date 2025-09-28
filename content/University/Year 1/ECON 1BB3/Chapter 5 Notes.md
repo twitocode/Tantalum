@@ -165,5 +165,14 @@ ___
 # Inflation Affects the Distribution of Income
 Reasons people don't like inflation
 - there are very few *average people*. Some people's income rises faster than inflations; purchasing power increases, others do not. People on fixed incomes will be hurt more (veterans)
-	- Inflation can be anticipated beforehand in which we can prepare, or unanticipated.
-	- 
+	- Inflation can be **anticipated** beforehand in which we can prepare, or **unanticipated**.
+
+# The Problem with Anticipated Inflation
+- Anticipated inflation is easier to manage because workers, businesses, lenders, and borrowers can plan for it. Wages rise to keep up with prices, and interest rates adjust so lenders and borrowers are compensated. 
+- However, even when inflation is expected, there are still costs. Some people’s incomes may not rise as fast as inflation, reducing their purchasing power. Holding cash becomes costly since its value declines each year, and firms face *“menu costs”* from frequently updating prices, like reprinting menus or changing price tags. Inflation also raises taxes on investors, since taxes are based on nominal rather than real interest, which increases the cost of investment.
+
+**Menu costs**: The costs to firms of changing prices.
+
+# The Problem with Unanticipated Inflation
+Unanticipated inflation creates problems because it disrupts long-term contracts and financial planning. Workers, firms, lenders, and borrowers make agreements based on expected inflation, but if actual inflation is much higher or lower, some groups benefit while others lose. 
+- Ex - if wages are set too high relative to inflation, firms may suffer losses; if inflation is higher than expected, borrowers gain because they repay loans with money that has less value, while lenders lose. This unexpected redistribution of income feels unfair, which is why people strongly dislike unanticipated inflation.
