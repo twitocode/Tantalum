@@ -68,3 +68,5 @@ no cheatsheet given
 ## Things i do not understand
 ![[Pasted image 20250907145524.png]]
 MyLab Graphing #2 - Why is it that quantity can be dependant on price that makes no sense graphing wise.
+
+![[Pasted image 20250928171723.png]]
