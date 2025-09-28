@@ -54,8 +54,8 @@ ___
 - Cyclical unemployment
 - Seasonal unemployment
 
-## Frictional Unemployment and Job Search
-Frictional unemployment happens when workers are be**tween jobs or searching for new ones.** 
+## Frictional Unemployment and Job Searc h
+Frictional unemployment happens when workers are **between jobs or searching for new ones.** 
 - It’s short-term and unavoidable because people need time to find jobs that match their skills and preferences, and firms also need time to find the right employees.
 - Eliminating it wouldn’t be good for the economy, since job search helps workers find positions where they’re more satisfied and productive, which also benefits firms.
 
