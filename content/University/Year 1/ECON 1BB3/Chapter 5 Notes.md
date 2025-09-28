@@ -104,3 +104,9 @@ Organizations of workers that bargain with employers for higher wages and better
 **In unionized industries** the wage is usually above their market-clearing wage
 - but they have fewer workers
 - does not really affect unemployment rate
+
+# Efficiency Wages
+a higher-than-market wage that a firm pays to motivate workers to be more productive
+- When firms pay efficiency wages, *the quantity of labour supplied will exceed the quantity of labour demanded. As with minimum wage laws or unions, a supply of labour larger than the demand for labour leads to unemployment.* Efficiency wages are another reason we don’t see an unemployment rate of zero, even in an economic boom.
+___
+# Measuring Inflation
