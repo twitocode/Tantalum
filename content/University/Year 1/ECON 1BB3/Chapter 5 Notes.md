@@ -110,3 +110,30 @@ a higher-than-market wage that a firm pays to motivate workers to be more produc
 - When firms pay efficiency wages, *the quantity of labour supplied will exceed the quantity of labour demanded. As with minimum wage laws or unions, a supply of labour larger than the demand for labour leads to unemployment.* Efficiency wages are another reason we don’t see an unemployment rate of zero, even in an economic boom.
 ___
 # Measuring Inflation
+**Inflation**: A general increase in the price of goods and services over time
+- cost of living rises over time
+**Inflation Rate**: the percentage increase in the price level from one year to the next
+
+## Consumer Price Index (CPI)
+Used to measure changes in the prices faced by the average household. 
+$$\text{CPI} = \frac{\text{Expenditures now}}{\text{Expenditured in base year}}\cdot{100\%}$$
+We can’t use the CPI to tell us in an absolute sense how high the price level is—only how much it has changed over time
+**We measure the inflation rate as the percentage increase in the CPI from one year to the next.**
+
+However not all is good
+- **Substitution bias**: The CPI assumes people buy the same items each month, but in reality, *they switch to cheaper alternatives when prices change*.
+- **Quality bias**: Part of price increases *reflects improved product quality* (like safer cars or faster computers), not just inflation.
+- **New product bias**: The basket isn’t updated quickly enough to include *new, popular items*, so price changes for them aren’t captured.
+- **Outlet bias**: The CPI doesn’t always reflect shifts in shopping habits, like more *purchases at discount stores or online,* which usually lower costs.
+
+## Producer Price Index (PPI)
+An average of the prices receieved by producers of goods and services at all stages of production
+However, unlike the CPI, **the PPI tracks the prices that firms receive for goods and services at all stages of production.** 
+- The PPI includes the prices of intermediate goods and raw materials.
+
+# Price Indexes to adjust for the Effects of Inflation
+We use the CPI to adjust wages for inflation and calculate _real_ wages.
+
+For example, a $30,000 salary in 1993 is equivalent to about $49,626 in 2021 dollars, since prices were about 1.65 times higher in 2021. This shows that what looks like a higher salary today may not actually mean greater purchasing power.
+
+In the solved problem, although today’s minimum wage is $15 compared to $5 in 1992, once adjusted for inflation using the CPI, today’s real wage is higher but not three times higher. **This demonstrates why real wages (inflation-adjusted) are more useful than nominal wages when comparing earnings across different years.**
