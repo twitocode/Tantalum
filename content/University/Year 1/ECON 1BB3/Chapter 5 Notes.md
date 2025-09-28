@@ -116,7 +116,7 @@ ___
 
 ## Consumer Price Index (CPI)
 Used to measure changes in the prices faced by the average household. 
-$$\text{CPI} = \frac{\text{Expenditures now}}{\text{Expenditured in base year}}\cdot{100\%}$$
+$$\text{CPI} = \frac{\text{Expenditures now}}{\text{Expenditures in base year}}\cdot{100\%}$$
 We can’t use the CPI to tell us in an absolute sense how high the price level is—only how much it has changed over time
 **We measure the inflation rate as the percentage increase in the CPI from one year to the next.**
 
@@ -137,3 +137,23 @@ We use the CPI to adjust wages for inflation and calculate _real_ wages.
 For example, a $30,000 salary in 1993 is equivalent to about $49,626 in 2021 dollars, since prices were about 1.65 times higher in 2021. This shows that what looks like a higher salary today may not actually mean greater purchasing power.
 
 In the solved problem, although today’s minimum wage is $15 compared to $5 in 1992, once adjusted for inflation using the CPI, today’s real wage is higher but not three times higher. **This demonstrates why real wages (inflation-adjusted) are more useful than nominal wages when comparing earnings across different years.**
+
+___
+# Real vs Nominal Interest Rates
+**Interest Rate**: the cost of borrowing money expressed as a percentage of the amount borrowed
+
+**Nominal Interest Rate**: the state interested rate on a loan
+**Real Interest Rate**: corrects the nominal interest rate for the effect of inflation on the purchasing power of  money
+- tldr - the amount of extra buying power you pay back when a loan is repaid
+$$\text{Real Interest rate}=\text{Nominal Interest rate}-\text{Inflation rate}$$
+**Prime Rate**: the rate at which the most credit-worthy businesses can borrow
+**Conventional Mortgage Rate**: the rate at which the credit-worthy individuals can borrow to purchase a house.
+**Overnight Rate**: the rate at which banks can borrow from other banks for a period of 24 hours.
+**Bank Rate**: the rate at which the Bank of Canada (*our central bank*) will lend to commercial banks (TD, RBC, etc.).
+
+> [!NOTE]
+> In general, all of these interest rates tend to mvoe up when the bank rate increases, vice versa
+
+When **inflation is high**, the nominal interest rate is high and the gap between the nominal interest rate and the real interest rate is large. 
+When **inflation is low**, the nominal interest rate is low and the gap between the nominal interest rate and the real interest rate is quite small.
+
