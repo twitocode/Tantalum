@@ -42,3 +42,47 @@ Loops have a space complexity of O(1)
 **Tail Recursion**: when a function's computation is performed before a recursive call.
 - has O(1) space complexity
 Most programming languages do not do tail recursion properly. The space-complexity is greater than O(1). You'll get stack overflow
+
+Use cases of recursion:
+ **Big Sum$$\sum_{i=m}^{n} f(i)$$**
+ ```haskell
+ bigSum :: Num a =>
+		   Integer ->
+		   Integer ->
+		   (Integer -> a) ->
+		   a
+		   
+bigSum m n f
+	| m > n  = 0
+	| m <= n = bigSum m (n - 1) f + f n
+  ```
+ **Big Product $$\prod_{i=m}^{n} f(i)$$**
+  ```haskell
+ bigProduct :: Num a =>
+		   Integer ->
+		   Integer ->
+		   (Integer -> a) ->
+		   a
+		   
+bigProduct m n f
+	| m > n  = 1
+	| m <= n = bigProduct m (n - 1) f * f n
+  ```
+**Linear Search**
+ ```haskell
+ linearSearch ::  a ->
+		   [a] ->
+		   (a -> a -> Bool) ->
+		   [a]
+		   
+linearSearch _ [] _ = []_
+linearSearch x (y:ys) p
+	| p x y = [y]
+	| otherwise = linearSearch x ys p
+  ```
+# Stephen C. Kleene
+- Student of Alonzo Church as Princeton
+- One of the founders of the subfield of logic called *computability theory* or *recursion theory*
+- **Inventory of Regex**
+- Contributions to constructive logic
+- Wrote Introduction to Mathematics
