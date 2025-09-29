@@ -34,7 +34,11 @@ energy is not conserved
 | Recursion                                                                       | Iteration                                                                                   |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | Declarative                                                                     | Procedural                                                                                  |
-| The language implementation is responsible for how evaluation is preformed      | The programmer is responsible for how evaluation is peformed                                |
+| The language implementation is responsible for how evaluation is preformed      | The programmer is responsible for how evaluation is performed                               |
 | Easier to show correctness                                                      | Harder to show correctness                                                                  |
 | Loops can be simulated space-efficiently by functions defined by tail recursion | Loops are more space-efficient than recursion in languages that do implement tail recursion |
-**Tail Recursion**: when a function's computation is performed before a recursive call
+Loops have a space complexity of O(1)
+
+**Tail Recursion**: when a function's computation is performed before a recursive call.
+- has O(1) space complexity
+Most programming languages do not do tail recursion properly. The space-complexity is greater than O(1). You'll get stack overflow
