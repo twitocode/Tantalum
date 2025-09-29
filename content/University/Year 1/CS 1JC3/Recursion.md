@@ -9,3 +9,16 @@ tags:
 - correctness is proved by (mathematical) *induction*
 - functions can be defined by recursion in all programming languages but not all can implement them efficiently.
 - uses a *divide and conquer* strategy.
+
+$F : I \mapsto O$ is defined by recursion:
+- $f(x) = E(f(a_{1}(x)), \dots, f(a_{n}(x)))$
+	- E is some expression
+- Each $i \in I$ is assigned a natural number $n(i)$ 
+	- every input is assigned a natural number
+- For all $i \in I$  and $m \in \mathbb N$ with $1 \leq m \leq n$
+	- $n(a_{m}(i)) < n(i)$
+	- The natural numbers will get smaller and smaller
+	- Natural numbers with their standard ordering is a well-order (*noetherian*)
+		- **Noetherian:** there are not strict descending infinite sequences (it must stop at 0 in this case)
+	- nonsensical when $i$ is equal to another $i$
+
