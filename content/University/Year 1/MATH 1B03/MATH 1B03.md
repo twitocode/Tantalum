@@ -53,4 +53,4 @@ professor: Bradd Hart
 
 # stuff i didnt understand
 Assignment #1 Q4 - infinitely many solutions, use paremters like s t r
-Section 1.3 17-21, 27, 28, 
+Section 1.3 17-21, 27-32
