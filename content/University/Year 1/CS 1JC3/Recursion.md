@@ -30,3 +30,11 @@ energy is not conserved
 - joined math department at University of Göttingen (same place as Curry) after invitation of D. Hilbert and F. Klein
 	- guys thought she was a guy because "only men can do math"
 
+
+| Recursion                                                                       | Iteration                                                                                   |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Declarative                                                                     | Procedural                                                                                  |
+| The language implementation is responsible for how evaluation is preformed      | The programmer is responsible for how evaluation is peformed                                |
+| Easier to show correctness                                                      | Harder to show correctness                                                                  |
+| Loops can be simulated space-efficiently by functions defined by tail recursion | Loops are more space-efficient than recursion in languages that do implement tail recursion |
+**Tail Recursion**: when a function's computation is performed before a recursive call
