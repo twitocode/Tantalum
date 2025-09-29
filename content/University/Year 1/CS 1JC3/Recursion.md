@@ -22,3 +22,11 @@ $F : I \mapsto O$ is defined by recursion:
 		- **Noetherian:** there are not strict descending infinite sequences (it must stop at 0 in this case)
 	- nonsensical when $i$ is equal to another $i$
 
+# Amalie Emmy Noether
+[The Biggest Misconception in Physics - YouTube](https://youtu.be/lcjdwSY2AzM?si=lq4s2iZg6y17xzNk)
+energy is not conserved
+- Great German mathematician of Jewish heritage
+- research in abstract algebra, mainly in ring theory.
+- joined math department at University of Göttingen (same place as Curry) after invitation of D. Hilbert and F. Klein
+	- guys thought she was a guy because "only men can do math"
+
