@@ -70,10 +70,10 @@ bigProduct m n f
   ```
 **Linear Search**
  ```haskell
- linearSearch ::  a ->
-		   [a] ->
-		   (a -> a -> Bool) ->
-		   [a]
+ linearSearch :: a   ->
+				 [a] ->
+				 (a  -> a -> Bool) ->
+			     [a]
 		   
 linearSearch _ [] _ = []_
 linearSearch x (y:ys) p
