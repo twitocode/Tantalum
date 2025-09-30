@@ -8,7 +8,7 @@ What is logic? #flashcard
 The study of the principles underlying sound reasoning; a branch of math underlying mathematical reasoning and computing.
 
 What are the three main components of a reasoning system (a logic)? #flashcard
-1. A language with a formal syntax and precise semantics.
+1. A language with a **formal syntax** and **precise semantics**.
 2. Concepts of truth and logical consequence.
 3. A proof system for establishing that statements in the language are true.
 
