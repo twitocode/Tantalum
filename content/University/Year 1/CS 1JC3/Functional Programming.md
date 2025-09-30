@@ -9,7 +9,6 @@ American Mathematician
 Developed **Combinatory Logic** which is a system for defining and using functions, you can define a function and use them without variables
 - normally we would do this $f(x) = x^2$ but this function requires variables
 
-
 **Curry-Howard Correspondence** was a way of merging logic and programming together so that proofs and programs are equivalent to each other.
 
 **Function Currying**: the process of turning a function that takes multiple arguments a once into a chain of functions that each take one argument at a time
