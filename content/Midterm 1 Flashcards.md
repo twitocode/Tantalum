@@ -554,5 +554,5 @@ Testing can show the *incorrectness* of software (by finding bugs), but it canno
 
 
 State the formula for the sum of the first $n$ natural numbers. #flashcard
-$\sum_{i=0}^{n} i = \frac{n(n+1)}{2}$.
+$$\sum_{i=0}^{n} i = \frac{n(n+1)}{2}$$
 <!--ID: 1759275611894-->
