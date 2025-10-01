@@ -1,6 +1,6 @@
 ---
 epoch: 1759272928769
-modelKey: gemini-2.5-flash|google
+modelKey: deepseek-chat|deepseek
 topic: "AI, Flashcards, Definitions"
 
 
@@ -430,3 +430,9 @@ By studying and expanding on such models (like adding operations such as additio
 
 Each of these models provides a structured way to reason about a specific aspect of mathematics, allowing for deeper understanding and the derivation of new truths within that system.
 [Timestamp: 2025/10/01 12:18:29]
+
+**user**: hey
+[Timestamp: 2025/10/01 12:20:31]
+
+**ai**: 402 Insufficient Balance
+[Timestamp: 2025/10/01 12:20:33]
