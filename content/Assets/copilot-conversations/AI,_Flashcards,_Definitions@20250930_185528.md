@@ -712,3 +712,189 @@ Good luck with your midterm!
 21. b)
 22. b)
 [Timestamp: 2025/10/01 12:27:16]
+
+**user**: could you make another one
+[Timestamp: 2025/10/01 12:44:01]
+
+**ai**: Here is another multiple-choice practice test for your midterm!
+
+---
+
+## Midterm Practice Test 2 (Multiple Choice)
+
+**Instructions:** Choose the best answer for each question.
+
+---
+
+### Part 1: Computational Thinking & Logic
+
+1.  According to your notes, what is the fundamental question that computational thinking addresses regarding computing?
+    a) How can we make computers faster and more efficient?
+    b) What are the theoretical and practical limits of computing?
+    c) How can we integrate artistic thinking into software development?
+    d) What is the best programming language for solving complex problems?
+
+2.  Gottfried Leibniz's vision of a *calculus ratiocinator* was ultimately proven impossible by Church and Turing because:
+    a) The technology to build such a device did not exist.
+    b) It was discovered that not every problem can be solved computationally.
+    c) Leibniz's *characteristica universalis* was too complex.
+    d) The binary number system was not yet fully developed.
+
+3.  Which of the following is an example of a "predicate" in first-order logic, as described in your notes?
+    a) `True`
+    b) `&&` (conjunction)
+    c) `Human(x)`
+    d) `if x then y else z`
+
+4.  In Haskell, which of the following is NOT explicitly mentioned as a form of quantifier first-order logic embedded in the language?
+    a) Boolean functions
+    b) Predicates
+    c) Loops (for/while)
+    d) Conditional expressions
+
+5.  What is the result of applying De Morgan's laws to `not (A or B)`?
+    a) `(not A) or (not B)`
+    b) `(not A) and (not B)`
+    c) `A and B`
+    d) `A or (not B)`
+
+6.  Consider the Haskell code:
+    ```haskell
+    boolToInt :: Bool -> Int
+    boolToInt b =
+        case b of
+            False -> 0
+            True -> 1
+    ```
+    This is an example of a:
+    a) Guarded function
+    b) Conditional expression
+    c) Case expression
+    d) Predicate definition
+
+7.  What is the significance of Alonzo Church's work with Lambda Calculus in the history of computing?
+    a) It led to the development of the first electronic computer.
+    b) It provided a computational model based on function application and abstraction.
+    c) It proved that all mathematical problems are solvable.
+    d) It was the first programming language.
+
+### Part 2: Numbers
+
+8.  Who is credited with introducing arithmetic based on the Hindu-Arabic numeral system to the Middle East and Europe, and from whom the word "algorithm" is derived?
+    a) Leonardo of Pisa (Fibonacci)
+    b) George Boole
+    c) Gottfried Leibniz
+    d) Mohammad Al-Khwarizmi
+
+9.  How do computers typically represent rational numbers in base 2 scientific notation with a fixed number of bits?
+    a) As machine integers.
+    b) As modular integers.
+    c) As floating point numbers.
+    d) As complex numbers.
+
+10. If you are working with 8-bit two's complement, what is the binary representation of -28?
+    a) 00011100
+    b) 11100011
+    c) 11100100
+    d) 10011100
+
+11. Which of the following is a special floating-point number returned when a result is too large to be represented (positive overflow)?
+    a) -0.0
+    b) NaN
+    c) Infinity
+    d) Underflow
+
+12. What is a key characteristic of `Integer` type in Haskell compared to `Int`?
+    a) `Integer` is faster for most operations.
+    b) `Integer` has a fixed size (e.g., 32-bit or 64-bit).
+    c) `Integer` can represent all integers, limited only by available memory.
+    d) `Integer` is primarily used for floating-point arithmetic.
+
+13. Why might `(a + b) + c` not always equal `a + (b + c)` when `a`, `b`, and `c` are floating-point numbers?
+    a) Floating-point addition is not commutative.
+    b) Floating-point numbers cannot be negative.
+    c) Floating-point addition is not associative due to precision limitations.
+    d) This only happens with `Int` types, not `Float` or `Double`.
+
+### Part 3: Functional Programming & Recursion
+
+14. The "Curry-Howard Correspondence" suggests a deep connection between:
+    a) Hardware and software.
+    b) Imperative and declarative programming.
+    c) Proofs and programs.
+    d) Syntax and semantics.
+
+15. What is the main issue highlighted by the Curry Paradox?
+    a) The inability to define functions without variables.
+    b) The contradiction arising from self-referential statements leading to false conclusions.
+    c) The problem of representing infinite sets.
+    d) The difficulty in proving software correctness.
+
+16. Which of the following best describes "values" in the context of programming?
+    a) The raw symbols typed by a programmer.
+    b) Syntactic entities that denote other expressions.
+    c) Information (data) stored and manipulated by computer programs.
+    d) The rules for combining symbols into valid programs.
+
+17. What is a "literal" expression?
+    a) An expression formed by applying a function to other expressions.
+    b) An expression whose form directly tells you its value (e.g., `2.3`, `"cat"`).
+    c) An identifier like `x` or `rotateHorse`.
+    d) An expression that always evaluates to `True` or `False`.
+
+18. A function $f: I \to O$ is considered "injective" if:
+    a) Its domain is the entire set of possible inputs.
+    b) Its range is the entire set of possible outputs.
+    c) Different inputs always map to different outputs.
+    d) It is defined in terms of itself.
+
+19. The theorem that states $|\mathbb{N}| < |\mathbb{R}|$ (there are "more" real numbers than natural numbers) is typically proved using:
+    a) Mathematical induction.
+    b) The pigeonhole principle.
+    c) A diagonalization argument.
+    d) Modular arithmetic.
+
+20. What is the primary characteristic of a function defined by recursion?
+    a) It uses loops to repeat operations.
+    b) It defines something in terms of itself.
+    c) It avoids side-effects by mutating data.
+    d) It always has O(1) space complexity.
+
+21. Which of the following is a key difference between recursion and iteration, as noted in your materials?
+    a) Recursion is procedural, iteration is declarative.
+    b) Recursion is harder to show correctness for than iteration.
+    c) Recursion relies on the programmer for evaluation, iteration relies on the language implementation.
+    d) Recursion is declarative, iteration is procedural.
+
+22. Stephen C. Kleene is recognized as one of the founders of which subfield of logic?
+    a) Set theory.
+    b) Computability theory (recursion theory).
+    c) Boolean algebra.
+    d) Infinitesimal calculus.
+
+---
+**Answer Key:**
+
+1.  b)
+2.  b)
+3.  c)
+4.  c)
+5.  b)
+6.  c)
+7.  b)
+8.  d)
+9.  c)
+10. c)
+11. c)
+12. c)
+13. c)
+14. c)
+15. b)
+16. c)
+17. b)
+18. c)
+19. c)
+20. b)
+21. d)
+22. b)
+[Timestamp: 2025/10/01 12:44:20]
