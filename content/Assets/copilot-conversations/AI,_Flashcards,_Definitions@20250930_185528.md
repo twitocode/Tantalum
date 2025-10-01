@@ -1054,3 +1054,26 @@ It's very important not to confuse the **codomain** with the **range**.
 
 Understanding these terms is crucial for precisely defining functions and analyzing their properties, such as injectivity, surjectivity, and bijectivity.
 [Timestamp: 2025/10/01 19:25:18]
+
+**user**: can you explain reasoning systems
+[Timestamp: 2025/10/01 19:36:41]
+
+**ai**: Based on your notes, a **reasoning system** (often referred to as a "logic" in this context) is a structured framework designed to ensure **sound reasoning**. It provides the tools and rules to determine what statements are true and what conclusions logically follow from given premises.
+
+Your notes define a logic as a reasoning system with three key components:
+
+1.  **A Language with a Formal Syntax and Precise Semantics:**
+    *   **Formal Syntax:** This refers to the specific rules for constructing valid statements or expressions within the system. It dictates how symbols can be combined. Think of it like the grammar rules of a programming language or mathematical notation. For example, in `2 + 3`, `2`, `+`, and `3` are symbols, and their arrangement is part of the syntax.
+    *   **Precise Semantics:** This refers to the unambiguous meaning assigned to each symbol and each valid statement in the language. Every symbol and combination of symbols has a clear, defined value or interpretation. For instance, in `2 + 3`, `2` precisely means the number two, `3` means the number three, and `+` precisely means addition. This precision is crucial to avoid ambiguity and ensure everyone interprets statements the same way.
+
+2.  **Concepts of Truth and Logical Consequence:**
+    *   **Truth:** A reasoning system must have a way to determine whether a statement is true or false. This often involves assigning truth values (like `True` or `False` in Boolean logic) to propositions.
+    *   **Logical Consequence:** This is the core idea of inference. If a set of assumptions ($a_1, \dots, a_n$) are true, then a statement $B$ is a logical consequence if $B$ *must* also be true. The assumptions themselves don't necessarily have to be true in the real world, but if we *assume* them to be true, then the consequence follows necessarily. Your notes give an example of *unsound reasoning* to highlight this: "if i break wood i get 2 wood. So If i break a person, i get two persons." A sound reasoning system would prevent such invalid inferences.
+
+3.  **A Proof System for Establishing that Statements in the Language are True:**
+    *   This is the mechanism or set of rules used to formally demonstrate that a statement is true, or that a particular statement is a logical consequence of others.
+    *   A proof system provides a step-by-step method, using axioms (statements assumed to be true) and inference rules (rules for deriving new true statements from existing ones), to construct a proof.
+    *   In computing, these proof systems are used for "reasoning about software artifacts with math software like proof assistants," helping to formally verify properties of programs.
+
+In essence, a reasoning system provides a rigorous framework for thinking, allowing us to build arguments, draw conclusions, and verify claims in a consistent and unambiguous manner, which is fundamental to both mathematics and computing.
+[Timestamp: 2025/10/01 19:36:55]
