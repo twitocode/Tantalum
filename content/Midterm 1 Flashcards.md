@@ -3,7 +3,7 @@ TARGET DECK: Year 1::CS 1JC3::Midterm 1
 ---
 
 What is another definition for computational thinking? #flashcard
-Using the right computational tools in the right way for the problem at hand, and understanding the limits and pitfalls of computational tools.
+Includes **mathematical, scientific, engineering, an artistic thinking** Using** the right computational tools in the right way for the problem at hand, and understanding the limits and pitfalls of computational tools.
 <!--ID: 1759275611786-->
 
 
