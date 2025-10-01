@@ -258,7 +258,7 @@ As a Value
 - $f(a) = f(b) \implies a = b$
 	- in a function that is not injective, multiple inputs can go to one output
 
-**Bijective**: both injective and bijective
+**Bijective**: both injective and surjective
 - bijective = total + injective + surjective
 - Every element of A maps to a unique element of B (injective)
 - Every element of B is mapped by some element of A (surjective)
