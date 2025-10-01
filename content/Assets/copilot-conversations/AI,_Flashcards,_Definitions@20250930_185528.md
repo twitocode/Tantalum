@@ -534,3 +534,181 @@ State whether the following statements are True or False. If False, briefly expl
 ---
 Good luck with your midterm!
 [Timestamp: 2025/10/01 12:23:18]
+
+**user**: could you make it multiple choice
+[Timestamp: 2025/10/01 12:26:50]
+
+**ai**: Okay, here is a multiple-choice practice test for your midterm, based on the provided notes.
+
+---
+
+## Midterm Practice Test (Multiple Choice)
+
+**Instructions:** Choose the best answer for each question.
+
+---
+
+### Part 1: Computational Thinking & Logic
+
+1.  Which of the following is NOT one of the two main aspects of computational thinking as defined in your notes?
+    a) Using the right computational tools for the problem at hand.
+    b) Understanding the limits and pitfalls of computational tools.
+    c) Developing new computational algorithms for every problem.
+    d) Integrating mathematical, scientific, engineering, and artistic thinking.
+
+2.  A logic, as a reasoning system, must include all of the following EXCEPT:
+    a) A language with a formal syntax and precise semantics.
+    b) Concepts of truth and logical consequence.
+    c) A proof system for establishing statements.
+    d) A guarantee that all statements within the language are decidable.
+
+3.  In first-order logic, what do quantifiers like $\forall$ and $\exists$ primarily deal with?
+    a) The truth values of simple propositions.
+    b) Breaking statements into objects and properties/relations.
+    c) The structure of proof systems.
+    d) The formal syntax of the language.
+
+4.  Consider the implication $b1 \implies b2$. If $b1$ is False, what is the truth value of the implication, and what is this concept called?
+    a) False, known as a contradiction.
+    b) True, known as vacuous truth.
+    c) True, known as logical consequence.
+    d) Undefined, as the condition did not occur.
+
+5.  Which of the following correctly applies De Morgan's laws to `not (A and (not B))`?
+    a) `(not A) and B`
+    b) `(not A) or B`
+    c) `(not A) and (not B)`
+    d) `A or (not B)`
+
+6.  In Haskell, what is the primary characteristic of a "conditional expression" like `if c then e1 else e2`?
+    a) It is a command that performs an action.
+    b) Its value depends on a boolean expression `c`.
+    c) It must always evaluate both `e1` and `e2`.
+    d) It is a type of predicate.
+
+7.  Who first demonstrated that there were unsolvable decision problems using Lambda Calculus?
+    a) Alan Turing
+    b) Gottfried Leibniz
+    c) Alonzo Church
+    d) Kurt Gödel
+
+### Part 2: Numbers
+
+8.  Which of the following correctly represents the subset relationship between number systems?
+    a) $\mathbb{N} \subseteq \mathbb{Z}_n \subseteq \mathbb{Z} \subseteq \mathbb{Q} \subseteq \mathbb{R} \subseteq \mathbb{C}$
+    b) $\mathbb{Z}_n \subseteq \mathbb{N} \subseteq \mathbb{Z} \subseteq \mathbb{Q} \subseteq \mathbb{R} \subseteq \mathbb{C}$
+    c) $\mathbb{C} \subseteq \mathbb{R} \subseteq \mathbb{Q} \subseteq \mathbb{Z} \subseteq \mathbb{N} \subseteq \mathbb{Z}_n$
+    d) $\mathbb{N} \subseteq \mathbb{Q} \subseteq \mathbb{Z} \subseteq \mathbb{R} \subseteq \mathbb{C} \subseteq \mathbb{Z}_n$
+
+9.  What is the decimal value of the binary number $(101.11)_2$?
+    a) 5.375
+    b) 5.75
+    c) 6.25
+    d) 6.75
+
+10. To negate a number in two's complement, you should:
+    a) Invert its bits.
+    b) Add 1 to the number.
+    c) Invert its bits and then add 1.
+    d) Subtract 1 from the number and then invert its bits.
+
+11. Which of the following is a common issue when performing arithmetic operations on machine integers?
+    a) Underflow
+    b) NaN (Not a Number)
+    c) Overflow
+    d) Loss of precision
+
+12. Why is comparing two floating-point numbers for exact equality (`x == y`) generally discouraged?
+    a) Floating-point numbers are always integers.
+    b) Floating-point arithmetic is non-associative.
+    c) Only a small number of real numbers are exactly represented, leading to precision issues.
+    d) It can cause a stack overflow.
+
+13. In Haskell, which numeric type is designed to represent all integers without a fixed memory limit (until system memory runs out)?
+    a) `Int`
+    b) `Float`
+    c) `Double`
+    d) `Integer`
+
+### Part 3: Functional Programming & Recursion
+
+14. What is the core idea behind Haskell B. Curry's "Combinatory Logic"?
+    a) Proving the undecidability of first-order logic.
+    b) Defining and using functions without variables.
+    c) Developing the binary number system.
+    d) Creating the first mechanical calculator.
+
+15. Which paradox revealed fundamental flaws in early naive set theory by considering "the set of all sets that do not contain themselves"?
+    a) Liar Paradox
+    b) Curry Paradox
+    c) Russell's Paradox
+    d) Halting Problem
+
+16. A program that is a collection of "side-effect free function definitions" and focuses on "what" the program will achieve rather than "how" is characteristic of which programming paradigm?
+    a) Procedural
+    b) Object-Oriented
+    c) Functional
+    d) Imperative
+
+17. What is the difference between an "expression" and a "value" in programming?
+    a) An expression is a syntactic entity that denotes a value, while a value is the information itself.
+    b) An expression is always a literal, while a value is always a function.
+    c) A value is a sequence of symbols, while an expression is its meaning.
+    d) There is no practical difference; the terms are interchangeable.
+
+18. To prove a statement $P(n)$ is true for all natural numbers $n \geq n_0$ using mathematical induction, which of the following is NOT a required step?
+    a) Show that $P(n_0)$ is true (Base Case).
+    b) Assume $P(k)$ is true for some arbitrary $k \geq n_0$ (Induction Hypothesis).
+    c) Show that $P(k+1)$ is true (Induction Step).
+    d) Show that $P(n)$ is false for at least one $n < n_0$.
+
+19. An n-ary function $f: I_1, \dots, I_n \to O$ can be represented as a unary function by:
+    a) Only using the first input $I_1$.
+    b) Converting the multiple inputs into a single tuple input.
+    c) Making the function recursive.
+    d) Defining it as a predicate.
+
+20. Which of the following statements about recursion and iteration is TRUE, according to your notes?
+    a) Iteration is generally easier to show correctness for than recursion.
+    b) Recursion is a procedural approach, while iteration is declarative.
+    c) Loops are more space-efficient than recursion in languages that do not implement tail recursion properly.
+    d) Tail recursion always has O(N) space complexity.
+
+21. What is the primary purpose of the "Noetherian" property in the context of recursion?
+    a) To ensure that functions are always total.
+    b) To guarantee that recursive calls eventually terminate.
+    c) To optimize the space complexity of recursive functions.
+    d) To prove the undecidability of certain problems.
+
+22. Gödel's First Incompleteness Theorem states that for any consistent axiomatic system powerful enough to describe arithmetic:
+    a) All true statements about natural numbers can be proven within that system.
+    b) There will always be true statements about natural numbers that cannot be proven within that system.
+    c) The system can always prove its own consistency.
+    d) The system must be incomplete if it is inconsistent.
+
+---
+**Answer Key:**
+
+1.  c)
+2.  d)
+3.  b)
+4.  b)
+5.  b)
+6.  b)
+7.  c)
+8.  b)
+9.  b)
+10. c)
+11. c)
+12. c)
+13. d)
+14. b)
+15. c)
+16. c)
+17. a)
+18. d)
+19. b)
+20. c)
+21. b)
+22. b)
+[Timestamp: 2025/10/01 12:27:16]
