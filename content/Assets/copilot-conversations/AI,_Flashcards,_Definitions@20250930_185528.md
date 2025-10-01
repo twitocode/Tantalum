@@ -1,6 +1,6 @@
 ---
 epoch: 1759272928769
-modelKey: deepseek-chat|deepseek
+modelKey: gemini-2.5-flash|google
 topic: "AI, Flashcards, Definitions"
 
 
@@ -436,3 +436,101 @@ Each of these models provides a structured way to reason about a specific aspect
 
 **ai**: 402 Insufficient Balance
 [Timestamp: 2025/10/01 12:20:33]
+
+**user**: [[Logic]] [[Numbers]] [[Functional Programming]] [[Computational Thinking]] [[Recursion]] [[discussion 4c]] [[discussion 4a]] [[discussion 3c]] [[discussion 3b]] [[discussion 3a]] [[discussion 2c]] [[discussion 2b]] [[discussion 2a]] [[Discussion Session 01b day1-p2]]
+
+could you make a practice test for my midterm
+[Timestamp: 2025/10/01 12:22:53]
+
+**ai**: Here is a practice test for your midterm, covering the topics from your notes: Logic, Numbers, Functional Programming, Computational Thinking, and Recursion.
+
+---
+
+## Midterm Practice Test
+
+**Instructions:** Answer all questions to the best of your ability. Show your work where applicable.
+
+---
+
+### Part 1: Definitions and Short Answer (2 points each)
+
+1.  Define "Computational Thinking" in your own words, including its two main aspects.
+2.  What are the three core components that define a "logic" as a reasoning system?
+3.  Explain the concept of "vacuous truth" in the context of logical implication ($A \implies B$).
+4.  What is the primary difference between a "number" and a "numeral"?
+5.  Briefly explain the purpose of "two's complement" in representing integers on computers.
+6.  What is "function currying"? Provide a simple mathematical example.
+7.  Distinguish between "declarative" and "imperative" programming paradigms.
+8.  What is the difference between "syntax" and "semantics" in programming languages?
+9.  Define "recursion." What mathematical concept is used to prove its correctness?
+10. What is "tail recursion" and why is it important for efficiency?
+
+### Part 2: True/False (1 point each)
+
+State whether the following statements are True or False. If False, briefly explain why.
+
+1.  The set of natural numbers ($\mathbb{N}$) is a subset of the modular integers ($\mathbb{Z}_n$).
+2.  Arithmetic operations on machine integers can never cause overflow if the numbers are within the initial range.
+3.  Floating point numbers can perfectly represent all rational numbers.
+4.  In Haskell, `Int` is generally slower but can represent a larger range of integers than `Integer`.
+5.  The Liar Paradox and Russell's Paradox highlighted fundamental flaws in early naive set theory.
+6.  A "total" function is one where its range is equal to the entire set of possible outputs.
+7.  The cardinality of the set of all natural numbers ($|\mathbb{N}|$) is equal to the cardinality of the set of all real numbers ($|\mathbb{R}|$).
+8.  The Church-Turing Thesis states that all decision problems are solvable computationally.
+9.  In Haskell, `if c then e1 else e2` is a conditional *statement*.
+10. Recursion is generally easier to show correctness for than iteration.
+
+### Part 3: Application and Problem Solving (Varies)
+
+1.  **Logic & Truth Tables (4 points)**
+    Construct a truth table for the Boolean expression `(A && B) || (not A)`.
+
+2.  **De Morgan's Laws (3 points)**
+    Apply De Morgan's laws to simplify the expression `not (b1 || (not b2))`. Show your steps.
+
+3.  **Number Representation (4 points)**
+    Represent the decimal number -5 in 4-bit two's complement. Show your steps. What is the range of numbers representable in 4-bit two's complement?
+
+4.  **Haskell Conditionals (5 points)**
+    Write a Haskell function `classifyNumber :: Integer -> String` that returns:
+    *   "Positive" if the number is greater than 0
+    *   "Negative" if the number is less than 0
+    *   "Zero" if the number is 0
+    Use **guarded functions**.
+
+5.  **Haskell Functions & Types (6 points)**
+    Consider the following Haskell function definitions:
+    ```haskell
+    f :: (Integer, Integer) -> Integer
+    f (x, y) = x * x + y * y
+
+    g :: Integer -> Integer -> Integer
+    g x y = x * x + y * y
+    ```
+    a. Explain how `f` and `g` differ in terms of how they take arguments, relating it to n-ary vs. unary functions and currying.
+    b. What is the type of `g 5`? Explain your answer.
+
+6.  **Recursion (6 points)**
+    You are given the `bigSum` function from your notes:
+    ```haskell
+    bigSum :: Num a => Integer -> Integer -> (Integer -> a) -> a
+    bigSum m n f
+        | m > n  = 0
+        | m <= n = bigSum m (n - 1) f + f n
+    ```
+    Trace the evaluation of `bigSum 1 3 (\x -> x * 2)`. Show the recursive calls and their results.
+
+### Part 4: Conceptual Explanation (Varies)
+
+1.  **Limits of Computing (5 points)**
+    Explain Gottfried Leibniz's vision of *characteristica universalis* and *calculus ratiocinator*. How did Alonzo Church and Alan Turing prove this vision to be "not theoretically possible"?
+
+2.  **Floating Point Precision (5 points)**
+    Discuss two significant issues that arise from the fixed-bit representation and arithmetic of floating-point numbers. Provide a practical example for one of these issues.
+
+3.  **Proof by Induction (5 points)**
+    Outline the three essential steps of a proof by mathematical induction. Use the "dominoes falling" analogy to illustrate these steps.
+
+---
+Good luck with your midterm!
+[Timestamp: 2025/10/01 12:23:18]
