@@ -1003,3 +1003,17 @@ More specifically:
 *   It's a way to declare the **domain** (`I`) and **codomain** (`O`) of a function `f`.
 *   It's also referred to as specifying the **type** of the function, especially in computer science contexts (like Haskell, where `I` and `O` would be types).
 [Timestamp: 2025/10/01 19:19:49]
+
+**user**: what does the symbol mean
+[Timestamp: 2025/10/01 19:22:28]
+
+**ai**: The symbol `⊆` means "is a subset of" or "is contained in or equal to".
+
+So, the notation `D ⊆ I` means that **D is a subset of I**.
+
+In the context of your notes, specifically regarding functions:
+*   `I` represents the set of all *theoretically possible inputs*.
+*   `D` represents the *actual domain* of the function, which is the set of *valid inputs* for which the function produces an output.
+
+Therefore, `D ⊆ I` signifies that the set of valid inputs (`D`) is either a part of or equal to the set of all theoretically possible inputs (`I`).
+[Timestamp: 2025/10/01 19:22:33]
