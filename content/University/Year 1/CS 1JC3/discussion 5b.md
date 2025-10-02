@@ -15,4 +15,11 @@ Num (a) => a -> a -> a -- + has this type, but a must be the same type, can't ad
 ```
 
 lambda notation
-- 
+- $f(x)=x+2$
+- $f(2) = 2 +2 =4$
+- $f(y)$ is $f$ applied to y
+- $f$ is the function $f$
+or using lambda notation (a way of making functions without giving them names, function abstraction)
+- $\lambda x.x+2$ 
+- $\lambda x \in \mathbb{Z}.x+2$
+- $\{ x \in \mathbb{Z} | x \text{ is odd}\}$, we dont give sets names, why do we give functions names? (set abstraction)
