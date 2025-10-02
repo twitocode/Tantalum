@@ -49,3 +49,26 @@ g(A, B, C) = ((not A) &&(not B) && (not C)) *disjunction*
 **disjunctive normal form**
 there is also **conjunction normal form**
 
+
+
+```haskell
+fib1 :: Integer -> Integer
+fib1 n
+  | n == 0 = 0
+  | n == 1 = 1
+  | n > 1  = fib1 (n - 2) + fib1 (n - 1)
+
+
+fib2 :: Integer -> Integer
+fib2 n =
+  let
+    fib2Aux :: Integer -> Integer -> Integer -> Integer
+    fib2Aux a b n
+      | n == 0 = a
+      | n == 1 = b
+      | n > 1  = fib2Aux b (a + b) (n - 1)
+  in fib2Aux 0 1 n
+```
+
+fib1 is very clear
+fib2 is very efficient
