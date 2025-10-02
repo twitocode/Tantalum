@@ -39,7 +39,7 @@ Ex
 	4. reasoning facilities in programming languages
 
 ## In Haskell
-A form of quantifier first-order logic is embedded in the language
+A form of quantifier-free first-order logic is embedded in the language
 - Bool, a type of truth values (booleans)
 - boolean functions
 - predicates
@@ -60,7 +60,12 @@ A form of quantifier first-order logic is embedded in the language
 	    - ("For every xxx, if xxx is human, then xxx is mortal.")
     - $\exists x \; Human(x)$
 	    - ("There exists at least one human.")
-    
+
+> [!NOTE] Haskell has **Quantifier-Free Logic**
+> ex. for every prime number P there exists a prime number greater
+> - cannot write this in haskell (not computable)
+> 
+
 ## Booleans
 A standard truth value (true or false)
 Named after George and Boole
