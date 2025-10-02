@@ -23,3 +23,8 @@ or using lambda notation (a way of making functions without giving them names, f
 - $\lambda x.x+2$ 
 - $\lambda x \in \mathbb{Z}.x+2$
 - $\{ x \in \mathbb{Z} | x \text{ is odd}\}$, we dont give sets names, why do we give functions names? (set abstraction)
+
+```haskell
+\x -> x + 2
+\(x :: Integer) -> x + 2
+```
