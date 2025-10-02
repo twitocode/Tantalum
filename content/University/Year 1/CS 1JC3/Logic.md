@@ -57,7 +57,7 @@ A form of quantifier-free first-order logic is embedded in the language
             
 - **Example:**
     - $\forall x (Human(x)→Mortal(x))$
-	    - ("For every xxx, if xxx is human, then xxx is mortal.")
+	    - ("For every x, if x is human, then x is mortal.")
     - $\exists x \; Human(x)$
 	    - ("There exists at least one human.")
 
