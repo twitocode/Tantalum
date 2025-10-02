@@ -22,9 +22,30 @@ lambda notation
 or using lambda notation (a way of making functions without giving them names, function abstraction)
 - $\lambda x.x+2$ 
 - $\lambda x \in \mathbb{Z}.x+2$
-- $\{ x \in \mathbb{Z} | x \text{ is odd}\}$, we dont give sets names, why do we give functions names? (set abstraction)
+- $\{ x \in \mathbb{Z} | x \text{ is odd}\}$, we don't give sets names, why do we give functions names? (set abstraction)
 
 ```haskell
 \x -> x + 2
 \(x :: Integer) -> x + 2
 ```
+
+
+**Proving nand can be used for everything**
+arbitrary boolean function
+
+| A B C | g(A, B, C) |
+| ----- | ---------- |
+| F F F | T          |
+| F F T | T          |
+| F T F | F          |
+| F T T | F          |
+| T F F | F          |
+| T F T | T          |
+| T T F | F          |
+| T T T | T          |
+g(A, B, C) = ((not A) &&(not B) && (not C)) *disjunction*
+= ((not A) && (not B) & C) *disjunction*
+= A && B & C *disjunction*
+**disjunctive normal form**
+there is also **conjunction normal form**
+
