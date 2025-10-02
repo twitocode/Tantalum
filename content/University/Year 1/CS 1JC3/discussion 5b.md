@@ -7,3 +7,7 @@ class: CS 1JC3
 cardinality of the decision problems of the natural numbers > cardinality of the natural numbers (diagonalization argument)
 - the # of the programs = to the number of natural numbers < decision problems
 
+```haskell
+2 + 3.1 --what type are they
+Floating a => a --they are Floating (a type class, type inference)
+```
