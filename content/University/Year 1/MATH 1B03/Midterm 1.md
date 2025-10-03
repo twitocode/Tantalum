@@ -23,6 +23,16 @@ Augmented Matricies
 - Spans
 	- What does it mean for vectors to span it
 	- linear combinations
-	- linear independence
-	- linear independence
+	- 
 - Multiplying Matricies by scalars
+- Homogenous systems of equations
+	- at least one solution
+	- unknowns > equations = infinitely many solutions
+	- linear independence
+		- trival solution
+	- linear dependence
+		- non trivial solution
+		- m > n and vectors are in Rn
+		- one of the vectors can be written as a linear combination of the others.
+- Transformations
+- 
