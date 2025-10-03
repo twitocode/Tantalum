@@ -42,5 +42,5 @@ x![[Pasted image 20251003091243.png]]
 add :: Integer -> Integer -> Integer -> Integer
 add x y a = --a is the accumulator
 	| y == 0 = x
-	| y > 0 = add x (y - 1) + 1x
+	| y > 0 = add x (y - 1) + (a + 1) 
 	```
