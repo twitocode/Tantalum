@@ -24,3 +24,5 @@ fib2 n =
       | n > 1  = fib2Aux b (a + b) (n - 1)
   in fib2Aux 0 1 n
 ```
+
+tail recursion - the function is called as the last thing, its not called everytime
