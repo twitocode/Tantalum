@@ -43,4 +43,6 @@ add :: Integer -> Integer -> Integer -> Integer
 add x y a = --a is the accumulator
 	| y == 0 = x
 	| y > 0 = add x (y - 1) + (a + 1) 
+	
+add x + y = add x y 0
 	```
