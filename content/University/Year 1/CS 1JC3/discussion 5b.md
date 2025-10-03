@@ -46,3 +46,4 @@ add x y a = --a is the accumulator
 	
 add x + y = add x y 0
 	```
+![[Pasted image 20251003092126.png]]
