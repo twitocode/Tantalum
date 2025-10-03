@@ -18,3 +18,9 @@ Augmented Matricies
 	- Leading ones
 	- pivots and pivot columns
 	- free variables
+- Vectors
+	- $R^n$ space and how they work
+- Spans
+	- linear combinations
+	- linear independence
+	- linear independence
