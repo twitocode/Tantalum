@@ -21,6 +21,8 @@ Augmented Matricies
 - Vectors
 	- $R^n$ space and how they work
 - Spans
+	- What does it mean for vectors to span it
 	- linear combinations
 	- linear independence
 	- linear independence
+- Multiplying Matricies by scalars
