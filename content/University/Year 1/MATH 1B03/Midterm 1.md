@@ -24,7 +24,7 @@ Augmented Matricies
 	- What does it mean for vectors to span it
 	- linear combinations
 	- 
-- Multiplying Matricies by scalars
+- Multiplying Matrices by scalars
 - Homogenous systems of equations
 	- at least one solution
 	- unknowns > equations = infinitely many solutions
@@ -35,4 +35,19 @@ Augmented Matricies
 		- m > n and vectors are in Rn
 		- one of the vectors can be written as a linear combination of the others.
 - Transformations
-- 
+	- domains codomains
+	- Linear transformations
+	- Standard Matricies
+	- One-to-one
+	- onto
+- Matricies
+	- Addition and Scalar Multiplicaition of Matricies
+	- Matrix Multiplication
+		- m*k, k*n
+	- Powers
+	- Transposing. Matrices
+	- Invertible/Inverse Matrices 
+		- With transformations
+		- Identity Matrix
+			- Elementary Matrices
+				- Different types
