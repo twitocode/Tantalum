@@ -31,5 +31,7 @@ tail recursion - the function is called as the last thing, its not called everyt
 
 ```haskell
 add :: Integer -> Integer -> Integer
-
+add x y =
+	| y == 0 = x
+	| y > 0 = add x (y - 1) + 1x 
 ```
