@@ -33,7 +33,14 @@ tail recursion - the function is called as the last thing, its not called everyt
 add :: Integer -> Integer -> Integer
 add x y =
 	| y == 0 = x
-	| y > 0 = add x (y - 1) + 1x
+	| y > 0 = add x (y - 1) + 1
 	```
 
 x![[Pasted image 20251003091243.png]]
+
+```haskell
+add :: Integer -> Integer -> Integer -> Integer
+add x y a = --a is the accumulator
+	| y == 0 = x
+	| y > 0 = add x (y - 1) + 1x
+	```
