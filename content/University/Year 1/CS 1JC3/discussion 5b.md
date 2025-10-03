@@ -26,3 +26,5 @@ fib2 n =
 ```
 
 tail recursion - the function is called as the last thing, its not called everytime
+- you can store information in the inputs of the recursive funcction
+- them memory you use before and after should be the same
