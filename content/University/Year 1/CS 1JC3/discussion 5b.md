@@ -29,6 +29,9 @@ tail recursion - the function is called as the last thing, its not called everyt
 - you can store information in the inputs of the recursive funcction
 - them memory you use before and after should be the same
 
+Good explanation - [algorithm - What is tail recursion? - Stack Overflow](https://stackoverflow.com/questions/33923/what-is-tail-recursion)
+
+
 ```haskell
 add :: Integer -> Integer -> Integer
 add x y =
