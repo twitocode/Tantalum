@@ -62,3 +62,12 @@ Many economists would also say that the government has a role in facilitating th
 
 # Potential GDP
 **Potential GDP**: the level of real GDP attained when all firms are producing at capacity.
+- The capacity of a firm is _not_ the maximum output the firm is capable of producing.
+- ***If all firms in the economy were operating at capacity, the level of total production of final goods and services would equal potential GDP.*** 
+- Potential GDP will increase over time as the labour force grows, new factories are built, new machinery and equipment are installed, and technological change takes place.
+
+**Output Gap**: the percentage difference between *actual GDP* and *potential GDP*
+- *negative*, $\text{actual real GDP} <\text{potential real GDP}$ and the economy is not making full use of its resources. 
+- *positive*, $\text{actual real GDP} >\text{potential real GDP}$  and the economy is using its resources in an unsustainable way or, more accurately, the economy is using resources in a way that will lead to inflation
+___
+# Saving, Investment, and the Financial System
