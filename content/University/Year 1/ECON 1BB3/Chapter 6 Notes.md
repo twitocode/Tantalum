@@ -71,3 +71,64 @@ Many economists would also say that the government has a role in facilitating th
 - *positive*, $\text{actual real GDP} >\text{potential real GDP}$  and the economy is using its resources in an unsustainable way or, more accurately, the economy is using resources in a way that will lead to inflation
 ___
 # Saving, Investment, and the Financial System
+**Retained Earnings**: profits that are reinvested in the firm rather than paid to the firm's owners. 
+Firms can also get funds from households, stock and bond markets, and banks. 
+
+**Financial System**: the system of *financial markets* and the *financial intermediaries* through which firms acquire funds from households
+
+**Financial Markets**: markets where financial securities, such as stocks and bonds, are bought and sold.
+
+**Financial Security**: a document that states the terms under which funds pass from the ubyer of the security (lender) to the seller (the borrower)
+
+**Stocks**: financial securities that represent the partial ownership of a firm. 
+**Bonds**: financial securities that represent promises to repay a fixed amount in the future. 
+
+
+**Financial Intermediaries**: go-betweens for borrowers and lenders. They borrow funds from savers and lend them to borrowers. 
+- Ex. banks, mutual funds, pension funds, and insurance companies
+
+Banks, mutual funds, pension funds, and insurance companies *also make investments in stocks and bonds on behalf of savers*
+
+## 3 Key services for savers and borrowers
+### Risk sharing
+**Risk**: the chance that the value of a financial asset will change relative to what you expect. 
+
+> [!NOTE]
+> Most individual savers are not gamblers and *seek a steady return on their savings* rather than erratic swings between high and low (negative) earnings.
+> The financial system provides **risk sharing** by *allowing savers to spread their money among many financial assets*
+
+### Liquidity
+**Liquidity**: the ease with which one asset can be converted into a different asset.
+- usually for exchanging a financial asset for money.
+### Information
+**I dont really have a defintion for this**
+For example, Lena’s Laundry may want to borrow $10 000 from you. *Finding out what Lena intends to do with the funds and how likely she is to pay you back is likely costly and time-consuming*. By depositing $100 in the bank, **you are, in effect, allowing the bank to gather this information for you.**
+
+Because banks specialize in gathering information on borrowers, they are often able to do it faster and at a lower cost than individual savers
+
+For example, If you read a news story announcing that an automaker has invented a car with an engine that runs on water, how would you determine the effect of that discovery on the firm’s profits? **Financial markets do some of the job for you by incorporating information into the prices of stocks, bonds, and other financial securities**. In this example, the expectation of higher future profits for that automaker would boost the prices of their stocks and bonds.
+
+# # The Macroeconomics of Saving and Investment
+$$\text{total value of saving in the economy}=\text{ the total value of investment}$$
+
+We begin with the relationship between GDP (_Y_) and its components, consumption (_C_), investment (_I_), government purchases (_G_), and net exports (_NX_):
+
+$$Y =C +I+G+NX$$
+**In a closed economy**, net exports is equal to zero, so Investments is equal to
+$$I =Y-C-G$$
+**Private Saving**: what households retain form their income after purchasing goods and services (*C*) and paying taxes (*T*)
+Households can get income by supplying the factors of productions to firms (*Y*) and as transfers from the government (*TR*)
+$$S_{private} = Y + TR - C- T$$
+**Public saving**: amount of tax revenue the government retains after paying for governemnt purchases and making transfers payments to households
+$$S_{public} = T - G - TR$$
+Total savings in the economy (*S*) = 
+$$S = S_{private} + S_{public}$$
+$$S = (Y +TR-C-T)+(T-G-TR)$$
+$$S=Y-C-G$$
+
+$$S=I$$
+**Balanced Budget**: when the government spends the same amount as it collects in taxes
+**Budget deficit**: when the government spends more than it collects in taxes $T < G + TR$
+- means that public savings is negative
+
+We can conclude that, holding all other factors constant (_ceteris paribus_), there is a lower level of investment spending in the economy when there is a budget deficit than when the government has a balanced budget.
