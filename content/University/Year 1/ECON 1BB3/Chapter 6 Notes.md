@@ -198,4 +198,16 @@ _Inflation rate_ is the percentage increase in the price level from one year to 
 **during economic expansions**, the inflation rate usually increases, particularly near the end of the expansion.
 **during recessions**, the inflation rate usually decreases.
 
-During a business cycle expansion, spending by businesses and households is strong, and producers of goods and services find it easy to raise prices. As spending declines during a recession, firms have a harder time selling their goods and services and are less likely to increase prices.
+**During a business cycle expansion,** 
+- spending by businesses and households is strong
+- producers of goods and services find it easy to raise prices. 
+**As spending declines during a recession**
+- firms have a harder time selling their goods and services and are less likely to increase prices.
+
+## The Effect of the Business Cycle on the Unemployment Rate
+**Recessions cause the inflation rate to fall, but they cause the unemployment rate to increase.** 
+
+**You should also notice that the unemployment rate continues to rise even after most economists believe that a particular recession has ended.** 
+This is typical and is caused by two factors. 
+1. **Even though employment begins to increase as a recession ends, it may increase more slowly than the growth in the labour force that results from population growth.** *If employment grows more slowly than the labour force, the unemployment rate will rise.* Further, some workers who became discouraged during the recession and stopped looking for work (and therefore aren’t classified as _unemployed_) re-enter the labour force once the economy begins to recover. These returning workers increase the number of people in the labour force. 
+2. **Not all firms expand at the same rate after a recession**. Some firms that *laid off workers* during a recession may be particularly *slow to call workers back* even after a recession is over.
