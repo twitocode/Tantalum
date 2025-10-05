@@ -163,3 +163,25 @@ We can conclude that, holding all other factors constant (_ceteris paribus_), th
 ---
 
 # The Business Cycle
+**Expansion phase**: production, employment, and income are increasing.
+**Business Cycle Peak**: when the expansion phase ends
+**Recession Phase**: Production, employment, and income decline
+**Business Cycle Trough**: when the recession phase ends
+
+![[Pasted image 20251005161000.png]]
+
+> [!NOTE] When does a Recession start?
+> a recession is defined as two consecutive quarters of negative real GDP growth. That is six months of falling real GDP.
+
+# What happens during the Business Cycle
+As the economy nears the end of an expansion,
+- interest rates are usually rising
+- wages of workers are usually rising faster than prices. 
+- As a result of rising interest rates and wages, the profits of firms will be falling
+- both households and firms will have substantially increased their debts. 
+	- These debts are the result of the borrowing firms and households undertake to help finance their spending during the expansion.
+
+A recession will often begin with 
+- **a decline in spending by firms on capital goods**, such as machinery, equipment, new factories, and new office buildings, or by households on new houses and consumer durables, such as furniture and automobiles. 
+	- **As spending declines**, firms selling capital goods and consumer durables will find their sales declining. 
+		- **As sales decline**, firms cut back on production and begin to lay off workers. Rising unemployment and falling profits reduce income, which leads to further declines in spending.
