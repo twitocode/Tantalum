@@ -185,3 +185,17 @@ A recession will often begin with
 - **a decline in spending by firms on capital goods**, such as machinery, equipment, new factories, and new office buildings, or by households on new houses and consumer durables, such as furniture and automobiles. 
 	- **As spending declines**, firms selling capital goods and consumer durables will find their sales declining. 
 		- **As sales decline**, firms cut back on production and begin to lay off workers. Rising unemployment and falling profits reduce income, which leads to further declines in spending.
+
+As the recession continues
+- economic conditions gradually begin to improve. 
+- The declines in spending eventually come to an end; households and firms begin to reduce their debt, thereby increasing their ability to spend; and interest rates decline, making it more likely that households and firms will borrow to finance new spending. 
+- Firms begin to increase their spending on capital goods as they anticipate the need for additional production during the next expansion. 
+- Increased spending by households on consumer durables and by businesses on capital goods will finally bring the recession to an end and start the next expansion.
+## The Effect of the Business Cycle on the Inflation Rate
+_Price level_ measures the average prices of goods and services in the economy
+_Inflation rate_ is the percentage increase in the price level from one year to the next. 
+
+**during economic expansions**, the inflation rate usually increases, particularly near the end of the expansion.
+**during recessions**, the inflation rate usually decreases.
+
+During a business cycle expansion, spending by businesses and households is strong, and producers of goods and services find it easy to raise prices. As spending declines during a recession, firms have a harder time selling their goods and services and are less likely to increase prices.
