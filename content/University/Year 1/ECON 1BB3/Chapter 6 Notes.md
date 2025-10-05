@@ -37,6 +37,7 @@ $$\text{Number of years to double} = \frac{70}{\text{Growth Rate}}$$
   
 **economists usually measure labour productivity as *output per hour of work* to avoid the effects of fluctuations in the length of the workday or in the fraction of the population employed**
 
+# Requirements for Economic Growth
 ## Increases in Capital per hour worked
 **Capital**: the *manufactured goods* that are used to produce other goods and services.
 - Ex. computers, factories, trucks
@@ -56,3 +57,8 @@ $$\text{Number of years to double} = \frac{70}{\text{Growth Rate}}$$
 > [!error] Tech change > Capital change
 > just accumulating more inputs—such as labour, capital, or natural resources—will not ensure that an economy experiences economic growth unless technological change also occurs
 
+## Property Rights
+Many economists would also say that the government has a role in facilitating the development of an efficient financial system, as well as systems of education, transportation, and communication.
+
+# Potential GDP
+**Potential GDP**: the level of real GDP attained when all firms are producing at capacity.
