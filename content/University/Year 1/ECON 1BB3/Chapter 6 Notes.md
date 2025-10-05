@@ -31,3 +31,28 @@ $$\text{Number of years to double} = \frac{70}{\text{Growth Rate}}$$
 
 # What Determines the Rate of Long-Run Growth?
 ***increases in real GDP per capita depend on increases in labour productivity***
+**Labour productivity**: the quantity of goods and services that can be produced by 
+- *one worker* 
+- OR *by one hour of work*
+  
+**economists usually measure labour productivity as *output per hour of work* to avoid the effects of fluctuations in the length of the workday or in the fraction of the population employed**
+
+## Increases in Capital per hour worked
+**Capital**: the *manufactured goods* that are used to produce other goods and services.
+- Ex. computers, factories, trucks
+**Capital Stock**: the total amount of physical capital available in a country
+
+*As the capital stock per hour worked increases, worker productivity increases*. A secretary with a personal computer can produce more documents per day than a secretary with a manual typewriter.
+
+**Human Capital**: the *accumulated knowledge and skills* workers acquire from education, training, or life experiences.
+## Technological Change
+> [!important]
+> Economic growth depends more on technological change than on increases in capital per hour worked
+
+**Technology**: the processes a firm uses to turn inputs into outputs of goods and services.
+**Technological change**: an increase in the quantity of output firms can produce using a given quantity of inputs
+- new machines, equipment, software
+
+> [!error] Tech change > Capital change
+> just accumulating more inputs—such as labour, capital, or natural resources—will not ensure that an economy experiences economic growth unless technological change also occurs
+
