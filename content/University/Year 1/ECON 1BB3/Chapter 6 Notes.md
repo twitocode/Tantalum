@@ -140,3 +140,26 @@ We can conclude that, holding all other factors constant (_ceteris paribus_), th
 # The market for loanable funds
 **Market for loanable funds**: the interaction of borrowers and lenders that determines the market interest rate and the quantity of loanable funds exchanged.
 
+## **Key Definitions**
+**Real Interest Rate**: The nominal interest rate adjusted for inflation (real = nominal – inflation)
+**Demand for Loanable Funds**: Borrowing by firms for investment projects; downward sloping because lower rates make more projects profitable.
+**Supply of Loanable Funds**: Savings provided by households and government; upward sloping because higher rates encourage more saving.
+**Equilibrium**: The interest rate and loanable funds amount where supply = demand.
+**Crowding Out**: A reduction in private investment caused by government budget deficits raising interest rates.
+**Government Surplus**: When government savings increase supply, lowering interest rates and boosting investment.
+
+- Firms compare expected returns on investment to the interest rate:
+    - If return > interest rate → invest.
+    - If return < interest rate → don’t invest.
+        
+- **Shifts in Demand**:
+    - Tech improvements or higher expected profits → demand shifts right → higher interest rates and more borrowing.
+    
+- **Shifts in Supply**:    
+    - More household saving or budget surplus → supply shifts right → lower rates and more investment.
+    - Budget deficit → supply shifts left → higher rates, less borrowing, and crowding out.
+        
+
+---
+
+# The Business Cycle
