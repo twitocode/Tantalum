@@ -132,3 +132,11 @@ $$S=I$$
 - means that public savings is negative
 
 We can conclude that, holding all other factors constant (_ceteris paribus_), there is a lower level of investment spending in the economy when there is a budget deficit than when the government has a balanced budget.
+
+**Budget Surplus**: when the government spends less than it collects in taxes
+- increases public savings -> increases the total level of saving in the economy
+- investment spending is higher
+
+# The market for loanable funds
+**Market for loanable funds**: the interaction of borrowers and lenders that determines the market interest rate and the quantity of loanable funds exchanged.
+
