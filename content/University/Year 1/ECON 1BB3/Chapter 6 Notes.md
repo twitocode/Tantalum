@@ -11,7 +11,7 @@ tags:
 
 # Calculating Growth Rates and the Rule of 70
 Growth rate of real GDP/real GDP per capita during a particular year is equal to the percentage change from the previous year
-$$\Delta\text{real GDP per capita} = \frac{\text{current GDP}-\text{previous GDP}}{\text{previous GDP}} \cdot {100\%} $$
+$$\Delta\text{real GDP per capita} = \frac{\text{current year GDP}-\text{previous year GDP}}{\text{previous year GDP}} \cdot {100\%} $$
 for longer periods of time, we can use the *average annual growth rate*
 for shorter periods of time, we get approximately the same answer by *average the growth rate for each year*
 
