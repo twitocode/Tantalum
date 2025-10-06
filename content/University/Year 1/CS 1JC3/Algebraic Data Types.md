@@ -40,8 +40,7 @@ every member of t is constructed and constructed in the same way as each other
 **pattern matching can be used to match each member of $t$**
 
 The definition of the algebraic type t induces an **induction principle** that can be used to prove that a property holds for all members of $t$
-- Proof by induction is the most useful proof tecniqutechniqe because in computing most types are inductive.
-
+- Proof by induction is the most useful proof tecniqutechniqe because in computing most types are inductive. 
 
 ## Sum and Product Types
 **Sum Types**: algebraic types that have more than one constructor
