@@ -22,7 +22,11 @@ Making new types
 ```haskell
 type Vector = (Double, Double, Double)
 --can have paramters
-type Vector a b c = (a, a, a) --polymorphism
+type Vector a b c = (a, b, c) --polymorphism
+
+point :: Vector Int Double Float
+point = (1, 1.0, 1.0)
 ```
 
-
+## Algebraic Types
+They are 
