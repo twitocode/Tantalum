@@ -92,6 +92,9 @@ meaning Saturday = "saturn's day"
 
 ## Recursive Type
 an algebraic type whose defined type is include in the constructor's types
+the set of values of a recursive type is **countably infinite** (0 - Zero, 1 - Suc Zero, 2 - Suc $ Suc Zero)
+- another example is the natural numbers (the first natural number 1, then 2)
+- *Uncountably infinite* would be the real numbers
 ```haskell
 data Nat
  = Zero
@@ -113,3 +116,5 @@ data BinTreeFloat
 -- The branch has a left node which could be another branch of a leaf, the actual node itself, and the right node which is the same as the left node
 -- leafs are the end points
 ```
+
+ 
