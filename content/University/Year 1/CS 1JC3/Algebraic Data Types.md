@@ -21,5 +21,8 @@ Making new types
 ## Synonym Type (type-alias)
 ```haskell
 type Vector = (Double, Double, Double)
+--can have paramters
+type Vector a b c = (a, a, a) --polymorphism
 ```
+
 
