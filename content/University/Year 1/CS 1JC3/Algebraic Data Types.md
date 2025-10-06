@@ -27,7 +27,7 @@ type Vector a b c = (a, b, c) --polymorphism
 point :: Vector Int Double Float
 point = (1, 1.0, 1.0)
 ```
-
+Uses `type` instead of `data`
 ## Algebraic Types (Inductive types)
 They are a new type of new values formed as a *sum* of *products*.
 ![[Pasted image 20251006115947.png]]
@@ -46,11 +46,45 @@ The definition of the algebraic type t induces an **induction principle** that c
 ## Sum and Product Types
 **Sum Types**: algebraic types that have more than one constructor
 ```haskell
-data Bool False | True
+data Bool = False | True
 ```
 **Product Types**: algebraic types that have one constructor and the same structure as a tupel type
 ```haskell
 data Point = MakePoint Float Float
+--MakePoint is the constructor (we can name it)
 --the same thing as
 type Point = (Float, Float)
 ```
+
+## Enumeration Types
+An algebraic type that enumerates a finite set of new values.
+defined by constructors that take no arguments
+```haskell
+data t = C1 | C2 | ... | Cn
+-- C1...Cn are the new values of the new type t
+data Bool = False | True 
+
+-- making our own Bool
+data Bool = False | True deriving (Show)
+
+implies :: Bool -> Bool -> Bool
+True `implies` False = False
+_ `implies` _ = True
+
+data WeekDay = Sunday
+				| Monday
+				| Tuesday
+				| Wednesday
+				| Thursday
+				| Friday
+				| Saturday
+				deriving (Show)
+				
+meaning :: WeekDay -> String
+meaing Sunday = "sun's day"
+meaing Monday = "moon's day"
+meaning Thursday = "Thor's day"
+meaning Saturday = "saturn's day"
+```
+
+## Recursive Type
