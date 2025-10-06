@@ -117,4 +117,14 @@ data BinTreeFloat
 -- leafs are the end points
 ```
 
+ The example for Natural Numbers
+ ```haskell
+data Nat
+ = Zero
+ | Suc Nat
+ deriving (Show)
  
+ natPlus :: Nat -> Nat -> Nat
+ x `natPlus` Zero = x -- x + 0 =x
+ x `natPlus` (Suc y) = Suc (x `natPlus' y) -- x + (x + 1) = (x + y) + 1
+ ```
