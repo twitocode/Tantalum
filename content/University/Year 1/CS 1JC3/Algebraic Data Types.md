@@ -14,4 +14,12 @@ tags:
 Linear search vs Binary Search
 
 # Types
-1.  
+Making new types
+1. type alias
+2.  data types (like structs,, classes)
+
+## Synonym Type (type-alias)
+```haskell
+type Vector = (Double, Double, Double)
+```
+
