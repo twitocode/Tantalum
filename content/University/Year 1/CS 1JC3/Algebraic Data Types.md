@@ -32,4 +32,6 @@ point = (1, 1.0, 1.0)
 They are a new type of new values formed as a *sum* of *products*.
 ![[Pasted image 20251006115947.png]]
 
+$C_{i}$ are **value constructors** that create new values
+$t_{j}^i$ are types that may include $t$ itself
 
