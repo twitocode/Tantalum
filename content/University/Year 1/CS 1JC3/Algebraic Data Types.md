@@ -39,6 +39,10 @@ The type of of $C_i$ is $t^i_{1} \to \dots \to t^i_{m_{i}} \to t$
 every member of t is constructed and constructed in the same way as each other
 **pattern matching can be used to match each member of $t$**
 
+
+> [!NOTE] Title
+> No junk and No confusion
+
 The definition of the algebraic type t induces an **induction principle** that can be used to prove that a property holds for all members of $t$
 - Proof by induction is the most useful proof tecniqutechniqe because in computing most types are inductive. 
 
@@ -87,3 +91,25 @@ meaning Saturday = "saturn's day"
 ```
 
 ## Recursive Type
+an algebraic type whose defined type is include in the constructor's types
+```haskell
+data Nat
+ = Zero
+ | Suc Nat
+-- every value is constructed uniquely 
+-- 0 - Zero
+-- 1 - Suc Zero
+-- 2 - Suc $ Suc Zero
+
+data ListInteger
+ = Nil
+ | Cons Integer ListInteger
+-- essentially a linked list
+
+data BinTreeFloat
+ = Leaf Float
+ | Branch BinTreeFloat Float BinTreeFloat
+ 
+-- The branch has a left node which could be another branch of a leaf, the actual node itself, and the right node which is the same as the left node
+-- leafs are the end points
+```
