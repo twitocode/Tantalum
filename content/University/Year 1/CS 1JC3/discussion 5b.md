@@ -39,7 +39,7 @@ add x y =
 	| y > 0 = add x (y - 1) + 1
 	```
 
-x![[Pasted image 20251003091243.png]]
+![[Pasted image 20251003091243.png]]
 
 ```haskell
 add :: Integer -> Integer -> Integer -> Integer
@@ -49,4 +49,5 @@ add x y a = --a is the accumulator
 	
 add x + y = add x y 0
 	```
+	
 ![[Pasted image 20251003092126.png]]
