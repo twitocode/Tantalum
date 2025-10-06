@@ -29,4 +29,7 @@ point = (1, 1.0, 1.0)
 ```
 
 ## Algebraic Types
-They are 
+They are a new type of new values formed as a *sum* of *products*.
+![[Pasted image 20251006115947.png]]
+
+
