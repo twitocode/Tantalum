@@ -43,4 +43,14 @@ The definition of the algebraic type t induces an **induction principle** that c
 - Proof by induction is the most useful proof tecniqutechniqe because in computing most types are inductive.
 
 
-## Sum Types
+## Sum and Product Types
+**Sum Types**: algebraic types that have more than one constructor
+```haskell
+data Bool False | True
+```
+**Product Types**: algebraic types that have one constructor and the same structure as a tupel type
+```haskell
+data Point = MakePoint Float Float
+--the same thing as
+type Point = (Float, Float)
+```
