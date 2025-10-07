@@ -129,4 +129,20 @@ data Nat
  x `natPlus` (Suc y) = Suc (x `natPlus' y) -- x + (x + 1) = (x + y) + 1
  ```
 ### Standard Induction Principle for Nat
-$$(P Zero )$$
+$$(P \ Zero \land (\forall x: Nat. P\ x \implies P (Suc \ x)$$
+$$\implies \forall x: Nat . P \ x$$
+the property needs to hold at Zero and the successor of Nat
+$\land$ - logical and
+This is **mathematical induction** (weak induction)
+
+#### Prove $\forall x: Nat. 0 + x = x$
+1. Let $P\ x\equiv 0 + x = x$
+2. Base Case: Show $P \ 0$
+	1. $P \ 0 \equiv 0 + 0 = 0$ by the definition of P
+	2. $0 + 0 + 0$ is an instance of $x + 0 = x$
+	3. So $P 0$ holds
+3. Induction Step: Assume $P \ x$ holds. show $P (S \ x)$
+	1. $P(S \ x) \equiv 0 + S \ x = S \ x$ by definition of P
+	2. $0 = S(x) = S(0 +x)$ is an instance of $x + S \ y = S(x + y)$
+	3. $0 + x = x$ by the induction hypothesis $P(x)$
+	4. Hence $P (S \ x)$ holds
