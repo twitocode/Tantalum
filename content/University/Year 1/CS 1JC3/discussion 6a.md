@@ -19,6 +19,11 @@ data Poly a =
 x     :: Poly a
 Coeff :: a      -> Poly a
 Sum   :: Poly a -> Poly a -> Poly a
+
+Sum x (Sum x x) - x + (x + x)
+Sum Sum(x + x) x - (x + x) + x
+--these things have different expressions but denote the same function
+--just like the polynomial example
 ```
 
 the constructors are x, Coef, Sum, and Prod
