@@ -15,8 +15,15 @@ data Poly a =
 	| Coef a
 	| Sum (Poly a) (Poly a)
 	| Prod (Poly a) (Poly a)
+	
+x     :: Poly a
+Coeff :: a      -> Poly a
+Sum   :: Poly a -> Poly a -> Poly a
 ```
 
 the constructors are x, Coef, Sum, and Prod
 
 a constructor is a function with a type
+constructors construct members of the algebraic data type
+
+**No junk and no confusion**
