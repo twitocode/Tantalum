@@ -54,7 +54,7 @@ A form of quantifier-free first-order logic is embedded in the language
     - **Quantifiers:**
         - Universal: $\forall$ (“for all”)
         - Existential: $\exists$ (“there exists”).
-            
+
 - **Example:**
     - $\forall x (Human(x)→Mortal(x))$
 	    - ("For every x, if x is human, then x is mortal.")
