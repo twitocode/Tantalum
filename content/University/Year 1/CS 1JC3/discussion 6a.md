@@ -23,7 +23,15 @@ Sum   :: Poly a -> Poly a -> Poly a
 Sum x (Sum x x) - x + (x + x)
 Sum Sum(x + x) x - (x + x) + x
 --these things have different expressions but denote the same function
---just like the polynomial example
+--just like the polynomial examplep1 p2
+
+val :: Num a => Poly a -> a -> a
+val p v = 
+	case p of 
+		x
+		Coeff y
+		Sum p1 p2
+		Prod 
 ```
 
 the constructors are x, Coef, Sum, and Prod
