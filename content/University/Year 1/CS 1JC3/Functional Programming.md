@@ -108,9 +108,9 @@ A sequence of statements called *programs*
 ### Example: `2 + 3`
 - Symbols: `2`, `+`, `3`, and even the whitespace are all **syntax**.
 - Each symbol has **semantics**:
-  - `2` → a numeral symbol (syntax) that represents the number two (semantics/value) 
-  - `3` → a numeral symbol (syntax) that represents the number three (semantics/value)  
-  - `+` → a symbol (syntax) that denotes addition (semantics)
+	  - `2` → a numeral symbol (syntax) that represents the number two (semantics/value) 
+	  - `3` → a numeral symbol (syntax) that represents the number three (semantics/value)  
+	  - `+` → a symbol (syntax) that denotes addition (semantics)
 
 
 This shows how the expression `2 + 3` is **more than just symbols**:  
