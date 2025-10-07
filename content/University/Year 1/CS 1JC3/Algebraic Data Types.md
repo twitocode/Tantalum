@@ -146,3 +146,30 @@ This is **mathematical induction** (weak induction)
 	2. $0 = S(x) = S(0 +x)$ is an instance of $x + S \ y = S(x + y)$
 	3. $0 + x = x$ by the induction hypothesis $P(x)$
 	4. Hence $P (S \ x)$ holds
+
+> [!NOTE]
+> I wont lie, this was complete gibberish to me
+
+## Algebraic Types with Parameters
+An algebraic type can define a type constructor that has types as parameters
+```haskell
+data List a
+	= Nil
+	| Cons a (List a)
+
+data BinaryTree a
+	= Leaf a
+	Branch (BinaryTree a) a (BinaryTree a)
+
+data Maybe a
+	= Just a
+	| Nothing --kinda like NaN
+	
+	
+head2 :: List a -> Maybe a
+head2 Nil = Nothing --empty list does not have a head
+head2 (Cons x y) = Just x --x is the current, y is the next
+
+--not going to add the binarytree example
+
+```
