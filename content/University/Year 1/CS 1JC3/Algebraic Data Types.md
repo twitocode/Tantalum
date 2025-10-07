@@ -180,3 +180,11 @@ An algebraic type `A` defines a new language **`L` of expressions**
 The *expressions* of `L` are in a one-to-one correspondence with the *values* of `A`
 - The expressions of `L` serve as *literals* for the values of `A`
 Functions on A can be defined using pattern matching on the different forms of expressions of L
+
+## New Type Declaration
+only used during compile time for type checking
+*old types run during runtime*
+```haskell
+```newtype declaration = construtor oldtype
+newtype Natural = Natural Integer
+```
