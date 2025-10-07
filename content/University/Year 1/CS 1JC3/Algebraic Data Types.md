@@ -128,3 +128,5 @@ data Nat
  x `natPlus` Zero = x -- x + 0 =x
  x `natPlus` (Suc y) = Suc (x `natPlus' y) -- x + (x + 1) = (x + y) + 1
  ```
+### Standard Induction Principle for Nat
+$$(P Zero )$$
