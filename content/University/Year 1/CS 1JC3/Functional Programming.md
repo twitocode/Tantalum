@@ -277,7 +277,7 @@ As a Value
 - The cardinality of the set of all programs in any "normal" programming language is equal to the cardinality of the natural numbers ($|ℕ|$). *This implies that programs can be mapped to natural numbers.*
 
 ### Gödel’s Incompleteness Theorems
-States that for any consistent axiomatic system powerful enough to describe arithmetic (natural numbers), there will always be true statements about natural numbers that cannot be proven (derived) within that system. This is another fundamental limitation of formal systems and, by extension, computation
+States that for any consistent axiomatic (*unquestionable, self-evident*) system powerful enough to describe arithmetic (natural numbers), there will always be true statements about natural numbers that cannot be proven (derived) within that system. This is another fundamental limitation of formal systems and, by extension, computation
 - **tldr** heres a simple example
 	1. Imagine you build a perfect rulebook (a formal system) to do math with whole numbers.
 	2. You’d expect this rulebook to be able to prove **every true statement** about numbers.
