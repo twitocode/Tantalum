@@ -104,6 +104,8 @@ data Nat
 -- 1 - Suc Zero
 -- 2 - Suc $ Suc Zero
 
+(shea 3) x -> shea x 3
+
 data ListInteger
  = Nil
  | Cons Integer ListInteger
