@@ -18,3 +18,5 @@ data Poly a =
 ```
 
 the constructors are x, Coef, Sum, and Prod
+
+a constructor is a function with a type
