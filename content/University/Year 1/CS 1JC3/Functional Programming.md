@@ -72,10 +72,10 @@ A sequence of statements called *programs*
 
 **Imperative Programs** are a sequence of imperative statements that express *how* a program will work
 - Do this, then this, then this, then tell me the result
-  
+	- `for loop`
 **Declarative Programs** are a sequence of declarative statements that express *what* the program will achieve
 - I want you to get this result for me, I don't care how you do it. Just get it 
-
+	- `array.map`
 ## Programming Paradigms
 **Programming paradigm**: a well-developed style of programming. 
 
