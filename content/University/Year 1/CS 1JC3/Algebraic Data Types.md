@@ -173,3 +173,10 @@ head2 (Cons x y) = Just x --x is the current, y is the next
 --not going to add the binarytree example
 
 ```
+
+## Algebraic Types as Languages
+An algebraic type `A` defines a new language **`L` of expressions**
+- *`L` is infinite when A is recursive*
+The *expressions* of `L` are in a one-to-one correspondence with the *values* of `A`
+- The expressions of `L` serve as *literals* for the values of `A`
+Functions on A can be defined using pattern matching on the different forms of expressions of L
