@@ -11,7 +11,7 @@ expression $x^2 +3x+2$ and  $(x+2)(x+1)$ and $(x+3)x+2$ (Horner's method) have d
 
 ```haskell
 data Poly a =
-	x
+	  x
 	| Coef a
 	| Sum (Poly a) (Poly a)
 	| Prod (Poly a) (Poly a)
@@ -22,8 +22,12 @@ Sum   :: Poly a -> Poly a -> Poly a
 ```
 
 the constructors are x, Coef, Sum, and Prod
-
+*the values are the expressions (makes no sense right?)*
 a constructor is a function with a type
 constructors construct members of the algebraic data type
 
 **No junk and no confusion**
+no confusion - theres no way of using the constructors in different ways to denote the same kind of value (you can only construct each thing one way)
+- x cannot be Coef 2
+no junk
+- every one of the values in the the data type can be reached with a constructor
