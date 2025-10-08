@@ -28,6 +28,7 @@ energy is not conserved
 - Great German mathematician of Jewish heritage
 - research in abstract algebra, mainly in ring theory.
 - joined math department at University of Göttingen (same place as Curry) after invitation of D. Hilbert and F. Klein
+	- become a professor there
 	- guys thought she was a guy because "only men can do math"
 
 
