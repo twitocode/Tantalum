@@ -1,7 +1,7 @@
 - [ ] Historial figures
 - [x] hindu-arabic system
 - [x] boolean (Propositional) logic
-- [ ] Recursively defined functions
+- [x] Recursively defined functions
 - [ ] List comprehension
 - [ ] Case studies - the use of numbers and how they're represented
 - [x] Floating point numbers
