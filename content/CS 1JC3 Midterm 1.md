@@ -4,7 +4,7 @@
 - [ ] Recursively defined functions
 - [ ] List comprehension
 - [ ] Case studies - the use of numbers and how they're represented
-- [ ] Floating point numbers
+- [x] Floating point numbers
 - [x] Prelude Haskell functions
 - [x] Data types
 - [x] Two's compliment (not ones compliment)
@@ -12,13 +12,13 @@
 - [x] Programming paradigms
 - [x] polymorphic types
 	- `num a => a`
-- [ ] machine integers
-- [ ] types of thinking
+- [x] machine integers
+- [x] types of thinking
 - [x] unary vs n-ary
 - [ ] pattern matching
 - [x] type classes - comes later tho
 - [ ] quick check - comes later tho
-- [ ] Cardinality
+- [x] Cardinality
 - [x] currying functions
-- [ ] Noetherian Number Property (well-order)
+- [x] Noetherian Number Property (well-order)
 - [x] Properties of functions
