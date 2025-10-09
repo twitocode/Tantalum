@@ -1,8 +1,8 @@
-- [ ] Historial figures
+- [x] Historial figures
 - [x] hindu-arabic system
 - [x] boolean (Propositional) logic
 - [x] Recursively defined functions
-- [ ] List comprehension
+- [x] List comprehension
 - [ ] Case studies - the use of numbers and how they're represented
 - [x] Floating point numbers
 - [x] Prelude Haskell functions
