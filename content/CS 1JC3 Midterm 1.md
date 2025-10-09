@@ -21,3 +21,4 @@
 - [ ] Cardinality
 - [ ] currying functions
 - [ ] Noetherian Number Property (well-order)
+- [ ] Properties of functions
