@@ -1,12 +1,20 @@
-1. Historial figures
-2. hindu-arabic system
-3. boolean (Propositional) logic
-4. Recursively defined functions
-5. List comprehension
-6. Case studies - the use of numbers and how they're represented
-7. Floating point numbers
-8. Prelude Haskell functions
-9. Data types
-10. Two's compliment (not ones compliment)
-11. lambda expressions
-12. Programming paradigms
+- [ ] Historial figures
+- [ ] hindu-arabic system
+- [ ] boolean (Propositional) logic
+- [ ] Recursively defined functions
+- [ ] List comprehension
+- [ ] Case studies - the use of numbers and how they're represented
+- [ ] Floating point numbers
+- [ ] Prelude Haskell functions
+- [ ] Data types
+- [ ] Two's compliment (not ones compliment)
+- [ ] lambda expressions
+- [ ] Programming paradigms
+- [ ] polymorphic types
+	- `num a => a`
+- [ ] machine integers
+- [ ] types of thinking
+- [ ] unary vs n-ary
+- [ ] pattern matching
+- [ ] type classes - comes later tho
+- [ ] quick check - comes later tho
