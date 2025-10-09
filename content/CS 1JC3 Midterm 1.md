@@ -19,3 +19,5 @@
 - [ ] type classes - comes later tho
 - [ ] quick check - comes later tho
 - [ ] Cardinality
+- [ ] currying functions
+- [ ] Noetherian Number Property (well-order)
