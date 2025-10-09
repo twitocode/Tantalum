@@ -18,3 +18,4 @@
 - [ ] pattern matching
 - [ ] type classes - comes later tho
 - [ ] quick check - comes later tho
+- [ ] Cardinality
