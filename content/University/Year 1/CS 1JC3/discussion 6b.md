@@ -45,5 +45,8 @@ data Poly a =
 	| Sum (Poly a) (Poly a)
 	| Prod (Poly a) (Poly a)
 
-val :: Num a => a -> Poly a -> Nat a -> a
-```
+val :: Num a => a -> Poly a -> Nat a -> a```
+
+induction principle for `Bool`
+$$p(False) \land p(True) \implies \forall x: Bool \ . p(x)$$
+$$P(0) \land (\forall y . p(y) \implies p(Suc \ y)) \implies \forall: Nat \ . p(x) $$
