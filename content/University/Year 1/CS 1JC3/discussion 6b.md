@@ -13,6 +13,7 @@ data Nat  =
 --infinite datatype
 --the members are 0, S0, S(S0), S(S0)... infinite number of members
 
+--polynomial
 data Poly a =
 	 X
 	| Coef a
@@ -29,4 +30,11 @@ val p v =
 		Coef u -> Coef v
 		Sum p1 p2 -> (val p1 v) + (val p2 v)
 		Prod p1 p2 -> (val p1 v) * (val p2 v)
+
+--polynomial	
+data Poly a =
+	 X | Y
+	| Coef a
+	| Sum (Poly a) (Poly a)
+	| Prod (Poly a) (Poly a)
 ```
