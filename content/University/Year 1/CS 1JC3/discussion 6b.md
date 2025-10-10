@@ -20,10 +20,11 @@ data Poly a =
 	| Prod (Poly a) (Poly a)
 --can bne visualizaed as a tree
 
+val :: Num a => a -> Poly a -> a -> a
 val p v =
 	case p of
-		x ->
-		Coef u -> 
-		Sum p1 p2 ->
-		Prod p1 p2 ->
+		x -> v
+		Coef u -> Coef v
+		Sum p1 p2 -> (val p1 v) + (val p2 v)
+		Prod p1 p2 -> (val p1 v) * (val p2 v)
 ```
