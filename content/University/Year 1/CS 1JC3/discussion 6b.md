@@ -19,6 +19,8 @@ data Poly a =
 	| Sum (Poly a) (Poly a)
 	| Prod (Poly a) (Poly a)
 --can bne visualizaed as a tree
+-- Sum (Prod X (Coef 1)) (Coef 2)
+-- (x * 1) + 2
 
 val :: Num a => a -> Poly a -> a -> a
 val p v =
