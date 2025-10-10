@@ -37,4 +37,11 @@ data Poly a =
 	| Coef a
 	| Sum (Poly a) (Poly a)
 	| Prod (Poly a) (Poly a)
+	
+--polynomial with an infinite amount of indeterminates 
+data Poly a =
+	 X | Integer --even Nat works
+	| Coef a
+	| Sum (Poly a) (Poly a)
+	| Prod (Poly a) (Poly a)
 ```
