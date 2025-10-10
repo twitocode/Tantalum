@@ -14,7 +14,7 @@ data Nat  =
 --the members are 0, S0, S(S0), S(S0)... infinite number of members
 
 data Poly a =
-	 x
+	 X
 	| Coef a
 	| Sum (Poly a) (Poly a)
 	| Prod (Poly a) (Poly a)
