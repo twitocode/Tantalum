@@ -35,14 +35,12 @@
 		{"id":"b9ab300bdc33fee6","type":"file","file":"Assets/Pasted image 20250314191902.png","x":-658,"y":-2825,"width":538,"height":2316},
 		{"id":"2d01c4d9ff8569bd","type":"file","file":"Assets/Pasted image 20241020120623.png","x":-2240,"y":-860,"width":400,"height":263},
 		{"id":"88e1be4e630ca790","type":"text","text":"# Summary\nLogin page should be different from signup page\nhttps://apps.apple.com/us/app/journal-mental-health-stoic/id1312926037 - this app is a really good example\n\nLanding Page Inspo\nhttps://www.landingfolio.com/inspiration/post/riley-parenting-with-superpowers-riley","x":-515,"y":-55,"width":810,"height":555,"color":"#ffffff"},
-		{"id":"880b369ea5fa0b5a","type":"file","file":"Serene (Old).md","x":360,"y":-420,"width":400,"height":400},
 		{"id":"b29f912130daea9f","type":"text","text":"# Serene","x":-360,"y":-280,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"00a5d70851f3e65c","fromNode":"b29f912130daea9f","fromSide":"left","toNode":"b1d55dd20488dca1","toSide":"right"},
 		{"id":"851e08e1367890db","fromNode":"b29f912130daea9f","fromSide":"bottom","toNode":"88e1be4e630ca790","toSide":"top"},
 		{"id":"c7009d94c891eb13","fromNode":"73e363334f790dba","fromSide":"bottom","toNode":"b1d55dd20488dca1","toSide":"left"},
-		{"id":"2248f182e0737474","fromNode":"b29f912130daea9f","fromSide":"left","toNode":"36296ca78249ebcc","toSide":"right"},
-		{"id":"9a93d01eca66e4d3","fromNode":"b29f912130daea9f","fromSide":"right","toNode":"880b369ea5fa0b5a","toSide":"left"}
+		{"id":"2248f182e0737474","fromNode":"b29f912130daea9f","fromSide":"left","toNode":"36296ca78249ebcc","toSide":"right"}
 	]
 }
