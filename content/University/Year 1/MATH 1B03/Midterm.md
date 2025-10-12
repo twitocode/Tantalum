@@ -9,7 +9,7 @@
 - [x] Applying **Elementary Row Operations** to find solutions.
 
 ### 1.3 Matrices and Matrix Operations
-- [ ] **Matrix Notation and Terminology**: Definitions of matrix, entries, scalars, row vectors, column vectors, square matrix, and main diagonal.
+- [x] **Matrix Notation and Terminology**: Definitions of matrix, entries, scalars, row vectors, column vectors, square matrix, and main diagonal.
 - [ ] **Matrix Multiplication**: Definition of matrix product $AB$. Know the mechanical process: calculating an entry requires $n$ multiplications and $n-1$ additions.
 
 ### 1.4 and 1.5: Invertibility and Elementary Matrices (Core Concepts)
