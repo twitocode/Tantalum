@@ -4,9 +4,9 @@
 - [x] Understanding the **Augmented Matrix** notation for a system of equations.
 
 ### 1.2 Gaussian Elimination (Matrix Notation & Elimination Method)
-- [ ] The **systematic procedure for solving linear systems**.
-- [ ] Understanding and identifying **Row Echelon Form (REF)** and **Reduced Row Echelon Form (RREF)**.
-- [ ] Applying **Elementary Row Operations** to find solutions.
+- [x] The **systematic procedure for solving linear systems**.
+- [x] Understanding and identifying **Row Echelon Form (REF)** and **Reduced Row Echelon Form (RREF)**.
+- [x] Applying **Elementary Row Operations** to find solutions.
 
 ### 1.3 Matrices and Matrix Operations
 - [ ] **Matrix Notation and Terminology**: Definitions of matrix, entries, scalars, row vectors, column vectors, square matrix, and main diagonal.
