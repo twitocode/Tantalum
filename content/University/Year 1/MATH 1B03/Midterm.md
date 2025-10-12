@@ -5,10 +5,8 @@ This comprehensive list of required study materials for your midterm is organize
 Your introductory lecture material focused heavily on establishing fundamental definitions and the matrix methodology for solving systems, specifically citing Sections 1.1 and 1.2.
 
 **1.1 Introduction to Systems of Linear Equations (Review)**
-
-• **Definition of a Linear Equation** in $n$ unknowns ($a_1x_1 + a_2x_2 + \dots + a_nx_n = b$).
-
-• Understanding the **Augmented Matrix** notation for a system of equations.
+ - *Definition of a Linear Equation** in $n$ unknowns ($a_1x_1 + a_2x_2 + \dots + a_nx_n = b$).
+- Understanding the **Augmented Matrix** notation for a system of equations.
 
 **1.2 Gaussian Elimination (Matrix Notation & Elimination Method)**
 
