@@ -1,7 +1,7 @@
 ## Chapter 1: Systems of Linear Equations and Matrices
 ### 1.1 Introduction to Systems of Linear Equations (Review)
-- [ ] **Definition of a Linear Equation** in $n$ unknowns ($a_1x_1 + a_2x_2 + \dots + a_nx_n = b$).
-- [ ] Understanding the **Augmented Matrix** notation for a system of equations.
+- [x] **Definition of a Linear Equation** in $n$ unknowns ($a_1x_1 + a_2x_2 + \dots + a_nx_n = b$).
+- [x] Understanding the **Augmented Matrix** notation for a system of equations.
 
 ### 1.2 Gaussian Elimination (Matrix Notation & Elimination Method)
 - [ ] The **systematic procedure for solving linear systems**.
