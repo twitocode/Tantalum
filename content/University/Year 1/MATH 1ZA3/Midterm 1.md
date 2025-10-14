@@ -1,0 +1,19 @@
+
+- **Lecture 2** - 1.5 (Inverse Functions and Logarithms)
+- **Lecture 4** - 2.5 (Continuity and Review of Limits)
+- **Lecture 5** - 2.5 (Intermediate Value Theorem)
+- **Lecture 6** - 2.7 (Derivatives and Rates of Change)
+- **Lecture 7** - 2.8 (The Derivative as a Function)
+- **Lecture 8** - 3.1 (Derivatives of Polynomials and Exponential Functions),
+	- 3.2 (The Product and Quotient Rule), 
+	- 3.3 (Derivatives of Trigonometric Functions)
+- **Lecture 9** - 4.8 (Newton's Method)
+- **Lecture 10** - 3.4 (The Chain Rule), 
+	- 3.5 (Implicit Differentiation)
+- **Lecture 11** - 3.6 (Derivatives of Logarithmic and Inverse Trig Functions. **Note**: Do Exercise 83 in 3.6, or state the result in class)
+- **Lecture 12** - 3.11 (Hyperbolic Functions)
+- **Lecture 13** - 4.1 (Maximum and Minimum Values)
+- **Lecture 14** - 4.2 (Mean Value Theorem)
+- **Lecture 15** - 4.3 (How Derivatives Affect the Shape of a Graph)
+- **Lecture 16** - 4.4 (Indeterminate Forms and L'Hospital's Rule)
+- **Lecture 17** - 4.5 (Summary of Curve Sketching)
