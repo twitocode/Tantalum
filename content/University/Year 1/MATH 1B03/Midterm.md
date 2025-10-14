@@ -18,8 +18,8 @@
 - [ ] **Equivalent Statements (Theorem 1.5.3)**: This is foundational, relating invertibility ($A$ is invertible), homogeneous systems ($A\mathbf{x} = \mathbf{0}$ has only the trivial solution), RREF (RREF of $A$ is $I_n$), and elementary matrices.
 
 ### 1.8 Matrix Transformations
-- [ ] **Definition of Matrix Transformation**: $T_A(\mathbf{x}) = A\mathbf{x}$.
-- [ ] **Standard Matrix for T**: How to find the standard matrix $A$ for a transformation $T: \mathbb{R}^n \to \mathbb{R}^m$ (columns are $T(\mathbf{e}_i)$).
+- [x] **Definition of Matrix Transformation**: $T_A(\mathbf{x}) = A\mathbf{x}$.
+- [x] **Standard Matrix for T**: How to find the standard matrix $A$ for a transformation $T: \mathbb{R}^n \to \mathbb{R}^m$ (columns are $T(\mathbf{e}_i)$).
 
 ---
 
@@ -37,8 +37,8 @@ The curriculum schedule suggests coverage of Determinants (3 lectures), which is
 
 The core definitions of vectors and their geometry in $\mathbb{R}^n$ must be understood, as suggested by the 3–4 lecture allocation in the template.
 
-- [ ] **3.1 Vectors in $n$-Space**: Vector addition and scalar multiplication in $\mathbb{R}^n$.
-- [ ] **3.2 Norm, Dot Product, and Distance in $\mathbb{R}^n$**: Definitions and calculation of the Euclidean norm (length) and distance, and the dot product.
+- [x] **3.1 Vectors in $n$-Space**: Vector addition and scalar multiplication in $\mathbb{R}^n$.
+- [x] **3.2 Norm, Dot Product, and Distance in $\mathbb{R}^n$**: Definitions and calculation of the Euclidean norm (length) and distance, and the dot product.
 
 ---
 
@@ -47,8 +47,8 @@ The core definitions of vectors and their geometry in $\mathbb{R}^n$ must be und
 The lecture excerpts heavily reinforce concepts from this chapter, focusing specifically on independence and the fundamental matrix spaces, aligning with the large 9–10 lecture allocation.
 
 ### 4.3 Linear Independence
-- [ ] **Definition**: Understanding when a set of vectors $\{\mathbf{v}_1, \dots, \mathbf{v}_m\}$ is linearly independent (trivial solution only).
-- [ ] **Linear Dependence**: If vectors are linearly dependent, at least one vector can be written as a **linear combination of the others**. This leads to non-trivial solutions in the homogeneous system $A\mathbf{x} = \mathbf{0}$.
+- [x] **Definition**: Understanding when a set of vectors $\{\mathbf{v}_1, \dots, \mathbf{v}_m\}$ is linearly independent (trivial solution only).
+- [x] **Linear Dependence**: If vectors are linearly dependent, at least one vector can be written as a **linear combination of the others**. This leads to non-trivial solutions in the homogeneous system $A\mathbf{x} = \mathbf{0}$.
 
 ### 4.4 Coordinates and Basis
 - [ ] **Basis**: Definition of a basis (linearly independent spanning set).
@@ -68,11 +68,11 @@ The lecture excerpts heavily reinforce concepts from this chapter, focusing spec
 - **Dimension Theorem for Matrices**: $\text{rank}(A) + \text{nullity}(A) = n$ (number of columns).
 
 ### 4.10 Properties of Matrix Transformations
-- **Injective (One-to-One)**: $T_A$ is **1-1** if and only if the columns of $A$ are linearly independent, or equivalently, $\text{nullity}(A) = 0$.
-- **Surjective (Onto)**: $T_A$ is **onto** $\mathbb{R}^m$ if and only if the columns of $A$ span $\mathbb{R}^m$, or equivalently, $\text{rank}(A) = m$.
+- [ ] **Injective (One-to-One)**: $T_A$ is **1-1** if and only if the columns of $A$ are linearly independent, or equivalently, $\text{nullity}(A) = 0$.
+- [ ] **Surjective (Onto)**: $T_A$ is **onto** $\mathbb{R}^m$ if and only if the columns of $A$ span $\mathbb{R}^m$, or equivalently, $\text{rank}(A) = m$.
 
 ---
 
 ## Later Concepts (As Referenced by Lectures)
-- **Composition of Matrix Transformations**: Understanding that **matrix multiplication is equivalent to the composition** of the corresponding matrix transformations ($T_A \circ T_B \equiv T_{AB}$).
-- **Computational Complexity**: The conceptual cost of multiplying two $n \times n$ matrices. (This primarily draws from the introduction to numerical methods in the text, usually Section 9.3).
+- [ ] **Composition of Matrix Transformations**: Understanding that **matrix multiplication is equivalent to the composition** of the corresponding matrix transformations ($T_A \circ T_B \equiv T_{AB}$).
+- [ ] **Computational Complexity**: The conceptual cost of multiplying two $n \times n$ matrices. (This primarily draws from the introduction to numerical methods in the text, usually Section 9.3).
