@@ -21,7 +21,6 @@ I'll create a focused study plan to help you prepare for your midterm by Monday.
     - Do LOTS of practice problems - these rules are fundamental
 
 ### **Thursday - Advanced Differentiation Techniques**
-
 - **Morning (2-3 hours):**
     - Lecture 10: Chain rule and implicit differentiation
     - These are crucial - practice until they're automatic
