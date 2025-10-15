@@ -14,10 +14,10 @@ I'll create a focused study plan to help you prepare for your midterm by Monday.
 
 ### **Wednesday - Basic Derivatives**
 - **Morning (2-3 hours):**
-    - Lecture 6-7: Derivatives and rates of change, derivative as a function
-    - Master the definition of derivative and interpretation
+    - [x] Lecture 6-7: Derivatives and rates of change, derivative as a function
+    - [x] Master the definition of derivative and interpretation
 - **Afternoon/Evening (2-3 hours):**
-    - Lecture 8: Derivative rules (polynomials, exponentials, product rule, quotient rule, trig functions)
+    - [ ] Lecture 8: Derivative rules (polynomials, exponentials, product rule, quotient rule, trig functions)
     - Do LOTS of practice problems - these rules are fundamental
 
 ### **Thursday - Advanced Differentiation Techniques**
