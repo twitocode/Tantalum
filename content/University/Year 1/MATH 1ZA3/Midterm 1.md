@@ -5,15 +5,14 @@ I'll create a focused study plan to help you prepare for your midterm by Monday.
 ### **Tuesday (Today) - Foundations & Functions**
 
 - **Morning/Afternoon (2-3 hours):**
-    - Review Lecture 2: Inverse functions and logarithms
-    - Review Lecture 4-5: Continuity, limits, and Intermediate Value Theorem
-    - Focus on understanding when functions are continuous and how IVT applies
+    - [x] Review Lecture 2: Inverse functions and logarithms
+    - [x] Review Lecture 4-5: Continuity, limits, and Intermediate Value Theorem
+    - [x] Focus on understanding when functions are continuous and how IVT applies
 - **Evening (1-2 hours):**
     - Practice problems on limits and continuity
     - Work through IVT application problems
 
 ### **Wednesday - Basic Derivatives**
-
 - **Morning (2-3 hours):**
     - Lecture 6-7: Derivatives and rates of change, derivative as a function
     - Master the definition of derivative and interpretation
