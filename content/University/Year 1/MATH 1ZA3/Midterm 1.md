@@ -17,18 +17,18 @@ I'll create a focused study plan to help you prepare for your midterm by Monday.
     - [x] Lecture 6-7: Derivatives and rates of change, derivative as a function
     - [x] Master the definition of derivative and interpretation
 - **Afternoon/Evening (2-3 hours):**
-    - [ ] Lecture 8: Derivative rules (polynomials, exponentials, product rule, quotient rule, trig functions)
+    - [x] Lecture 8: Derivative rules (polynomials, exponentials, product rule, quotient rule, trig functions)
     - Do LOTS of practice problems - these rules are fundamental
 
 ### **Thursday - Advanced Differentiation Techniques**
 - **Morning (2-3 hours):**
-    - Lecture 10: Chain rule and implicit differentiation
+    - [ ] Lecture 10: Chain rule and implicit differentiation
     - These are crucial - practice until they're automatic
 - **Afternoon (2 hours):**
-    - Lecture 11: Derivatives of logarithmic and inverse trig functions
+    - [x] Lecture 11: Derivatives of logarithmic and inverse trig functions
     - **Important:** Review Exercise 83 from section 3.6
 - **Evening (1-2 hours):**
-    - Lecture 12: Hyperbolic functions
+    - [ ] Lecture 12: Hyperbolic functions
     - Practice mixed derivative problems using all techniques
 
 ### **Friday - Applications of Derivatives**
