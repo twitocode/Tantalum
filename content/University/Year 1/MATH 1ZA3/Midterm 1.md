@@ -34,21 +34,21 @@ I'll create a focused study plan to help you prepare for your midterm by Monday.
 ### **Friday - Applications of Derivatives**
 
 - **Morning (2-3 hours):**
-    - Lecture 13: Maximum and minimum values
-    - Lecture 14: Mean Value Theorem
+    - [ ] Lecture 13: Maximum and minimum values
+    - [ ] Lecture 14: Mean Value Theorem
     - Understand both theoretical and computational aspects
 - **Afternoon/Evening (2-3 hours):**
-    - Lecture 15: How derivatives affect graph shape (increasing/decreasing, concavity)
+    - [ ] Lecture 15: How derivatives affect graph shape (increasing/decreasing, concavity)
     - Practice curve analysis problems
 
 ### **Saturday - Advanced Topics & Problem Solving**
 
 - **Morning (2-3 hours):**
-    - Lecture 16: L'Hospital's Rule and indeterminate forms
+    - [ ] Lecture 16: L'Hospital's Rule and indeterminate forms
     - Practice all 7 indeterminate form types
 - **Afternoon (2-3 hours):**
-    - Lecture 17: Curve sketching (bringing it all together)
-    - Lecture 9: Newton's Method
+    - [ ] Lecture 17: Curve sketching (bringing it all together)
+    - [x] Lecture 9: Newton's Method
     - Work through complete curve sketching examples
 
 ### **Sunday - Review & Practice Exam**
