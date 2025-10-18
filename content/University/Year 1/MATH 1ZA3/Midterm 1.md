@@ -28,7 +28,7 @@ I'll create a focused study plan to help you prepare for your midterm by Monday.
     - [x] Lecture 11: Derivatives of logarithmic and inverse trig functions
     - **Important:** Review Exercise 83 from section 3.6
 - **Evening (1-2 hours):**
-    - [ ] Lecture 12: Hyperbolic functions
+    - [x] Lecture 12: Hyperbolic functions
     - Practice mixed derivative problems using all techniques
 
 ### **Friday - Applications of Derivatives**
@@ -101,3 +101,5 @@ I'll create a focused study plan to help you prepare for your midterm by Monday.
 - **Lecture 15** - 4.3 (How Derivatives Affect the Shape of a Graph)
 - **Lecture 16** - 4.4 (Indeterminate Forms and L'Hospital's Rule)
 - **Lecture 17** - 4.5 (Summary of Curve Sketching)
+
+
