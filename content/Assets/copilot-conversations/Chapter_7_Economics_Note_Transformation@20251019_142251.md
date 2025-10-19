@@ -1046,3 +1046,22 @@ This directly supports option D.
 
 The correct answer is **D. knowledge capital is both nonrival and nonexcludable; other firms can freely access the research and development of one particular firm.**
 [Timestamp: 2025/10/19 16:36:08]
+
+**user**: for now on just give the answer dont explain
+
+The economic growth model explains growth in real GDP per capita in the long run. Because of the importance of labor productivity in explaining economic​ growth, the economic growth model focuses on the causes of increases in​ long-run labor productivity. What are the key factors that determine labor​ productivity? ​(Mark all that​ apply.)
+Part 2
+A.
+Quantity of capital per hour worked
+B.
+Efficiency wages
+C.
+Trade
+D.
+Technological change
+
+[Timestamp: 2025/10/19 16:37:38]
+
+**ai**: A.
+D.
+[Timestamp: 2025/10/19 16:37:46]
