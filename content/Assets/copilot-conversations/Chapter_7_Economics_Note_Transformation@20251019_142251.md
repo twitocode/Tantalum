@@ -1065,3 +1065,33 @@ Technological change
 **ai**: A.
 D.
 [Timestamp: 2025/10/19 16:37:46]
+
+**user**: Selected
+
+Question content area
+Part 1
+Two​ students, Ryan Wattenberg and Emma​ Bennett, are discussing the idea of convergence over coffee. Ryan considers convergence to be true in theory but impractical in the real world. He claims that most​ low-income developing countries are stuck in a cycle of poverty and so cannot catch up with developed countries. With increased​ globalization, Emma feels that the developing countries are growing and will converge with​ higher-income countries eventually. Zoey​ Smith, a friend of​ theirs, however thinks that the evidence on convergence is rather unclear. Despite the fact that developing countries are growing much faster than the developed​ countries, she thinks that they will not be able to catch up with the developed nations in the near future. 
+Which of the​ following, if​ true, will support​ Zoey's view that developing countries will not be able to catch up in the near future in spite of higher​ growth? 
+A.
+A recent financial crisis adversely affected liquidity and credit in developed nations while causing a slump in developing​ countries' exports. 
+B.
+The total land area covered by developing countries is much larger than the area covered by developed countries.  
+C.
+Many developing countries are now opening up their economies to foreign investment
+D.
+Due to lower labor costs for skilled​ workers, many firms in developed nations outsource their business processes to developing countries. 
+E.
+The difference in the current levels of real GDP between these two groups of countries is very high. 
+
+[Timestamp: 2025/10/19 16:43:14]
+
+**ai**: A.
+D.
+[Timestamp: 2025/10/19 16:43:23]
+
+**user**: only choose 1
+[Timestamp: 2025/10/19 16:43:24]
+
+**ai**: A.
+D.
+[Timestamp: 2025/10/19 16:43:33]
