@@ -51,8 +51,6 @@ Global GDP per capita in 2020 ranged from \$173,688 (Monaco) to \$238 (Burundi).
 While income is crucial for improving living standards, other measures like health, education, and civil liberties have shown significant progress even in poorer countries, often due to inexpensive technological advancements (e.g., vaccines, mosquito nets) and changes in attitudes (e.g., valuing girls' education). However, sustained income growth is ultimately necessary to close the gap with high-income countries.
 
 # What Determines How Fast Economies Grow?
-**LO 7.2** Use the economic growth model to explain why growth rates differ across countries.
-
 *   **Economic growth model**: Explains growth rates in real GDP per capita over the long run.
 *   **Labour productivity**: The quantity of goods and services that can be produced by one worker or by one hour of work.
 *   The economic growth model focuses on the causes of long-run increases in labour productivity.
