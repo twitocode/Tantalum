@@ -142,8 +142,6 @@ Economists have two main views:
 Critics argue that low investment demand was temporary due to the 2007-2009 recession. They point to increased investment post-2018 and potential increases in demand for Canadian goods from other growing economies.
 
 # Why Isn’t the Whole World Rich?
-**LO 7.4** Explain economic catch-up and discuss why many poor countries have not experienced rapid economic growth.
-
 *   The economic growth model predicts that poor countries should grow faster than rich countries (known as **catch-up** or **convergence**) because the profitability of using additional capital or better technology is greater in developing countries.
     *   **Catch-up (or convergence)**: The prediction that poor countries will grow faster than rich countries, leading to convergence in levels of GDP per capita.
 
