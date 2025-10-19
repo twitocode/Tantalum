@@ -6,7 +6,6 @@ tags:
 ---
 # Economic Growth over Time and around the World
 **Economic growth**: A growing economy produces both increasing quantities of goods and services and better goods and services, leading to an increase in living standards.
-
 ## **Economic Growth from 1 000 000 BCE to the Present**
 *   **1 000 000 BCE - 1300 CE**: No sustained economic growth. Real GDP per capita remained around \$150 per year (2021 dollars), the minimum for survival.
 *   **Industrial Revolution**: Started in England around 1750, marked by the production of cotton cloth in factories using machinery powered by steam engines, leading to sustained economic growth.
