@@ -76,7 +76,8 @@ While income is crucial for improving living standards, other measures like heal
     *   Real GDP per hour worked: $Y/L$
     *   Capital per hour worked: $K/L$
 * **Diminishing Returns to Capital**: When technology is held constant, equal increases in capital per hour worked lead to *diminishing* increases in output per hour worked. This is due to the **law of diminishing returns**.
-    * **Law of diminishing returns**: States that as we add more of one input (e.g., capital) to a fixed quantity of another input (e.g., labour), output increases by smaller additional amounts.
+    -  **Law of diminishing returns**: States that as we add more of one input (e.g., capital) to a fixed quantity of another input (e.g., labour), output increases by smaller additional amounts.
+    
 ![[Pasted image 20251019145706.png]]
 
 ## Technological Change: The Key to Sustaining Economic Growth
