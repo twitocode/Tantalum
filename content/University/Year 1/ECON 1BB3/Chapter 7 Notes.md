@@ -175,9 +175,9 @@ Four key factors hinder growth in many low-income countries:
     * **Vicious cycle of poverty**: A situation where low incomes lead to low savings, which leads to low investment, slow economic growth, and thus continued low incomes and savings.
 
 ## The Benefits of Globalization
+**Globalization**: The process of countries becoming more open to foreign trade and investment.
 * **Foreign direct investment (FDI)**: Occurs when a firm builds or purchases a facility in a foreign country.
 * **Foreign portfolio investment**: Occurs when an individual or a firm buys stocks or bonds issued in another country.
-* **Globalization**: The process of countries becoming more open to foreign trade and investment.
 * FDI and foreign portfolio investment can give a low-income country access to technology and funds otherwise unavailable. Countries that embraced globalization have generally grown faster.
 
 # Growth Policies
