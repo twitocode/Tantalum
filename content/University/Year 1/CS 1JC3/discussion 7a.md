@@ -32,4 +32,7 @@ GUI
 		- causes a piece of software to run
 - created by Xeros, sold to apple
 CLI
-- 
+- `> text command`
+- `text`
+- also called a read-eval-print loop
+	- Called this by Lisp
