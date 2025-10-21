@@ -23,3 +23,10 @@ data PolyList a = Polylist [a]    -- simpliest algebraic type
 newtype PolyList a = Polylist [a] -- once the program is complied, this type is ignored by haskell. (still dont understand) Polylist will be replaced with list (kinda like typescript sorta)
 
 ```
+
+# GUI vs CLI
+GUI
+- events 
+	- initiated by moving cursor with mouth, 
+	- interface nows that we have an event for the button
+		- causes a piece of software to run
