@@ -4,3 +4,6 @@ tags:
   - lecture
 class: CS 1JC3
 ---
+```haskell
+data Stack a = 
+```
