@@ -20,6 +20,6 @@ data Nat =
 
 type PolyList a = [a]             -- type alias
 data PolyList a = Polylist [a]    -- simpliest algebraic type 
-newtype PolyList a = Polylist [a] --
+newtype PolyList a = Polylist [a] -- once the program is complied, this type is ignored by haskell. (still dont understand)
 
 ```
