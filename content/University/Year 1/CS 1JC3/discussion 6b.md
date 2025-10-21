@@ -52,3 +52,4 @@ induction principle for `Bool`
 $$p(False) \land p(True) \implies \forall x: Bool \ . \ p(x)$$
 Induction principle for `Nat`
 $$P(0) \land (\forall y . p(y) \implies p(Suc \ y)) \implies \forall: Nat \ . \ p(x) $$
+
