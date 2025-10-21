@@ -30,3 +30,6 @@ GUI
 	- initiated by moving cursor with mouth, 
 	- interface nows that we have an event for the button
 		- causes a piece of software to run
+- created by Xeros, sold to apple
+CLI
+- 
