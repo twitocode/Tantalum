@@ -39,3 +39,10 @@ Policies to Increase Growth
 	- higher invesmtent = increase in capital stock
 - education
 	- higher education = more human capital
+- private investment
+	- more capital stock
+
+barriers to growth
+- weaker legal system - harder to get protections
+- war - no one is building there
+- 
