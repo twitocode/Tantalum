@@ -34,5 +34,10 @@ GUI
 CLI
 - `> text command`
 - `text`
-- also called a read-eval-print loop
+- also called a **read-eval-print** loop
 	- Called this by Lisp
+	- reads the text
+	- evaluates it
+	- can print an output
+	- does it again
+- way more powerful than guis but its harder to use
