@@ -12,7 +12,7 @@ tags:
 **Inflation Rate**: the percentage increase in the average level of prices from one year to the next
 
 ___
-**GDP (gross domestic product)**: the market value of all *final* goods and services produced in a geographic area, during a period of time
+**GDP (gross domestic product)**: *market value of all final goods & services produced* in a region (country) in a given period of time (year)
 - measure production with market values not quantities, dont compare apples to oranges, compare dollars to dollars
 - Only includes current production
 	- same year
