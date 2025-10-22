@@ -206,3 +206,12 @@ Some government policies, however, can add to the level of frictional and struct
 *   If actual inflation is much higher or lower than expected, some groups benefit while others lose.
     *   Ex: If inflation is higher than expected, borrowers gain because they repay loans with money that has less value, while lenders lose.
 *   This unexpected redistribution of income feels unfair, which is why people strongly dislike unanticipated inflation.
+
+## Product and Quotient Rules
+$$\frac{\Delta(AB)}{(AB)} \approx \frac{\Delta A}{A}+\frac{\Delta B}{B}$$
+
+The percentage change in the product is approximately equal to the sum of the percentage changes in the two variables
+
+
+$$\frac{\Delta \left( \frac{W}{P} \right)}{\left( \frac{W}{P} \right)}\approx \frac{\Delta W}{W}-\frac{\Delta P}{P}$$
+The percentage change in the quotient is approximately equal to the difference of the percentage change in the two variables
