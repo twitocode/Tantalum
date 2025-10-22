@@ -19,15 +19,15 @@ tags:
 ### Definition of GDP
 **GDP (Gross Domestic Product)**: The *market value of all final goods & services produced* in a region (country) in a given period of time (year).
 *   Measures production with market values, not quantities. **Don't compare apples to oranges, compare dollars to dollars.**
-*   Only includes current production (produced in the same year).
+*   Only includes current production **(produced in the same year).**
 *   Does not include used goods (e.g., a new textbook ✅, but selling it to a friend 🚫).
-
+- Produced in one country
 ### Key Concepts for GDP Calculation
 *   **Final good or service**: One that is purchased by its final user and is not included in the production of any other good or service (e.g., hamburgers).
 *   **Intermediate goods**: A good or service that is an input into another good or service (e.g., car seats).
 
 > [!NOTE]
-> In calculating GDP, we include the value of the car but not the separate value of the car seats. If we included the value of the car seats, we would be _double counting_.
+> In calculating GDP, we include the value of the car but not the separate value of the car seats. If we included the value of the car seats, we would be _double counting_. As a result, we **must use the value of the final sale**
 
 ---
 
@@ -69,7 +69,9 @@ There are three main ways to calculate GDP: the expenditure approach, the income
 
 ### The Expenditure Approach
 This approach sums up all the spending on domestically produced goods and services.
+
 $$Y = C+I+G+Nx$$
+
 Where:
 *   **Y** - GDP (or total output/income)
 *   **C** - Consumption (the final consumption expenditure done by households). This is the *largest component* of GDP.
