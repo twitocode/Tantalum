@@ -131,7 +131,7 @@ Some government policies, however, can add to the level of frictional and struct
 ### Consumer Price Index (CPI)
 
 *   Used to measure changes in the prices faced by the average household.
-    $$\text{CPI} = \frac{\text{Expenditures now}}{\text{Expenditures in base year}}\cdot{100\%}$$
+    $$\text{CPI} = \frac{\text{cost in current year}}{\text{cost in base year}}\cdot{100\%}$$
 *   The CPI tells us how much the price level has changed over time, not its absolute level.
 *   **Inflation rate** is measured as the percentage increase in the CPI from one year to the next.
     $$\text{Inflation rate} = \frac{\text{New CPI value} - \text{Initial CPI value}}{\text{Initial CPI value}} \cdot {100}$$
