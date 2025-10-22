@@ -1,6 +1,6 @@
 
 **What to do**:
-- [ ] clean up chapter 4
+- [x] clean up chapter 4
 - [ ] clean up chapter 5
 - [ ] clean up chapter 5
 - [ ] clean up chapter 7

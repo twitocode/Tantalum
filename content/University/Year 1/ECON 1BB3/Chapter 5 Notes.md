@@ -103,9 +103,10 @@ Some government policies, however, can add to the level of frictional and struct
 
 *   **Employment Insurance (EI)**: A government program that supports workers who lose their jobs. It replaces part of their income—about 55% up to a set maximum—so they can afford to spend more time searching for better jobs rather than immediately taking low-wage work.
 *   *This extra time raises the unemployment rate but leads to better matches between workers and jobs,*. It also increases the opportunity cost of going to work. making the economy more productive. EI also helps people avoid severe income loss, maintains consumer spending, and softens the impact of recessions. Most economists see it as beneficial overall.
- 
+ ![[Pasted image 20251022185331.png]]
+- Labour supplied vs Labour demanded
 ### Minimum Wage
-
+![[Pasted image 20251022185520.png]]
 *   Every province and territory sets its own minimum wage.
 *   If the minimum wage is higher than the market-clearing wage, more people want to work than there are jobs available, creating unemployment. Teenagers, who often have fewer skills, are the group most affected.
 
