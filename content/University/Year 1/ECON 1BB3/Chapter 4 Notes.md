@@ -145,8 +145,10 @@ I - Investment - The money spent by firms on:
 - housing, inventory investments, new capital goods such as machinery
 G - Government Spending (The final consumption spending and fixed capital formation done by government)
 - **not transfer payments** 
+	- such as welfare, Canada Pension Plan
+- proper examples include RCAF, teachers' salaries, and highway repairs
 Nx - net exports
-
+- imports are not produced in canada
 ## Measuring GDP Using the Value-Added Method
 
 ![[Pasted image 20250921145248.png]]
