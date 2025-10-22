@@ -85,6 +85,7 @@ Where:
 		    * Is included the year it was built
 		    * provides a *flow* of services each year as it lasts a very long time compared to other forms of capital
 		- **Sales of existing homes are not added**
+		- **Owner-occupied housing is included in GDP even though there is no market transaction because it provides the same service as renting**
     *   **Investment in Inventories**: Changes in finished products kept on hand to sell or inputs to turn into finished products. If inventories rise → counted as investment. If inventories fall → reduces GDP contribution.
 *   **G** - Government Spending (The final consumption spending and fixed capital formation done by government).
     *   **Not transfer payments** (such as welfare, Canada Pension Plan).
