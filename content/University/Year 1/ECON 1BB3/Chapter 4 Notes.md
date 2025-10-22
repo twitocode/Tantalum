@@ -13,7 +13,7 @@ tags:
 
 ___
 **GDP (gross domestic product)**: *market value of all final goods & services produced* in a region (country) in a given period of time (year)
-- measure production with market values not quantities, dont compare apples to oranges, compare dollars to dollars
+- measure production with market values not quantities, **dont compare apples to oranges, compare dollars to dollars**
 - Only includes current production
 	- same year
 - Does not include used goods
@@ -141,8 +141,10 @@ $$V = C+I+G+Nx$$
 Where:
 Y - GDP
 C - Consumption (the final consumption expenditure done by households)
-I - Investment (The money spent by firms on fixed capital formation and inventories)
+I - Investment - The money spent by firms on:
+- housing, inventory investments, new capital goods such as machinery
 G - Government Spending (The final consumption spending and fixed capital formation done by government)
+- **not transfer payments** 
 Nx - net exports
 
 ## Measuring GDP Using the Value-Added Method
