@@ -11,6 +11,7 @@ tags:
     *   **Recession**: A period during which total production and total employment are decreasing.
 *   **Economic Growth**: The ability for an economy to produce increasing quantities of goods and services.
 *   **Inflation Rate**: The percentage increase in the average level of prices from one year to the next.
+	* cannot be calculated for the base year
 
 ---
 
