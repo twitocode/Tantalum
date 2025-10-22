@@ -974,3 +974,31 @@ Some government policies, however, can add to the level of frictional and struct
     *   Ex: If inflation is higher than expected, borrowers gain because they repay loans with money that has less value, while lenders lose.
 *   This unexpected redistribution of income feels unfair, which is why people strongly dislike unanticipated inflation.
 [Timestamp: 2025/10/22 13:59:56]
+
+**user**: can you read what the images say
+[Timestamp: 2025/10/22 14:02:03]
+
+**ai**: Okay, I will describe the content of the images embedded in your note.
+
+Here's what each image shows:
+
+1.  **`![[Pasted image 20250928140220.png]]`** (Under "Understanding the Labour Force")
+    *   This image is a **flowchart or diagram illustrating the breakdown of the working-age population**. It typically shows:
+        *   The total **Working-Age Population** (15 years and older).
+        *   This population is divided into two main groups: **Labour Force** and **Not in the Labour Force**.
+        *   The **Labour Force** is further divided into **Employed** and **Unemployed**.
+        *   Arrows often indicate potential movements between these categories (e.g., from unemployed to employed, or from not in the labour force to unemployed).
+
+2.  **`![[Pasted image 20250928141000.png]]`** (Under "How Long are People Unemployed?")
+    *   This image is likely a **bar chart or line graph showing the duration of unemployment**. It would illustrate:
+        *   The **average duration of unemployment** or the **distribution of unemployed individuals by the length of time they have been jobless**.
+        *   Common categories might include "Less than 4 weeks," "4 to 13 weeks," "14 to 26 weeks," and "27 weeks or more."
+        *   The graph would show how these durations change over time or their proportions at a specific point in time.
+
+3.  **`![[Pasted image 20250928171933.png]]`** (Under "Price Indexes to Adjust for the Effects of Inflation")
+    *   This image is a **table or calculation demonstrating how to adjust a nominal value for inflation using the Consumer Price Index (CPI)**. It would typically show:
+        *   A **nominal value** (e.g., a wage or price) in a past year.
+        *   The **CPI values** for the past year and a current year.
+        *   A **calculation** to convert the past nominal value into its equivalent purchasing power in the current year's dollars, or vice versa.
+        *   It visually supports the concept that real values (inflation-adjusted) provide a more accurate comparison of purchasing power over time than nominal values.
+[Timestamp: 2025/10/22 14:02:15]
