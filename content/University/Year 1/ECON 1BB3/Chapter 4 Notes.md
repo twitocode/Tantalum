@@ -80,6 +80,7 @@ Where:
     *   **Not-for-profit organizations**: small portion, spending to serve households.
 *   **I** - Investment (Gross Fixed Capital Formation + Investment in Inventories). The money spent by firms on:
     *   **Gross Fixed Capital Formation**: Purchases of *fixed assets (capital)* by firms, governments, and households (e.g., buildings, houses, machinery). Basically: long-term investment in buildings, equipment, and infrastructure.
+	    * An important thing to note is that houses last decades longer than other types of capital
     *   **Investment in Inventories**: Changes in finished products kept on hand to sell or inputs to turn into finished products. If inventories rise → counted as investment. If inventories fall → reduces GDP contribution.
 *   **G** - Government Spending (The final consumption spending and fixed capital formation done by government).
     *   **Not transfer payments** (such as welfare, Canada Pension Plan).
