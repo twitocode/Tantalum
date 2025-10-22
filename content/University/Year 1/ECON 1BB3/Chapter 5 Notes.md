@@ -141,6 +141,12 @@ Some government policies, however, can add to the level of frictional and struct
     *   **New product bias**: The basket isn’t updated quickly enough to include new, popular items.
     *   **Outlet bias**: Doesn’t always reflect shifts to discount stores or online purchases.
 
+
+> [!NOTE] CPI vs GDP Deflator
+> They have a different basket of goods
+> **GDP Deflator** deals with goods produced in Canada
+> **CPI** deals with goods bought by typical households (does not have to be canadian)
+
 ### Producer Price Index (PPI)
 
 *   An average of the prices received by producers of goods and services at all stages of production.
