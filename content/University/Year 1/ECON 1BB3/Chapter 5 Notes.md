@@ -169,6 +169,8 @@ Some government policies, however, can add to the level of frictional and struct
     $$\text{Real Interest rate}=\text{Nominal Interest rate}-\text{Inflation rate}$$
 *   **Prime Rate**: The rate at which the most credit-worthy businesses can borrow.
 *   **Conventional Mortgage Rate**: The rate at which credit-worthy individuals can borrow to purchase a house.
+	* **Mortgage**: a loan typically made for the purchase of a house or condo
+		* contracts are typically written in terms of nominal interest rates
 *   **Overnight Rate**: The rate at which banks can borrow from other banks for a period of 24 hours.
 *   **Bank Rate**: The rate at which the Bank of Canada (*our central bank*) will lend to commercial banks (TD, RBC, etc.).
 
