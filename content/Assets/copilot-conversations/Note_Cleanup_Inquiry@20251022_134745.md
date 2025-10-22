@@ -1037,3 +1037,33 @@ However, there are a few minor points that could be refined for even greater con
 
 Your notes are in great shape. The "bloat" is minimal and mostly relates to ensuring consistency after your previous edit requests. Addressing the GNI/GNP inconsistencies will make them perfectly aligned with your desired scope.
 [Timestamp: 2025/10/22 18:39:49]
+
+**user**: are there any formulas that i need to know that i did not fill in
+[Timestamp: 2025/10/22 19:14:50]
+
+**ai**: You have a very comprehensive set of formulas already included in your notes! You've covered the core calculations for unemployment rates, participation rates, CPI, inflation, and real interest rates.
+
+However, based on the concepts discussed, there are a couple of related formulas or explicit breakdowns that are often taught alongside these topics and could be useful to add for completeness:
+
+1.  **Explicit Formula for Labour Force:**
+    While you define it, you could explicitly state the formula:
+    $$\text{Labour Force} = \text{Number of Employed} + \text{Number of Unemployed}$$
+    *(This is implied by your definition and the unemployment rate formula, but stating it explicitly can be helpful.)*
+
+2.  **Real Wage Calculation:**
+    You discuss adjusting wages for inflation and the concept of real wages, but the explicit formula isn't there.
+    $$\text{Real Wage} = \frac{\text{Nominal Wage}}{\text{CPI}} \cdot 100$$
+    *(This is a direct application of how price indexes adjust nominal values, which you explain conceptually.)*
+
+3.  **Relationship between Actual and Natural Rate of Unemployment:**
+    You define the natural rate and discuss cyclical unemployment. The relationship is often expressed as:
+    $$\text{Actual Unemployment Rate} = \text{Natural Rate of Unemployment} + \text{Cyclical Unemployment Rate}$$
+    *(This formula directly links the different types of unemployment to the overall observed rate.)*
+
+4.  **Fisher Equation (or Expected Real Interest Rate):**
+    You have the formula for the *actual* real interest rate. The Fisher Equation relates nominal interest rates to *expected* inflation, which is crucial for understanding anticipated inflation:
+    $$\text{Nominal Interest Rate} = \text{Real Interest Rate} + \text{Expected Inflation Rate}$$
+    *(This is often presented as the basis for how nominal rates are set in financial markets, anticipating future inflation.)*
+
+Adding these would make your formula section even more robust and explicitly connect some of the conceptual discussions to their mathematical representations.
+[Timestamp: 2025/10/22 19:15:02]
