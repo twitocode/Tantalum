@@ -156,8 +156,8 @@ We can conclude that, holding all other factors constant (_ceteris paribus_), th
 **Government Surplus**: When government savings increase supply, lowering interest rates and boosting investment.
 
 - Firms compare expected returns on investment to the interest rate:
-    - If return > interest rate → invest.
-    - If return < interest rate → don’t invest.
+    - If %return > interest rate → invest.
+    - If %return < interest rate → don’t invest.
         
 - **Shifts in Demand**:
     - Tech improvements or higher expected profits → demand shifts right → higher interest rates and more borrowing.
