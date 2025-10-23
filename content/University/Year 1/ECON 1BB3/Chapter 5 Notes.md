@@ -157,6 +157,11 @@ Some government policies, however, can add to the level of frictional and struct
 *   We use the CPI to adjust wages for inflation and calculate _real_ wages.
 *   Example: A $30,000 salary in 1993 is equivalent to about $49,626 in 2021 dollars, showing that nominal increases don't always mean greater purchasing power.
 *   Real wages (inflation-adjusted) are more useful than nominal wages when comparing earnings across different years.
+
+$$
+\text{Real Wage} = \frac{\text{Nominal Wage}}{\text{CPI}}\cdot 100
+$$
+
 ![[Pasted image 20250928171933.png]]
 
 ---
