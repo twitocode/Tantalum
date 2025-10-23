@@ -52,6 +52,8 @@ add 2 3    -- gives 5
 - This paradox revealed fundamental flaws in early naive set theory and led to more rigorous axiomatic set theories.
 ## What do computers do?
 They store and manipulate information. 
+<!--ID: 1761237970650-->
+
 
 
 ## How do you control computers?
