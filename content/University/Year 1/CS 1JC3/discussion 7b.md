@@ -17,3 +17,6 @@ security
 - when there is one issue, everything gets comprismied
 - when we only know about 1 thing, we cant get the big picture
 - problems in the world can be sovled if we did it as one big thing but the world does not work that way
+
+file trees
+symbolic links
