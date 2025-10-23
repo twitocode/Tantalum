@@ -34,6 +34,7 @@ What are the three main methods of calculating GDP? #flashcard
 1.  The Expenditure Approach
 2.  The Income Approach
 3.  The Value-Added Method
+![[Pasted image 20250921141155.png]]
 
 The formula for the Expenditure Approach to GDP is $Y = {1:C} + {2:I} + {3:G} + {4:Nx}$.
 
@@ -58,6 +59,7 @@ The Income Approach to GDP sums up all the income received by Canadians as a res
 
 What is **Value Added** in the context of GDP calculation? #flashcard
 The additional market value a firm gives a product, equal to the difference between the price the firm paid for intermediate goods and the price for which it sells the finished product.
+![[Pasted image 20250921145248.png]]
 
 List two shortcomings of GDP as a measure of total production. #flashcard
 1.  Household Production (e.g., childcare, cleaning done by oneself)
@@ -78,12 +80,14 @@ Calculated using prices from a designated base year to value goods and services 
 
 Why is Real GDP a better measure of changes in production than Nominal GDP? #flashcard
 Real GDP holds prices constant, separating price changes from quantity changes, giving a true picture of production growth.
+![[Pasted image 20250921151754.png]]
 
 What is the **GDP Deflator**? #flashcard
 A measure of the price level, calculated as $\frac{\text{Nominal GDP}}{\text{Real GDP}} \times 100$.
 
 What is **Household Disposable Income**? #flashcard
 Household Income minus Personal tax payments.
+![[Pasted image 20250921153457.png]]
 
 ## From Chapter 5 Notes
 
@@ -92,6 +96,7 @@ Individuals aged 15 and older.
 
 What is the **Labour Force**? #flashcard
 All people who are working or actively looking for work (employed + unemployed).
+![[Pasted image 20250928140220.png]]
 
 People who don’t have a job but are willing and able to work and have looked for work in the last four weeks are considered {1:unemployed}.
 
@@ -125,8 +130,10 @@ The sum of frictional and structural unemployment. Fluctuations in the overall u
 
 What is **Employment Insurance (EI)**? #flashcard
 A government program that supports workers who lose their jobs, replacing part of their income to allow more time for job searching. It can increase the unemployment rate in the short term but leads to better job matches.
+![[Pasted image 20251022185331.png]]
 
 If the minimum wage is higher than the market-clearing wage, it can lead to {1:unemployment} because more people want to work than there are jobs available.
+![[Pasted image 20251022185520.png]]
 
 What are **Labour Unions**? #flashcard
 Organizations of workers that bargain with employers for higher wages and better working conditions. In unionized industries, wages are often above market-clearing wages, leading to fewer workers.
@@ -157,6 +164,7 @@ What is the **Producer Price Index (PPI)**? #flashcard
 An average of the prices received by producers of goods and services at all stages of production, including intermediate goods and raw materials.
 
 The formula for **Real Wage** is $\frac{{\text{Nominal Wage}}}{{\text{CPI}}} \times 100$.
+![[Pasted image 20250928171933.png]]
 
 What is the **Nominal Interest Rate**? #flashcard
 The stated interest rate on a loan.
@@ -227,6 +235,7 @@ A **Budget surplus** occurs when the government spends {1:less} than it collects
 
 What is the **Market for loanable funds ($LF$)**? #flashcard
 The interaction of borrowers and lenders that determines the market interest rate and the quantity of loanable funds exchanged.
+![[Pasted image 20251023115107.png]]
 
 The **Demand for Loanable Funds** is {1:downward sloping} because lower interest rates make more investment projects profitable.
 
@@ -240,6 +249,7 @@ The point when the expansion phase of the business cycle ends.
 
 What is a **Business Cycle Trough**? #flashcard
 The point when the recession phase of the business cycle ends.
+![[Pasted image 20251005161000.png]]
 
 A recession is typically defined as {1:two consecutive quarters} of negative real GDP growth.
 
@@ -273,11 +283,13 @@ A production system where goods are assembled from parts that arrive at the fact
 
 What is a **Per-worker production function**? #flashcard
 The relationship between real GDP per hour worked and capital per hour worked, holding the level of technology constant.
+![[Pasted image 20251019145706.png]]
 
 What is the **Law of diminishing returns**? #flashcard
 States that as we add more of one input (e.g., capital) to a fixed quantity of another input (e.g., labour), output increases by smaller additional amounts.
 
 Technological change shifts the per-worker production function {1:up}, allowing an economy to produce {2:more} real GDP per hour worked with the same quantity of capital per hour worked.
+![[Pasted image 20251019145744.png]]
 
 What is **New growth theory**? #flashcard
 A model by Paul Romer arguing that individuals and firms respond to economic incentives affecting technological change, with knowledge capital being a key determinant of growth.
@@ -306,10 +318,13 @@ An extended period of slow growth, predicted by some economists due to insuffici
 
 What is **Catch-up (or convergence)**? #flashcard
 The prediction that poor countries will grow faster than rich countries, leading to convergence in levels of GDP per capita.
+![[Pasted image 20251019145843.png]]
+![[Pasted image 20251019145907.png]]
 
 List two reasons why many high-income countries have fallen behind the US in real GDP per capita since 1990. #flashcard
 1.  Greater flexibility of US labour markets.
 2.  Greater efficiency of the US financial system (e.g., venture capital firms, liquidity).
+![[Pasted image 20251019145944.png]]
 
 What are **Venture capital firms**? #flashcard
 Firms that raise funds from institutional investors and wealthy individuals to invest in new firms ("startups"), particularly those based on new technologies.
@@ -319,6 +334,7 @@ List three key factors that hinder growth in many low-income countries. #flashca
 2.  Wars and revolutions (political instability).
 3.  Poor public education and health (low human capital).
 4.  Low rates of saving and investment (vicious cycle of poverty).
+![[Pasted image 20251019145923.png]]
 
 What are **Property rights**? #flashcard
 The rights of individuals or firms to own and control their property.
@@ -365,15 +381,19 @@ Planned Aggregate Expenditure ($AE$) is the total planned spending in an economy
 
 What does **Consumption ($C$)** represent in the AE model? #flashcard
 Spending by households on goods and services.
+![[Pasted Graphic.png]]
 
 What does **Planned Investment ($I$)** represent in the AE model? #flashcard
 Planned spending by firms on capital goods (factories, machines) and by households on new homes.
+![[Pasted Graphic 13.png]]
 
 What does **Government Purchases ($G$)** represent in the AE model? #flashcard
 Spending by all levels of government on goods and services (e.g., infrastructure, salaries).
+![[Pasted Graphic 14.png]]
 
 What does **Net Exports ($NX$)** represent in the AE model? #flashcard
 Spending by foreign firms and households on Canadian goods and services minus spending by Canadian firms and households on foreign goods and services.
+![[Pasted Graphic 15.png]]
 
 The difference between planned and actual investment comes from unplanned changes in {1:inventories}.
 
@@ -442,6 +462,7 @@ What are the three most important determinants of net exports? #flashcard
 
 In a 45°-line diagram (Keynesian cross), what does the **45° line** show? #flashcard
 All points where planned aggregate expenditure equals real GDP ($AE = Y$).
+![[Pasted Graphic 19.png]]
 
 The **Aggregate Expenditure (AE) function** is an {1:upward-sloping} line showing the amount of planned AE at every level of GDP. Its slope is the {2:MPC}.
 
@@ -450,9 +471,11 @@ If AE is above the 45° line ($AE > Y$), inventories {1:fall}, and firms {2:incr
 If AE is below the 45° line ($AE < Y$), inventories {1:rise}, and firms {2:decrease} production, causing GDP to {3:fall} toward equilibrium.
 
 When the AE line intersects the 45° line at a level of GDP below potential GDP, the economy is in {1:recession}.
+![[Pasted Graphic 20.png]]
 
 What is the **Multiplier Effect**? #flashcard
 The process by which an initial change in autonomous expenditure leads to a larger, multiplied change in equilibrium real GDP.
+![[Pasted Graphic 21.png]]
 
 What is **Autonomous Expenditure**? #flashcard
 Spending that does not depend on the level of GDP (e.g., planned investment, government purchases, net exports, and the autonomous part of consumption).
@@ -476,3 +499,4 @@ The relationship between the price level and the level of planned aggregate expe
 A rising price level decreases consumption (wealth effect), investment (interest-rate effect), and net exports (international-trade effect). This shifts the AE curve {1:down}, leading to a {2:lower} equilibrium GDP, and thus a point {3:up and to the left} on the AD curve.
 
 A falling price level increases consumption, investment, and net exports. This shifts the AE curve {1:up}, leading to a {2:higher} equilibrium GDP, and thus a point {3:down and to the right} on the AD curve.
+![[Pasted Graphic 26.png]]
