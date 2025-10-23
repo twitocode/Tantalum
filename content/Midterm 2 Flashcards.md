@@ -1,12 +1,6 @@
 ---
 TARGET DECK: Year 1::ECON 1BB3::Test 2
 ---
-Understood! Here are the flashcards with the ID syntax removed, ready for you to add your own IDs.
-
----
-TARGET DECK: ECON 1BB3::Midterm 2
----
-
 ## From Chapter 4 Notes
 
 What is the **Business Cycle**? #flashcard
