@@ -35,7 +35,7 @@ $$\text{Number of years to double} = \frac{70}{\text{Growth Rate}}$$
 
 # What Determines the Rate of Long-Run Growth?
 ***increases in real GDP per capita depend on increases in labour productivity***
-**Labour productivity**: the quantity of goods and services that can be produced by 
+**Labour productivity** $Y/L$: the quantity of goods and services that can be produced by 
 - *one worker* 
 - OR *by one hour of work*
   
