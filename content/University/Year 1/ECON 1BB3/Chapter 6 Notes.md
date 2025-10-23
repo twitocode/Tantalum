@@ -15,7 +15,7 @@ $$\Delta\text{real GDP per capita} = \frac{\text{current year GDP}-\text{previou
 OR
 $$\Delta\text{real GDP per capita} = \frac{\text{current year GDP}}{\text{previous year GDP}} -1\cdot {100\%} $$
 for longer periods of time, we can use the *average annual growth rate* 
-$$ $$
+$$ \text{Average} = \frac{\text{Sum of the growth rates}}{\text{number of years}}$$
 	
 for shorter periods of time, we get approximately the same answer by *average the growth rate for each year*
 
