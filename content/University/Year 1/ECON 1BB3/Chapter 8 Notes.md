@@ -34,7 +34,6 @@ The economy adjusts to equilibrium through firms' responses to unplanned invento
 ---
 
 ## Determinants of Aggregate Expenditure
-
 ### Consumption ($C$)
 Consumption is the largest component of aggregate expenditure and generally follows a smooth, upward trend, only declining during recessions.
 ![[Pasted Graphic.png]]
@@ -51,11 +50,21 @@ The five most important determinants of consumption are:
 *   **Autonomous Consumption**: The level of consumption that occurs even when disposable income is zero. It is financed out of savings and represents the intercept of the consumption function.
 *   **Marginal Propensity to Consume (MPC)**: The slope of the consumption function; the amount by which consumption spending changes when disposable income changes.
     $$\text{MPC} = \frac{\text{Change in Consumption}}{\text{Change in Disposable Income}} = \frac{\Delta C}{\Delta Y_D}$$
+*   The change in consumption can also be calculated as:
+    $$\text{Change in Consumption} = \text{Change in Disposable Income} \times \text{MPC}$$
 
 ### Income, Consumption, and Saving
-Disposable income can be spent, saved, or used to pay taxes.
-$$\text{National Income} = \text{Consumption} + \text{Saving} + \text{Taxes}$$
-$$Y = C + S + T$$
+Households either spend their income, save it, or use it to pay taxes.
+*   **Relationship between National Income and Disposable Income**:
+    $$\text{Disposable Income} = \text{National Income} - \text{Net Taxes}$$
+    $$\text{National Income} = \text{Disposable Income} + \text{Net Taxes}$$
+    *(Where Net Taxes = Taxes - Government Transfer Payments)*
+*   For the economy as a whole:
+    $$\text{National Income} = \text{Consumption} + \text{Saving} + \text{Taxes}$$
+    $$Y = C + S + T$$
+*   Assuming taxes are constant, a change in national income is divided between consumption and saving:
+    $$\text{Change in National Income} = \text{Change in Consumption} + \text{Change in Saving}$$
+    $$\Delta Y = \Delta C + \Delta S$$
 *   **Marginal Propensity to Save (MPS)**: The amount by which saving changes when disposable income changes.
     $$\text{MPS} = \frac{\text{Change in Saving}}{\text{Change in Disposable Income}} = \frac{\Delta S}{\Delta Y_D}$$
 
@@ -118,7 +127,9 @@ An initial change in autonomous expenditure leads to a larger, multiplied change
 
 ### The Multiplier Formula
 The value of the multiplier depends on the MPC.
-$$\text{Multiplier} = \frac{\text{Change in equilibrium real GDP}}{\text{Change in autonomous expenditure}} = \frac{1}{1 - MPC}$$
+$$\text{Multiplier} = \frac{1}{1 - MPC}$$
+*   The change in equilibrium real GDP due to a change in autonomous expenditure is:
+    $$\text{Change in equilibrium real GDP} = \text{Change in autonomous expenditure} \times \text{Multiplier}$$
 
 > [!NOTE] Four Key Points about the Multiplier
 > 1.  The effect occurs for both increases and decreases in autonomous expenditure.
