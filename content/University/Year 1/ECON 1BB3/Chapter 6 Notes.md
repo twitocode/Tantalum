@@ -145,7 +145,7 @@ We can conclude that, holding all other factors constant (_ceteris paribus_), th
 > Government debt (accumulation of past deficits) is a stock variable while Budget deficiet is a flow variable
 
 # The market for loanable funds
-**Market for loanable funds**: the interaction of borrowers and lenders that determines the market interest rate and the quantity of loanable funds exchanged.
+**Market for loanable funds ($LF$)**: the interaction of borrowers and lenders that determines the market interest rate and the quantity of loanable funds exchanged.
 
 ## **Key Definitions**
 **Real Interest Rate**: The nominal interest rate adjusted for inflation (real = nominal – inflation)
