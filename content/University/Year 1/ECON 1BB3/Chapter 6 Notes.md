@@ -123,7 +123,7 @@ $$I =Y-C-G$$
 **Private Saving**: what households retain form their income after purchasing goods and services (*C*) and paying taxes (*T*)
 Households can get income by supplying the factors of productions to firms (*Y*) and as transfers from the government (*TR*)
 $$S_{private} = Y + TR - C- T$$
-**Public saving**: amount of tax revenue the government retains after paying for governemnt purchases and making transfers payments to households
+**Public saving**: amount of tax revenue the government retains after paying for government purchases and making transfers payments to households
 $$S_{public} = T - G - TR$$
 Total savings in the economy (*S*) = 
 $$S = S_{private} + S_{public}$$
