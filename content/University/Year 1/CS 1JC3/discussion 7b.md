@@ -5,3 +5,4 @@ tags:
 class: CS 1JC3
 ---
 alphabet and ascii'
+unicode is a standard for representing your language
