@@ -11,3 +11,6 @@ what are files
 - all informations is represented as 0s and ones
 - the beginning of a unicode file tells the computer what type of file it is
 - your files could be anywhere on the computer
+
+security
+- cant use seperation of concerns like in normal engineeiring
