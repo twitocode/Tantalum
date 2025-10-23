@@ -150,7 +150,7 @@ The percentage increase in the price level from one year to the next.
 What is the **Consumer Price Index (CPI)** used for? #flashcard
 To measure changes in the prices faced by the average household.
 
-The formula for **CPI** is $\frac{{\text{cost in current year}}}{{\text{cost in base year}}} \times 100\%$.
+The formula for **CPI** is {1:$\frac{{\text{cost in current year}}}{{\text{cost in base year}}} \times 100\%$}.
 
 List three limitations of the CPI. #flashcard
 1.  Substitution bias (assumes people buy the same items)
@@ -184,7 +184,7 @@ If actual inflation is higher than expected, {1:borrowers} gain because they rep
 What is **Long-run economic growth**? #flashcard
 The process by which rising productivity increases the average standard of living, best measured by increases in real GDP per capita over long periods.
 
-The **Rule of 70** states that the number of years for a variable to double is approximately $\frac{{70}}{{\text{Growth Rate}}}$.
+The **Rule of 70** states that the number of years for a variable to double is approximately {1:$\frac{{70}}{{\text{Growth Rate}}}$}.
 
 What is **Labour productivity ($Y/L$)**? #flashcard
 The quantity of goods and services that can be produced by one worker or by one hour of work.
