@@ -165,7 +165,12 @@ We can conclude that, holding all other factors constant (_ceteris paribus_), th
 - **Shifts in Supply**:    
     - More household saving or budget surplus → supply shifts right → lower rates and more investment.
     - Budget deficit → supply shifts left → higher rates, less borrowing, and crowding out.
-        
+
+![[Pasted image 20251023115107.png]]
+
+In a closed economy, savings = investments
+The real interest rates adjust to bring about equilibrium
+
 
 ---
 
