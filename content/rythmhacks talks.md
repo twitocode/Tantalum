@@ -19,3 +19,9 @@ prompt:
 - "can you please ma p out a detaield road map for me please"
 - tkae the roadmap and get specs for each element, then vibe code it?
 - "I want to tackle phase 1 of the MVP, can you give a detailed spec"
+
+
+algorithms
+how ai models work
+represent differe artists with vectors
+the distance between points is how similar each artist is (distance equation)
