@@ -12,7 +12,7 @@ prompt:
 you were the cto of instagram, you are very familiar with next.js and firebase. and you also have a degree in interactive design. 
 - ask it to come up with a persona 
 	- "help me create personas for a university student or students who like to use a wcampus based instagram clone"
-- pick a persona out of the options
+- pick a persona out of the options, try to map oout the end to ends, idea, product, solutio
 - figure out what we want to it, map out what is not required. dont get lost on useless parts. We need to build this first
 - "can you map out a detailed product requirement doc. do you require any other information from me?"
 - Then ask it for a roadmap. 
