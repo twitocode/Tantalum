@@ -14,3 +14,6 @@ you were the cto of instagram, you are very familiar with next.js and firebase. 
 	- "help me create personas for a university student or students who like to use a wcampus based instagram clone"
 - pick a persona out of the options
 - figure out what we want to it, map out what is not required. dont get lost on useless parts. We need to build this first
+- "can you map out a detailed product requirement doc. do you require any other information from me?"
+- Then ask it for a roadmap. 
+- "can you please ma p out a detaield road map for me please"
