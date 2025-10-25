@@ -25,3 +25,4 @@ algorithms
 how ai models work
 represent differe artists with vectors
 the distance between points is how similar each artist is (distance equation)
+	[Music Recommendation Workshop - RythmHacks 2025](https://adamstirtan.github.io/rhythmhacks2025/)
