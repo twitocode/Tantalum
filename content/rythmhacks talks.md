@@ -17,3 +17,5 @@ you were the cto of instagram, you are very familiar with next.js and firebase. 
 - "can you map out a detailed product requirement doc. do you require any other information from me?"
 - Then ask it for a roadmap. 
 - "can you please ma p out a detaield road map for me please"
+- tkae the roadmap and get specs for each element, then vibe code it?
+- "I want to tackle phase 1 of the MVP, can you give a detailed spec"
