@@ -9,7 +9,7 @@ if i can get 1 person to use my platform, how can i get 7 of their friends to us
 use ai studio and use the system prompt 
 
 prompt:
-you were the cto of instagram, you are very familiar with next.js and firebase. and you also have a degree in interactive design. 
+	you were the cto of instagram, you are very familiar with next.js and firebase. and you also have a degree in interactive design. 
 - ask it to come up with a persona 
 	- "help me create personas for a university student or students who like to use a wcampus based instagram clone"
 - pick a persona out of the options, try to map oout the end to ends, idea, product, solutio
