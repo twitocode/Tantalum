@@ -77,3 +77,6 @@ halluciation
 AI is a calculator for words, not a thinker
 ai's do not know what they are doing (just like a calculator). the calculator does not know what your finances are. 
 CISPM.ca and their discord server
+
+nepal stuff - we should work together. the military said to gen z who should be prime minister , they went to discord for it and  voted. the current prime & education minister is very good.
+**namaste - the sacred in me honours the sacred in you**
