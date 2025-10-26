@@ -36,3 +36,43 @@ using adversarial networks
 it is a constant battle between tagging and leave it out
 for video some models add a noise 
 mcp - ai is getting better at using tools
+___
+we can create wewapons with the tools we make (facebook).
+transfoerms, difussion models, adverisal networks, autoencoders
+people think that the ai models are thinking, it is not
++AI mindset
+- +AI mindset
+	- frame etc
+- questions
+	- ai cant do things without people
+	- computers have no agency
+	- your questions define what can be shown
+	- shallow gets hallow, depe gets deep
+	- what you ask is that ai can answer
+- answers
+	- it can only give answers
+	- it cannot wonder
+	- it can only amplify what you bring
+	- cannot go beyond your frame
+questions > answers
+- you cant have the answer without the question
+- answeres are bounded by questions. the answer can never exceed the question. the question is defined by the person
+learn metacognition (think about thinking)
+- better thinking = better learning with ai
+- 3 +AI mindset practices
+	- see 
+		- AI cannot see
+		- allows you to see new perspectives
+	- think
+		- AI cannot think
+		- using ai is a form of thinking think intentionally
+	- create
+		- AI cannot create
+		- co create iteratively with AI ... Jam with AI
+the only thing that AI is doing (taraing), mapping the semantic graph - takes a bunch of data finds relationships between them, and is precomputed, once u have the map, youre just tracing the path
+
+halluciation
+- search up set, which one of the meanings of set should it use? very hard for AI. when it processes the prompt, we add entropy (temperature) on purpose so that we dont get the same answer every time so that it seems more like a person. 
+
+AI is a calculator for words, not a thinker
+ai's do not know what they are doing (just like a calculator). the calculator does not know what your finances are. 
