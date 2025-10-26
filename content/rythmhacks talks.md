@@ -27,3 +27,10 @@ represent differe artists with vectors
 the distance between points is how similar each artist is (distance equation)
 	[Music Recommendation Workshop - RythmHacks 2025](https://adamstirtan.github.io/rhythmhacks2025/)'
 embeddings
+
+
+willson
+rae - voice cloning
+how do we tag ai voices to know if its real or not
+using adverserial networks
+it is a constant battle between tagging and leave it out
