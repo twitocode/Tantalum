@@ -30,9 +30,9 @@ embeddings
 
 
 willson
-rae - voice cloning
+variation auto encoders - voice cloning
 how do we tag ai voices to know if its real or not
-using adverserial networks
+using adversarial networks
 it is a constant battle between tagging and leave it out
 
 for video some models add a noise 
