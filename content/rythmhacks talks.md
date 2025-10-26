@@ -80,3 +80,7 @@ CISPM.ca and their discord server
 
 nepal stuff - we should work together. the military said to gen z who should be prime minister , they went to discord for it and  voted. the current prime & education minister is very good.
 **namaste - the sacred in me honours the sacred in you**
+- his thing uses lamp or mean stack or something more complex than that
+software can be more than a product
+
+**Hackathon with nepal people and canadians using his tech stack**
