@@ -76,3 +76,4 @@ halluciation
 
 AI is a calculator for words, not a thinker
 ai's do not know what they are doing (just like a calculator). the calculator does not know what your finances are. 
+CISPM.ca and their discord server
