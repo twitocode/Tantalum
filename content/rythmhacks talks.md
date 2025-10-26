@@ -34,3 +34,5 @@ rae - voice cloning
 how do we tag ai voices to know if its real or not
 using adverserial networks
 it is a constant battle between tagging and leave it out
+
+for video some models add a noise 
