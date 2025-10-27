@@ -150,7 +150,11 @@ US DOD - Defense Advanced Research Projects Agency
 The internet has two naming systems
 1. primary - **internet address system** which uses binary **ip adresses**
 2. secondary - **domain name system (DNS)** which uses natural language dns names
-3te
+they are 32 bit integers
+- composed of 4 octets represented as four integers in base 2 or 10 seperated by dots
+	- 11000111.0010001.00101000.11010010
+	- 199.17.40.210
+each network interface on the Internet i
 ## Internet Protocol
 
 ## Transmission Control Protocol TCP
