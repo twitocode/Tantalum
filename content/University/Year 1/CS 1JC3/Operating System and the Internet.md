@@ -15,7 +15,14 @@ Mathematician, logician, and computer scientist
 	- The **Turing award** is the highest award in computing
 # Characters
 Characters represent **graphemes** (the units of a writing system)
-Characters are represented using ASCII or Unicode
+Characters are represented using ASCII  or Unicode
+
+ASCII
+- american only
+- 128 characters (94 printable, space, 33 non-printable)
+	- non-printable characters are like "\n" - new line
+Unicode
+- is intended to represent the graphemes of the world's major 
 # Operating Systems
 ## Kernal Services
 ## Graphical User Interfaces
