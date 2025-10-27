@@ -145,7 +145,7 @@ US DOD - Defense Advanced Research Projects Agency
 - started funding internet tech in the 70s
 	- lead to the creation of ARPANET
 - the global TCP/IP - based Internet started in the 80s with APRANET as the backbone
-	- mainy used for US miliitary support and university research.
+	- mainly used for US miliitary support and university research.
 ## IP Addresses
 
 ## Internet Protocol
