@@ -148,13 +148,13 @@ US DOD - Defense Advanced Research Projects Agency
 	- mainly used for US miliitary support and university research.
 ## IP Addresses
 The internet has two naming systems
-1. primary - **internet address system** which uses binary **ip adresses**
+1. primary - **internet address system** which uses binary **ip adressess*
 2. secondary - **domain name system (DNS)** which uses natural language dns names
 they are 32 bit integers
-- composed of 4 octets represented as four integers in base 2 or 10 seperated by dots
+- IPV4 - composed of 4 octets represented as four integers in base 2 or 10 separated by dots
 	- 11000111.0010001.00101000.11010010
 	- 199.17.40.210
-each network interface on the Internet i
+each network interface on the Internet is normally assigned a unique IP address
 ## Internet Protocol
 
 ## Transmission Control Protocol TCP
