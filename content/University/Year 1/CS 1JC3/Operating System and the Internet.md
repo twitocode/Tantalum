@@ -37,7 +37,8 @@ Unicode
 - **System Programs** provide critical applications for the use of the computer
 
 ## Graphical User Interfaces (GUI)
-
+Enables user to access the OS/Program via a graphical display
+Display consists of a **root window**
 ## Command-Line Interfaces
 
 ## Files
