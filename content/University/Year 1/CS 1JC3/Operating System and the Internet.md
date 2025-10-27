@@ -74,7 +74,15 @@ Files are stored in a recursive structure called a **file tree** which consists 
 Each process is run on of the CPUs using time sharing
 ![[Pasted image 20251027182311.png]]
 - A process is given control of the CPU for a time period called a **time slice**
-	- Then it is **suspended** at the end of the time slice, its context is saved, then another process is given control of the CPU
+	- Then it is **suspended** at the end of the time slice, its context is saved, then another process is given control of the CPU. This is a **process context switch**
+	- The process is given control of the CPU again the next time it is scheduled. 
+- Can be in these states
+	- Executing
+	- Blocked - waiting for some event to happen
+	- Ready - Waiting for control of the CPU
+	- Finished
+ - Each is given a **virtual address space** to hold the program's code and data
+ - 
 # Physical Networks
 # Internet
 ## Internet Architecture
