@@ -88,6 +88,12 @@ Each process is run on of the CPUs using time sharing
 		 - The VAS is mapped to secondary storage 
 	 - It is not necessary that the entire VAS space fits into RAM
 # Physical Networks
+A set of computes that exchange digital information with each other via a physical medium
+- Connected via a **network interface**
+- Wired vs wireless
+- Connection-oritented vs connectionless
+- LAN vs WAN
+- Bus, ring, star, and point-t-point technologies
 # Internet
 ## Internet Architecture
 ## Structure of the Internet
