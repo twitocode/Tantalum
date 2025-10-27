@@ -10,10 +10,12 @@ Mathematician, logician, and computer scientist
 - **Proved that there were undecidable decision problems with Alonzo Church**
 - broke the code of the German **Enigma machine** in WW2
 	- Designed the **Automatic Computing Engine** (ACE).
-	- Was interest in AI after WW2. Created the **Turing Test** (the imitation game) for determining whether a software system exhibits intelligence![[Pasted image 20251027180126.png]]
+	- Was interest in AI after WW2. Created the **Turing Test** (the imitation game) for determining whether a software system exhibits intelligence.![[Pasted image 20251027180126.png]]
 		- The tester asks the machine and the human questions. if the tester cannot tell which is machine, then the machine is intelligent. 
 	- The **Turing award** is the highest award in computing
 # Characters
+Characters represent **graphemes** (the units of a writing system)
+Characters are represented using ASCII or Unicode
 # Operating Systems
 ## Kernal Services
 ## Graphical User Interfaces
