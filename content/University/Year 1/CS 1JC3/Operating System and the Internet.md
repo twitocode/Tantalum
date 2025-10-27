@@ -26,8 +26,11 @@ Unicode
 - characters are represented by 8, 16 or 32 bits
 # Operating Systems
 **Operating Systems** are software that control the operations a computer and enables programs to be executed
-- **Kernel**s control the computer's hardware
-- **System Programs** provide critical applications for the use of the comptuer
+- **Kernels** control the computer's hardware
+	- provides a set of system calls that give application programs access to the computer's resources
+	- **
+- **System Programs** provide critical applications for the use of the computer
+
 ## Kernal Services
 ## Graphical User Interfaces
 
