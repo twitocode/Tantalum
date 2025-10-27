@@ -22,8 +22,10 @@ ASCII
 - 128 characters (94 printable, space, 33 non-printable)
 	- non-printable characters are like "\n" - new line
 Unicode
-- is intended to represent the graphemes of the world's major 
+- is intended to represent the graphemes of the world's major writing systems
+- characters are represented by 8, 16 or 32 bits
 # Operating Systems
+**Operating Systems** are software that 
 ## Kernal Services
 ## Graphical User Interfaces
 
