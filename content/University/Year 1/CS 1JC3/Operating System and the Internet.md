@@ -159,5 +159,5 @@ each network interface on the Internet is normally assigned a unique IP address
 ## Internet Protocol
 Provides connectionless packet delivery service between internet hosts.
 - connectionless - packets bounce across a sea of computers
-- best effe
+- best-effort delivery - service is designed to 
 ## Transmission Control Protocol TCP
