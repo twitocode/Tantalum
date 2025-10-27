@@ -41,9 +41,13 @@ Enables user to access the OS/Program via a graphical display
 Display consists of a **root window** and other windows and objects within the root window
 
 GUI events are initiated by mouse or keyboard - are dependent on what the input is focused on.
-- are handled as the
-## Command-Line Interfaces
+- are handled as they happen
 
+Are easy to use but are resource intensive
+## Command-Line Interfaces (CLI)
+A shell provides a **read-execute-print loop** in which
+1. a comand is typed and is **read**
+2. the command is 
 ## Files
 
 ### File Systems
