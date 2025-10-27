@@ -63,9 +63,18 @@ A finite sequence of data (characters or bits) stored on a persistent data stora
 - Can be used by programs for input and output
 	- are way more efficient for this compared to other data structures
 ### File Systems
-
+Files are stored in a recursive structure called a **file tree** which consists of Files and Folders/Directories
+- the top level is called the **root directory**
+- can be references by
+	- absolute - C://hey
+	- relative - ../hey
+	-
 ## Processes
-
+**Processes** are application programs that execute on the computer
+Each process is run on of the CPUs using time sharing
+![[Pasted image 20251027182311.png]]
+- A process is given control of the CPU for a time period called a **time slice**
+	- Then it is **suspended** at the end of the time slice, its context is saved, then another process is given control of the CPU
 # Physical Networks
 # Internet
 ## Internet Architecture
