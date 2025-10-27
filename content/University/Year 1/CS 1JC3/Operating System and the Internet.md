@@ -82,7 +82,11 @@ Each process is run on of the CPUs using time sharing
 	- Ready - Waiting for control of the CPU
 	- Finished
  - Each is given a **virtual address space** to hold the program's code and data
- - 
+	 - When running
+		 - The VAS is mapped to RAM as needed
+	 - When not running
+		 - The VAS is mapped to secondary storage 
+	 - It is not necessary that the entire VAS space fits into RAM
 # Physical Networks
 # Internet
 ## Internet Architecture
