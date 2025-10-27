@@ -38,7 +38,8 @@ Unicode
 
 ## Graphical User Interfaces (GUI)
 Enables user to access the OS/Program via a graphical display
-Display consists of a **root window**
+Display consists of a **root window** and other windows and objects within the root window
+
 ## Command-Line Interfaces
 
 ## Files
