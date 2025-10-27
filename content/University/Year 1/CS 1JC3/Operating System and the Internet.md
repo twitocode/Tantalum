@@ -114,8 +114,20 @@ The internet has 2 layers
 - Homogenous **virtual network** implemented using *TCP/IP* protocol software on top of the physical network
 	- **IP Addresses** are assigned according to a scheme that is uniform across the internet
 ## TCP/IP
-
+Consists of a set of **communication protocols** for communicating across interconnected physical networks. 
+- hardware independen
+- universal connection
+- communication is end-to-end, rather than router-to-router
 ## Internet Services
+Each service is specified by a communication protocol
+- network levelogin
+	- connectionless packet via IP
+	- reliable stream transport via TCP
+- application level
+	- email - smtp
+	- file transfer - ssh
+	- remote login - ssh
+	- web - http
 ## DARPA
 
 ## IP Addresses
