@@ -57,7 +57,11 @@ Very hard to use
 A finite sequence of data (characters or bits) stored on a persistent data storage device.
 - txt files
 - binary failes
-- .exe, .docs, etc
+- .exe, .docx, etc
+- Allows for the sharing of data
+- Can be very large (TB of data)
+- Can be used by programs for input and output
+	- are way more efficient for this compared to other data structures
 ### File Systems
 
 ## Processes
