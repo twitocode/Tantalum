@@ -54,8 +54,10 @@ A shell provides a **read-execute-print loop** in which
 Shell scripts can package commands together (.sh, .bash, etc.)
 Very hard to use
 ## Files
-A finite sequence of data stored on a persistent data storage device.
-
+A finite sequence of data (characters or bits) stored on a persistent data storage device.
+- txt files
+- binary failes
+- .exe, .docs, etc
 ### File Systems
 
 ## Processes
