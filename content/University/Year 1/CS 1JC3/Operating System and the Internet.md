@@ -28,7 +28,9 @@ Unicode
 **Operating Systems** are software that control the operations a computer and enables programs to be executed
 - **Kernels** control the computer's hardware
 	- provides a set of system calls that give application programs access to the computer's resources
-	- **
+	- *Runs in an infiniteeeeeeeee loooooooooop*
+	- Provides
+		- 
 - **System Programs** provide critical applications for the use of the computer
 
 ## Kernal Services
