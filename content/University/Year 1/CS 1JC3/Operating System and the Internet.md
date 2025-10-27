@@ -45,9 +45,14 @@ GUI events are initiated by mouse or keyboard - are dependent on what the input 
 
 Are easy to use but are resource intensive
 ## Command-Line Interfaces (CLI)
+Enables the user to access the OS/program via a interactive text-o
 A shell provides a **read-execute-print loop** in which
-1. a comand is typed and is **read**
-2. the command is 
+1. a command is typed and is **read**
+2. the command is then **executed**
+3. the results are **printed**
+
+Shell scripts can package commands together (.sh, .bash, etc.)
+Very hard to use
 ## Files
 
 ### File Systems
