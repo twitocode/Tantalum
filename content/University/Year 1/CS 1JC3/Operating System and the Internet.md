@@ -155,7 +155,9 @@ they are 32 bit integers
 	- 11000111.0010001.00101000.11010010
 	- 199.17.40.210
 each network interface on the Internet is normally assigned a unique IP address
-**IP addresess** are attatche
+**IP addresses** are attached to the network interface
 ## Internet Protocol
-
+Provides connectionless packet delivery service between internet hosts.
+- connectionless - packets bounce across a sea of computers
+- best effe
 ## Transmission Control Protocol TCP
