@@ -159,5 +159,14 @@ each network interface on the Internet is normally assigned a unique IP address
 ## Internet Protocol
 Provides connectionless packet delivery service between internet hosts.
 - connectionless - packets bounce across a sea of computers
-- best-effort delivery - service is designed to 
+- best-effort delivery - service is designed to deliver every packet
+- unreliable - packet delivery is not guaranteed
+IP defines a mechanism consisting of 
+- a basic unit of data transfer called an **IP datagram**
+- software for routing datagrams using IP addresses
+- rules for how hosts (and routers) should process datagrams
+![[Pasted image 20251027194754.png]]
+
 ## Transmission Control Protocol TCP
+Provides a reliable stream delivery service
+divides a stream of bits into a stream of packets called TCP segements
