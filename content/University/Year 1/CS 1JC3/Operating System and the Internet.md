@@ -40,6 +40,8 @@ Unicode
 Enables user to access the OS/Program via a graphical display
 Display consists of a **root window** and other windows and objects within the root window
 
+GUI events are initiated by mouse or keyboard - are dependent on what the input is focused on.
+- are handled as the
 ## Command-Line Interfaces
 
 ## Files
