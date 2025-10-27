@@ -30,11 +30,13 @@ Unicode
 	- provides a set of system calls that give application programs access to the computer's resources
 	- *Runs in an infiniteeeeeeeee loooooooooop*
 	- Provides
-		- 
+		- I/O device management
+		- Program execution
+		- Memory management
+		- File system management
 - **System Programs** provide critical applications for the use of the computer
 
-## Kernal Services
-## Graphical User Interfaces
+## Graphical User Interfaces (GUI)
 
 ## Command-Line Interfaces
 
