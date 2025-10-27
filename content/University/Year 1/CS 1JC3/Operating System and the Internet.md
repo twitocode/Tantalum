@@ -118,6 +118,18 @@ Consists of a set of **communication protocols** for communicating across interc
 - hardware independen
 - universal connection
 - communication is end-to-end, rather than router-to-router
+### Layering Model
+- Hardware Layer
+	- transmits communication signals over a physical network
+- Network Interface Layer
+	- transmits packets called **frames** using **physical addresses**
+- Internet Layer
+	- transmits packets called **IP datagrams** using **IP addresses**
+	- the main protocols are IP and ICMP
+- Transport Layer
+	- transmits packets called **TCP segments** or **UDP datagrams** using TCP and UDP **protocol ports**
+	- the main protocols are TCP and UDP
+- Applications Layer
 ## Internet Services
 Each service is specified by a communication protocol
 - network levelogin
@@ -129,7 +141,11 @@ Each service is specified by a communication protocol
 	- remote login - ssh
 	- web - http
 ## DARPA
-
+US DOD - Defense Advanced Research Projects Agency
+- started funding internet tech in the 70s
+	- lead to the creation of ARPANET
+- the global TCP/IP - based Internet started in the 80s with APRANET as the backbone
+	- mainy used for US miliitary support and university research.
 ## IP Addresses
 
 ## Internet Protocol
