@@ -93,11 +93,28 @@ A set of computes that exchange digital information with each other via a physic
 - Wired vs wireless
 - Connection-oritented vs connectionless
 - LAN vs WAN
-- Bus, ring, star, and point-t-point technologies
+- Bus, ring, star, and point-to-point technologies
+![[Pasted image 20251027184636.png]]
 # Internet
+A virtual network based on
+- the **internet architecture**
+- the **TCP/IP Internet Protocol Suite**
+the global Internet is *an internet* that serves as a universal virtual network
 ## Internet Architecture
+consists of 
+- a set of physical networks
+- routers that connect the networks together
+- edges are network interfaces
+- hosts are computers
+![[Pasted image 20251027185219.png]]
 ## Structure of the Internet
+The internet has 2 layers
+- Heterogenous collection of underlying **physical networks**
+	- **Physical addresses** are assigned according to schemes which vary from one network technology to another
+- Homogenous **virtual network** implemented using *TCP/IP* protocol software on top of the physical network
+	- **IP Addresses** are assigned according to a scheme that is uniform across the internet
 ## TCP/IP
+
 ## Internet Services
 ## DARPA
 
