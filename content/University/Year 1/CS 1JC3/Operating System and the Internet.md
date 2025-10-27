@@ -147,7 +147,10 @@ US DOD - Defense Advanced Research Projects Agency
 - the global TCP/IP - based Internet started in the 80s with APRANET as the backbone
 	- mainly used for US miliitary support and university research.
 ## IP Addresses
-
+The internet has two naming systems
+1. primary - **internet address system** which uses binary **ip adresses**
+2. secondary - **domain name system (DNS)** which uses natural language dns names
+3te
 ## Internet Protocol
 
 ## Transmission Control Protocol TCP
