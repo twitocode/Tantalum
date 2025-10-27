@@ -25,7 +25,9 @@ Unicode
 - is intended to represent the graphemes of the world's major writing systems
 - characters are represented by 8, 16 or 32 bits
 # Operating Systems
-**Operating Systems** are software that 
+**Operating Systems** are software that control the operations a computer and enables programs to be executed
+- **Kernel**s control the computer's hardware
+- **System Programs** provide critical applications for the use of the comptuer
 ## Kernal Services
 ## Graphical User Interfaces
 
