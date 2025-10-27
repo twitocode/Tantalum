@@ -13,3 +13,5 @@ Math help centre - Hamilton Hall
 [Hoogle for Haskell](https://hoogle.haskell.org)
 [GitHub - chowdhaj/McMaster: Some courses, mostly Computer Science, at McMaster. For more information, that is not in the README, please contact me.](https://github.com/chowdhaj/McMaster/tree/main)
 [Systems of Linear Equations](https://textbooks.math.gatech.edu/ila/systems-of-eqns.html)
+
+[ratemycompany](https://www.ratemycompany.ca/leaderboard)
