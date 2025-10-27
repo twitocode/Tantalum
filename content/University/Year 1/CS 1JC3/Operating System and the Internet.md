@@ -122,7 +122,7 @@ Consists of a set of **communication protocols** for communicating across interc
 - Hardware Layer
 	- transmits communication signals over a physical network
 - Network Interface Layer
-	- transmits packets called **frames** using **physical addresses**
+	- transmits packets called **frames** using **physical addresses**![[Pasted image 20251027192336.png]]
 - Internet Layer
 	- transmits packets called **IP datagrams** using **IP addresses**
 	- the main protocols are IP and ICMP
@@ -132,7 +132,7 @@ Consists of a set of **communication protocols** for communicating across interc
 - Applications Layer
 ## Internet Services
 Each service is specified by a communication protocol
-- network levelogin
+- network level
 	- connectionless packet via IP
 	- reliable stream transport via TCP
 - application level
