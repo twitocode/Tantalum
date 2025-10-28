@@ -176,3 +176,13 @@ establishes a virtual circuit connection called a **TCP connection** between hos
 reliability is obtained by an acknowledgement and retransmission system
 - can handle lost, out-of-order, and duplicated data
 ![[Pasted image 20251027203002.png]]
+
+# Summary of the Protocols
+
+| Layer             | Data Unit                   | Protocols  | Addressing         |
+| ----------------- | --------------------------- | ---------- | ------------------ |
+| Hardware          | signal                      |            |                    |
+| Network Interface | frame                       | ARP        | physical addresses |
+| Internet          | IP Datagram                 | IP, ICMP   | IP addresses       |
+| Transport         | TCP segment<br>UDP datagram | TCP<br>UDP | protocol ports     |
+| Application       |                             | HTTP, etc  | protocol ports     |
