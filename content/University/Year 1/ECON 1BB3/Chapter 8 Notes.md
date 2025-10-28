@@ -75,6 +75,10 @@ Households either spend their income, save it, or use it to pay taxes.
 ### Planned Investment ($I$)
 Investment is more volatile than consumption and declines significantly during recessions.
 ![[Pasted Graphic 13.png]]
+
+> [!NOTE] How to find it
+> Look at the difference between the consumption function $C$ and consumption plus planned investment line $(C + I)$.
+
 The four most important determinants of investment are:
 1.  **Expectations of Future Profits**: Firms invest when they are optimistic about future demand and profitability.
 2.  **Interest Rate**: A higher real interest rate makes borrowing more expensive, leading to less investment spending.
