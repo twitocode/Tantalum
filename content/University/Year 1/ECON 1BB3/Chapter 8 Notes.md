@@ -96,6 +96,11 @@ The three most important determinants of net exports are:
 ---
 
 ## Graphing Macroeconomic Equilibrium
+The slope of the aggregate expenditure function is
+
+$$
+\frac{\Delta\text{AE}}{\Delta\text{Real GDP}}
+$$
 
 ### The 45°-Line Diagram
 We use a 45°-line diagram (or Keynesian cross) to illustrate macroeconomic equilibrium.
