@@ -7,6 +7,11 @@
 ### Components of Aggregate Expenditure
 Planned Aggregate Expenditure ($AE$) is the total planned spending in an economy.
 $$AE = C + I + G + NX$$
+
+
+> [!NOTE] Title
+> In a closed economy, $NX = 0$
+
 *   **Consumption ($C$)**: Spending by households on goods and services.
 *   **Planned Investment ($I$)**: Planned spending by firms on capital goods (factories, machines) and by households on new homes.
 *   **Government Purchases ($G$)**: Spending by all levels of government on goods and services (e.g., infrastructure, salaries).
@@ -139,6 +144,11 @@ The value of the multiplier depends on the MPC.
 $$\text{Multiplier} = \frac{1}{1 - MPC}$$
 *   The change in equilibrium real GDP due to a change in autonomous expenditure is:
     $$\text{Change in equilibrium real GDP} = \text{Change in autonomous expenditure} \times \text{Multiplier}$$
+for invesetment:
+
+$$
+\text{Real increase in GDP} = \text{Multiplier} \cdot \text{Planned Increase in Investment}
+$$
 
 > [!NOTE] Four Key Points about the Multiplier
 > 1.  The effect occurs for both increases and decreases in autonomous expenditure.
