@@ -169,4 +169,10 @@ IP defines a mechanism consisting of
 
 ## Transmission Control Protocol TCP
 Provides a reliable stream delivery service
-divides a stream of bits into a stream of packets called TCP segements
+divides a stream of bits into a stream of packets called TCP segments
+![[Pasted image 20251027202326.png]]
+establishes a virtual circuit connection called a **TCP connection** between host-port endpoints
+- enable a **client process** to initiate communication with a **server process**
+reliability is obtained by an acknowledgement and retransmission system
+- can handle lost, out-of-order, and duplicated data
+![[Pasted image 20251027203002.png]]
