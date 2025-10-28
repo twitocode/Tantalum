@@ -88,4 +88,45 @@ Inventory of the World Wide Web
 
 # World Wide Web
 A vast collection of interlinked documents and related services that is accessible via the Internet
-Web resources are identified using URls (Uniform Resource Locators)
+Web resources are 
+- identified using **URLs (Uniform Resource Locators)**
+- obtained using requesting web pages using **HTTP (Hypertext Transfer Protocol)**
+
+Web pages are written using **HTML (Hypertext Markup Language)**
+
+## HTML
+Documents called **web pages** contain links to other units of information, inside and outside the document
+Information is represented as
+1. statically in files
+2. dynamically via scripts or programs that assemble information on the fly (SPA, SSR, etc)
+
+## HTTP
+Enables web browser (web client) to request documents from a web server
+**Uses TCP for transport**
+- servers usually listen at TCP port 80, but can do others (i personally use 3000, 5000 or 8000)
+- An HTTP transaction consists of a **client request** followed by a **server response**
+	- HTTP is stateless  (REST apis, etc)
+	- state is tracked using **cookies**
+- A requested document can be processed both **server side**  (e.g., using PHP) and **client side** (e.g., using JavaScript)
+
+
+## URLs
+consists of 6 items:
+1. Protocol - TCP protocol needed for transferring info (http, https, ftp, file)
+2. Host - the actual server name
+3. Port - optional port, default 80
+4. Path - path to the file you want
+5. Query strings - optional info
+6. Fragments - used for things like h1 tags to find them easily
+`<protocol>://<host>[:<port>]/<path>[?<query>][#<fragment>]`
+`http://hygelac.cas.mcmaster.ca:80/wmfarmer/`
+
+
+##  Web Services
+- web search
+- web user interfaces for programs and databases
+- shopping
+- banking
+- maps and directions
+- weather info
+- social media
