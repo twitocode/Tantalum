@@ -24,3 +24,14 @@ consumption tax is basically a sales tax
 P is the price level
 Y is the output demanded
 moving up tand the down the consumption function causes movement along the AD function, not a shift of it, because they have the same x axis
+
+
+$AE = C + I + G$
+= $40 + 75(Y-20) + 40 + 50$
+ = $115 + 0.75Y$
+
+$Y = AE$
+$Y=115+0.75Y$
+$0.25Y = 115$
+$Y=115/0.25$
+$Y=460$
