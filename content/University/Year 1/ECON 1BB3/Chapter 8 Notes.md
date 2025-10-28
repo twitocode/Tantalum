@@ -58,6 +58,12 @@ The five most important determinants of consumption are:
 *   The change in consumption can also be calculated as:
     $$\text{Change in Consumption} = \text{Change in Disposable Income} \times \text{MPC}$$
 
+The formula is: $C = a + MPC * (Yd)$
+Where:
+
+- **a** is autonomous consumption (spending when income is zero).
+- **MPC** is the marginal propensity to consume,.
+- **Yd** is disposable income (income after taxes). The formula is **Yd = Y - T**.
 ### Income, Consumption, and Saving
 Households either spend their income, save it, or use it to pay taxes.
 *   **Relationship between National Income and Disposable Income**:
