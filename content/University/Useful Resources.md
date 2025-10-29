@@ -15,3 +15,5 @@ Math help centre - Hamilton Hall
 [Systems of Linear Equations](https://textbooks.math.gatech.edu/ila/systems-of-eqns.html)
 
 [ratemycompany](https://www.ratemycompany.ca/leaderboard)
+[Toastmasters International -Home](https://toastmasters.org/)
+[Tracking what resume links are being clicked on - Bitly Connections Platform \| Short URLs, QR Codes, and More](https://bitly.com/)
