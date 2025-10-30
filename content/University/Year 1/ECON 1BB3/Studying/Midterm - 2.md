@@ -45,10 +45,10 @@ r
 - [x] Employment-Population Ratio: $\text{EPR} = \frac{\text{Employed}}{\text{Working-Age Population}} \times 100$
 
 ### Types of Unemployment
-- [ ] Frictional: Short-term job searching
-- [ ] Structural: Skills mismatch, need retraining
-- [ ] Cyclical: Due to recessions
-- [ ] Natural Rate: Frictional + Structural (full employment)
+- [x] Frictional: Short-term job searching
+- [x] Structural: Skills mismatch, need retraining
+- [x] Cyclical: Due to recessions
+- [x] Natural Rate: Frictional + Structural (full employment)
 
 ### Inflation Concepts
 - [ ] CPI (Consumer Price Index): Average prices for typical household basket
