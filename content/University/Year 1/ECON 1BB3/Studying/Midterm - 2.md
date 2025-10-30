@@ -28,10 +28,10 @@ r
 - [ ] What's NOT in GDP: Intermediate goods, used goods, stock/financial transactions, household production, underground economy
 
 ### Calculations
-- [ ] Computing nominal GDP
-- [ ] Computing real GDP
-- [ ] GDP deflator calculations
-- [ ] Growth rate: $\text{Growth Rate} = \frac{\text{GDP}_2 - \text{GDP}_1}{\text{GDP}_1} \times 100$
+- [x] Computing nominal GDP
+- [x] Computing real GDP
+- [x] GDP deflator calculations
+- [x] Growth rate: $\text{Growth Rate} = \frac{\text{GDP}_2 - \text{GDP}_1}{\text{GDP}_1} \times 100$
 [leonschools Real vs Nominal GDP practice.pdf](https://www.leonschools.net/cms/lib/FL01903265/Centricity/Domain/2805/Real%20vs%20Nominal%20GDP%20practice.pdf)
 
 ---
@@ -39,10 +39,10 @@ r
 ## Chapter 5: Unemployment and Inflation
 
 ### Unemployment Formulas
-- [ ] Labor Force: $\text{LF} = \text{Employed} + \text{Unemployed}$
-- [ ] Unemployment Rate: $\text{UR} = \frac{\text{Unemployed}}{\text{Labor Force}} \times 100$
-- [ ] Labor Force Participation Rate: $\text{LFPR} = \frac{\text{Labor Force}}{\text{Working-Age Population}} \times 100$
-- [ ] Employment-Population Ratio: $\text{EPR} = \frac{\text{Employed}}{\text{Working-Age Population}} \times 100$
+- [x] Labor Force: $\text{LF} = \text{Employed} + \text{Unemployed}$
+- [x] Unemployment Rate: $\text{UR} = \frac{\text{Unemployed}}{\text{Labor Force}} \times 100$
+- [x] Labor Force Participation Rate: $\text{LFPR} = \frac{\text{Labor Force}}{\text{Working-Age Population}} \times 100$
+- [x] Employment-Population Ratio: $\text{EPR} = \frac{\text{Employed}}{\text{Working-Age Population}} \times 100$
 
 ### Types of Unemployment
 - [ ] Frictional: Short-term job searching
