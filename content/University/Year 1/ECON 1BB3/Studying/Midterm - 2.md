@@ -8,3 +8,6 @@
 - [x] Generate flashcards
 - [ ] Study flashcards
 
+
+# what do i for sure not know
+any math
