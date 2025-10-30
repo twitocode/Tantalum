@@ -59,8 +59,8 @@ r
 - [x] Real Interest Rate: $r = i - \pi$ where $r$ = real rate, $i$ = nominal rate, $\pi$ = inflation rate
 
 ### Key Relationships
-- [ ] Higher unexpected inflation: borrowers gain, lenders lose
-- [ ] Lower unexpected inflation: borrowers lose, lenders gain
+- [x] Higher unexpected inflation: borrowers gain, lenders lose
+- [x] Lower unexpected inflation: borrowers lose, lenders gain
 - [ ] Minimum wage effects on unemployment
 - [ ] Problems with CPI as measure of unemployment
 
