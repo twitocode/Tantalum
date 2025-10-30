@@ -12,19 +12,19 @@ r
 
 ## Chapter 4: GDP and Economic Measurement
 ### Key Concepts
-- [ ] GDP Definition: Market value of all final goods and services produced in a country during a period
-- [ ] Final vs. Intermediate Goods: Only final goods count; intermediate goods would cause double-counting
-- [ ] GDP Components: $\text{GDP} = C + I + G + NX$
-- [ ] Consumption $(C)$: Household spending
-- [ ] Investment $(I)$: Physical capital, residential construction, and inventory changes (NOT stock purchases)
-- [ ] Government Purchases $(G)$: Government spending on goods/services
-- [ ] Net Exports $(NX)$: Exports - Imports
+- [x] GDP Definition: Market value of all final goods and services produced in a country during a period
+- [x] Final vs. Intermediate Goods: Only final goods count; intermediate goods would cause double-counting
+- [x] GDP Components: $\text{GDP} = C + I + G + NX$
+- [x] Consumption $(C)$: Household spending
+- [x] Investment $(I)$: Physical capital, residential construction, and inventory changes (NOT stock purchases)
+- [x] Government Purchases $(G)$: Government spending on goods/services
+- [x] Net Exports $(NX)$: Exports - Imports
 
 ### Important Distinctions
-- [ ] Nominal GDP = current year prices
-- [ ] Real GDP = base year prices (adjusts for inflation)
-- [ ] GDP Deflator: $\text{GDP Deflator} = \frac{\text{Nominal GDP}}{\text{Real GDP}} \times 100$
-- [ ] Value-Added Method: Sum of value added at each production stage
+- [x] Nominal GDP = current year prices
+- [x] Real GDP = base year prices (adjusts for inflation)
+- [x] GDP Deflator: $\text{GDP Deflator} = \frac{\text{Nominal GDP}}{\text{Real GDP}} \times 100$
+- [x] Value-Added Method: Sum of value added at each production stage
 - [ ] What's NOT in GDP: Intermediate goods, used goods, stock/financial transactions, household production, underground economy
 
 ### Calculations
@@ -32,6 +32,7 @@ r
 - [ ] Computing real GDP
 - [ ] GDP deflator calculations
 - [ ] Growth rate: $\text{Growth Rate} = \frac{\text{GDP}_2 - \text{GDP}_1}{\text{GDP}_1} \times 100$
+[leonschools Real vs Nominal GDP practice.pdf](https://www.leonschools.net/cms/lib/FL01903265/Centricity/Domain/2805/Real%20vs%20Nominal%20GDP%20practice.pdf)
 
 ---
 

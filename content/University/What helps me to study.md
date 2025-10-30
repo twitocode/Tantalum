@@ -2,3 +2,4 @@
 	1. putting the phone away does not matter as long as i am using forest, but at the same time i don't need it since i have a mac
 2. I also find that playing upbeat lofi, Nujabes style music, or breakcore helps (no classical or jazz that makes me tired fast)
 	1. change of location only helps if i was studying already before
+3. **make (generate) a study plan and follow it** 
