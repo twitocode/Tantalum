@@ -51,12 +51,12 @@ r
 - [x] Natural Rate: Frictional + Structural (full employment)
 
 ### Inflation Concepts
-- [ ] CPI (Consumer Price Index): Average prices for typical household basket
-- [ ] Inflation Rate: $\text{Inflation Rate} = \frac{\text{CPI}_2 - \text{CPI}_1}{\text{CPI}_1} \times 100$
+- [x] CPI (Consumer Price Index): Average prices for typical household basket
+- [x] Inflation Rate: $\text{Inflation Rate} = \frac{\text{CPI}_2 - \text{CPI}_1}{\text{CPI}_1} \times 100$
 - [x] Nominal variables = current prices
 - [x] Real variables = adjusted for inflation
-- [ ] Real Wage: $\text{Real Wage} = \frac{\text{Nominal Wage}}{\text{CPI}} \times 100$
-- [ ] Real Interest Rate: $r = i - \pi$ where $r$ = real rate, $i$ = nominal rate, $\pi$ = inflation rate
+- [x] Real Wage: $\text{Real Wage} = \frac{\text{Nominal Wage}}{\text{CPI}} \times 100$
+- [x] Real Interest Rate: $r = i - \pi$ where $r$ = real rate, $i$ = nominal rate, $\pi$ = inflation rate
 
 ### Key Relationships
 - [ ] Higher unexpected inflation: borrowers gain, lenders lose
