@@ -53,8 +53,8 @@ r
 ### Inflation Concepts
 - [ ] CPI (Consumer Price Index): Average prices for typical household basket
 - [ ] Inflation Rate: $\text{Inflation Rate} = \frac{\text{CPI}_2 - \text{CPI}_1}{\text{CPI}_1} \times 100$
-- [ ] Nominal variables = current prices
-- [ ] Real variables = adjusted for inflation
+- [x] Nominal variables = current prices
+- [x] Real variables = adjusted for inflation
 - [ ] Real Wage: $\text{Real Wage} = \frac{\text{Nominal Wage}}{\text{CPI}} \times 100$
 - [ ] Real Interest Rate: $r = i - \pi$ where $r$ = real rate, $i$ = nominal rate, $\pi$ = inflation rate
 
