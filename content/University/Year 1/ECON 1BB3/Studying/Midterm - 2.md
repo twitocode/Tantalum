@@ -61,8 +61,8 @@ r
 ### Key Relationships
 - [x] Higher unexpected inflation: borrowers gain, lenders lose
 - [x] Lower unexpected inflation: borrowers lose, lenders gain
-- [ ] Minimum wage effects on unemployment
-- [ ] Problems with CPI as measure of unemployment
+- [x] Minimum wage effects on unemployment
+- [x] Problems with CPI as measure of unemployment
 
 ---
 
