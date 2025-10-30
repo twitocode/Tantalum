@@ -106,6 +106,11 @@ consists of
 - routers that connect the networks together
 - edges are network interfaces
 - hosts are computers
+
+### Bipartite Graphs
+a larger node can connect to a smaller note, but that smaller node can only connect to **2** nodes at once
+**hosts connect to physical networks**, **physical networks connect to hosts**
+	wifi switches and ethernet switches are included in the physical network
 ![[Pasted image 20251027185219.png]]
 ## Structure of the Internet
 The internet has 2 layers
