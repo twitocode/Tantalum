@@ -119,12 +119,12 @@
 - [ ] Solow Growth Theory: Focus on capital accumulation and technology
 - [x] New Growth Theory: Knowledge capital is key; R&D drives growth
 - [ ] Knowledge capital is nonrival and nonexcludable
-- [ ] Firms underinvest in R&D because others can access it
+- [x] Firms underinvest in R&D because others can access it
 
 ### Factors Determining Labor Productivity
 - [x] Quantity of capital per hour worked
 - [x] Technological change
-- [ ] Trade (not efficiency wages)
+- [x] Trade (not efficiency wages)
 
 ### Government Policies for Growth
 - [x] Education subsidies
@@ -135,11 +135,11 @@
 - [x] Tax incentives for savings and investment
 
 ### Globalization and Convergence
-- [ ] Foreign Direct Investment (FDI): Building/buying facilities abroad
-- [ ] Foreign Portfolio Investment: Buying stocks/bonds from another country
-- [ ] Technology transfer between countries
-- [ ] Low-income countries can catch up (convergence theory)
-- [ ] Barriers to convergence: weak rule of law, poor education/health, civil wars, inability to borrow
+- [x] Foreign Direct Investment (FDI): Building/buying facilities abroad
+- [x] Foreign Portfolio Investment: Buying stocks/bonds from another country
+- [x] Technology transfer between countries
+- [x] Low-income countries can catch up (convergence theory)
+- [x] Barriers to convergence: weak rule of law, poor education/health, civil wars, inability to borrow
 
 ### Why Low-Income Countries May Not Grow
 - [x] Poor public education and health
