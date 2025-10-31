@@ -122,7 +122,7 @@
 - [ ] Firms underinvest in R&D because others can access it
 
 ### Factors Determining Labor Productivity
-- [ ] Quantity of capital per hour worked
+- [x] Quantity of capital per hour worked
 - [x] Technological change
 - [ ] Trade (not efficiency wages)
 
