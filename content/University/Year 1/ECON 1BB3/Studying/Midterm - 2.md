@@ -110,29 +110,29 @@
 ## Chapter 7: Economic Growth Model
 
 ### Production Function
-- [ ] Per-worker production function: $\frac{Y}{L} = f\left(\frac{K}{L}, \text{technology}\right)$
-- [ ] Increases in capital per worker → diminishing returns
-- [ ] Technological change shifts entire production function upward
-- [ ] Movement along curve vs. shift of curve
+- [x] Per-worker production function: $\frac{Y}{L} = f\left(\frac{K}{L}, \text{technology}\right)$
+- [x] Increases in capital per worker → diminishing returns
+- [x] Technological change shifts entire production function upward
+- [x] Movement along curve vs. shift of curve
 
 ### Growth Theories
 - [ ] Solow Growth Theory: Focus on capital accumulation and technology
-- [ ] New Growth Theory: Knowledge capital is key; R&D drives growth
+- [x] New Growth Theory: Knowledge capital is key; R&D drives growth
 - [ ] Knowledge capital is nonrival and nonexcludable
 - [ ] Firms underinvest in R&D because others can access it
 
 ### Factors Determining Labor Productivity
 - [ ] Quantity of capital per hour worked
-- [ ] Technological change
+- [x] Technological change
 - [ ] Trade (not efficiency wages)
 
 ### Government Policies for Growth
-- [ ] Education subsidies
-- [ ] R&D subsidies
-- [ ] Patent and copyright protection
-- [ ] Strong property rights and rule of law
-- [ ] Health improvements (vaccinations, clean water)
-- [ ] Tax incentives for savings and investment
+- [x] Education subsidies
+- [x] R&D subsidies
+- [x] Patent and copyright protection
+- [x] Strong property rights and rule of law
+- [x] Health improvements (vaccinations, clean water)
+- [x] Tax incentives for savings and investment
 
 ### Globalization and Convergence
 - [ ] Foreign Direct Investment (FDI): Building/buying facilities abroad
@@ -142,10 +142,10 @@
 - [ ] Barriers to convergence: weak rule of law, poor education/health, civil wars, inability to borrow
 
 ### Why Low-Income Countries May Not Grow
-- [ ] Poor public education and health
-- [ ] Weak rule of law
-- [ ] Lack of access to capital
-- [ ] Political instability/civil wars
+- [x] Poor public education and health
+- [x] Weak rule of law
+- [x] Lack of access to capital
+- [x] Political instability/civil wars
 
 ---
 
