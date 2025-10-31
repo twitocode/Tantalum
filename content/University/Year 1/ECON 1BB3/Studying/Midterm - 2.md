@@ -1,4 +1,4 @@
-r
+
 **What to do**:
 - [x] clean up chapter 4
 - [x] clean up chapter 5
@@ -80,8 +80,8 @@ r
 - [x] Human capital = knowledge/skills from education
 
 ### Loanable Funds Market
-- [ ] Supply of loanable funds = Household saving
-- [ ] Demand for loanable funds = Firms borrowing for investment
+- [x] Supply of loanable funds = Household saving
+- [x] Demand for loanable funds = Firms borrowing for investment
 - [ ] Private Saving: $S_{\text{private}} = Y - C - T$
 - [ ] Public Saving: $S_{\text{public}} = T - G - TR$
 - [ ] Total Saving: $S = S_{\text{private}} + S_{\text{public}}$
@@ -89,9 +89,9 @@ r
 - [ ] Investment-saving equality: $I = Y - C - G$
 
 ### Government Budget
-- [ ] Budget deficit: $T < (G + TR)$
-- [ ] Budget surplus: $T > (G + TR)$
-- [ ] Balanced budget: $T = (G + TR)$
+- [x] Budget deficit: $T < (G + TR)$
+- [x] Budget surplus: $T > (G + TR)$
+- [x] Balanced budget: $T = (G + TR)$
 
 ### Important Relationships
 - [ ] Higher interest rates → less borrowing → less investment
@@ -100,10 +100,10 @@ r
 - [ ] Effect of expected economic expansion on loanable funds market
 
 ### Financial System
-- [ ] Provides liquidity to savers
-- [ ] Provides information about borrowers
-- [ ] Provides risk sharing opportunities
-- [ ] Does NOT guarantee full insurance against loss
+- [x] Provides liquidity to savers
+- [x] Provides information about borrowers
+- [x] Provides risk sharing opportunities
+- [x] Does NOT guarantee full insurance against loss
 
 ---
 
@@ -210,16 +210,16 @@ r
 ## Important Formulas Summary
 
 ### Chapter 4 - GDP
-- [ ] $\text{GDP} = C + I + G + NX$
-- [ ] $\text{GDP Deflator} = \frac{\text{Nominal GDP}}{\text{Real GDP}} \times 100$
-- [ ] $\text{Growth Rate} = \frac{\text{Value}_2 - \text{Value}_1}{\text{Value}_1} \times 100$
+- [x] $\text{GDP} = C + I + G + NX$
+- [x] $\text{GDP Deflator} = \frac{\text{Nominal GDP}}{\text{Real GDP}} \times 100$
+- [x] $\text{Growth Rate} = \frac{\text{Value}_2 - \text{Value}_1}{\text{Value}_1} \times 100$
 
 ### Chapter 5 - Unemployment & Inflation
-- [ ] $\text{Unemployment Rate} = \frac{\text{Unemployed}}{\text{Labor Force}} \times 100$
-- [ ] $\text{LFPR} = \frac{\text{Labor Force}}{\text{Working-Age Pop}} \times 100$
-- [ ] $\text{Inflation Rate} = \frac{\text{CPI}_2 - \text{CPI}_1}{\text{CPI}_1} \times 100$
-- [ ] $\text{Real Interest Rate} = \text{Nominal Rate} - \text{Inflation Rate}$
-- [ ] $\text{Real Wage} = \frac{\text{Nominal Wage}}{\text{CPI}} \times 100$
+- [x] $\text{Unemployment Rate} = \frac{\text{Unemployed}}{\text{Labor Force}} \times 100$
+- [x] $\text{LFPR} = \frac{\text{Labor Force}}{\text{Working-Age Pop}} \times 100$
+- [x] $\text{Inflation Rate} = \frac{\text{CPI}_2 - \text{CPI}_1}{\text{CPI}_1} \times 100$
+- [x] $\text{Real Interest Rate} = \text{Nominal Rate} - \text{Inflation Rate}$
+- [x] $\text{Real Wage} = \frac{\text{Nominal Wage}}{\text{CPI}} \times 100$
 
 ### Chapter 6 - Saving & Investment
 - [ ] $S_{\text{private}} = Y - C - T$
