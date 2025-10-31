@@ -69,9 +69,9 @@
 ## Chapter 6: Long-Run Economic Growth
 
 ### Key Concepts
-- [ ] Potential GDP: GDP when all firms produce at capacity
-- [ ] Real GDP Growth Rate: $\text{Growth Rate} = \frac{\text{GDP}_2 - \text{GDP}_1}{\text{GDP}_1} \times 100$
-- [ ] Average annual growth rate calculation
+- [x] Potential GDP: GDP when all firms produce at capacity
+- [x] Real GDP Growth Rate: $\text{Growth Rate} = \frac{\text{GDP}_2 - \text{GDP}_1}{\text{GDP}_1} \times 100$
+- [x] Average annual growth rate calculation
 
 ### Determinants of Growth
 - [x] Capital (physical and human)
@@ -82,11 +82,11 @@
 ### Loanable Funds Market
 - [x] Supply of loanable funds = Household saving
 - [x] Demand for loanable funds = Firms borrowing for investment
-- [ ] Private Saving: $S_{\text{private}} = Y - C - T$
-- [ ] Public Saving: $S_{\text{public}} = T - G - TR$
-- [ ] Total Saving: $S = S_{\text{private}} + S_{\text{public}}$
-- [ ] In closed economy: $S = I$
-- [ ] Investment-saving equality: $I = Y - C - G$
+- [x] Private Saving: $S_{\text{private}} = Y - C - T$
+- [x] Public Saving: $S_{\text{public}} = T - G - TR$
+- [x] Total Saving: $S = S_{\text{private}} + S_{\text{public}}$
+- [x] In closed economy: $S = I$
+- [x] Investment-saving equality: $I = Y - C - G$
 
 ### Government Budget
 - [x] Budget deficit: $T < (G + TR)$
@@ -94,10 +94,10 @@
 - [x] Balanced budget: $T = (G + TR)$
 
 ### Important Relationships
-- [ ] Higher interest rates → less borrowing → less investment
-- [ ] Business cycle phases: peak → recession → trough → expansion
-- [ ] Effect of business taxes on loanable funds market
-- [ ] Effect of expected economic expansion on loanable funds market
+- [x] Higher interest rates → less borrowing → less investment
+- [x] Business cycle phases: peak → recession → trough → expansion
+- [x] Effect of business taxes on loanable funds market
+- [x] Effect of expected economic expansion on loanable funds market
 
 ### Financial System
 - [x] Provides liquidity to savers
