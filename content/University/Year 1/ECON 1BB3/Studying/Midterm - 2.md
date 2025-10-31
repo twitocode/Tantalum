@@ -74,10 +74,10 @@ r
 - [ ] Average annual growth rate calculation
 
 ### Determinants of Growth
-- [ ] Capital (physical and human)
+- [x] Capital (physical and human)
 - [ ] Labor productivity
-- [ ] Technology
-- [ ] Human capital = knowledge/skills from education
+- [x] Technology
+- [x] Human capital = knowledge/skills from education
 
 ### Loanable Funds Market
 - [ ] Supply of loanable funds = Household saving
