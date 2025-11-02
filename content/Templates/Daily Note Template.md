@@ -1,4 +1,4 @@
 #DailyNote 
 
-## What will I study today?
+## Today's Tasks
 - [ ] 
