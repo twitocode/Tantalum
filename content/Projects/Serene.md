@@ -19,8 +19,8 @@
 - Relationships
 	- Loneliness
 - Drugs and Alcohol
-- 
 
 
 # Features to tackle these problems
 - A animal to take care of 
+- reminder system (reminder to brush your teeth)
