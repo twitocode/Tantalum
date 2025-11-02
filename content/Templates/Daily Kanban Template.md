@@ -6,12 +6,10 @@ kanban-plugin: board
 
 ## Urgent and Important
 
-- [ ] Signup for deltahacks
 
 
 ## Important but Not Urgent
 
-- [ ] Setup screen time on ios
 
 
 ## Urgent but Not Important
