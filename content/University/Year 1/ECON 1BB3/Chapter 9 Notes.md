@@ -4,234 +4,164 @@ class: ECON 1BB3
 tags:
   - "#classnote"
 ---
-# Aggregate Demand
+---
+# The Aggregate Demand and Aggregate Supply Model
 
-The **aggregate demand and aggregate supply model** explains fluctuations in real GDP and the price level.
-*   Real GDP and price level are determined by the intersection of the **aggregate demand (AD) curve** and the **short-run aggregate supply (SRAS) curve**.
+The **Aggregate Demand (AD) and Aggregate Supply (AS) model** is used to explain short-run fluctuations in real GDP and the price level.
 
-![[University/Year 1/ECON 1BB3/Attachments/Pasted Graphic.png]]
-*Figure 9.1: Aggregate Demand and Aggregate Supply*
+* **Aggregate Demand (AD) Curve**: Shows the relationship between the price level and the quantity of real GDP demanded by households, firms, and the government.
+* **Short-Run Aggregate Supply (SRAS) Curve**: Shows the relationship between the price level and the quantity of real GDP supplied by firms in the short run.
 
-**Aggregate Demand Curve (AD)**: Shows the relationship between the price level and the quantity of real GDP demanded by households, firms, and the government.
-**Short-Run Aggregate Supply Curve (SRAS)**: Shows the relationship between the price level and the quantity of real GDP supplied by firms in the short run.
+In the short run, real GDP and the price level are determined by the intersection of the AD curve and the SRAS curve.
 
-## Why Is the Aggregate Demand Curve Downward Sloping?
-The AD curve is downward sloping because a *fall* in the price level increases the quantity of real GDP demanded. This happens through three effects on $C$, $I$, and $NX$. (Government purchases, $G$, are assumed to be unaffected by price level changes).
+(ADD TABLE/FIGURE 9.1 HERE)
 
-1.  **Wealth Effect (on Consumption, $C$)**:
-    *   **Price level rises** $\rightarrow$ real value of household wealth falls (e.g., cash buys less) $\rightarrow$ **consumption falls**.
-    *   **Price level falls** $\rightarrow$ real value of household wealth rises $\rightarrow$ **consumption rises**.
+---
 
-2.  **Interest Rate Effect (on Investment, $I$)**:
-    *   **Price level rises** $\rightarrow$ households/firms need more money for transactions $\rightarrow$ demand for money increases $\rightarrow$ **interest rates rise**.
-    *   Higher interest rates $\rightarrow$ increased cost of borrowing $\rightarrow$ **investment (and some consumption) falls**.
-    *   **Price level falls** $\rightarrow$ interest rates fall $\rightarrow$ **investment (and some consumption) rises**.
+## Aggregate Demand
 
-3.  **International Trade Effect (on Net Exports, $NX$)**:
-    *   **Price level in Canada rises** relative to other countries $\rightarrow$ Canadian exports become more expensive, imports become cheaper $\rightarrow$ **exports fall, imports rise $\rightarrow$ net exports fall**.
-    *   **Price level in Canada falls** relative to other countries $\rightarrow$ **net exports rise**.
+Real GDP (Y) has four components:
+$$Y = C+I+G+NX$$
+The aggregate demand curve is downward sloping because a fall in the price level increases the quantity of real GDP demanded, assuming government purchases (G) are constant.
 
-## Shifts of the Aggregate Demand Curve versus Movements along It
-*   **Movement along the AD curve**: Occurs when **only the price level changes**.
-    *   Example: Price level rises from 148 to 152 $\rightarrow$ movement *up* the AD curve, quantity of real GDP demanded decreases.
-    ![[Attachment 2.png]]
-*   **Shift of the AD curve**: Occurs when any **variable *other than the price level*** changes.
-    *   Example: Firms become more pessimistic $\rightarrow$ AD curve *shifts left*.
-    ![[Attachment 3.png]]
+### Why Is the Aggregate Demand Curve Downward Sloping?
 
-> [!NOTE] Key Distinction
-> If the variable that changed is on the *x*-axis (Real GDP) or *y*-axis (Price Level), it's a **movement along** the curve. If it's *not* on either axis, it's a **shift of** the curve.
+This is explained by three effects:
 
-## Variables That Shift the Aggregate Demand Curve
-These variables fall into three categories:
+1.  **The Wealth Effect (on Consumption)**
+    * A household's **wealth** is the value of its assets minus its debts.
+    * When the price level falls, the real value of household wealth (like cash) rises.
+    * This makes households feel wealthier, leading to an increase in consumption (C).
+    * *Result*: A lower price level $\rightarrow$ $\uparrow$C.
+2.  **The Interest Rate Effect (on Investment)**
+    * When prices fall, households and firms need less money to finance transactions.
+    * They save more or borrow less, which drives down interest rates.
+    * Lower interest rates make borrowing cheaper, which increases investment (I) (new factories, new houses) and some consumption (C) (cars, durable goods).
+    * *Result*: A lower price level $\rightarrow$ $\downarrow$Interest Rates $\rightarrow$ $\uparrow$I.
+3.  **The International Trade Effect (on Net Exports)**
+    * If the price level in Canada falls relative to other countries, Canadian exports become cheaper and imports become more expensive.
+    * This causes exports to rise and imports to fall, which increases net exports (NX).
+    * *Result*: A lower price level $\rightarrow$ $\uparrow$NX.
 
-1.  **Changes in Government Policy**:
-    *   **Monetary Policy** (Bank of Canada actions on money supply/interest rates):
-        *   Lower interest rates $\rightarrow$ increased $C$ and $I$ $\rightarrow$ **AD shifts right**.
-        *   Higher interest rates $\rightarrow$ decreased $C$ and $I$ $\rightarrow$ **AD shifts left**.
-    *   **Fiscal Policy** (Federal taxes and purchases):
-        *   Increase in government purchases ($G$) $\rightarrow$ **AD shifts right**.
-        *   Decrease in government purchases ($G$) $\rightarrow$ **AD shifts left**.
-        *   Increase in personal income taxes $\rightarrow$ decreased $C$ $\rightarrow$ **AD shifts left**.
-        *   Decrease in personal income taxes $\rightarrow$ increased $C$ $\rightarrow$ **AD shifts right**.
-        *   Increase in business taxes $\rightarrow$ decreased $I$ $\rightarrow$ **AD shifts left**.
-        *   Decrease in business taxes $\rightarrow$ increased $I$ $\rightarrow$ **AD shifts right**.
+### Shifts of the AD Curve vs. Movements Along It
 
-2.  **Changes in the Expectations of Households and Firms**:
-    *   **Households more optimistic** about future incomes $\rightarrow$ increased current $C$ $\rightarrow$ **AD shifts right**.
-    *   **Households more pessimistic** $\rightarrow$ decreased current $C$ $\rightarrow$ **AD shifts left**.
-    *   **Firms more optimistic** about future investment profitability $\rightarrow$ increased $I$ $\rightarrow$ **AD shifts right**.
-    *   **Firms more pessimistic** $\rightarrow$ decreased $I$ $\rightarrow$ **AD shifts left**.
+> [!NOTE]
+> A change in the **price level** causes a **movement along** the AD curve. A change in **any other variable** that affects spending causes the **entire AD curve to shift**.
 
-3.  **Changes in Foreign Variables**:
-    *   **Foreigners buy fewer Canadian goods** OR **Canadians buy more foreign goods** $\rightarrow$ net exports ($NX$) fall $\rightarrow$ **AD shifts left**.
-    *   **Canadian GDP grows faster** than other countries $\rightarrow$ Canadian imports rise faster than exports $\rightarrow$ $NX$ falls $\rightarrow$ **AD shifts left**.
-    *   **Canadian dollar rises** (stronger) $\rightarrow$ Canadian exports more expensive, imports cheaper $\rightarrow$ $NX$ falls $\rightarrow$ **AD shifts left**.
-    *   **Canadian GDP grows slower** OR **Canadian dollar falls** (weaker) $\rightarrow$ $NX$ rises $\rightarrow$ **AD shifts right**.
+### Variables That Shift the Aggregate Demand Curve
 
-### Table 9.1 Variables that Shift the Aggregate Demand Curve
-![[University/Year 1/ECON 1BB3/Attachments/Pasted Graphic 2.png]]
+* **Changes in Government Policy**
+    * **Monetary Policy**: Actions by the Bank of Canada.
+        * *Lower* interest rates $\rightarrow$ $\uparrow$C and $\uparrow$ I $\rightarrow$ AD shifts **right**.
+        * *Higher* interest rates $\rightarrow$ $\downarrow$C and $\downarrow$I $\rightarrow$ AD shifts **left**.
+    * **Fiscal Policy**: Changes in federal taxes and purchases.
+        * *Increase* in government purchases (G) $\rightarrow$ AD shifts **right**.
+        * *Increase* in personal income taxes $\rightarrow$ $\downarrow$C $\rightarrow$ AD shifts **left**.
+        * *Increase* in business taxes $\rightarrow$ $\downarrow$I $\rightarrow$ AD shifts **left**.
+* **Changes in Expectations of Households and Firms**
+    * Households become *more optimistic* about future income $\rightarrow$ $\uparrow$C $\rightarrow$ AD shifts **right**.
+    * Firms become *more optimistic* about future profitability $\rightarrow$ $\uparrow$I $\rightarrow$ AD shifts **right**.
+    * Pessimism about the future causes the AD curve to shift **left**.
+* **Changes in Foreign Variables**
+    * Real GDP in Canada grows *faster* than in other countries $\rightarrow$ $\uparrow$Imports faster than $\uparrow$Exports $\rightarrow$ $\downarrow$NX $\rightarrow$ AD shifts **left**.
+    * The exchange rate of the Canadian dollar *rises* (appreciates) $\rightarrow$ Exports become more expensive, Imports become cheaper $\rightarrow$ $\downarrow$NX $\rightarrow$ AD shifts **left**.
 
-# Aggregate Supply
+(ADD TABLE/FIGURE 9.1 HERE)
 
-Aggregate supply shows the effect of price level changes on the quantity of goods and services firms are willing and able to provide. We use two aggregate supply curves:
+---
 
-## The Long-Run Aggregate Supply Curve (LRAS)
-*   In the long run, real GDP is determined by the supply of inputs (labour, capital) and available technology.
-*   This long-run level of output is called **potential GDP** (or full-employment GDP).
-*   Potential GDP is *not* influenced by changes in the price level.
-*   Therefore, the **long-run aggregate supply curve (LRAS)** is a **vertical line at potential GDP**.
+## Aggregate Supply
 
-![[University/Year 1/ECON 1BB3/Attachments/Pasted Graphic 3.png]]
-*Figure 9.2: The Long-Run Aggregate Supply Curve*
+There are two aggregate supply curves: one for the long run (LRAS) and one for the short run (SRAS).
 
-*   The LRAS curve shifts right each year as potential GDP increases due to:
-    *   Accumulation of machinery (capital stock growth).
-    *   Growth of the labour force.
-    *   Technological improvements.
+### The Long-Run Aggregate Supply (LRAS) Curve
+* **Definition**: In the long run, the level of real GDP is determined by the supply of inputs (labour force, capital stock) and the available technology.
+* **Potential GDP (Full-Employment GDP)**: The level of real GDP in the long run. At this level, firms operate at their normal capacity, and unemployment is at its natural rate (only structural and frictional).
+* **Shape**: The LRAS curve is a **vertical line** at Potential GDP. This is because potential GDP is not affected by changes in the price level.
+* **Shifts**: The LRAS curve shifts to the **right** each year as the labour force grows, the capital stock increases, and technology improves.
 
-## The Short-Run Aggregate Supply Curve (SRAS)
-*   The **SRAS curve is upward sloping**.
-*   This means that in the short run, as the price level increases, firms are willing to supply more goods and services.
-*   **Main Reason**: Prices of final goods and services rise faster than prices of inputs (like wages or natural resources).
-    *   Higher output prices + slower-rising input costs $\rightarrow$ higher profits $\rightarrow$ firms supply more.
-*   **Secondary Reason**: Some firms are slow to adjust their prices.
-    *   If price level rises, firms slow to raise prices see increased sales $\rightarrow$ increase production.
+(ADD TABLE/FIGURE 9.2 HERE)
 
-### Why is SRAS upward sloping? (Reasons for "Sticky" Wages/Prices)
-Economists believe this is due to firms and workers failing to accurately predict changes in the price level.
+### The Short-Run Aggregate Supply (SRAS) Curve
+* **Shape**: The SRAS curve is **upward sloping**.
+* **Reason**: As the price level increases, the quantity of goods and services firms are willing to supply increases. This is mainly because the prices of final goods and services (what firms sell) rise faster than the prices of inputs (like wages). This increases firm profitability, so they supply more.
+* **Three Explanations for the Upward Slope**:
+    1.  **Contracts make some wages and prices "sticky"**:
+        * **"Sticky" prices/wages**: They do not respond quickly to changes in demand or supply.
+        * If the price level rises but wages are fixed by a contract, firms become more profitable and will increase output.
+    2.  **Firms are often slow to adjust wages**:
+        * Many non-union worker salaries are adjusted only once a year.
+        * If the price level rises but wages are slow to adjust, profitability increases, and firms produce more.
+    3.  **Menu costs make some prices sticky**:
+        * **Menu costs**: The costs to firms of changing prices (e.g., printing new menus or catalogues).
+        * If the price level rises, some firms may not raise their prices due to menu costs. Their "lower" prices will increase their sales, so they increase production.
 
-1.  **Contracts make some wages and prices "sticky"**:
-    *   **Sticky prices/wages**: Do not respond quickly to changes in demand or supply.
-    *   Multi-year contracts (e.g., union wages, input purchases) fix some costs.
-    *   If output prices rise unexpectedly, fixed input costs mean higher profits $\rightarrow$ increased output.
+### Variables that Shift the SRAS Curve
 
-2.  **Firms are often slow to adjust wages**:
-    *   Many non-union wages/salaries are adjusted only once a year.
-    *   If price level rises unexpectedly, wages remain fixed $\rightarrow$ increased profitability of hiring more workers/producing more output.
-    *   Firms are often more reluctant to *cut* wages (negative morale/productivity) than to increase them.
+> [!NOTE]
+> A change in the **price level** causes a **movement along** the SRAS curve. A change in **any other variable** that affects the willingness of firms to supply goods causes the **entire SRAS curve to shift**.
 
-3.  **Menu costs make some prices sticky**:
-    *   **Menu costs**: Costs to firms of changing prices (e.g., printing new menus/catalogues).
-    *   If price level rises unexpectedly, some firms may delay raising prices due to menu costs.
-    *   These firms will see increased sales (their prices are relatively lower) $\rightarrow$ increase output.
+* **Increases in the Labour Force and Capital Stock**: As these inputs grow, firms can supply more output at every price level. SRAS shifts **right**.
+* **Technological Change**: Positive technological change increases productivity, reduces firms' costs, and allows them to produce more at every price level. SRAS shifts **right**.
+* **Expected Changes in the Future Price Level**:
+    * If workers and firms expect the price level to *increase*, they will adjust wages and prices upward. This increases firms' costs. SRAS shifts **left**.
+    * (ADD TABLE/FIGURE 9.3 HERE)
+    * If they expect the price level to be *lower*, SRAS shifts **right**.
+* **Adjustments to Errors in Past Expectations**:
+    * If workers and firms realize the price level was *higher* than they expected, they will adjust wages and prices upward. SRAS shifts **left**.
+    * If they realize the price level was *lower* than expected, SRAS shifts **right**.
+* **Unexpected Changes in the Price of an Important Natural Resource**:
+    * **Supply Shock**: An unexpected event that shifts the SRAS curve, often caused by a change in the price of a natural resource.
+    * An *unexpected increase* in the price of oil (a key resource) raises production costs for many firms. SRAS shifts **left**.
 
-## Shifts of the Short-Run Aggregate Supply Curve versus Movements along It
-*   **Movement along the SRAS curve**: Occurs when **only the price level changes**.
-*   **Shift of the SRAS curve**: Occurs when any **variable *other than the price level*** changes.
+(ADD TABLE/FIGURE 9.2 HERE)
 
-## Variables that Shift the Short-Run Aggregate Supply Curve
-1.  **Increases in the Labour Force and in the Capital Stock**:
-    *   More workers or physical capital $\rightarrow$ firms supply more output at every price $\rightarrow$ **SRAS shifts right**.
-    *   (Same factors that shift LRAS).
+---
 
-2.  **Technological Change**:
-    *   Positive technological change $\rightarrow$ increased productivity $\rightarrow$ reduced production costs $\rightarrow$ firms produce more at every price $\rightarrow$ **SRAS shifts right**.
+## Macroeconomic Equilibrium in the Long Run and the Short Run
 
-3.  **Expected Changes in the Future Price Level**:
-    *   If workers and firms expect the price level to **increase** (e.g., by 7%) $\rightarrow$ they negotiate higher wages/prices $\rightarrow$ increased costs for firms $\rightarrow$ firms supply less at every price $\rightarrow$ **SRAS shifts left**.
-    *   If workers and firms expect the price level to **decrease** $\rightarrow$ **SRAS shifts right**.
+### Long-Run Macroeconomic Equilibrium
+This occurs where the AD and SRAS curves intersect at a point on the LRAS curve. At this point, the economy is at potential GDP.
 
-    ![[University/Year 1/ECON 1BB3/Attachments/Pasted Graphic 4.png]]
-    *Figure 9.3: How Expectations of the Future Price Level Affect the Short-Run Aggregate Supply Curve*
+(ADD TABLE/FIGURE 9.4 HERE)
 
-4.  **Adjustments of Workers and Firms to Errors in Past Expectations about the Price Level**:
-    *   If actual price level was *higher* than expected $\rightarrow$ workers/firms adjust by pushing for higher wages/prices in future contracts $\rightarrow$ increased costs $\rightarrow$ **SRAS shifts left**.
-    *   If actual price level was *lower* than expected $\rightarrow$ **SRAS shifts right**.
+### Recessions, Expansions, and Supply Shocks
 
-5.  **Unexpected Changes in the Price of an Important Natural Resource**:
-    *   **Supply shock**: An unexpected event that causes the SRAS curve to shift.
-    *   Unexpected **increase in oil prices** $\rightarrow$ increased production costs for many firms $\rightarrow$ firms supply less at every price $\rightarrow$ **SRAS shifts left**.
-    *   Unexpected **decrease in oil prices** $\rightarrow$ **SRAS shifts right**.
+**1. Recession (Caused by a Decline in AD)**
+* **Short-Run Effect**: An event (like a decline in investment) shifts AD **left** ($AD_1 \rightarrow AD_2$). The economy moves to a new short-run equilibrium (Point B) where $AD_2$ intersects SRAS. Real GDP is *below* potential GDP, and the price level falls. This is a **recession**.
+* **Long-Run Adjustment (Automatic Mechanism)**: The recession and resulting unemployment make workers more willing to accept lower wages and firms more willing to accept lower prices. This reduces costs, shifting SRAS to the **right** ($SRAS_1 \rightarrow SRAS_2$). The economy moves to a new long-run equilibrium (Point C), back at potential GDP but at a *permanently lower price level*.
 
-> [!NOTE] SRAS Shift Direction
-> The SRAS curve typically shifts right due to growth in labour, capital, and technology. However, expectations of inflation and supply shocks can temper or even reverse this rightward shift.
+(ADD TABLE/FIGURE 9.5 HERE)
 
-### Table 9.2 Variables That Shift the Short-Run Aggregate Supply Curve
-![[University/Year 1/ECON 1BB3/Attachments/Pasted Graphic 5.png]]
+**2. Expansion (Caused by an Increase in AD)**
+* **Short-Run Effect**: An event (like an investment boom) shifts AD **right** ($AD_1 \rightarrow AD_2$). The economy moves to a new short-run equilibrium (Point B). Real GDP is *above* potential GDP, and the price level rises.
+* **Long-Run Adjustment (Automatic Mechanism)**: The economy is operating above its normal capacity. Low unemployment and a high price level lead workers to negotiate for higher wages. This increases costs, shifting SRAS to the **left** ($SRAS_1 \rightarrow SRAS_2$). The economy moves to a new long-run equilibrium (Point C), back at potential GDP but at a *permanently higher price level*.
 
-# Macroeconomic Equilibrium in the Long Run and the Short Run
+(ADD TABLE/FIGURE 9.6 HERE)
 
-## Long-Run Macroeconomic Equilibrium
-*   Occurs when the **AD curve, SRAS curve, and LRAS curve all intersect at the same point**.
-*   At this point, the economy is at **potential GDP**.
-*   Firms operate at normal capacity, and unemployment is at its natural rate (frictional and structural only).
+**3. Supply Shock (e.g., a rise in oil prices)**
+* **Short-Run Effect**: The supply shock increases production costs, shifting SRAS to the **left** ($SRAS_1 \rightarrow SRAS_2$). The economy moves to a new short-run equilibrium (Point B) with *lower* real GDP (recession) and a *higher* price level.
+* **Stagflation**: This specific, unpleasant combination of recession (stagnation) and inflation is called **stagflation**.
+* **Long-Run Adjustment**: The recession and high unemployment eventually cause workers to accept lower wages and firms to accept lower prices. This shifts SRAS back to the **right** ($SRAS_2 \rightarrow SRAS_1$), returning the economy to the original equilibrium (Point A) at potential GDP.
 
-![[Attachment 4.png]]
-*Figure 9.4: Long-Run Macroeconomic Equilibrium*
+(ADD TABLE/FIGURE 9.7 HERE)
 
-## Recessions, Expansions, and Supply Shocks (Simplified Model)
-*   **Assumptions**: No inflation (price level constant at 148), no long-run growth (potential GDP constant at $2.2 trillion).
+---
 
-### Recession (Caused by a Decline in Aggregate Demand)
-1.  **Short-Run Effect**:
-    *   Decline in $AD$ (e.g., due to rising interest rates reducing $I$) $\rightarrow$ **AD shifts left** (e.g., from $AD_1$ to $AD_2$).
-    *   New short-run equilibrium (Point B) $\rightarrow$ **real GDP falls below potential GDP**, and **price level falls**.
-    *   Economy is in recession (declining profitability, layoffs).
-    ![[University/Year 1/ECON 1BB3/Attachments/Pasted Graphic 6.png]]
-    *Figure 9.5: The Short-Run and Long-Run Effects of a Decrease in Aggregate Demand*
-2.  **Long-Run Adjustment (Automatic Mechanism)**:
-    *   Recession leads to lower sales and unemployment.
-    *   Firms accept lower prices, workers accept lower wages.
-    *   Lower input costs $\rightarrow$ **SRAS shifts right** (e.g., from $SRAS_1$ to $SRAS_2$).
-    *   Economy returns to potential GDP (Point C), but at a **lower price level**.
-    *   This adjustment can take several years. Government intervention (monetary/fiscal policy) could shift AD right to speed up recovery, but would prevent the price level from falling as much.
+## A Dynamic Aggregate Demand and Aggregate Supply Model
 
-### Expansion (Caused by an Increase in Aggregate Demand)
-1.  **Short-Run Effect**:
-    *   Increase in $AD$ (e.g., firms become optimistic, increasing $I$) $\rightarrow$ **AD shifts right** (e.g., from $AD_1$ to $AD_2$).
-    *   New short-run equilibrium (Point B) $\rightarrow$ **real GDP rises above potential GDP**, and **price level rises**.
-    *   Economy is operating above normal capacity, unemployment is very low.
-    ![[University/Year 1/ECON 1BB3/Attachments/Pasted Graphic 8.png]]
-    *Figure 9.6: The Short-Run and Long-Run Effects of an Increase in Aggregate Demand*
-2.  **Long-Run Adjustment (Automatic Mechanism)**:
-    *   Economy operating above potential GDP leads to low unemployment and higher demand.
-    *   Workers push for higher wages, firms charge higher prices.
-    *   Increased input costs $\rightarrow$ **SRAS shifts left** (e.g., from $SRAS_1$ to $SRAS_2$).
-    *   Economy returns to potential GDP (Point C), but at a **higher price level**.
-    *   This adjustment can take more than a year.
+The "basic" (static) model is simplified because it assumes no long-run growth and no continuous inflation. A dynamic model is more realistic.
 
-### Supply Shock (Caused by a Shift in Short-Run Aggregate Supply)
-1.  **Short-Run Effect**:
-    *   Unexpected event (e.g., large increase in oil prices) $\rightarrow$ increased production costs $\rightarrow$ **SRAS shifts left** (e.g., from $SRAS_1$ to $SRAS_2$).
-    *   New short-run equilibrium (Point B) $\rightarrow$ **real GDP falls**, and **price level rises**.
-    *   This combination of inflation and recession is called **stagflation**.
-    ![[University/Year 1/ECON 1BB3/Attachments/Pasted Graphic 9.png]]
-    *Figure 9.7: The Short-Run and Long-Run Effects of a Supply Shock*
-2.  **Long-Run Adjustment (Automatic Mechanism)**:
-    *   Recession from supply shock $\rightarrow$ increased unemployment, reduced output.
-    *   Workers accept lower wages, firms accept lower prices.
-    *   Lower input costs $\rightarrow$ **SRAS shifts right** (e.g., from $SRAS_2$ back to $SRAS_1$).
-    *   Economy returns to potential GDP (Point A) at the **original price level**.
-    *   Government policy could shift AD right to return to potential GDP faster, but would result in a permanently higher price level.
+**The Dynamic Model incorporates 3 facts**:
+1.  Potential GDP increases continually (LRAS shifts right).
+2.  Aggregate Demand (AD) shifts to the right (in most years).
+3.  Short-Run Aggregate Supply (SRAS) shifts to the right (as LRAS shifts, though it can be offset by inflation expectations).
 
-# A Dynamic Aggregate Demand and Aggregate Supply Model
+(ADD TABLE/FIGURE 9.8 HERE)
 
-The basic AD-AS model is simplified. A **dynamic aggregate demand and aggregate supply model** accounts for real-world facts:
-*   Potential GDP increases continually $\rightarrow$ **LRAS shifts right**.
-*   Aggregate demand curve usually shifts right.
-*   SRAS curve usually shifts right (unless high inflation expectations or supply shocks).
+### What Is the Usual Cause of Inflation?
+In the dynamic model, inflation occurs when the **AD curve shifts to the right by *more* than the LRAS (and SRAS) curves shift**.
 
-![[786bd9b930186e32ab2b2b4ea4c3ada9.jpg]]
-*Figure 9.8: A Dynamic Aggregate Demand and Aggregate Supply Model*
+In other words, inflation is most commonly caused by **total spending growing faster than total production.**
 
-*   **Panel (a)**: Initial long-run equilibrium.
-*   **Panel (b)**: LRAS shifts right (due to growth in labour, capital, technology). SRAS also shifts right (for similar reasons, but tempered by inflation expectations).
-*   **Panel (c)**: AD shifts right (due to growing population, rising incomes, increased investment, government purchases).
-*   **New Equilibrium**: Often results in a **higher price level (inflation)** and **higher real GDP**. Inflation occurs if AD shifts right by *more* than SRAS.
-
-## What Is the Usual Cause of Inflation?
-*   Most inflation occurs when **total spending (AD) grows faster than total production (LRAS)**.
-*   If AD shifts right by more than LRAS, equilibrium occurs at a higher price level.
-*   SRAS shifts right by less than LRAS because anticipated inflation offsets some of the growth factors.
-
-![[Pasted Graphic 10 1.png]]
-*Figure 9.9: Using Dynamic Aggregate Demand and Aggregate Supply to Understand Inflation*
-
-*   If AD increases by the same amount as SRAS and LRAS, economic growth occurs *without* inflation.
-
-## Economics in Your Life and Career
-**IS AN EMPLOYER LIKELY TO CUT YOUR PAY DURING A RECESSION?**
-*   During a recession, the price level rarely falls significantly. Most firms won't cut prices unless sales drastically decline.
-*   Firms are reluctant to cut wages due to negative effects on worker morale and productivity.
-*   Highly skilled workers are less likely to face wage cuts, as employers fear they might quit.
+(ADD TABLE/FIGURE 9.9 HERE)
