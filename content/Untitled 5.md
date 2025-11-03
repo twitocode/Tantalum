@@ -14,17 +14,24 @@ Antiderivatives of a function form a family of curves that are **vertical shifts
 Code snippet
 
 ```tikz
+```
+```tikz
 \begin{document}
-\begin{tikzpicture}[scale=1.5]
-    \draw[->, thick, blue] (-1.5, 0) -- (1.5, 0) node[right] {$x$};
-    \draw[->, thick, blue] (0, -2) -- (0, 2) node[above] {$y$};
+\usetikzlibrary{patterns} % <--- This line is the fix
 
-    % Curves for F(x) = 1/3 x^3 + C
-    \draw[domain=-1.3:1.3, smooth, samples=100, color=green, very thick] plot (\x, {(\x)^3/3 + 1});
-    \node[right] at (1.3, {1.3^3/3 + 1}) {$\frac{1}{3}x^{3}+1$};     \draw[domain=-1.3:1.3, smooth, samples=100, color=blue, very thick] plot (\x, {(\x)^3/3});
-    \node[right] at (1.3, {1.3^3/3}) {$\frac{1}{3}x^{3}$};
-    \draw[domain=-1.3:1.3, smooth, samples=100, color=red, very thick] plot (\x, {(\x)^3/3 - 1});
-    \node[right] at (1.3, {1.3^3/3 - 1}) {$\frac{1}{3}x^{3}-1$};
+\begin{tikzpicture}[scale=3]
+    \draw[->, very thin] (-1.2, 0) -- (1.2, 0) node[right] {$x$};
+    \draw[->, very thin] (0, 0) -- (0, 1.2) node[above] {$y$};
+    \node[right] at (1, 1) {$y=x^2$};
+    \draw[thick, blue, domain=-1.1:1.1, smooth] plot (\x, {\x*\x});
+
+    % Shaded Area (A) on [0, 1]
+    % 'pattern=north east lines' requires the 'patterns' library
+    \fill[blue!20, pattern=north east lines, pattern color=blue!50] (0, 0) -- plot[domain=0:1] (\x, {\x*\x}) -- (1, 0) -- cycle;
+    \draw[thick, blue, domain=0:1] plot (\x, {\x*\x}); % Redraw curve over shaded area
+    \draw (1, 0) -- (1, 1); % Vertical line at x=1
+    \node at (0.8, 0.5) {$A$};
+    \node[below] at (1, 0) {$1$};
 \end{tikzpicture}
 \end{document}
 ```
