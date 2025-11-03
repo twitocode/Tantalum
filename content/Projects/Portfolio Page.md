@@ -1,4 +1,9 @@
 [Vanessa Lai](https://vanessa-laii.github.io/) -mcmaster student
+[Samson Zhang \| Frontend developer & designer](https://samsonzhang.com/)
+
+
+___
+# Old 
 https://mdxcai.com/#
 https://bekahhw.com/
 https://portfolio-v1.benoldham.dev/
