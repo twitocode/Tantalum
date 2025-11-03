@@ -64,16 +64,16 @@ $$\large \int f(x) \, dx = F(x) + C$$
 
 ### Example 1: Finding $g(x)$ given $g'(x)$ and a point
 
-**Problem:** Find $g(x)$ if $g'(x)=4\sin x+\frac{2x^5-\sqrt{x}}{x}$ and $g(0)=2$7.
+**Problem:** Find $g(x)$ if $g'(x)=4\sin x+\frac{2x^5-\sqrt{x}}{x}$ and $g(0)=2$
 
 - **Result:** $g(x)=-4\cos x+\frac{2}{5}x^5-2\sqrt{x}+6$.
     
 
 ### Example 2: Finding $f(x)$ given $f''(x)$ and two points
 
-**Problem:** Find $f(x)$ if $f''(x)=12x^2+6x-4$, $f(0)=4$, and $f(1)=1$9.
+**Problem:** Find $f(x)$ if $f''(x)=12x^2+6x-4$, $f(0)=4$, and $f(1)=1$.
 
-- **Result:** $f(x)=x^4+x^3-2x^2-3x+4$10.
+- **Result:** $f(x)=x^4+x^3-2x^2-3x+4$.
     
 
 ---
@@ -82,58 +82,39 @@ $$\large \int f(x) \, dx = F(x) + C$$
 
 ### Definition
 
-The Sigma Notation ($\Sigma$) represents a sum11:
+The Sigma Notation ($\Sigma$) represents a sum:
 
 $$\large \sum_{i=m}^{n} a_{i} = a_{m} + a_{m+1} + \dots + a_{n}$$
 
 - $i$ is the index of summation12121212.
+- **Example:** $\sum_{i=4}^{8}\frac{i}{i-2}=\frac{4}{4-2}+\frac{5}{5-2}+\frac{6}{6-2}+\frac{7}{7-2}+\frac{8}{8-2}$
     
-- $m$ is the starting index13.
-    
-- $n$ is the ending index14.
-    
-- $a_i$ is a function of the index $i$15.
-    
-- **Example:** $\sum_{i=4}^{8}\frac{i}{i-2}=\frac{4}{4-2}+\frac{5}{5-2}+\frac{6}{6-2}+\frac{7}{7-2}+\frac{8}{8-2}$16.
-    
-
 ### Properties of Summation
-
-1. **Constant Multiple Rule:** $\large \sum_{i=m}^{n} C a_{i} = C\sum_{i=m}^{n} a_{i}$171717.
-    
-2. **Sum/Difference Rule:** $\large \sum_{i=m}^{n} (a_{i}+b_{i}) = \sum_{i=m}^{n} a_{i}+\sum_{i=m}^{n} b_{i}$18.
-    
-3. **Sum of a Constant:** $\large \sum_{i=1}^{n} C = nC$19.
+1. **Constant Multiple Rule:** $\large \sum_{i=m}^{n} C a_{i} = C\sum_{i=m}^{n} a_{i}$
+2. **Sum/Difference Rule:** $\large \sum_{i=m}^{n} (a_{i}+b_{i}) = \sum_{i=m}^{n} a_{i}+\sum_{i=m}^{n} b_{i}$
+3. **Sum of a Constant:** $\large \sum_{i=1}^{n} C = nC$1
     
 
 ### Formulas for Sums of Powers
 
 $$\large \sum_{i=1}^{n} i = \frac{n(n+1)}{2}$$
 
-202020
-
 $$\large \sum_{i=1}^{n} i^{2} = \frac{n(n+1)(2n+1)}{6}$$
-
-21
 
 $$\large \sum_{i=1}^{n} i^{3} = \left[\frac{n(n+1)}{2}\right]^{2}$$
 
-22
-
 ### Example: Evaluating a Summation
 
-**Problem:** Evaluate $\large \sum_{i=1}^{n} i(4i^2 - 3)$23.
-
-- **Result:** $\large \frac{1}{2} n(n+1) (2n^2 + 2n - 3)$24.
+**Problem:** Evaluate $\large \sum_{i=1}^{n} i(4i^2 - 3)$
+- **Result:** $\large \frac{1}{2} n(n+1) (2n^2 + 2n - 3)$
     
-
 ### Example: Telescoping Sum
 
-**Problem:** Evaluate $\large \sum_{i=1}^{n}\left(\frac{1}{i+1}-\frac{1}{i+3}\right)$25.
+**Problem:** Evaluate $\large \sum_{i=1}^{n}\left(\frac{1}{i+1}-\frac{1}{i+3}\right)$
 
 - This is a **Telescoping Sum**26.
     
-- **Result:** $\large \frac{5}{6}-\frac{2n+5}{(n+2)(n+3)}$27.
+- **Result:** $\large \frac{5}{6}-\frac{2n+5}{(n+2)(n+3)}$
     
 
 ---
@@ -146,16 +127,14 @@ To approximate the area under $f(x)$ on $[a, b]$, the interval is divided into $
 
 $$\large \Delta x = \frac{b-a}{n}$$
 
-28282828
-
-- The endpoints of the subintervals are $x_i = a+i\Delta x$29292929.
+- The endpoints of the subintervals are $x_i = a+i\Delta x$
     
-- The starting point is $x_0=a$30.
+- The starting point is $x_0=a$
     
 
 #### Right Endpoint Approximation ($R_n$)
 
-Uses the right endpoint $x_i$ of each subinterval for the height31:
+Uses the right endpoint $x_i$ of each subinterval for the height:
 
 $$\large R_n = \sum_{i=1}^{n} f(x_i) \Delta x$$
 
@@ -163,7 +142,7 @@ $$\large R_n = \sum_{i=1}^{n} f(x_i) \Delta x$$
 
 #### Left Endpoint Approximation ($L_n$)
 
-Uses the left endpoint $x_{i-1}$ of each subinterval for the height33:
+Uses the left endpoint $x_{i-1}$ of each subinterval for the height:
 
 $$\large L_n = \sum_{i=1}^{n} f(x_{i-1}) \Delta x$$
 
@@ -175,7 +154,7 @@ $$\large L_n = \sum_{i=1}^{n} f(x_{i-1}) \Delta x$$
 
 Code snippet
 
-```
+```tikz
 \begin{document}
 \begin{tikzpicture}[scale=3]
     \draw[->, very thin] (-1.2, 0) -- (1.2, 0) node[right] {$x$};
@@ -249,7 +228,7 @@ $$\large \int_{a}^{b} f(x) \, dx = \text{Net Area} = \text{Area above } x\text{-
 
 Code snippet
 
-```
+```tikz
 \begin{document}
 \begin{tikzpicture}[scale=1.5]
     \draw[->, thick] (-0.5, 0) -- (4, 0) node[right] {$x$};
@@ -293,7 +272,16 @@ Code snippet
 ```
 
 ---
+```tikz
+\begin{document}
+  \begin{tikzpicture}[domain=0:4]
+    \draw[very thin,color=gray] (-0.1,-1.1) grid (3.9,3.9);
+    \draw[->] (-0.2,0) -- (4.2,0) node[right] {$x$};
+    \draw[->] (0,-1.2) -- (0,4.2) node[above] {$f(x)$};
+    \draw[color=red]    plot (\x,\x)             node[right] {$f(x) =x$};
+    \draw[color=blue]   plot (\x,{sin(\x r)})    node[right] {$f(x) = \sin x$};
+    \draw[color=orange] plot (\x,{0.05*exp(\x)}) node[right] {$f(x) = \frac{1}{20} \mathrm e^x$};
+  \end{tikzpicture}
+\end{document}
+```
 
-I've completed the conversion of all topics in your file to an Obsidian-ready format.
-
-Would you like me to convert another set of notes, or do you have any specific questions about Antiderivatives or Definite Integrals?
