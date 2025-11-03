@@ -36,7 +36,7 @@ Economic growth is the process by which an economy produces increasing quantitie
     *   Early 21st Century (2000-2019): Deceleration (1.7% per year) due to 2007-2009 recession and weak recovery.
     *   2020: Negative growth due to COVID-19.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.1: Average Annual Growth Rates for the World Economy*
 
 ## **Small Differences in Growth Rates Are Important**
@@ -68,7 +68,7 @@ Economies are categorized into:
 
 Global GDP per capita in 2020 ranged from \$173,688 (Monaco) to \$238 (Burundi).
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.2: GDP per Capita, 2020*
 
 ## **Is Income All That Matters?**
@@ -101,7 +101,7 @@ The **per-worker production function** shows the relationship between real GDP p
     *   Capital per hour worked: $K/L$
 *   **Diminishing Returns to Capital**: When technology is held constant, equal increases in capital per hour worked lead to *diminishing* increases in output per hour worked. This is due to the law of diminishing returns.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.3: The Per-Worker Production Function*
 
 ## **Technological Change: The Key to Sustaining Economic Growth**
@@ -110,7 +110,7 @@ Technological change shifts the production function *up*, allowing an economy to
 > [!IMPORTANT]
 > In the long run, a country will experience an increasing standard of living only if it experiences continuing technological change.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.4: Technological Change Increases Output per Hour Worked*
 
 ## **New Growth Theory**
@@ -137,7 +137,7 @@ Schumpeter's model emphasizes that new products unleash a "gale of **creative de
 *   **Mid-1990s**: Pickup (information technology revolution).
 *   **Since 2006**: Slowed again.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.5: Average Annual Growth Rates in Real GDP per Person in Canada*
 
 ## **Is Canada Headed for a Long Period of Slow Growth?**
@@ -172,15 +172,15 @@ The economic growth model predicts that poor countries should grow faster than r
 ## **Catch-up: Sometimes But Not Always**
 *   **Among High-Income Countries**: Catch-up has occurred. Countries with lower incomes in 1960 (e.g., Korea, Singapore) grew fastest, while those with highest incomes (e.g., Switzerland, US) grew slowest.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.6: The Catch-up Predicted by the Economic Growth Model*
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.7: There Has Been Catch-up among High-Income Countries*
 
 *   **Developing Countries**: Catch-up has *not* been consistent. Some low-income countries (e.g., China, Korea) grew rapidly, while others (e.g., Democratic Republic of Congo, Venezuela) experienced negative growth.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.8: Most of the World Hasn’t Been Catching Up*
 
 ## **Why Haven’t Most Western European Countries, Canada, and Japan Caught Up to the United States?**
@@ -189,7 +189,7 @@ Since 1990, many high-income countries have fallen further behind the US in real
     1.  **Greater flexibility of US labour markets**: Less restrictive regulations, higher job mobility, and lower unemployment benefits encourage faster job matching and higher productivity.
     2.  **Greater efficiency of the US financial system**: High legal protection for investors, liquid financial markets, and the role of **venture capital firms** in funding technology startups give the US an advantage in implementing new technologies.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.9: Other High-Income Countries Have Stopped Catching Up to the United States*
 
 ## **Why Don’t More Low-Income Countries Experience Rapid Growth?**
@@ -264,7 +264,7 @@ tags:
     *   Early 21st Century (2000-2019): Deceleration (1.7% per year) due to 2007-2009 recession and weak recovery.
     *   2020: Negative growth due to COVID-19.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.1: Average Annual Growth Rates for the World Economy*
 
 ## **Small Differences in Growth Rates Are Important**
@@ -295,7 +295,7 @@ Economies are categorized into:
 
 Global GDP per capita in 2020 ranged from \$173,688 (Monaco) to \$238 (Burundi).
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.2: GDP per Capita, 2020*
 
 ## **Is Income All That Matters?**
@@ -331,7 +331,7 @@ While income is crucial for improving living standards, other measures like heal
 *   **Diminishing Returns to Capital**: When technology is held constant, equal increases in capital per hour worked lead to *diminishing* increases in output per hour worked. This is due to the **law of diminishing returns**.
     *   **Law of diminishing returns**: States that as we add more of one input (e.g., capital) to a fixed quantity of another input (e.g., labour), output increases by smaller additional amounts.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.3: The Per-Worker Production Function*
 
 ## **Technological Change: The Key to Sustaining Economic Growth**
@@ -341,7 +341,7 @@ While income is crucial for improving living standards, other measures like heal
 > [!IMPORTANT]
 > In the long run, a country will experience an increasing standard of living only if it experiences continuing technological change.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.4: Technological Change Increases Output per Hour Worked*
 
 ## **New Growth Theory**
@@ -376,7 +376,7 @@ While income is crucial for improving living standards, other measures like heal
     *   **Information technology (IT)**: Includes increased use of computers, software, cellphones, and related innovations.
 *   **Since 2006**: Slowed again.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.5: Average Annual Growth Rates in Real GDP per Person in Canada*
 
 ## **Is Canada Headed for a Long Period of Slow Growth?**
@@ -410,16 +410,16 @@ Critics argue that low investment demand was temporary due to the 2007-2009 rece
 ## **Catch-up: Sometimes But Not Always**
 *   **Among High-Income Countries**: Catch-up has occurred. Countries with lower incomes in 1960 (e.g., Korea, Singapore) grew fastest, while those with highest incomes (e.g., Switzerland, US) grew slowest.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.6: The Catch-up Predicted by the Economic Growth Model*
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.7: There Has Been Catch-up among High-Income Countries*
 
 *   **Developing Countries**: Catch-up has *not* been consistent. Some low-income countries (e.g., China, Korea) grew rapidly, while others (e.g., Democratic Republic of Congo, Venezuela) experienced *negative economic growth*.
     *   **Negative economic growth**: A situation where real GDP per capita decreases over time.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.8: Most of the World Hasn’t Been Catching Up*
 
 ## **Why Haven’t Most Western European Countries, Canada, and Japan Caught Up to the United States?**
@@ -430,7 +430,7 @@ Since 1990, many high-income countries have fallen further behind the US in real
         *   **Liquidity**: The ease with which one asset can be converted into a different asset, usually for exchanging a financial asset for money.
         *   **Venture capital firms**: Firms that raise funds from institutional investors and wealthy individuals to invest in new firms ("startups"), particularly those based on new technologies.
 
-![[Attachment.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Attachment.png]]
 *Figure 7.9: Other High-Income Countries Have Stopped Catching Up to the United States*
 
 ## **Why Don’t More Low-Income Countries Experience Rapid Growth?**

@@ -41,7 +41,7 @@ The economy adjusts to equilibrium through firms' responses to unplanned invento
 ## Determinants of Aggregate Expenditure
 ### Consumption ($C$)
 Consumption is the largest component of aggregate expenditure and generally follows a smooth, upward trend, only declining during recessions.
-![[Pasted Graphic.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Pasted Graphic.png]]
 
 The five most important determinants of consumption are:
 1.  **Current Disposable Income**: The most important determinant. Higher disposable income leads to more spending.

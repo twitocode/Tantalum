@@ -153,7 +153,7 @@ We can rearrange the equation like this:
 The table in ++[Figure 8.3](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/fe7c3220-7c30-11ed-85b6-b7d3d7cc2445.xhtml#246593d14681fee13b68d38ea77e5ba2)++ shows hypothetical values for national income (GDP), net taxes, disposable income, and consumption spending. Notice that national income and disposable income differ by a constant amount, which is equal to net taxes of $1000 billion. In reality, net taxes are not a constant amount because they are affected by changes in income. As income rises, net taxes rise because some taxes, such as personal income tax, increase and some government transfer payments, such as employment insurance payments, fall. None of the results presented in this section is dramatically affected by this simplifying assumption.  
   
 **Figure 8.3 The Relationship between Consumption and National Income**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Attachment.png)  
 Because national income differs from disposable income only by net taxes—which, for simplicity, we assume are constant—we can graph the consumption function using national income rather than disposable income. We can also calculate the *MPC*, which is the slope of the consumption function, using either the change in national income or the change in disposable income and always get the same value. The slope of the consumption function between point *A* and point *B* is equal to the change in consumption—$1500 billion—divided by the change in national income—$2000 billion—or 0.75.  
   
 *   
@@ -316,17 +316,17 @@ As the value of the Canadian dollar rises, the foreign currency price of Canadia
 . At this exchange rate, someone in Canada could buy ¥100 for $1, or someone in Japan could buy $1 for . Leaving aside transportation costs, an item that sells for $10 in Canada will sell for ¥1000 in Japan, and a Japanese product that sells for ¥1000 in Japan will sell for $10 in Canada. If the exchange rate changes to  
 , the value of the dollar has risen, as it takes more yen to buy $1. Under the new exchange rate, a product that still sells for $10 in Canada will now cost ¥1500 in Japan, reducing the quantity demanded by Japanese consumers. The Japanese product that sells in Japan for ¥1000 will now sell in Canada for $6.67, increasing the quantity demanded by Canadian consumers. An increase in the value of the dollar will reduce exports and increase imports, so net exports will fall. A decrease in the value of the dollar will increase exports and reduce imports, so net exports will rise.  
   
-![Figure 8.1 Real Consumption](Attachments/Pasted%20Graphic.png)  
-![Figure 8.2 (a) The Relationship between Consumption](Attachments/Pasted%20Graphic%201.png)  
-![Figure 8.2 (b) The Relationship between Consumption](Attachments/Pasted%20Graphic%202.png)  
-![Change in consumption](Attachments/Pasted%20Graphic%203.png)  
-![$39.7 billion](Attachments/Pasted%20Graphic%204.png)  
-![Disposable income = National income - Net taxes](Attachments/Pasted%20Graphic%205.png)  
-![National income = GDP = Disposable income + Net taxes](Attachments/Pasted%20Graphic%206.png)  
+![Figure 8.1 Real Consumption](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Pasted%20Graphic.png)  
+![Figure 8.2 (a) The Relationship between Consumption](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Pasted%20Graphic%201.png)  
+![Figure 8.2 (b) The Relationship between Consumption](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Pasted%20Graphic%202.png)  
+![Change in consumption](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Pasted%20Graphic%203.png)  
+![$39.7 billion](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Pasted%20Graphic%204.png)  
+![Disposable income = National income - Net taxes](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Pasted%20Graphic%205.png)  
+![National income = GDP = Disposable income + Net taxes](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Pasted%20Graphic%206.png)  
 ![Figure 8.3](Attachments/Pasted%20Graphic%207.png)  
-![National income = Consumption + Saving + Taxes](Attachments/Pasted%20Graphic%208.png)  
-![Change in national income = Change in Consumption + Change in saving](Attachments/Pasted%20Graphic%209.png)  
-![Y = C+ S+T](Attachments/Pasted%20Graphic%2010.png)  
+![National income = Consumption + Saving + Taxes](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Pasted%20Graphic%208.png)  
+![Change in national income = Change in Consumption + Change in saving](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Pasted%20Graphic%209.png)  
+![Y = C+ S+T](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Pasted%20Graphic%2010.png)  
 ![AY = AC + AS](Attachments/Pasted%20Graphic%2011.png)  
 ![1 = MPC + MPS](Attachments/Pasted%20Graphic%2012.png)  
 ![Figure 8.4 Real Investment](Attachments/Pasted%20Graphic%2013.png)  
@@ -345,7 +345,7 @@ Having examined the components of aggregate expenditure, we can now look more cl
   
 **Figure 8.7**  
 **An Example of the 45°-Line Diagram**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Attachment.png)  
 The 45° line shows all the points that are at equal distances from both axes. Points such as *A* and *B*, at which the quantity produced equals the quantity sold, are on the 45° line. Points such as *C*, at which the quantity sold is greater than the quantity produced, lie above the line. Points such as *D*, at which the quantity sold is less than the quantity produced, lie below the line.  
   
 **Animation: Figure 8.7 An Example of the 45-Degree-Line Diagram**  
@@ -361,7 +361,7 @@ line. Points such as *C*, where the quantity sold is greater than the quantity p
 line, planned aggregate expenditure will be less than GDP.  
 **Figure 8.8**  
 **The Relationship between Planned Aggregate Expenditure and GDP in a 45°-Line Diagram**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Attachment.png)  
 Every point of macroeconomic equilibrium is on the 45° line, where planned aggregate expenditure equals GDP. At points above the line, planned aggregate expenditure is greater than GDP. At points below the line, planned aggregate expenditure is less than GDP.  
   
 **"Animation: Figure 8.8 The Relationship between Planned Aggregate Expenditure and GDP in a 45-Degree-Line Diagram"**  
@@ -378,7 +378,7 @@ Changes in GDP have a much greater impact on consumption than on planned investm
 line, planned aggregate expenditure is equal to GDP, and the economy is in macroeconomic equilibrium.  
 **Figure 8.9**  
 **Macroeconomic Equilibrium on the 45°-Line Diagram**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Attachment.png)  
 Macroeconomic equilibrium occurs where the *AE* line crosses the 45° line. The lowest upward-sloping line, *C*, represents the consumption function. The quantities of planned investment, government purchases, and net exports are constant because we assume that the variables they depend on are constant. So, the total of planned aggregate expenditure at any level of GDP is the amount of consumption at that level of GDP plus the sum of the constant amounts of planned investment, government purchases, and net exports. We successively add each component of spending to the consumption function line to arrive at the line representing aggregate expenditure.  
   
 *   
@@ -396,7 +396,7 @@ Play
 line and the *AE* line. The figure shows that the *AE* line intersects the line at a level of GDP of $2.2 trillion. Therefore, $2.2 trillion represents the equilibrium level of real GDP. To see why this is true, consider what would happen if real GDP were only $1.6 trillion. By moving vertically from trillion on the horizontal axis up to the *AE* line, we see that planned aggregate expenditure will be greater than $1.6 trillion at this level of real GDP. Whenever total spending is greater than total production, firms’ inventories will fall. The fall in inventories is equal to the vertical distance between the *AE* line, which shows the level of total spending, and the line, which shows the $1.6 trillion in total production. Unplanned declines in inventories lead firms to increase their production.++^[6](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/ff2ae8b0-7c30-11ed-8180-bc5d25f2e362.xhtml#b3c842c9-4ebd-472c-aa39-75b3c7e59c1b)^++ As real GDP increases from $1.6 trillion, so will total income and, therefore, consumption. The economy will move up the *AE* line as consumption increases. The gap between total spending and total production will fall, but so long as the *AE* line is above the  
 line, inventories will continue to decline, and firms will continue to expand production. When real GDP rises to $2.2 trillion, inventories stop falling, and the economy will be in macroeconomic equilibrium.  
 **Figure 8.10 Macroeconomic Equilibrium**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Attachment.png)  
 Macroeconomic equilibrium occurs where the *AE* line crosses the 45° line. In this case, that occurs at GDP of $2.2 trillion. If GDP is less than $2.2 trillion, the corresponding point on the *AE* line is above the 45° line, planned aggregate expenditure is greater than total production, firms will experience an unplanned decrease in inventories, and GDP will increase. If GDP is greater than $2.2 trillion, the corresponding point on the *AE* line is below the 45° line, planned aggregate expenditure is less than total production, firms will experience an unplanned increase in inventories, and GDP will decrease.  
   
 *   
@@ -415,7 +415,7 @@ Notice that *macroeconomic equilibrium can occur at any point on the*
 ![Showing a Recession on the](Attachments/iIQ_F5Q_bl3RLlMvqKyfRGp0PPZD0adV.jpg)  
 **Figure 8.11**  
 **Showing a Recession on the 45°-Line Diagram**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Attachment.png)  
 When the *AE* line intersects the 45° line at a level of GDP below potential GDP, the economy is in recession. The figure shows that potential GDP is $2.4 trillion, but because planned aggregate expenditure is too low, the equilibrium level of GDP is only $2.2 trillion, where the *AE* line intersects the 45° line. As a result, some firms will be operating below their normal capacity, and unemployment will be above the natural rate of unemployment. We can measure the shortfall in planned aggregate expenditure as the vertical distance between the *AE* line and the 45° line at the level of potential GDP.  
 *   
 *   
@@ -502,7 +502,7 @@ to
   
 **Figure 8.12**  
 **The Multiplier Effect**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Attachment.png)  
 The economy begins at point A, at which equilibrium real GDP is $2.2 trillion. An $80 billion increase in planned investment shifts up aggregate expenditure from A‍E‍1 to A‍E‍2. The new equilibrium is at point B, where real GDP is $2.6 trillion, which is potential real GDP. Because of the multiplier effect, an $80 billion increase in investment results in a $400 billion increase in equilibrium real GDP.  
 *   
 *   
@@ -730,7 +730,7 @@ line. Remember that we measure the price level as an index number with a value o
 -line diagram. The *AE* line shifts down because with higher prices, less spending will occur in the economy at every level of GDP. Panel (a) of ++[Figure 8.13](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/ffd7a370-7c30-11ed-8619-c5a4acc593d7.xhtml#6ffce8dab5f1639d879c484265376908)++ shows that the downward shift of the *AE* line results in a lower level of equilibrium real GDP.  
 **Figure 8.13**  
 **The Effect of a Change in the Price Level on Real GDP**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Attachment.png)  
 In panel (a), an increase in the price level results in declining consumption, planned investment, and net exports and causes the aggregate expenditure line to shift down from A‍E‍1 to A‍E‍2. As a result, equilibrium real GDP declines from $2.6 trillion to $2.2 trillion. In panel (b), a decrease in the price level results in rising consumption, planned investment, and net exports and causes the aggregate expenditure line to shift up from A‍E‍1 to A‍E‍2. As a result, equilibrium real GDP increases from $2.2 trillion to $2.6 trillion.  
 *   
 *   
@@ -744,7 +744,7 @@ At the beginning of this chapter, we asked you to suppose that you work part tim
 If the price level falls from, say, 100 to 97, then planned investment, consumption, and net exports will all rise. As panel (b) of ++[Figure 8.13](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/ffd7a370-7c30-11ed-8619-c5a4acc593d7.xhtml)++ shows, the *AE* line will shift up, which will cause equilibrium real GDP to increase.  
 ++[Figure 8.14](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/ffd7a370-7c30-11ed-8619-c5a4acc593d7.xhtml#480e7b258a41af146970f5a8ff758b86)++ summarizes the effect of changes in the price level on real GDP. The table shows the combinations of price level and real GDP from ++[Figure 8.13](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/ffd7a370-7c30-11ed-8619-c5a4acc593d7.xhtml)++. The graph plots the numbers from the table. In the graph, the price level is measured on the vertical axis, and real GDP is measured on the horizontal axis. The relationship shown in ++[Figure 8.14](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/ffd7a370-7c30-11ed-8619-c5a4acc593d7.xhtml#480e7b258a41af146970f5a8ff758b86)++ between the price level and the level of planned aggregate expenditure is known as the **++[aggregate demand curve](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/glossary.xhtml#key-4742fd09-1a11-5ac6-8353-c8b7eec7d665)++**.  
 **Figure 8.14 The Aggregate Demand Curve**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Chapter%208%20Economics/Attachments/Attachment.png)  
 The aggregate demand (*AD*) curve shows the relationship between the price level and the level of planned aggregate expenditure in the economy. When the price level is 105, real GDP is $2 trillion. An increase in the price level to 120 causes consumption, planned investment, and net exports to fall, which reduces real GDP to $1.6 trillion.  
   
 *   

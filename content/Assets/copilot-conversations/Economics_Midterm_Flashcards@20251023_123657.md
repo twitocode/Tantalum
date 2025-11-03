@@ -1663,7 +1663,7 @@ Planned Aggregate Expenditure ($AE$) is the total planned spending in an economy
 
 What does **Consumption ($C$)** represent in the AE model? #flashcard
 Spending by households on goods and services.
-![[Pasted Graphic.png]]
+![[University/Year 1/ECON 1BB3/Attachments/Pasted Graphic.png]]
 
 What does **Planned Investment ($I$)** represent in the AE model? #flashcard
 Planned spending by firms on capital goods (factories, machines) and by households on new homes.

@@ -16,7 +16,7 @@ For more practice, do related ++[Problem 1.3](https://plus.pearson.com/epub/bron
 ++[Figure 7.1](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/fca1ccd0-7c30-11ed-8df2-0e3634e0c731.xhtml#87e4c532dfc02595e6a0690d69409f5d)++ shows how growth rates of real GDP per capita for the entire world have changed over long periods. Prior to CE 1300, there were no sustained increases in real GDP per capita. Over the next 500 years, to 1800, there was very slow growth. Significant growth began in the nineteenth century, as a result of the Industrial Revolution. A further acceleration in growth occurred during the twentieth century, as the average growth rate increased from 1.3 percent per year to 2.3 percent per year. The first 19 years of the twenty-first century saw a deceleration of growth, with the average growth rate falling to 1.7 percent per year. That slow growth reflects the severity of the worldwide recession of 2007–2009 and the weak recovery that followed. Growth was negative during 2020 because of the effects of the COVID-19 pandemic.  
 **Figure 7.1**  
 **Average Annual Growth Rates for the World Economy**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Attachments/Attachment.png)  
 World economic growth was essentially zero in the years before 1300, and it was very slow—an average of only 0.2 percent per year—between 1300 and 1800. The Industrial Revolution made possible the sustained increases in real GDP per capita that have allowed some countries to attain high standards of living. Growth accelerated during the twentieth century before slowing during the first years of the twenty-first century.  
 **SOURCES: J. Bradford DeLong, “Estimates of World GDP, One Million B.C.–Present,” working paper, University of California, Berkeley; and World Bank national accounts data.worldbank.org.**  
   
@@ -42,7 +42,7 @@ Although their problems are less dramatic, countries that experience slow growth
 When economists talk about growth rates over a period of more than one year, the numbers are always *average annual percentage changes* and *not* total percentage changes. For example, in the United States, real GDP per capita was $15 092 in 1950 and $55 802 in 2020. The percentage change in real GDP per capita between these two years is  
   
   
-![$55 802 - $15 092](Attachments/Pasted%20Graphic%201.png)  
+![$55 802 - $15 092](University/Year%201/ECON%201BB3/Attachments/Pasted%20Graphic%201.png)  
   
 However, this is *not* the growth rate between the two years. The growth rate between these two years is the rate at which $15 902 in 1950 would have to grow on average *each year* to end up as $55 802 in 2020, which is 1.9 percent.  
 For more practice, do related ++[Problem 1.6](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/fdfd8c40-7c30-11ed-8c1f-f8a9cb6e7a27.xhtml#24a3d9961a81d66db648af859d6280f0)++ at the end of this chapter.  
@@ -54,7 +54,7 @@ We can divide the world’s economies into two groups:
 In the 1980s and 1990s, a small group of countries, mostly East Asian countries such as Singapore and South Korea, began to experience high rates of growth. These countries are sometimes called the *newly industrializing countries*.  
 ++[Figure 7.2](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/fca1ccd0-7c30-11ed-8df2-0e3634e0c731.xhtml#806f0377379ce96b3f7a8649999356dc)++ shows the levels of real GDP per capita around the world in 2020. GDP is measured in current US dollars (as of 2022). In 2020, GDP per capita ranged from a high of $173 688 in the European country of Monaco to a low of $238 in the African country of Burundi. To understand why the gap between rich and poor countries exists, in the next section we look at what causes economies to grow.  
 **Figure 7.2 GDP per Capita, 2020**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Attachments/Attachment.png)  
 GDP per capita is measured in US dollars, corrected for differences across countries in the cost of living. China and Taiwan are coloured differently in the world map as Taiwan's status is in dispute.  
   
   
@@ -68,8 +68,8 @@ Some economists argue, though, that if we look beyond income to other measures o
 These increases in living standards do not require significant increases in income. The key factors in raising living standards in low-income countries have been increases in technology and knowledge—such as the development of inexpensive vaccines that reduce epidemics and the use of mosquito-resistant netting that reduces the prevalence of malaria—that are inexpensive enough to be widely available. Changes in attitudes, such as placing a greater value on education, particularly for girls, and increasing support for political freedoms, have also played a role in improving conditions in low-income countries.  
 There are limits, of course, to how much living standards can increase if incomes stagnate. Ultimately, much higher rates of economic growth will be necessary for low-income countries to significantly close the gap in living standards with high-income countries.  
   
-![Figure 7.1](Attachments/Pasted%20Graphic.png)  
-![Figure 7.2](Attachments/Pasted%20Graphic%202.png)  
+![Figure 7.1](University/Year%201/ECON%201BB3/Attachments/Pasted%20Graphic.png)  
+![Figure 7.2](University/Year%201/ECON%201BB3/Attachments/Pasted%20Graphic%202.png)  
   
 # **What Determines How Fast Economies Grow?**  
 **LO 7.2** **Use the economic growth model to explain why growth rates differ across countries.**  
@@ -90,7 +90,7 @@ Often when analyzing economic growth, we look at increases in real GDP *per hour
 . The curve represents the production function. Notice that we do not explicitly show technological change in the figure. We assume that as we move along the production function, the level of technology remains constant. As we will see, we can illustrate technological change using this graph by *shifting up* the curve representing the production function.  
   
 **Figure 7.3 The Per-Worker Production Function**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Attachments/Attachment.png)  
 The per-worker production function shows the relationship between capital per hour worked and real GDP per hour worked, holding technology constant. Increases in capital per hour worked increase output per hour worked but at a diminishing rate. For example, an increase in capital per hour worked from $75 to $100 increases real GDP per hour worked from $48 to $53. An increase in capital per hour worked from $100 to $125 increases real GDP per hour worked by a smaller amount, from $53 to $57. Each additional $25 increase in capital per hour worked results in a progressively smaller increase in output per hour worked.  
   
 The figure shows that increases in the quantity of capital per hour worked result in movements up along the production function, increasing the quantity of output each worker produces. When *we hold technology constant*, however, equal increases in the amount of capital per hour worked lead to *diminishing* increases in output per hour worked. For example, increasing capital per hour worked from $75 to $100 increases real GDP per hour worked from $48 to $53, an increase of $5. Another $25 increase in capital per hour worked, from $100 to $125, increases real GDP per hour worked from $53 to $57, an increase of only $4. Each additional $25 increase in capital per hour worked results in progressively smaller increases in real GDP per hour worked. In fact, at very high levels of capital per hour worked, further increases in capital per hour worked will not result in any increase in real GDP per hour worked. This effect results from the *law of diminishing returns*, which states that as we add more of one input—in this case, capital—to a fixed quantity of another input—in this case, labour—output increases by smaller additional amounts.  
@@ -104,7 +104,7 @@ Or suppose you realize that the layout of your restaurant could be improved. May
 , when capital per hour worked is $150, real GDP per hour worked is $60. Technological change that shifts the economy to Production  
 makes it possible to produce $65 in goods and services per hour worked with the same level of capital per hour worked. Further increases in technology that shift the economy to higher production functions result in further increases in real GDP per hour worked. Because of diminishing returns to capital, continuing increases in real GDP per hour worked can be sustained only if there is technological change. Remember that a country will experience increases in its standard of living only if it experiences increases in real GDP per hour worked. Therefore, we can draw the following important conclusion: *In the long run, a country will experience an increasing standard of living only if it experiences continuing technological change*.  
 **Figure 7.4 Technological Change Increases Output per Hour Worked**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Attachments/Attachment.png)  
 Technological change shifts up the production function and allows more output per hour worked with the same amount of capital per hour worked. For example, along Production function‍1 with $150 in capital per hour worked, the economy can produce $60 in real GDP per hour worked. However, an increase in technology that shifts the economy to Production function‍2 makes it possible to produce $65 in real GDP per hour worked with the same level of capital per hour worked.  
   
 **Animation: Figure 7.4 Technological Change Increases Output per Hour Worked**  
@@ -133,7 +133,7 @@ Use the economic growth model and the information in the *Apply the Concept: Wha
 ## **Solving the Problem**  
 * **Step 1: Review the chapter material.** This problem is about using the economic growth model to explain the failure of the Soviet economy, so you may want to review the *Apply the Concept: What Explains the Economic Failure of the Soviet Union?*  
 * **Step 2: Draw a graph like ++[Figure 7.3](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/fcdf4b00-7c30-11ed-8475-a9f002d03bb8.xhtml#72ed2721ffeabef3a5612eb17624c111)++ to illustrate the economic problems of the Soviet Union.** For simplicity, assume that the Soviet Union experienced no technological change. The Soviet Union experienced rapid increases in capital per hour worked from 1950 through the 1980s, but its failure to implement new technology meant that output per hour worked grew at a slower and slower rate.  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Attachments/Attachment.png)  
   
 **Extra credit**  
 The Soviet Union hoped to raise the standard of living of its citizens above that enjoyed in the United States and other high-income countries by making continuous increases in the quantity of capital available to its workers. The economic growth model helps us understand the flaws in this policy for achieving economic growth.  
@@ -154,15 +154,15 @@ These government policies can bring the accumulation of knowledge capital closer
 The new growth theory has revived interest in the ideas of Joseph Schumpeter. Born in Austria in 1883, Schumpeter became an economics professor at Harvard University in 1932. He developed a model of growth that emphasized his view that new products unleash a “gale of creative destruction” that drives older products—and, often, the firms that produced them—out of the market. According to Schumpeter, the key to rising living standards is not small changes to existing products but, rather, new products that meet consumer wants in qualitatively better ways. For example, in the early twentieth century, the automobile displaced the horse-drawn carriage by meeting consumer demand for personal transportation in a way that was qualitatively better. In the early twenty-first century, the DVD and the DVD player displaced the VHS tape and the VCR by better meeting consumer demand for watching films at home. Downloading or streaming movies from the internet displaced the DVD just as the DVD displaced the VHS tape. As we saw in the chapter opener, this process of creative destruction has driven many once large and profitable firms into bankruptcy because they failed to adapt quickly enough to new technologies and to changes in consumer tastes. That Netflix drove Blockbuster into bankruptcy would come as no surprise to Schumpeter.  
   
 To Schumpeter, the entrepreneur is central to economic growth: “The function of entrepreneurs is to reform or revolutionize the pattern of production by exploiting an invention or, more generally, an untried technological possibility for producing new commodities or producing an old one in a new way.” This description fits Reed Hastings, founder of Netflix, very well. He realized that people would be willing to rent DVDs by mail if they arrived quickly and there were no late fees. As successful as that approach was, Hastings also realized that as more people had access to fast internet connections, they would prefer to stream movies rather than use physical discs. By having Netflix concentrate on offering movie streaming rather than renting DVDs, Hastings was able to greatly increase the firm’s sales by quickly responding to this shift in consumer preferences. The profit an entrepreneur hopes to earn provides the incentive for bringing together the factors of production—labour, capital, and natural resources—to start new firms and introduce new goods and services. Successful entrepreneurs can use their profits to finance the development of new products and are better able to attract funds from investors.  
-![Figure 7.3](Attachments/Pasted%20Graphic%203.png)  
+![Figure 7.3](University/Year%201/ECON%201BB3/Attachments/Pasted%20Graphic%203.png)  
   
-![Figure 7.4](Attachments/Pasted%20Graphic%204.png)  
+![Figure 7.4](University/Year%201/ECON%201BB3/Attachments/Pasted%20Graphic%204.png)  
   
 # **Economic Growth in Canada**  
 **LO 7.3** **Discuss fluctuations in productivity growth in Canada.**  
 The economic growth model can help us understand the record of growth in Canada. ++[Figure 7.5](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/fd39ee20-7c30-11ed-8d11-53134773c167.xhtml#fd699cf8d2bc2d6958222236478ba26a)++ shows average annual growth rates in real GDP per hour worked since 1870. As Canada experienced the Industrial Revolution during the nineteenth century, Canadian firms increased the quantity of capital per hour worked. New technologies such as the steam engine, the railroad, and the telegraph also became available. Together, these factors resulted in an average annual growth rate of real GDP per worker of 1.8 percent from 1800 to 1900. At this growth rate, real GDP per capita would double about every 40 years, which means that living standards were growing steadily but relatively slowly.  
 **Figure 7.5 Average Annual Growth Rates in Real GDP per Person in Canada**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Attachments/Attachment.png)  
 The growth rate in Canada increased from 1870 through the mid-1970s. Then growth slowed considerably.  
 **SOURCE:** Jorda-Schularick-Taylor, Macrohistory Database, accessed June 20, 2022, https://www.macrohistory.net/data/.  
   
@@ -197,7 +197,7 @@ As a result of these factors, the real interest rate that brings equality to the
 Critics of the secular stagnation view believe that the severity of the recession of 2007–2009 and the relatively slow recovery from that recession temporarily reduced the demand for investment. They note that higher levels of investment beginning in 2018 persisted into early 2021, despite the effects of the COVID-19 pandemic. In addition, they argue that economic growth in other countries may increase the demand for Canadian goods, allowing exports to increase, thereby offsetting the effects on GDP of lower demand for investment goods.  
 The debate over future growth rates is important. If the optimistic forecasts are correct, then in future decades, the Canadian standard of living will be much higher than if the pessimistic forecasts are correct. A large increase in the standard of living would have an enormous effect on nearly every aspect of life in Canada, including the extent of poverty, the ability of individuals and the government to finance increasing medical costs, and the ability of the country to deal with the effects of an aging population.  
   
-![Figure 7.5](Attachments/Pasted%20Graphic%205.png)  
+![Figure 7.5](University/Year%201/ECON%201BB3/Attachments/Pasted%20Graphic%205.png)  
   
 # **Why Isn’t the Whole World Rich?**  
 **LO 7.4 Explain economic catch-up and discuss why many poor countries have not experienced rapid economic growth.**  
@@ -210,7 +210,7 @@ This observation leads to an important conclusion: *The economic growth model pr
 We can construct a graph that makes it easier to see whether catch-up is happening. In ++[Figure 7.6](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/fd4c64b0-7c30-11ed-8541-e7174be19c35.xhtml#474115a52eb833d57228dfe25e36ab29)++, the horizontal axis shows the initial level of real GDP per capita, and the vertical axis shows the rate at which real GDP per capita is growing. We can then plot points on the graph for rich and poor countries. Each point represents the combination of a country’s initial level of real GDP per capita and its growth rate over the following years. The catch-up line in the figure shows the situation where the catch-up prediction holds exactly: Low-income countries should be on the upper-left section of the line because they would have low initial levels of real GDP per capita but fast growth rates. High-income countries should be in the lower-right section of the line because they would have high initial levels of real GDP per capita but slow growth rates. When we plot the actual observations for each country, the closer the points for each country are to the line, the more accurate the catch-up prediction.  
   
 **Figure 7.6 The Catch-up Predicted by the Economic Growth Model**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Attachments/Attachment.png)  
 According to the economic growth model, countries that start with lower levels of real GDP per capita should grow faster (points near the upper-left section of the line) than countries that start with higher levels of real GDP per capita (points near the lower-right section of the line).  
   
 **Animation: Figure 7.6 The Catch-up Predicted by the Economic Growth Model**  
@@ -221,7 +221,7 @@ Play
 ## **Catch-Up among the High-Income Countries**  
 If we look at only the countries that currently have high incomes, we can see the catch-up predicted by the economic growth model. ++[Figure 7.7](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/fd4c64b0-7c30-11ed-8541-e7174be19c35.xhtml#268bab1387c441efdeb57015532c8799)++ shows that the high-income countries that had the lowest incomes in 1960, such as Korea, Taiwan, Singapore, and Hong Kong (Hong Kong is part of China, and Taiwan’s status is in dispute), grew the fastest between 1960 and 2019 (which is the most recent year for which comprehensive data are available). Countries that had the highest incomes in 1960, such as Switzerland, New Zealand, and the United States, grew the slowest.  
 **Figure 7.7 There Has Been Catch-up among High-Income Countries**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Attachments/Attachment.png)  
 If we look only at countries that currently have high incomes, we see that countries such as Korea and Singapore that had the lowest incomes in 1960 grew the fastest between 1960 and 2019. Countries such as Switzerland, New Zealand, and the United States that had the highest incomes in 1960 grew the slowest. *Note:* Data are real GDP per capita in 2017 dollars. Each point in the figure represents one high-income country.  
 **SOURCE:** Authors’ calculations from data in Robert C. Feenstra, Robert Inklaar, and Marcel P. Timmer, “The Next Generation of the Penn World Table,” *American Economic Review* 105, no. 10 (October 2015): 3150–3182 (data available at www.ggdc.net/pwt).  
   
@@ -229,7 +229,7 @@ If we look only at countries that currently have high incomes, we see that count
 ## **Are the Developing Countries Catching Up to the High-Income Countries?**  
 If we expand our analysis to include every country for which statistics are available, it becomes more difficult to find the catch-up predicted by the economic growth model. ++[Figure 7.8](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/fd4c64b0-7c30-11ed-8541-e7174be19c35.xhtml#4fe9cb867f2483e3451b1978e32acd63)++, which includes data for 109 countries, does not show a consistent relationship between the level of real GDP per capita in 1960 and growth from 1960 to 2019. Some countries that had low levels of real GDP per capita in 1960, such as the Democratic Republic of the Congo and Venezuela, actually experienced *negative* economic growth: They had *lower* levels of real GDP per capita in 2019 than in 1960. Other countries that started with low levels of real GDP per capita, such as China and Korea, grew rapidly. Some middle-income countries in 1960, such as Jamaica, grew slowly between 1960 and 2019, while others, such as Ireland, grew much more rapidly.  
 **Figure 7.8 Most of the World Hasn’t Been Catching Up**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Attachments/Attachment.png)  
 If we look at all countries for which statistics are available, we do not see the catch-up predicted by the economic growth model. Some countries that had low levels of real GDP per capita in 1960, such as the Democratic Republic of the Congo and Venezuela, actually experienced *negative* economic growth. Other countries that started with low levels of real GDP per capita, such as Thailand and China, grew rapidly. Some middle-income countries in 1960, such as Jamaica, grew slowly between 1960 and 2019, while others, such as Ireland, experienced significant growth. *Note:* Data are real GDP per capita in 2017 dollars. Each point in the figure represents one country.  
 **SOURCE:** Authors’ calculations from data in Robert C. Feenstra, Robert Inklaar, and Marcel P. Timmer, “The Next Generation of the Penn World Table,” *American Economic Review* 105, no. 10 (October 2015): 3150–3182. Federal Reserve Bank of St. Louis.  
   
@@ -290,7 +290,7 @@ For more practice, do related ++[Problems 4.4](https://plus.pearson.com/epub/bro
 ## **Why Haven’t Most Western European Countries, Canada, and Japan Caught Up to the United States?**  
 ++[Figure 7.7](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/fd4c64b0-7c30-11ed-8541-e7174be19c35.xhtml#268bab1387c441efdeb57015532c8799)++ indicates that there has been catch-up among the high-income countries over the past 57 years. If we look at the catch-up of other high-income countries to the United States during the most recent period, we discover a surprising fact: Over the past 25 years, most other high-income countries have actually fallen further behind the United States rather than catching up to it. ++[Figure 7.9](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/fd4c64b0-7c30-11ed-8541-e7174be19c35.xhtml#b264e3da296013b5f88f4d42d48c57c5)++ shows real GDP per capita in Canada, Japan, and the five largest economies in Western Europe relative to real GDP per capita in the United States. The blue bars show real GDP per capita in 1990 relative to the United States, and the red bars show real GDP per capita in 2019 relative to the United States. In no case did the relative level of real GDP per capita of these countries increase between 1990 and 2019. All of these countries experienced significant catch-up to the United States between 1960 and 1990, but they have experienced no catch-up since 1990.  
 **Figure 7.9 Other High-Income Countries Have Stopped Catching Up to the United States**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment.png](University/Year%201/ECON%201BB3/Attachments/Attachment.png)  
 The blue bars show real GDP per capita in 1990 relative to the United States, and the red bars show real GDP per capita in 2019 relative to the United States. In no case did the relative level of real GDP per capita increase between 1990 and 2019, which means that these countries are no longer catching up to the United States.  
 **SOURCE:** Authors’ calculations from data in Organisation for Economic Co-operation and Development, stat.oecd.org.  
   
@@ -346,12 +346,12 @@ One way for a developing country to break out of the vicious cycle of low saving
 From the 1940s through the 1970s, many developing countries closed themselves off from the global economy. During the 1930s and early 1940s, the global trading and financial system collapsed as a result of the Great Depression and World War II. Developing countries that relied on exporting to high-income countries were hurt economically. Also, many countries in Africa and Asia achieved independence from the colonial powers of Europe during the 1950s and 1960s and were afraid of being dominated by them economically. As a result, many developing countries imposed high tariffs on foreign imports and strongly discouraged or even prohibited foreign investment. These policies made it difficult to break out of the vicious cycle of poverty.  
 The policies of erecting high tariff barriers and avoiding foreign investment failed to produce much growth, so by the 1980s, many developing countries began to change policies. The result was **++[globalization](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/glossary.xhtml#key-f9e66824-4243-5271-a071-e697ed377eb5)++**, which is the process of countries becoming more open to foreign trade and investment. Developing countries that are more globalized have grown faster than developing countries that are less globalized. Globalization has benefited developing countries by making it easier for them to obtain technology and investment funds.  
   
-![Figure 7.6](Attachments/Pasted%20Graphic%206.png)  
+![Figure 7.6](University/Year%201/ECON%201BB3/Attachments/Pasted%20Graphic%206.png)  
   
 ![Figure 7.7](Attachments/Pasted%20Graphic%207.png)  
   
-![Figure 7.8](Attachments/Pasted%20Graphic%208.png)  
-![Figure 7.9](Attachments/Pasted%20Graphic%209.png)  
+![Figure 7.8](University/Year%201/ECON%201BB3/Attachments/Pasted%20Graphic%208.png)  
+![Figure 7.9](University/Year%201/ECON%201BB3/Attachments/Pasted%20Graphic%209.png)  
 # **Growth Policies**  
 **LO 7.5** **Discuss government policies that foster economic growth.**  
 What can governments do to promote long-run economic growth? We have seen that even small differences in growth rates compounded over the years can lead to major differences in standards of living. Therefore, there is potentially a very high payoff to government policies that increase growth rates. We have already discussed some of these policies in this chapter. In this section, we explore additional policies.  

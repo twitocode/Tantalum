@@ -4,7 +4,7 @@
 **LO 9.1** **Identify the determinants of aggregate demand and distinguish between a movement along the aggregate demand curve and a shift of the curve.**  
 To understand what happens during the business cycle, we need an explanation of why real GDP, the unemployment rate, and the inflation rate fluctuate. We have already seen that fluctuations in the unemployment rate are caused mainly by fluctuations in real GDP. In this chapter, we use the **++[aggregate demand and aggregate supply model](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/glossary.xhtml#key-3679fbaa-21d9-5261-92a3-6230f3b947ea)++** to explain fluctuations in real GDP and the **++[price level](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/glossary.xhtml#key-98ad1b74-cbf2-585a-b678-c480b0e1cdcb)++**. As ++[Figure 9.1](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/0077db10-7c31-11ed-8642-b81372064c27.xhtml#647a6d03f748ece7944cc5c461db6fb8)++ shows, real GDP and the price level in this model are determined in the short run by the intersection of the *aggregate demand curve* and the *aggregate supply curve*. Fluctuations in real GDP and the price level are caused by shifts in the aggregate demand curve, the aggregate supply curve, or both.  
 **Figure 9.1 Aggregate Demand and Aggregate Supply**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
 In the short run, real GDP and the price level are determined by the intersection of the aggregate demand curve and the short-run aggregate supply curve. In the figure, real GDP is measured on the horizontal axis, and the price level is measured on the vertical axis by the CPI. In this example, the equilibrium real GDP is $1.8 trillion and the equilibrium price level is 125.  
   
 The **++[aggregate demand curve](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/glossary.xhtml#key-4742fd09-1a11-5ac6-8353-c8b7eec7d665)++** shows the relationship between the price level and the quantity of real GDP demanded by households, firms, and the government. The **++[short-run aggregate supply curve](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/glossary.xhtml#key-ab761132-0186-5734-8b58-f23f8c9c6180)++** shows the relationship between the price level and the quantity of real GDP supplied by firms *in the short run*. The aggregate demand and short-run aggregate supply curves in ++[Figure 9.1](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/0077db10-7c31-11ed-8642-b81372064c27.xhtml#647a6d03f748ece7944cc5c461db6fb8)++ should seem familiar. They are similar to the individual market demand and supply curves we explored in Chapter 3. However, because these curves apply to the whole economy, rather than to a single market, the aggregate demand and aggregate supply model is quite different from the model of demand and supply in individual markets. Because we’re dealing with the economy as a whole, we need *macroeconomic* explanations of why the aggregate demand curve is downward sloping, why the short-run aggregate supply curve is upward sloping, and why the curves shift. We begin by explaining why the aggregate demand curve is downward sloping.  
@@ -61,18 +61,18 @@ Suppose the current price level is 148, and the current level of real GDP is $2.
 ## **Solving the Problem**  
 * **Step 1: Review the chapter material.** This problem is about understanding the difference between movements along an aggregate demand curve and shifts of an aggregate demand curve, so you may want to review the section “Shifts of the Aggregate Demand Curve versus Movements along It.”  
 * **Step 2: To answer part (a), draw a graph that shows a movement along the aggregate demand curve.** Because there will be a movement along the aggregate demand curve but no shift of the aggregate demand curve, your graph should look like this:  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
   
 * We don’t have enough information to be certain what the new level of real GDP demanded will be. We only know that it has to be less than the initial $2.2 trillion; the graph shows this value as $2.0 trillion.  
 * **Step 3: To answer part (b), draw a graph that shows a leftward shift of the aggregate demand curve.** We know that the aggregate demand curve will shift left, but we don’t have enough information to determine how far left it will shift. Let’s assume that the shift is $200 billion (or $0.2 trillion). In that case, your graph should look like this:  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
   
 * The graph shows a parallel shift in the aggregate demand curve so that at every price level, the quantity of real GDP demanded declines by $200 billion. For example, if the price level remains at 148, the quantity of real GDP demanded will fall from $2.2 trillion to $2.0 trillion.  
 For more practice, do related ++[Problem 1.7](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/02057ff0-7c31-11ed-8c74-e601768f2643.xhtml#7304b627dbe6724b165d446c1bdb47c4)++ at the end of this chapter.  
   
 ++[Table 9.1](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/0077db10-7c31-11ed-8642-b81372064c27.xhtml#b740a97f43788410624c287d26c0d8cb)++ summarizes the most important variables that cause the aggregate demand curve to shift. The table shows the shift in the aggregate demand curve that results from an *increase* in each of the variables. A *decrease* in these variables would cause the aggregate demand curve to shift in the opposite direction.  
 **Table 9.1 Variables that Shift the Aggregate Demand Curve**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
   
 
 |  |  |  |
@@ -94,18 +94,18 @@ For more practice, do related ++[Problem 1.8](https://plus.pearson.com/epub/bron
   
   
   
-![Figure 9.1](Attachments/Pasted%20Graphic.png)  
-![Y=C+I+G+NX](Attachments/Pasted%20Graphic%201.png)  
+![Figure 9.1](University/Year%201/ECON%201BB3/Attachments/Pasted%20Graphic%2010.png)  
+![Y=C+I+G+NX](Pasted%20Graphic%201%201.png)  
   
   
-![Table 9.1](Attachments/Pasted%20Graphic%202.png)  
+![Table 9.1](Pasted%20Graphic%202%201.png)  
 # **Aggregate Supply**  
 **LO 9.2** **Identify the determinants of aggregate supply and distinguish between a movement along the short-run aggregate supply curve and a shift of the curve.**  
 The aggregate demand curve is only half of the aggregate demand and aggregate supply model. Now we turn to aggregate supply, which shows the effect of changes in the price level on the quantity of goods and services that firms are willing and able to provide. Because the impact of changes in the price level on aggregate supply is very different in the short run as compared with the long run, we use two aggregate supply curves: one for the long run and one for the short run. We start by discussing the long-run aggregate supply curve.  
 ## **The Long-Run Aggregate Supply Curve**  
 In the long run, the level of real GDP is determined by the supply of inputs—the labour force and the capital stock—and the available technology. The labour force is the number of workers available to be employed. The capital stock is the amount of physical capital (e.g., factories, office buildings, machinery, and equipment) available. The supply of both factors is determined by the decisions people have made in the past. The current labour force is based on people’s decisions to have children or immigrate, made years ago. The current capital stock is based on firms’ investment decisions made in previous years. This leads to a level of output the economy can produce when markets clear. The level of real GDP in the long run is referred to as **++[potential GDP](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/glossary.xhtml#key-e29992e8-4fbf-5c5a-b475-a196d636c48b)++**, or *full-employment GDP*. At potential GDP, firms will operate at their normal level of capacity, and the only unemployment we will observe will be structural and frictional. Because potential GDP is determined by decisions made in the past, it is not influenced by changes in the price level. The **++[long-run aggregate supply curve](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/glossary.xhtml#key-ff556209-2419-50a5-9a23-46d7932c7694)++** shows the relationship between the price level and the quantity of real GDP supplied. As ++[Figure 9.2](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/011e0620-7c31-11ed-8b4c-5852a973bb6d.xhtml#ee81ccca3607deeff58294ffb96bb9e1)++ shows, whether the price level is 138, 148, or 158, potential GDP remains the same. Therefore, the long-run aggregate supply (*LRAS*) curve is a vertical line at potential GDP.  
 **Figure 9.2 The Long-Run Aggregate Supply Curve**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
 Changes in the price level do not affect the level of aggregate supply in the long run. Therefore, the long-run aggregate supply (*LRAS*) curve is a vertical line at potential GDP. For instance, the price level was 138 in 2020 and potential GDP was $2 trillion. If the price level had been 148, or if it had been 125, long-run aggregate supply would still have been a constant $2 trillion. Each year, the long-run aggregate supply curve shifts to the right as the number of workers in the economy increases, more machinery and equipment are accumulated, and technological change occurs.  
   
   
@@ -138,7 +138,7 @@ As positive technological change takes place, the productivity of workers and ma
 ## **Expected Changes in the Future Price Level**  
 If workers and firms believe that the price level is going to increase by 7 percent during the next year, they will try to adjust their wages and prices accordingly. For instance, if a labour union believes there will be 7 percent inflation next year, it knows that wages must rise by 7 percent to preserve the purchasing power of those wages. Similar adjustments by other workers and firms will result in costs increasing throughout the economy by 7 percent. The result, shown in ++[Figure 9.3](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/011e0620-7c31-11ed-8b4c-5852a973bb6d.xhtml#e7495ce1f519fe53d3df64188bc587b8)++, is that the short-run aggregate supply curve shifts to the left so that any level of real GDP is associated with a price level that is 7 percent higher. In general, *if workers and firms expect the price level to increase by a certain percentage, the SRAS curve will shift by that amount,* holding constant all other variables that can shift the *SRAS* curve.  
 **Figure 9.3 How Expectations of the Future Price Level Affect the Short-Run Aggregate Supply Curve**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
 The *SRAS* curve shifts to reflect workers’ and firms’ expectations of future prices.  
   
 1. If workers and firms expect that the price level will rise by 7 percent, from 138 to 148, they will adjust their wages and prices by that amount.   
@@ -152,7 +152,7 @@ An unexpected event that causes the short-run aggregate supply curve to shift to
 Because the Canadian economy has experienced at least some inflation in virtually every year since the 1930s, workers and firms always expect next year’s price level to be higher than this year’s price level. Holding everything else constant, expectations of a higher price level will cause the *SRAS* curve to shift to the left. But everything else is never constant because the Canadian labour force and the Canadian capital stock are also increasing, and technology is always changing—factors that shift the *SRAS* curve to the right. The direction in which the *SRAS* curve shifts in a particular year depends on how large an impact these variables have during that year.  
 ++[Table 9.2](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/011e0620-7c31-11ed-8b4c-5852a973bb6d.xhtml#b2924f818bd1c6b35b1c83a91e9bad4d)++ summarizes the most important variables that cause the *SRAS* curve to shift. The table shows the shift in the *SRAS* curve that results from an *increase* in each of the variables. A *decrease* in these variables would cause the *SRAS* curve to shift in the opposite direction.  
 **Table 9.2 Variables That Shift the Short-Run Aggregate Supply Curve**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
   
 
 |  |  |  |
@@ -163,17 +163,17 @@ Because the Canadian economy has experienced at least some inflation in virtuall
 |  |  |  |
 |  |  |  |
   
-![Figure 9.2](Attachments/Pasted%20Graphic%203.png)  
+![Figure 9.2](Pasted%20Graphic%203%201.png)  
   
-![Figure 9.3](Attachments/Pasted%20Graphic%204.png)  
+![Figure 9.3](Pasted%20Graphic%204%201.png)  
   
-![Table 9.2](Attachments/Pasted%20Graphic%205.png)  
+![Table 9.2](Pasted%20Graphic%205%201.png)  
   
 # **Macroeconomic Equilibrium in the Long Run and the Short Run**  
 **LO 9.3** **Use the aggregate demand and aggregate supply model to illustrate the difference between short-run and long-run macroeconomic equilibrium.**  
 Now that we have discussed the components of the aggregate demand and aggregate supply model, we can use it to analyze changes in real GDP and the price level. In ++[Figure 9.4](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/0155df00-7c31-11ed-897e-0fc95d924968.xhtml#ca57f7f914a8ad1e8e48d5b50c5b0e36)++, we bring the aggregate demand curve, the short-run aggregate supply curve, and the long-run aggregate supply curve together in one graph to show the *long-run macroeconomic equilibrium* for the economy. In the figure, equilibrium occurs at real GDP of $2.2 trillion and a price level of 148. Notice that in the long-run equilibrium, the short-run aggregate supply curve and the aggregate demand curve intersect at a point on the long-run aggregate supply curve. Because equilibrium occurs at a point on the long-run aggregate supply curve, we know the economy is at potential GDP: Firms will be operating at their normal capacity, and everyone who wants a job will have one—except for the structurally and frictionally unemployed. We know, however, that the economy is often not in long-run macroeconomic equilibrium. In the following section, we discuss the economic forces that can push the economy out of its long-run macroeconomic equilibrium.  
 **Figure 9.4 Long-Run Macroeconomic Equilibrium**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
 In long-run macroeconomic equilibrium, the *AD* and *SRAS* curves intersect at a point on the *LRAS* curve. In this case, equilibrium occurs at real GDP of $2.2 trillion and a price level of 148.  
   
 ## **Recessions, Expansions, and Supply Shocks**  
@@ -188,7 +188,7 @@ Suppose that rising interest rates cause firms to reduce spending on factories a
 to , as shown in ++[Figure 9.5](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/0155df00-7c31-11ed-897e-0fc95d924968.xhtml#f14ee7dcd036a406de7b52da30d3b42c)++. The economy moves from point *A* to a new *short-run macroeconomic equilibrium*, where the  
 curve intersects the *SRAS* curve at point *B*. In the new short-run equilibrium, real GDP has declined from $2.2 trillion to $2.1 trillion and is below potential GDP. This lower level of GDP will result in declining profitability for many firms and layoffs for some workers—in short, the economy will be in recession.  
 **Figure 9.5 The Short-Run and Long-Run Effects of a Decrease in Aggregate Demand**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
 In the short run, a decrease in aggregate demand causes a recession. In the long run, it causes only a decrease in the price level.  
 *   
 *   
@@ -203,7 +203,7 @@ Economists refer to the process of adjustment back to potential GDP just describ
 **The Short-Run Effect of an Increase in Aggregate Demand**  
 Suppose that instead of becoming pessimistic, many firms become optimistic about the future profitability of new investment, as happened during the information and telecommunication boom of the late 1990s and the real-estate boom of the 2000s. The resulting increase in investment will shift the *AD* curve to the right, as shown in ++[Figure 9.6](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/0155df00-7c31-11ed-897e-0fc95d924968.xhtml#df2e78a450aa96651f03119cb4aa69d5)++. Equilibrium moves from point *A* to point *B*. Real GDP rises from $2.2 trillion to $2.3 trillion, and the price level rises from 148 to 155. The economy will be operating above potential GDP: Firms are operating beyond their normal capacity, and some workers who would ordinarily be structurally or frictionally unemployed or who would normally not be in the labour force are employed.  
 **Figure 9.6 The Short-Run and Long-Run Effects of an Increase in Aggregate Demand**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
 In the short run, an increase in aggregate demand causes an increase in real GDP. In the long run, it causes only an increase in the price level.  
 *   
 *   
@@ -218,7 +218,7 @@ will not happen instantly. The process of returning to potential GDP may stretch
 Suppose oil prices increase substantially. This supply shock will increase costs for many firms and cause the *SRAS* curve to shift to the left, as shown in panel (a) of ++[Figure 9.7](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/0155df00-7c31-11ed-897e-0fc95d924968.xhtml#1b319a8fa5782a5a02c98cdef8be0856)++. Notice that the price level is higher in the new short-run equilibrium (134 rather than 131), but real GDP is lower ($1.96 trillion rather than $2 trillion). This unpleasant combination of inflation and recession is called **++[stagflation](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/glossary.xhtml#key-de6029a0-abc5-5900-994e-85e28fae73d3)++**.  
 **Figure 9.7**  
 **The Short-Run and Long-Run Effects of a Supply Shock**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
 Panel (a) shows that a supply shock, such as a large increase in oil prices, will cause a recession and a higher price level in the short run. The recession caused by the supply shock increases unemployment and reduces output. In panel (b), rising unemployment and falling output result in workers being willing to accept lower wages and firms being willing to accept lower prices. The short-run aggregate supply curve shifts from S‍R‍A‍S‍2 to S‍R‍A‍S‍1. Equilibrium moves from point B back to potential GDP and the original price level at point A.  
   
 *   
@@ -235,10 +235,10 @@ to
 ## **Apply the Concept**  
 **Was the 2020 COVID-19 Recession a Supply Shock or a Demand Shock?**  
   
-![Figure 9.5](Attachments/Pasted%20Graphic%206.png)  
-![Figure 9.6](Attachments/Pasted%20Graphic%208.png)  
+![Figure 9.5](Pasted%20Graphic%206%201.png)  
+![Figure 9.6](Pasted%20Graphic%208%201.png)  
   
-![Figure 9.7](Attachments/Pasted%20Graphic%209.png)  
+![Figure 9.7](Pasted%20Graphic%209%201.png)  
   
   
   
@@ -253,7 +253,7 @@ and intersect at point *A*, at a price level of 137 and real GDP of $2.1 trillio
 . The aggregate demand curve shifts for several reasons: As the population grows and incomes rise, consumption will increase over time. As the economy grows, firms will expand capacity, and new firms will be formed, increasing investment. An expanding population and expanding economy require increased government services, such as more police officers and teachers, so government purchases will increase.  
 **Figure 9.8 **  
 **A Dynamic Aggregate Demand and Aggregate Supply Model**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
 We start with the basic aggregate demand and aggregate supply model in panel (a). In the dynamic model, increases in the labour force and capital stock as well as technological change cause the long-run aggregate supply curve to shift over the course of a year from L‍R‍A‍S‍2. to L‍R‍A‍S‍2. Typically, these same factors cause the short-run aggregate supply curve to shift from S‍R‍A‍S‍1 to S‍R‍A‍S‍2, as in panel (b). Aggregate demand will shift from A‍D‍1 to A‍D‍2 if, as is usually the case, spending by consumers, firms, and the government increases during the year. The shift in the aggregate demand curve is added to the model in panel (c).  
   
 The new equilibrium in panel (c) of ++[Figure 9.8](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/01babb50-7c31-11ed-8907-08d49321a55d.xhtml)++ occurs at point *B*, where  
@@ -264,7 +264,7 @@ Price increases are not guaranteed. In some years, the aggregate demand curve ma
 ## **What Is the Usual Cause of Inflation?**  
 The dynamic aggregate demand and aggregate supply model provides a more accurate explanation than the basic model of the source of most inflation. If total spending in the economy grows faster than total production, prices rise. ++[Figure 9.9](https://plus.pearson.com/epub/bronte/BRNT-SITHABGCXI/v12/OPS/xhtml/01babb50-7c31-11ed-8907-08d49321a55d.xhtml#1f43b027c22bfe1a5f508fe2f047a356)++ illustrates this point by showing that if the *AD* curve shifts to the right by more than the *LRAS* curve, inflation results because equilibrium occurs at a higher price level, point *B*. In the new equilibrium, the *SRAS* curve has shifted to the right by less than the *LRAS* curve because the anticipated increase in prices offsets some of the technological change and increases the labour force and capital stock that occur during the year. Although inflation generally results from total spending growing faster than total production, a shift to the left of the short-run aggregate supply curve can also cause an increase in the price level, as we saw earlier, in the discussion of supply shocks.  
 **Figure 9.9 Using Dynamic Aggregate Demand and Aggregate Supply to Understand Inflation**  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
   
 The most common cause of inflation is total spending increasing faster than total production.  
 1. The economy begins at point *A*, with real GDP of $2.1 trillion and a price level of 137. An increase in full-employment real GDP from $2.1 trillion to $2.2 trillion causes long-run aggregate supply to shift from   
@@ -288,7 +288,7 @@ The booming economy of 2000–2001 clearly shows how a demand shock affects the 
 **Step 2: Use the information in the table to draw the graph.** You need to draw six curves:  
 , and  
 . You know the two *LRAS* curves will be vertical lines at the values given for potential GDP in the table. Because of the large aggregate demand shock, the *AD* curve has shifted to the right significantly. While the *SRAS* curve will have shifted to the left, this shift needs to be relatively small to get the results we see from the data. Your graph should look like this:  
-![Attachment.png](Attachments/Attachment.png)  
+![Attachment 1.png](Attachment%201.png)  
   
   
   
@@ -306,6 +306,6 @@ At the beginning of this chapter, we asked you to consider whether during a rece
   
   
 Figure 9.8:  
-![786bd9b930186e32ab2b2b4ea4c3ada9.jpg](Attachments/786bd9b930186e32ab2b2b4ea4c3ada9.jpg)  
-![Figure 9.9](Attachments/Pasted%20Graphic%2010.png)  
+![786bd9b930186e32ab2b2b4ea4c3ada9.jpg](786bd9b930186e32ab2b2b4ea4c3ada9.jpg)  
+![Figure 9.9](Pasted%20Graphic%2010%201.png)  
   
