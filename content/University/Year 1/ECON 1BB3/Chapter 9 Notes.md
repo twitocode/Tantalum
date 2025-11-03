@@ -14,8 +14,7 @@ The **Aggregate Demand (AD) and Aggregate Supply (AS) model** is used to explain
 
 In the short run, real GDP and the price level are determined by the intersection of the AD curve and the SRAS curve.
 
-(ADD TABLE/FIGURE 9.1 HERE)
-
+![[Pasted image 20251103123526.png]]
 ---
 
 ## Aggregate Demand
@@ -66,7 +65,7 @@ This is explained by three effects:
     * Real GDP in Canada grows *faster* than in other countries $\rightarrow$ $\uparrow$Imports faster than $\uparrow$Exports $\rightarrow$ $\downarrow$NX $\rightarrow$ AD shifts **left**.
     * The exchange rate of the Canadian dollar *rises* (appreciates) $\rightarrow$ Exports become more expensive, Imports become cheaper $\rightarrow$ $\downarrow$NX $\rightarrow$ AD shifts **left**.
 
-(ADD TABLE/FIGURE 9.1 HERE)
+![[Pasted image 20251103123506.png]]
 
 ---
 
@@ -80,7 +79,7 @@ There are two aggregate supply curves: one for the long run (LRAS) and one for t
 * **Shape**: The LRAS curve is a **vertical line** at Potential GDP. This is because potential GDP is not affected by changes in the price level.
 * **Shifts**: The LRAS curve shifts to the **right** each year as the labour force grows, the capital stock increases, and technology improves.
 
-(ADD TABLE/FIGURE 9.2 HERE)
+	![[Pasted image 20251103123550.png]]
 
 ### The Short-Run Aggregate Supply (SRAS) Curve
 * **Shape**: The SRAS curve is **upward sloping**.
@@ -114,7 +113,7 @@ There are two aggregate supply curves: one for the long run (LRAS) and one for t
     * **Supply Shock**: An unexpected event that shifts the SRAS curve, often caused by a change in the price of a natural resource.
     * An *unexpected increase* in the price of oil (a key resource) raises production costs for many firms. SRAS shifts **left**.
 
-(ADD TABLE/FIGURE 9.2 HERE)
+![[Pasted image 20251103123607.png]]
 
 ---
 
@@ -123,7 +122,7 @@ There are two aggregate supply curves: one for the long run (LRAS) and one for t
 ### Long-Run Macroeconomic Equilibrium
 This occurs where the AD and SRAS curves intersect at a point on the LRAS curve. At this point, the economy is at potential GDP.
 
-(ADD TABLE/FIGURE 9.4 HERE)
+![[Pasted image 20251103123625.png]]
 
 ### Recessions, Expansions, and Supply Shocks
 
@@ -131,23 +130,22 @@ This occurs where the AD and SRAS curves intersect at a point on the LRAS curve.
 * **Short-Run Effect**: An event (like a decline in investment) shifts AD **left** ($AD_1 \rightarrow AD_2$). The economy moves to a new short-run equilibrium (Point B) where $AD_2$ intersects SRAS. Real GDP is *below* potential GDP, and the price level falls. This is a **recession**.
 * **Long-Run Adjustment (Automatic Mechanism)**: The recession and resulting unemployment make workers more willing to accept lower wages and firms more willing to accept lower prices. This reduces costs, shifting SRAS to the **right** ($SRAS_1 \rightarrow SRAS_2$). The economy moves to a new long-run equilibrium (Point C), back at potential GDP but at a *permanently lower price level*.
 
-(ADD TABLE/FIGURE 9.5 HERE)
+![[Pasted image 20251103123634.png]]
 
 **2. Expansion (Caused by an Increase in AD)**
 * **Short-Run Effect**: An event (like an investment boom) shifts AD **right** ($AD_1 \rightarrow AD_2$). The economy moves to a new short-run equilibrium (Point B). Real GDP is *above* potential GDP, and the price level rises.
 * **Long-Run Adjustment (Automatic Mechanism)**: The economy is operating above its normal capacity. Low unemployment and a high price level lead workers to negotiate for higher wages. This increases costs, shifting SRAS to the **left** ($SRAS_1 \rightarrow SRAS_2$). The economy moves to a new long-run equilibrium (Point C), back at potential GDP but at a *permanently higher price level*.
 
-(ADD TABLE/FIGURE 9.6 HERE)
+![[Pasted image 20251103123643.png]]
 
 **3. Supply Shock (e.g., a rise in oil prices)**
 * **Short-Run Effect**: The supply shock increases production costs, shifting SRAS to the **left** ($SRAS_1 \rightarrow SRAS_2$). The economy moves to a new short-run equilibrium (Point B) with *lower* real GDP (recession) and a *higher* price level.
 * **Stagflation**: This specific, unpleasant combination of recession (stagnation) and inflation is called **stagflation**.
 * **Long-Run Adjustment**: The recession and high unemployment eventually cause workers to accept lower wages and firms to accept lower prices. This shifts SRAS back to the **right** ($SRAS_2 \rightarrow SRAS_1$), returning the economy to the original equilibrium (Point A) at potential GDP.
 
-(ADD TABLE/FIGURE 9.7 HERE)
+![[Pasted image 20251103123650.png]]
 
 ---
-
 ## A Dynamic Aggregate Demand and Aggregate Supply Model
 
 The "basic" (static) model is simplified because it assumes no long-run growth and no continuous inflation. A dynamic model is more realistic.
@@ -157,11 +155,10 @@ The "basic" (static) model is simplified because it assumes no long-run growth a
 2.  Aggregate Demand (AD) shifts to the right (in most years).
 3.  Short-Run Aggregate Supply (SRAS) shifts to the right (as LRAS shifts, though it can be offset by inflation expectations).
 
-(ADD TABLE/FIGURE 9.8 HERE)
-
+![[Pasted image 20251103123713.png]]
 ### What Is the Usual Cause of Inflation?
 In the dynamic model, inflation occurs when the **AD curve shifts to the right by *more* than the LRAS (and SRAS) curves shift**.
 
 In other words, inflation is most commonly caused by **total spending growing faster than total production.**
 
-(ADD TABLE/FIGURE 9.9 HERE)
+![[Pasted image 20251103123724.png]]
