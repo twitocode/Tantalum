@@ -11,7 +11,8 @@ $F(x)$ is an **antiderivative** of $f(x)$ on an interval $I$ if $F'(x)=f(x)$ for
 
 Antiderivatives of a function form a family of curves that are **vertical shifts** of each other.
 
-Code snippet
+Code snippeta
+
 
 ```tikz
 ```
