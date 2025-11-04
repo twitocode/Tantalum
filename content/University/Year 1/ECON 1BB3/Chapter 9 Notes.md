@@ -148,6 +148,10 @@ This occurs where the AD and SRAS curves intersect at a point on the LRAS curve.
 ---
 ## A Dynamic Aggregate Demand and Aggregate Supply Model
 
+> [!ERROR] VERY IMPORTANT
+> **THIS IS NOT ON THE EXAM**
+
+
 The "basic" (static) model is simplified because it assumes no long-run growth and no continuous inflation. A dynamic model is more realistic.
 
 **The Dynamic Model incorporates 3 facts**:
