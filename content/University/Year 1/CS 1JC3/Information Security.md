@@ -28,7 +28,7 @@ Hard to engineer.
 	3. Availability
 2. Information Systems
 	3. System confidentiality
-	4. Systme integrity
+	4. System integrity
 	5. availiability of services
 	6. system resources
 	7. monitoring mechanisms
