@@ -118,8 +118,8 @@ There are many different cryptographic techniques
 - Random number generation
 
 ## Conventional Encryption
-**Encryption**: plaintext, key $\xrightarrow{f}$ *ciphertext*
-**Decryption**: *ciphertext*, key $\xrightarrow{f^{-1}}$ plaintext
+**Encryption**: plaintext, key $\xrightarrow{f}$ *cipher-text*
+**Decryption**: *cipher-text*, key $\xrightarrow{f^{-1}}$ plaintext
 
 $f$ and $f^{-1}$ are encryption and decryption algorithms
 
@@ -127,7 +127,10 @@ $f$ and $f^{-1}$ are encryption and decryption algorithms
 > ***Main assumption:*** Computation of the plaintext from the ciphertext is mathematically infeasible without the key.
 > - **In practice, the security of the process depends primarily on maintaining the secrecy of the key** 
 
+
 ## Public Key Encryption
+TLDR
+![[Drawing 2025-11-06 08.39.59.excalidraw]]
 Discovery:  
 - Discovered but held secret by USA NSA and UK Communications-Electronic Security Group in 1960s.  
 - Discovered and publicized by Whitfield Diffie and Martin Hellman at Stanford University in 1976 
