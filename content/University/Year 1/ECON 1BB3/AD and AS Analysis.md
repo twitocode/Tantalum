@@ -16,4 +16,3 @@ inflation 2% is good in Canada
 	- Donald trump and biden dont understand this
 	- This will only feel that way if nomial wages increase to offset the purchasing power.
 the central bank of Canada Purposefully caused a recession to bring the inflation rate down in 19XX
-
