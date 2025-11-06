@@ -79,6 +79,13 @@ The "Paradox of Flourishing"  demands a "Dual-Track" product strategy. A singl
 
 Translating clinical interventions to app features
 
-| Student problm |     |     |     |
-| -------------- | --- | --- | --- |
-|                |     |     |     |
+| Student Problem                 | Evidence-Based Intervention   | App Feature Concept           | Guiding Design Principles / Sources                                                                                                                                            |
+| :------------------------------ | :---------------------------- | :---------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Acute Panic / Overwhelm**     | Grounding Techniques          | **"The Anchor" Panic Button** | A one-touch button modeled on 'Rootd's "Rootr" 34 that offers an immediate choice: "Distraction" (mental game) or "Technique" (guided 5-4-3-2-1 exercise).20                   |
+| **Anxiety / Negative Thoughts** | Cognitive Restructuring (CBT) | **"Thought Reframer" Diary**  | A guided journal based on a "Cognitive Diary".14 Prompts user for Situation \-\> Emotion \-\> Automatic Thought \-\> Challenge \-\> Balanced Thought \-\> Re-rate Emotion.     |
+| **Social Anxiety / Avoidance**  | Exposure Therapy (CBT)        | **"Fear Ladder"**             | Digitizes the "ladder function" 36 from apps like 'MindShift CBT'.37 Helps users break down fears (e.g., "speaking in class") into small, trackable steps.                     |
+| **Social Anxiety / Depression** | Behavioral Activation (CBT)   | **"Belief Experiment"**       | A module to test negative social predictions.39 User logs a belief ("If I go, I'll be awkward") and a prediction, then runs the experiment and records the *actual* outcome.40 |
+| **Depression / Low Mood**       | Behavioral Activation (CBT)   | **"Activity Scheduler"**      | A simple in-app calendar that prompts users to schedule and check off "pleasurable activities" and "tasks".16                                                                  |
+| **Academic Stress / Burnout**   | Time Management & Flourishing | **"The Proactive Planner"**   | Integrates time management (SMART goals, prioritization) 30 with a "Gratitude Journal" prompt library.26                                                                       |
+| **Loneliness / Isolation**      | Social Support & Interaction  | **"The 'Nod' Challenge"**     | Based on the 'Nod' app.42 Proactively delivers "social challenges" (e.g., "Text a classmate") paired with "reflections" (cognitive reframing) to build connection.42           |
+| **Loneliness / Belonging**      | Peer Support Groups           | **"The Quad" Peer Forum**     | An anonymous, 24/7, student-only forum.33 Requires a robust, 'TalkCampus'-style hybrid moderation system (AI \+ Pro Staff \+ User Tools) for safety.43                         |
