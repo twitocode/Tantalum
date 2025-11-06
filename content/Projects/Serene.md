@@ -76,3 +76,9 @@ The "Paradox of Flourishing"  demands a "Dual-Track" product strategy. A singl
 		- focus on 1 task
 		- breaks/rest periods notifications
 		- 
+
+Translating clinical interventions to app features
+
+| Student problm |     |     |     |
+| -------------- | --- | --- | --- |
+|                |     |     |     |
