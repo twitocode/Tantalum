@@ -46,7 +46,7 @@ The state in which data or resources **have not been accidently or maliciously m
 - also applies to metadata
 An **integrity violation** reduces the **trustworthiness** of the  data or resources
 ### Two ways to maintain integrity
-1. **Prevention** of unautorized attemps to modify data
+1. **Prevention** of unauthorized attempts to modify data
 2. **Detection** of integrity violations or unauthorized modifications. 
 
 > [!NOTE] Title
@@ -63,7 +63,7 @@ The state in which information or resources **can be used as needed**
 2. write (integrity) 
 3. execute (sorta availability)
 
-The root account has access to every permission (100% privleges), it can delete any file, directory, or user account
+The root account has access to every permission (100% privileges), it can delete any file, directory, or user account
 
 # Threats and Attacks
 A **threat** is a *potential violation* of confidentiality, integrity, or availability.  
@@ -117,7 +117,7 @@ There are many different cryptographic techniques
 - Public key encryption.  
 - Random number generation
 
-## Conventional Encryption
+## Conventional Encryption (symmetric encryption)
 **Encryption**: plaintext, key $\xrightarrow{f}$ *cipher-text*
 **Decryption**: *cipher-text*, key $\xrightarrow{f^{-1}}$ plaintext
 
@@ -128,7 +128,7 @@ $f$ and $f^{-1}$ are encryption and decryption algorithms
 > - **In practice, the security of the process depends primarily on maintaining the secrecy of the key** 
 
 
-## Public Key Encryption
+## Public Key Encryption (asymmetric encryption)
 TLDR
 ![[Drawing 2025-11-06 08.39.59.excalidraw]]
 Discovery:  
@@ -141,11 +141,15 @@ Motivation:
 ### Well how does it work?
 It is much less efficient compared to conventional encryption. it is not good for general encryption but it is good for sending encrypted keys
 
+**Public key:** shared with others; used to **encrypt** data or **verify** digital signatures.
+**Private key:** kept secret; used to **decrypt** data or **create** digital signatures.
+
 Each end system has a public key and a private key which is kept secret
-**Encryption**: plaintext, public key $\xrightarrow{f}$ ciphertext
-**Decryption**: ciphertext, *private* key $\xrightarrow{f}$ plaintext
-**Signature writing**: plaintext, private key $\xrightarrow{f}$ ciphertext
-**Signature reading**: ciphertext, *public* key $\xrightarrow{f}$ plaintext
+**Encryption**: plaintext, public key $\xrightarrow{f}$ cipher-text
+**Decryption**: cipher-text, *private* key $\xrightarrow{f}$ plaintext
+___
+**Signature writing**: plaintext, private key $\xrightarrow{f}$ cipher-text
+**Signature reading**: cipher-text, *public* key $\xrightarrow{f}$ plaintext
 
 as you can see, the same algorithm is used for both encryption and decryption
 ![[Pasted image 20251104112133.png]]
@@ -162,7 +166,7 @@ as you can see, the same algorithm is used for both encryption and decryption
 	2. The receiver decrypts the encrypted message digest with the sender’s public key and compares it with the message digest of the received text
 3. Confidentiality and integrity
 	1. The sender encrypts the plaintext message with its private key.  
-	2. The sender encrypts the ciphertext message with the receiver’s public key.  
+	2. The sender encrypts the ciphertext message with the receiver’s public key.
 	3. The receiver decrypts the ciphertext message with its private key.  
 	4. The receiver decrypts the ciphertext message with the sender’s public key
 5. Secret key exchange
