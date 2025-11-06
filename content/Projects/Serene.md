@@ -79,13 +79,45 @@ The "Paradox of Flourishing"  demands a "Dual-Track" product strategy. A singl
 
 Translating clinical interventions to app features
 
-| Student Problem                 | Evidence-Based Intervention   | App Feature Concept           | Guiding Design Principles / Sources                                                                                                                                            |
-| :------------------------------ | :---------------------------- | :---------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Acute Panic / Overwhelm**     | Grounding Techniques          | **"The Anchor" Panic Button** | A one-touch button modeled on 'Rootd's "Rootr" 34 that offers an immediate choice: "Distraction" (mental game) or "Technique" (guided 5-4-3-2-1 exercise).20                   |
-| **Anxiety / Negative Thoughts** | Cognitive Restructuring (CBT) | **"Thought Reframer" Diary**  | A guided journal based on a "Cognitive Diary".14 Prompts user for Situation \-\> Emotion \-\> Automatic Thought \-\> Challenge \-\> Balanced Thought \-\> Re-rate Emotion.     |
-| **Social Anxiety / Avoidance**  | Exposure Therapy (CBT)        | **"Fear Ladder"**             | Digitizes the "ladder function" 36 from apps like 'MindShift CBT'.37 Helps users break down fears (e.g., "speaking in class") into small, trackable steps.                     |
-| **Social Anxiety / Depression** | Behavioral Activation (CBT)   | **"Belief Experiment"**       | A module to test negative social predictions.39 User logs a belief ("If I go, I'll be awkward") and a prediction, then runs the experiment and records the *actual* outcome.40 |
-| **Depression / Low Mood**       | Behavioral Activation (CBT)   | **"Activity Scheduler"**      | A simple in-app calendar that prompts users to schedule and check off "pleasurable activities" and "tasks".16                                                                  |
-| **Academic Stress / Burnout**   | Time Management & Flourishing | **"The Proactive Planner"**   | Integrates time management (SMART goals, prioritization) 30 with a "Gratitude Journal" prompt library.26                                                                       |
-| **Loneliness / Isolation**      | Social Support & Interaction  | **"The 'Nod' Challenge"**     | Based on the 'Nod' app.42 Proactively delivers "social challenges" (e.g., "Text a classmate") paired with "reflections" (cognitive reframing) to build connection.42           |
-| **Loneliness / Belonging**      | Peer Support Groups           | **"The Quad" Peer Forum**     | An anonymous, 24/7, student-only forum.33 Requires a robust, 'TalkCampus'-style hybrid moderation system (AI \+ Pro Staff \+ User Tools) for safety.43                         |
+| Student Problem                 | Evidence-Based Intervention   | App Feature Concept           | Guiding Design Principles / Sources                                                                                                                                        |
+| :------------------------------ | :---------------------------- | :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Acute Panic / Overwhelm**     | Grounding Techniques          | **"The Anchor" Panic Button** | A one-touch button modeled on 'Rootd's "Rootr" 34 that offers an immediate choice: "Distraction" (mental game) or "Technique" (guided 5-4-3-2-1 exercise).20               |
+| **Anxiety / Negative Thoughts** | Cognitive Restructuring (CBT) | **"Thought Reframer" Diary**  | A guided journal based on a "Cognitive Diary".14 Prompts user for Situation \-\> Emotion \-\> Automatic Thought \-\> Challenge \-\> Balanced Thought \-\> Re-rate Emotion. |
+| **Depression / Low Mood**       | Behavioral Activation (CBT)   | **"Activity Scheduler"**      | A simple in-app calendar that prompts users to schedule and check off "pleasurable activities" and "tasks".16                                                              |
+| **Academic Stress / Burnout**   | Time Management & Flourishing | **"The Proactive Planner"**   | Integrates time management (SMART goals, prioritization) 30 with a "Gratitude Journal" prompt library.26                                                                   |
+| **Loneliness / Isolation**      | Social Support & Interaction  | **"The 'Nod' Challenge"**     | Based on the 'Nod' app.42 Proactively delivers "social challenges" (e.g., "Text a classmate") paired with "reflections" (cognitive reframing) to build connection.42       |
+
+**Feature 1: "Thought Reframer" (Cognitive Restructuring Diary):** This is the app's cornerstone CBT tool. It's a guided journal based on the "Cognitive Diary" 35 and "Thought Diary" 14 models. When a user feels distressed, they are guided through a step-by-step evaluation 35:
+
+1. **Situation:** What happened?
+2. **Emotion:** What did you feel? (Rate 1-10)
+3. **Automatic Thought:** What was the "hot" thought (e.g., "I'm a failure")?
+4. **Challenge:** The app presents prompts to challenge "Warped Thoughts".14 (e.g., "What is the evidence _against_ this thought?").
+5. **Balanced Thought:** What is a more realistic, balanced perspective?
+6. **Re-rate:** Re-rate the initial emotion.
+
+### **3.2 The "In-Case-of-Emergency" Module (The Reactive Feature)**
+
+This module is the core of Track 1, designed for acute panic. It must be accessible from the app's home screen as a single, large button. The design is modeled on the "Rootr" feature from the 'Rootd' app.34
+
+This "Anchor" button, when pressed, provides an immediate, simple choice 34:
+
+1. **"I need a Distraction."** (Mental Grounding)
+2. **"I need a Technique."** (Physical/Sensory Grounding)
+
+If the user chooses **"Distraction,"** the app launches a simple mental grounding game. This is _not_ a "fun" game but a clinical tool. Examples include "Name 5 states that start with 'M'" or "Categorize these items".19 This forces cognitive effort away from the source of panic.
+
+If the user chooses **"Technique,"** the app launches a guided audio exercise for the **5-4-3-2-1 Technique**.20 A calm voice walks the user through the process ("First, look around you. Find five things you can see..."). This engages the senses, activates the parasympathetic nervous system, and "anchors" the user to the present moment, breaking the 'fight-or-flight' feedback loop.18
+
+**Feature 1: "The Nod" (Proactive Social Challenges):** This feature is based on the 'Nod' app, which was designed specifically for student loneliness.42 The app proactively delivers "social challenges"—small, concrete activities to build connections.42 Examples: "Send a 'thank you' text to someone from a class," or "Ask a classmate what they thought of the lecture." Crucially, this is paired with a **"Reflection"** feature, which provides a brief cognitive reframing exercise to normalize the anxiety of reaching out.42
+
+- **Feature 1: "Mood Tracker":** This is a standard feature 55 that allows users to log moods and identify patterns and triggers.56 However, analysis shows users often _avoid_ logging negative moods.59 A strategic design must solve this:
+    - **Solution 1:** Make logging negative moods _productive_. When a user logs "Sad," the app should immediately respond: "Sorry to hear that. Would you like to try a 2-minute 'Thought Reframer' or a 'Mindful Breathing' exercise?" This connects the _log_ (problem) to a _tool_ (solution).
+    - **Solution 2:** Provide _interpretive_ feedback. Users want recommendations based on their data.59 The app should provide visualizations (graphs, calendars) and simple interpretations: "We notice your mood tends to dip on Sunday evenings. This is common. Here is a 'Proactive Planner' tool to help you organize your week and reduce stress."
+- **Feature 2: "Journal and Prompt Library":** This is a private, encrypted space for free-writing.60 It will be paired with a searchable library of guided journaling prompts, sourced from clinical research, that users can filter by goal:
+    - **"Ease Anxiety"** 61
+    - **"Manage Depression"** 63
+    - **"Build Gratitude"** 25
+    - **"Self-Discovery"** 62
+
+Adding a content library for self care
