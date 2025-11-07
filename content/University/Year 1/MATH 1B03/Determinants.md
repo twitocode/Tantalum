@@ -177,8 +177,8 @@ Let $A$ and $B$ be $n \times n$ matrices.
 For an $n \times n$ matrix $A$ and vector $\mathbf{b}$, define $A_i(\mathbf{b})$ as the matrix $A$ with **column $i$ replaced by $\mathbf{b}$**.
 
 ### The Rule
-
-> **Cramer's Rule**: If $A$ is invertible, the solution to $A\mathbf{x} = \mathbf{b}$ is:
+> [!Note] Cramer's Rule
+> If $A$ is invertible, the solution to $A\mathbf{x} = \mathbf{b}$ is:
 > $$x_i = \frac{\det(A_i(\mathbf{b}))}{\det(A)}$$
 
 ### Example

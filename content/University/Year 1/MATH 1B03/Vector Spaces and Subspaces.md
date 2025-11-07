@@ -10,7 +10,7 @@ tags:
 
 A **vector space** $V$ is a non-empty set with:
 - A binary operation $+$ (addition)
-- Unary operations $c \cdot$ for every $c \in \mathbb{R}$ (scalar multiplication)
+- Unary operations $c$ for every $c \in \mathbb{R}$ (scalar multiplication)
 
 These operations must satisfy 10 axioms:
 
