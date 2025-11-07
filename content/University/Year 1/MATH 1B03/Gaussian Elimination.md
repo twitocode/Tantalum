@@ -14,41 +14,8 @@ To solve linear systems, we perform operations that don't change the solution se
 2. **Multiply a row by a non-zero constant**
 3. **Add a constant multiple of one row to another**
 
+> [!NOTE]
 > **Key Fact**: These operations preserve the solution set of the system!
-
-### Example: Solving a System
-
-Solve:
-$$\begin{align}
-2x + 3y + z &= 2 \\
-2y + 2z &= -4 \\
-3x - z &= 3
-\end{align}$$
-
-**Augmented matrix**:
-$$\left[\begin{array}{ccc|c}
-2 & 3 & 1 & 2 \\
-0 & 2 & 2 & -4 \\
-3 & 0 & -1 & 3
-\end{array}\right]$$
-
-**Step 1**: Divide row 1 by 2
-$$\left[\begin{array}{ccc|c}
-1 & \frac{3}{2} & \frac{1}{2} & 1 \\
-0 & 2 & 2 & -4 \\
-3 & 0 & -1 & 3
-\end{array}\right]$$
-
-**Step 2**: $-3 \times \text{row1} + \text{row3} \to \text{row3}$
-$$\left[\begin{array}{ccc|c}
-1 & \frac{3}{2} & \frac{1}{2} & 1 \\
-0 & 2 & 2 & -4 \\
-0 & -\frac{9}{2} & -\frac{5}{2} & 0
-\end{array}\right]$$
-
-**Step 3**: Continue simplifying...
-
-Eventually: $z = -3$, $y = 1$, $x = 2$
 
 ---
 
