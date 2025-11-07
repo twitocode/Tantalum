@@ -16,6 +16,7 @@ For $\mathbf{x} = \begin{bmatrix} x_1 \\ x_2 \\ \vdots \\ x_m \end{bmatrix} \in 
 
 $$A\mathbf{x} = x_1\mathbf{v}_1 + x_2\mathbf{v}_2 + \cdots + x_m\mathbf{v}_m$$
 
+> [!NOTE]
 > **Key Insight**: $A\mathbf{x}$ is a **linear combination** of the columns of $A$!
 
 ### Example
@@ -40,6 +41,7 @@ $$\begin{bmatrix} -1 & 3 & 1 \\ 2 & -1 & 2 \end{bmatrix} \begin{bmatrix} x \\ y 
 
 ## The Fundamental Question (Restated)
 
+> [!NOTE]
 > **Question**: Does the equation $A\mathbf{x} = \mathbf{b}$ have a solution?
 
 This is **equivalent** to asking:
@@ -82,9 +84,11 @@ $$\text{Span}\{\mathbf{v}_1, \ldots, \mathbf{v}_m\} = \mathbb{R}^n$$
 
 Form the matrix $A = \begin{bmatrix} \mathbf{v}_1 & \mathbf{v}_2 & \cdots & \mathbf{v}_m \end{bmatrix}$ (size $n \times m$).
 
-> **Theorem**: $\mathbf{v}_1, \ldots, \mathbf{v}_m$ span $\mathbb{R}^n$ if and only if:
-> 
-> When you row reduce $A$, **every row has a leading 1** (pivot).
+> [!NOTE] Theorem
+>  $\mathbf{v}_1, \ldots, \mathbf{v}_m$ span $\mathbb{R}^n$ if and only if:
+>  
+>  When you row reduce $A$, **every row has a leading 1** (pivot).
+
 
 ### Example: Do These Span $\mathbb{R}^3$?
 
