@@ -58,8 +58,7 @@ $$T_A\begin{pmatrix} x \\ y \end{pmatrix} = \begin{bmatrix} 0 & -1 \\ 1 & 0 \end
 This rotates vectors 90° counterclockwise!
 
 ```tikz
-\usepackage{tikz}
-\begin{document}
+
 \begin{tikzpicture}[scale=1.5]
   % Axes
   \draw[->, thick] (-2,0) -- (2,0) node[right] {$x$};
@@ -77,7 +76,7 @@ This rotates vectors 90° counterclockwise!
   \draw[green!60!black, dashed, ->] (1.2,0.4) arc (18.4:108.4:1.265);
   \node[green!60!black] at (0.3,1) {$90°$};
 \end{tikzpicture}
-\end{document}
+
 ```
 
 ### Example 3: Range of a Matrix Transformation

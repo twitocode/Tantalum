@@ -172,27 +172,47 @@ $$\text{Span}\{\mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_m\} = \left\{ \sum
 
 ```tikz
 \usepackage{tikz}
+
 \usetikzlibrary{patterns}
+
 \begin{document}
+
+  
+
 \begin{tikzpicture}[scale=1.2]
-  % Title
-  \node at (0,4) {\textbf{Span in $\mathbb{R}^2$}};
-  
-  % Axes
-  \draw[->, thick] (-2,0) -- (2,0) node[right] {$x$};
-  \draw[->, thick] (0,-2) -- (0,3) node[above] {$y$};
-  
-  % One vector - line through origin
-  \draw[blue, very thick, <->] (-1.5,-1.5) -- (1.5,1.5);
-  \draw[->, red, ultra thick] (0,0) -- (1,1) node[right] {$\mathbf{v}_1$};
-  \node[blue] at (-1.5,2) {Span$\{\mathbf{v}_1\}$ = a line};
-  
-  % Filled region suggestion
-  \fill[green!10] (-2,-2) -- (2,-2) -- (2,3) -- (-2,3) -- cycle;
-  \draw[->, red, ultra thick] (0,0) -- (1,0) node[below right] {$\mathbf{v}_1$};
-  \draw[->, red, ultra thick] (0,0) -- (0,1.5) node[left] {$\mathbf{v}_2$};
-  \node[green!50!black] at (1.5,2.5) {Span$\{\mathbf{v}_1,\mathbf{v}_2\}$ = plane};
+
+  % Title
+
+  \node at (0,4) {\textbf{Span in $\mathbb{R}^2$}};
+
+  % Axes
+
+  \draw[->, thick] (-2,0) -- (2,0) node[right] {$x$};
+
+  \draw[->, thick] (0,-2) -- (0,3) node[above] {$y$};
+
+  % One vector - line through origin
+
+  \draw[blue, very thick, <->] (-1.5,-1.5) -- (1.5,1.5);
+
+  \draw[->, red, ultra thick] (0,0) -- (1,1) node[right] {$\mathbf{v}_1$};
+
+  \node[blue] at (-1.5,2) {Span$\{\mathbf{v}_1\}$ = a line};
+
+  % Filled region suggestion
+
+  \fill[green!10] (-2,-2) -- (2,-2) -- (2,3) -- (-2,3) -- cycle;
+
+  \draw[->, red, ultra thick] (0,0) -- (1,0) node[below right] {$\mathbf{v}_1$};
+
+  \draw[->, red, ultra thick] (0,0) -- (0,1.5) node[left] {$\mathbf{v}_2$};
+
+  \node[green!50!black] at (1.5,2.5) {Span$\{\mathbf{v}_1,\mathbf{v}_2\}$ = plane};
+
 \end{tikzpicture}
+
+  
+
 \end{document}
 ```
 
