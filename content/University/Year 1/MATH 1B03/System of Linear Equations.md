@@ -1,3 +1,9 @@
+---
+CreatedAt: 2025-11-07
+class: MATH 1B03
+tags:
+  - "#classnote"
+---
 # Lecture 1: Systems of Linear Equations
 
 ## What is a Linear Equation?
@@ -68,3 +74,28 @@ We can represent a linear system using matrices.
 **Coefficient Matrix:**
 
 $$A = \begin{pmatrix} a_{11} & \cdots & a_{1n} \\ \vdots & \ddots & \vdots \\ a_{m1} & \cdots & a_{mn} \end{pmatrix} $$**Augmented Matrix:** $$(A|b) = \left( \begin{array}{ccc|c} a\_{11} & \cdots & a\_{1n} & b\_1 \\ \vdots & \ddots & \vdots & \vdots \\ a\_{m1} & \cdots & a\_{mn} & b\_m \end{array} \right)$$
+
+
+```tikz
+\begin{document}
+	\begin{tikzpicture}
+	% R^2 visualization
+	\draw[->] (0,0) -- (3,0) node[right] {$x$};
+	\draw[->] (0,0) -- (0,2.5) node[above] {$y$};
+	\draw[->, thick, blue] (0,0) -- (2,1.5) node[midway, above left] {$\mathbf{v}$};
+	\fill[blue] (2,1.5) circle (2pt);
+	\node at (1.5,-1) {$\mathbb{R}^2$ (the plane)};
+	\node[blue, right] at (2,1.5) {$\begin{bmatrix} 2 \\ 1.5 \end{bmatrix}$};
+	
+	% R^3 visualization
+	\begin{scope}[xshift=6cm]
+	\draw[->] (0,0) -- (2,0) node[right] {$x$};
+	\draw[->] (0,0) -- (0,2) node[above] {$y$};
+	\draw[->] (0,0) -- (-0.7,-0.7) node[below left] {$z$};
+	\draw[->, thick, red] (0,0) -- (1.5,1.2) node[midway, above] {$\mathbf{u}$};
+	\fill[red] (1.5,1.2) circle (2pt);
+	\node at (0.5,-1.5) {$\mathbb{R}^3$ (3D space)};
+	\end{scope}
+	\end{tikzpicture}
+\end{document}
+```
