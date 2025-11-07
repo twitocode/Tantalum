@@ -183,7 +183,8 @@ $$\begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix} = \begin{bmatrix} 3t \\ -2t \\
 
 ## Solution Structure Theorem
 
-> **Theorem**: Let $A\mathbf{x} = \mathbf{b}$ be consistent, and let $\mathbf{x}_0$ be a particular solution.
+> [!NOTE] Theorem
+> Let $A\mathbf{x} = \mathbf{b}$ be consistent, and let $\mathbf{x}_0$ be a particular solution.
 > 
 > Then **every solution** has the form:
 > $$\mathbf{x} = \mathbf{x}_0 + \mathbf{y}$$
