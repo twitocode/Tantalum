@@ -119,7 +119,7 @@ $$P_0 \subseteq P_1 \subseteq P_2 \subseteq \cdots \subseteq P = \bigcup_{n=0}^{
     \node[orange] at (4.7,1.8) {$P_1$};
     
     \node at (4, 0.3) {Constant functions};
-    \node at (4, 1.1) {Linear functions};
+    \node at (4, 1.2) {Linear functions};
     \node at (4, 2.4) {Quadratic functions};
     \node at (4, 3.4) {Cubic functions};
 \end{tikzpicture}

@@ -211,7 +211,9 @@ If $V$ has no finite spanning set, we say $V$ is **infinite dimensional**.
 
 ```tikz
 \begin{document}
+
 \begin{tikzpicture}
+
     % Dimension hierarchy
     \node[draw, circle, fill=blue!20] (r1) at (0,4) {$\mathbb{R}^1$};
     \node[right of=r1, node distance=1cm] {dim = 1};

@@ -200,7 +200,7 @@ Why is this a basis?
     \draw[->, dashed, gray] (0,0) -- (0,1) node[left, gray] {$e_2$};
     
     % New basis
-    \draw[->, thick, red] (0,0) -- (1,1) node[above right] {$v_1 = \begin{pmatrix} 1 \\ 1 \end{pmatrix}$};
+    \draw[->, thick, red] (0,0) -- (1,1.5) node[above right] {$v_1 = \begin{pmatrix} 1 \\ 1 \end{pmatrix}$};
     \draw[->, thick, blue] (0,0) -- (1,0) node[below] {$v_2 = \begin{pmatrix} 1 \\ 0 \end{pmatrix}$};
     
     % Example vector

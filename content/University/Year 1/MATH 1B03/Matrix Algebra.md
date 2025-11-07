@@ -186,7 +186,7 @@ $$A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix}, \quad A^T = \begin{b
 1. $(A^T)^T = A$
 2. $(A + B)^T = A^T + B^T$
 3. $(\lambda A)^T = \lambda A^T$
-4. **(AB)^T = B^T A^T** ⚠️ (order reverses!)
+4. **$(AB)^T = B^T A^T$** ⚠️ **(order reverses!)**
 
 **Connection to Transformations**:
 

@@ -79,7 +79,7 @@ Since $A$ is invertible (by IMT):
     \node[draw, circle, fill=blue!20] (v4) at (3,3) {$v_4$};
     \node[draw, circle, fill=red!20] (v5) at (4,3) {$v_5$};
     
-    \node at (-1,3) {Spanning set:};
+    \node at (-1.5,3) {Spanning set:};
     
     % Arrow
     \draw[->, thick] (2,2.5) -- (2,1.5) node[midway, right] {Algorithm};
@@ -89,7 +89,7 @@ Since $A$ is invertible (by IMT):
     \node[draw, circle, fill=green!30] (u2) at (2,0.5) {$v_2$};
     \node[draw, circle, fill=green!30] (u3) at (3.5,0.5) {$v_4$};
     
-    \node at (-1,0.5) {Basis:};
+    \node at (-1.5,0.5) {Basis:};
     
     % Annotations
     \node[red] at (2,4) {Linearly dependent};
