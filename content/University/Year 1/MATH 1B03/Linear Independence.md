@@ -215,10 +215,3 @@ These form the **standard basis** for $\mathbb{R}^n$.
 | $m > n$ in $\mathbb{R}^n$ | Must be dependent |
 | All pivots | Independent |
 | Free variable exists | Dependent |
-
----
-
-## Next Lecture
-- Linear transformations
-- One-to-one and onto transformations
-- Connection to linear independence and span
