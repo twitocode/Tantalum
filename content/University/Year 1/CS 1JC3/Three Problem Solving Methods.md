@@ -72,8 +72,8 @@ Can be used to prove theorems about Nat and recursively defined functions on Nat
 
 **Strong Induction (complete induction/course of values induction)**: (ordinal induction principle for ($\mathbb{N}, <)$)
 - For any property $P$, if
-	- $P(x) holds whenever $P(0), \dots, P(x-1)$ hold
-- then P(x) holds for all $x \in \mathbb{N}$
+	- $P(x)$ holds whenever $P(0), \dots, P(x-1)$ hold
+- then $P(x)$ holds for all $x \in \mathbb{N}$
 
 
 > [!NOTE] Theorem
