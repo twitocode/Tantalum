@@ -10,3 +10,12 @@
 - [ ] **Lecture 24** - 5.3 (Fundamental Theorem of Calculus)
 - [ ] **Lecture 25** - 5.5 (The Substitution Rule)
 - [ ] **Lecture 26** - 6.1 (Areas Between Curves)
+
+$$
+\begin{bmatrix}
+1 & 2 & 3 & 4 \\
+2 & 3 & -1 & 4 & 
+\end{bmatrix}
+$$
+
+$1=1$
