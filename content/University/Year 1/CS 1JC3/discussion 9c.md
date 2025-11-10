@@ -10,7 +10,7 @@ church and curry had the issue with self reference when trying to make their own
 **Lambda Term** is a string  of symbols defined inductively by following formation rules
 1. if $x \in V$ then $x$ is a lambda term for **variables**
 2. If $m,n$ are lambda terms, then ($mn$) for **function application**
-3. If $b \in V$ $m$ is a lambda term, then ($\lambda  x . m$) is a lambda term for **function abstractions**
+3. If $x \in V$, $m$ is a lambda term, then ($\lambda  x . m$) is a lambda term for **function abstractions**
 	-  ($\lambda  x . m$) is a binder
 	- $\int^b_{a} x^2 dx$ is also a binder
 		- $\int^b_{a} y^2 dy$ is also a binder
