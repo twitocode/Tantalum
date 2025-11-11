@@ -40,5 +40,106 @@ M&= 7.5 + 22.5 \\
 M &= 30
 \end{align}
 $$
+**We did not print or destroy any more paper**. started with 15, we still have a total of 15
+$$
+C + R = 15
+$$
+in this case
+
+___
+
+From the banks perspective:
+unless your told otherwise, assume the bank is happy with the reserve and the deposit. the reserve ratio in this case would be 20%
+
+| McMaster University Bank |                |
+| ------------------------ | -------------- |
+| Assets                   | Liabilities    |
+| Reserves: $200           | Deposts: $1000 |
+| Loans: $800              |                |
+Add 50 dollars
+
+| McMaster University Bank |                    |
+| ------------------------ | ------------------ |
+| Assets                   | Liabilities        |
+| Reserves: $**250**       | Deposts: $**1050** |
+| Loans: $800              | *excess reserves*  |
+
+reserves must be 20% of liabilities to remove the access (the RR is 20%)
+
+| McMaster University Bank |                |
+| ------------------------ | -------------- |
+| Assets                   | Liabilities    |
+| Reserves: $**210**       | Deposts: $1050 |
+| Loans: $**840**          |                |
+
+# CDIC
+**Canada Deposit Insurance Corporation**
+- they make sure that if the banks go down, you still get your money
+- The central bank says "We will ensure the balance in your chequing account up to $100k"
+	*this is a bigger issue in the US*
+we have branched banking
+- the CIDC - owns TD, RBc , etc, *something like that*
+
+the US did not like 1 commercial bank having too much power. 
+So they have **thousands** of tiny banks in the US
+
+## why do we have these isurances?
+run-on bank - customers withdraw to take out all of their deposits during financial crisis and when they think that the bank would fall.
+- the bank runs out of reserves and goes bankrupt
+
+**but if there is insurance, then there is no need to run to the bank**
+
+![[Money, Banks, and the Bank of Canada 2025-11-11 13.02.40.excalidraw]]
+___
+Bank of Niagara
 
 
+| Bank of Niagara |                     |
+| --------------- | ------------------- |
+| Assets: $7500   | Liabilities: $50000 |
+| Loans: $42500   | *excess reserve*    |
+RR = 7500/50000 = 15%
+Desired RR = 10%
+
+| Bank of Niagara          |                     |
+| ------------------------ | ------------------- |
+| Assets: $7500 - **2500** | Liabilities: $50000 |
+| Loans: $42500 + **2500** |                     |
+RR is now 10%
+
+
+___
+# **Exam Question**
+$M = C +D$
+$C + R = 15$
+$D =2C$
+$D = 3R$
+![[Pasted image 20251111131120.png]]
+
+$$
+\begin{align}
+2C &= 3R \\
+C &= \frac{3}{2}R \\ \\
+ 
+\frac{3}{2}R+R&=15 \\
+3R+2R&=30 \\
+5R&=30 \\
+R&=15 \\
+ \\
+C+6 &=15 \implies C= 9 \\
+R &= 6 \implies D = 3R = 18\\
+M &= 9 +18 \\
+\end{align}
+$$
+
+___
+nominal and real gdp stuff is there just to throw you off
+$$
+\begin{align}
+\% M \times \vec{V} = P\times Y \\
+
+\% M + 0 = 2 + 10
+\end{align}
+$$
+
+the answer is d
