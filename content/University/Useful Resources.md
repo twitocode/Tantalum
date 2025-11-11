@@ -17,3 +17,11 @@ Math help centre - Hamilton Hall
 [ratemycompany](https://www.ratemycompany.ca/leaderboard)
 [Toastmasters International -Home](https://toastmasters.org/)
 [Tracking what resume links are being clicked on - Bitly Connections Platform \| Short URLs, QR Codes, and More](https://bitly.com/)
+[Template for Course Notes : r/LaTeX](https://www.reddit.com/r/LaTeX/comments/sdntml/template_for_course_notes/)
+
+$$
+\begin{vmatrix}
+1 & 2 & \vdots & \ddots  \\
+2 & \dots & 4 & -1
+\end{vmatrix}
+$$
