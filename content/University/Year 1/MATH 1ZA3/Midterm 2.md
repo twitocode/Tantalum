@@ -19,4 +19,12 @@ $$
 $$
 
 $1=1$
-
+$$
+\begin{align}
+1 = 4 \\
+2 = 2 \\
+\begin{bmatrix}
+4  & 2 
+\end{bmatrix}
+\end{align}
+$$
