@@ -5,7 +5,7 @@
 - [ ] **Lecture 19** - 4.7 (Optimization Problems)
 - [x] **Lecture 20** - 4.9/5.4 (Antiderivatives, Introduce indefinite integral notation from Section 5.4 while doing 4.9)
 - [x] **Lecture 21** - Appendix E (Omit Mathematical Induction)
-- [ ] **Lecture 22** - 5.1 (Area and Distance)
+- [ ] **Lecture 22** - 5.1 (Area and Distance) *skip*
 - [ ] **Lecture 23** - 5.2 (The Definite Integral)
 - [ ] **Lecture 24** - 5.3 (Fundamental Theorem of Calculus)
 - [ ] **Lecture 25** - 5.5 (The Substitution Rule)
