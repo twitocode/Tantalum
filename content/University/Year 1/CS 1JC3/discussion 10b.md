@@ -66,10 +66,34 @@ The function is **total**
 
 ![[discussion 10b 2025-11-13 08.57.51.excalidraw]]
 
-$(\mathbb{N} \times \mathbb{N}, <_{lex})$
-$(m,n) <_{lex} (m',n')$
-
 lexigraphical ordering
 - can use it to order strings (strings of length 2 with 2 nautral numbers)
 - in a dictionary
-	- strings are ordered by romal yapa yapa forgot
+	- strings are ordered by the positioning of their letters
+$(\mathbb{N} \times \mathbb{N}, <_{lex})$
+$(m,n) <_{lex} (m',n')$
+$(m =m' \land n < n')\lor m<m'$ - these are the 2 cases - **this is a well-order**
+- think of the dictionary
+- able >
+- about >
+- boat >
+- boot
+
+```haskell
+c : Integer -> Integer -> (Integer, Integer)
+c mn = (m, n)
+-- now verify that the cases get smaller
+
+ackerman :: Integer -> Integer -> Integer
+ackermann m n
+	| m == 0          = n + 1
+	| m > 0 && n == 0 = ackermann (m-1) 1
+	| m > 0 && n > 0  = ackermann (m-1) (ackermann m (m-1))
+	
+-- this definition is total
+-- no matter what input i put it in it will always run
+-- just dont put too big numbers it will take forever
+```
+
+
+its not total on integers but it is total on natural numbees
