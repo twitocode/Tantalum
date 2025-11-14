@@ -110,6 +110,12 @@ Rules include:
 5.  **Quotient rule.**
 6.  **Chain rule.**
 
+## Software Modules
+A software module has two components:  
+1. An **interface** that is a set of services offered by the module to other modules.  
+2. An **implementation** that is the software that provides the services in the interface.  
+The interface is a little language of services.
+
 ## Type Classes Example
 A **type class** is a family of types with a common set of functions possibly with some default implementations.
 A type class is defined in Haskell by a **class declaration**:
@@ -148,6 +154,38 @@ It is a four-step design process to solve a problem $P$:
 4.  **Generalize** $\mathbf{S}$ and $\mathbf{S'}$ to obtain a solution $\mathbf{S}^*$ that solves a family of problems that includes $\mathbf{P}$ and $\mathbf{P'}$.
 CMCG trades short-term cost for long-term gain.
 
+## Big Sum and Prod
+```haskell
+bigSum :: Num a = > Integer -> Integer -> ( Integer -> a ) -> a
+bigSum m n f
+	| m > n = 0
+	| m <= n = ( bigSum m ( n - 1) f ) + f n
+	
+bigProd :: Num a = > Integer -> Integer -> ( Integer -> a ) -> a
+bigProd m n f
+	| m > n = 0/ 1
+	| m <= n = ( bigProd m ( n - 1) f ) +/ * f n	
+	
+bigAppend :: Integer -> Integer -> ( Integer -> String) -> String
+bigAppend m n f
+	| m > n = ""
+	| m <= n = ( bigAppend m ( n - 1) f ) +/ ++ f n
+```
+these two functions are almost the same, the only difference is multiply and addition, and 0 and 1. **How do i generealize it?**
+- These things have identity elements (Monoids)
+	- addition = 0
+	- multiplication = 0
+	- concatenation with strings = ""
+
+Monoid: 
+$$
+(m, \cdot{}, e)
+$$
+$\cdot$ is the binary associative
+$e$ is the identity element
+You no longer need multiple functions
+
+A monoid is a semigroup with some addition stuff
 ## Monoid Type Class and Generalized SuperSum Function
 ```haskell
 -- Monoid Type Class Definition (Page 25/29)
@@ -168,4 +206,39 @@ superSum :: Monoid a => Integer -> Integer -> (Integer -> a) -> a
 superSum m n f
     | m > n = mempty
     | m <= n = superSum m (n - 1) f `mappend` f n
+```
+
+how do we tell the difference between addition and multiplication?
+```haskell
+newtype Additive a = Additive a
+	deriving Show
+fromAdditive :: Additive a -> a
+fromAdditive ( Additive a ) = a
+
+funToAdditive :: ( Integer -> a ) -> ( Integer -> Additive a )
+funToAdditive f = let g n = Additive ( f n ) in g
+
+instance Num a = > Monoid ( Additive a ) where
+	mempty = Additive 0
+	Additive x ‘ mappend ‘ Additive y = Additive ( x + y )
+	
+b1 = fromAdditive ( superSum 1 100 Additive )
+-- = 5050
+square :: Integer -> Integer
+square x = x ^2
+
+b2 = fromAdditive ( superSum 1 3 ( funToAdditive square ) )
+-- = 14
+
+
+newtype Multiplicative a = Mu ltiplica tive a
+	deriving Show
+fromMultplicative :: Multiplicative a -> a
+fromMultplicative ( Multiplicative a ) = a
+instance Num a = > Monoid ( Multiplicativ e a ) where
+	mempty = Multipl icative 1
+	Multiplicative x ‘ mappend ‘ Multiplicative y
+		= Multiplicative ( x * y )
+c = fromMultplicative ( superSum 1 4 Multiplicative )
+-- = 24
 ```
