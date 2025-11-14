@@ -8,7 +8,7 @@
 - [ ] **Lecture 22** - 5.1 (Area and Distance) 
 - [ ] **Lecture 23** - 5.2 (The Definite Integral)
 - [ ] **Lecture 24** - 5.3 (Fundamental Theorem of Calculus)
-- [ ] **Lecture 25** - 5.5 (The Substitution Rule)
+- [x] **Lecture 25** - 5.5 (The Substitution Rule)
 - [ ] **Lecture 26** - 6.1 (Areas Between Curves)
 
 $$
