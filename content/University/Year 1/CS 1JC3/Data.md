@@ -95,3 +95,24 @@ LZ77 algorithm (Abraham Lempel and Jacob Ziv, 1977) **replaces repeated strings 
 		bgf(5,2)(2,8)gb.  
 - Provides lossless compression that is the **basis for many common compression algorithms such as zip**
 
+# Data Structures
+A **structured** collection of values that is created and manipulated by a computer program.
+Examples
+- Finite sequences of Values
+	- lists, arrays, records
+	- stacks and queries
+	- linked lists
+- Algebraic data types (inductive types)
+	- Enumerated types
+	- Sum types
+	- Product types
+	- Recursive types
+- Trees and graphs
+- Objects (that contain data and operations)
+- hash tables
+
+## Database
+An organized collection of data
+Usually are **relational** - collection of relations
+Designed to be **modified** and  **queried**
+**SQL (Strutured Query Language)** is the standard
