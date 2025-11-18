@@ -51,3 +51,47 @@ The CMYK model is a **subtractive model** for printing colour using ink.
 	4. Black ink absorbs all colours.  
 - Complete absorption is black and no absorption is white.
 - **think of white as the default colour** - from printing paper
+
+![[Pasted image 20251118093143.png]]
+
+## Digital Audio
+- Digital audio is produced from a continuous sound wave by periodic sampling and discrete quantization.  
+- Sounds outside human perception are eliminated.  
+- Audio files are compressed to reduce size without significantly reducing sound quality.  
+- There are a number of audio formats
+
+## Digital Video
+- A **digital video** is a sequence of digital images.  
+- A **frame rate** of about 30 frames per second is needed to achieve smooth motion.  *obviously*
+- A **video file** consists of a video track, audio track, and metadata.  
+- The video and audio tracks are compressed for storage and transmission, and decompressed before playing.  
+- There are a number of video formats *obviously*
+
+## File Formats
+1. **Text Files** - ASCII or unicode characters
+	- can be read by humans
+	- Ex. XML
+	```xml
+	  <address></address>
+	  ```
+2. **Binary Files** - bits
+File extensions (suffixes) like .pdf, .txt
+
+
+# Data Compression
+**Compression** is used to reduce data size
+**Decompression** recovers the original data.  
+**lossless** (reversible) or  **lossy** (irreversible).  
+ 
+Huffman Coding (David Huffman, 1952) **in which the higher the frequency of a symbol, the fewer bits are used to encode it.** 
+- The codes are given by a Huffman tree that can be automatically generated from a *set of character-frequency pairs*.  
+- Provides **lossless** compression.
+
+LZ77 algorithm (Abraham Lempel and Jacob Ziv, 1977) **replaces repeated strings by references to earlier occurrences.**  
+- A reference of the form (n, d) means the string is replaced by n bytes that occurred bytes back.  
+- Example. The message  
+		bgfgfgfgbggb  
+	is encoded as  
+		bgf(5,2)(2,8)gb.  
+- Provides lossless compression that is the **basis for many common compression algorithms such as zip**
+
