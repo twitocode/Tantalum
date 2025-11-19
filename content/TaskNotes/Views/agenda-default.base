@@ -1,12 +1,9 @@
-# Agenda
-
 filters:
   and:
     - file.hasTag("task")
-
 views:
   - type: tasknotesCalendar
-    name: "Agenda"
+    name: Agenda
     order:
       - status
       - priority
@@ -19,7 +16,7 @@ views:
       - file.name
       - recurrence
       - complete_instances
-    calendarView: "listWeek"
+    calendarView: listWeek
     startDateProperty: file.ctime
     listDayCount: 7
     titleProperty: file.basename

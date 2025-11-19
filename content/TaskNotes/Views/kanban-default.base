@@ -1,12 +1,12 @@
-# Kanban Board
-
 filters:
   and:
     - file.hasTag("task")
-
 views:
   - type: tasknotesKanban
-    name: "Kanban Board"
+    name: Kanban Board
+    groupBy:
+      property: status
+      direction: ASC
     order:
       - status
       - priority
@@ -19,9 +19,6 @@ views:
       - file.name
       - recurrence
       - complete_instances
-    groupBy:
-      property: status
-      direction: ASC
     options:
       columnWidth: 280
       hideEmptyColumns: false

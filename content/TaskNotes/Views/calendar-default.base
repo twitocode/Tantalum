@@ -1,16 +1,12 @@
-# Calendar
-
 filters:
   and:
     - file.hasTag("task")
-
 views:
   - type: tasknotesCalendar
-    name: "Calendar"
+    name: Calendar
     order:
       - status
       - priority
-      - due
       - scheduled
       - projects
       - contexts
@@ -19,6 +15,7 @@ views:
       - file.name
       - recurrence
       - complete_instances
+      - due
     options:
       showScheduled: true
       showDue: true
@@ -26,9 +23,10 @@ views:
       showTimeEntries: true
       showTimeblocks: true
       showPropertyBasedEvents: true
-      calendarView: "timeGridWeek"
+      calendarView: timeGridWeek
       customDayCount: 3
       firstDay: 0
-      slotMinTime: "06:00:00"
-      slotMaxTime: "22:00:00"
-      slotDuration: "00:30:00"
+      slotMinTime: 06:00:00
+      slotMaxTime: 22:00:00
+      slotDuration: 00:30:00
+    calendarView: timeGridWeek

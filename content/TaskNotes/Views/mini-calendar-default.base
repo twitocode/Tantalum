@@ -1,13 +1,9 @@
-# Mini Calendar
-# Generated with your TaskNotes settings
-
 filters:
   and:
     - file.hasTag("task")
-
 views:
   - type: tasknotesMiniCalendar
-    name: "Due"
+    name: Due
     order:
       - status
       - priority
@@ -25,12 +21,12 @@ views:
         direction: ASC
     dateProperty: due
   - type: tasknotesMiniCalendar
-    name: "Scheduled"
+    name: Scheduled
     order: []
     dateProperty: scheduled
   - type: tasknotesMiniCalendar
-    name: "Created"
+    name: Created
     dateProperty: file.ctime
   - type: tasknotesMiniCalendar
-    name: "Modified"
+    name: Modified
     dateProperty: file.mtime
