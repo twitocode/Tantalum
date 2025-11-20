@@ -1,30 +1,29 @@
-- [ ] public key encryption
-- [ ] conventional encryption
+- [x] conventional encryption
 - [ ] How Haskell handles IO
-- [ ] Algebraic types
+- [x] Algebraic types
 - [ ] Recursion and induction
-- [ ] TCP/IP layering
+- [x] TCP/IP layering
 - [ ] Little language
-- [ ] DNS system
-- [ ] monoids - *not that important*
-- [ ] Operating systems
-- [ ] File systems
+- [x] DNS system
+- [x] monoids - *not that important*
+- [x] Operating systems
+- [x] File systems
 - [ ] Networking
-- [ ] information security and Data security (*almost no difference*)
-- Historical figures in computing
-- Hash functions
-- Symmetric and Asymmetic encryption
-- One way encryption
-- ascii
-- unicode
-- WWW
-- Problem solving methods
-- processes scheduling
-- Lambda calculus
-- mathematical infesability
-- Type Classes
-- RSA
-	- prime factorization
+- [x] information security and Data security (*almost no difference*)
+- [x] Historical figures in computing
+- [x] Hash functions
+- [x] Symmetric and Asymmetic encryption
+- [ ] One way encryption
+- [x] ascii
+- [x] unicode
+- [x] WWW
+- [ ] Problem solving methods
+- [x] processes scheduling
+- [ ] Lambda calculus
+- [x] mathematical infesability
+- [ ] Type Classes
+- [x] RSA
+	- [ ] prime factorization
 	- public key - large number
 	- private key - two smaller numberes
 - http
