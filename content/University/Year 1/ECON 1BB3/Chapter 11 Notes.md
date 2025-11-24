@@ -189,7 +189,7 @@ Using the aggregate demand and aggregate supply model (assuming no economic grow
 
 ![[6AC09948-C185-4760-A67C-3D88348754AE.png]]
 
-## Don’t Let This Happen to You
+## Don’t LetThis Happen to You
 > [!ERROR] REMEMBER THAT WITH MONETARY POLICY, IT’S THE INTEREST RATES—NOT THE MONEY—THAT COUNT
 > It is tempting to think that increasing the money supply directly leads to more spending because people have more money. However, when the Bank of Canada increases the money supply (e.g., by buying government securities), sellers exchange one asset (securities) for another (a cheque); their income has not directly increased.
 >
@@ -197,7 +197,7 @@ Using the aggregate demand and aggregate supply model (assuming no economic grow
 
 ___
 
-# Monetary Policy in the Dynamic Aggregate Demand and Aggregate Supply Model
+# Monetary Policy in the Dynamic Aggregate Demand and Aggregate2 Supply Model **not on the exam**
 The previous discussion simplified monetary policy by ignoring continuous inflation and long-run economic growth. The **dynamic aggregate demand and aggregate supply model** accounts for these.
 
 -   Over time, the Canadian labour force, capital stock, and technological change increase, causing potential GDP to rise (LRAS shifts right).
