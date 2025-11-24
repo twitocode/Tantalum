@@ -381,3 +381,5 @@ The Fed and Treasury partnered to address the severe financial crisis.
 ## Economics in Your Life and Career
 > [!NOTE] SHOULD YOU BUY A HOUSE DURING A RECESSION?
 > Buying a house is a major decision. During a recession, the Bank of Canada often lowers interest rates, making mortgage rates typically lower. This can be an advantage. However, recessions also bring rising unemployment. If your job security is uncertain, committing to a large, long-term loan is risky. Therefore, if your job seems secure, buying a house during a recession when interest rates are low may be a good idea.
+
+
