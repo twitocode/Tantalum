@@ -48,7 +48,7 @@ Professor Emeritus at McMaster
 
 ## Software Development Models
 1. **Waterfall**: Development follows the logical order of the phases given above in a linear fashion.  
-	- This model is an idealization of the software development process that is rarely realized.  
+	- This model is an idealization of the software development process that *is rarely realized*.  
 2. **Spiral**: The steps of the waterfall model are repeatedly applied until a suitable product is obtained.  
 3. **Refinement** (Top-Down): The product requirements are step-wise refined through a series of designs until an implementation of the product is reached.  
 4. **Prototyping**: A prototype of the product is developed first and then thrown away.  
