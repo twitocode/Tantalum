@@ -4,3 +4,8 @@
 	1. change of location only helps if i was studying already before
 3. **make (generate) a study plan and follow it** 
 4. Ask an AI questions (gemini 3 pro or sonnet 4.5, screw chatgpt)
+
+## Responses from others
+1. Revising and paraphrasing notes, flora and focus tree apps, not eating until i finish a section, taking breaks to exercise or talk or snack, working in intervals and consistency
+2. I look at my notes and do the practice questions
+3. Understand material then spam practice tests. If I don't understand the material I go thru tests with Google and look up everything idk how to do
