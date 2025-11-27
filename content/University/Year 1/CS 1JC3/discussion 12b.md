@@ -45,3 +45,6 @@ agile
 - **the issue is that there is no requirement**
 	- there is no basis to know if you've done it correctly.
 	- *you could backtrack*
+
+Fred Brooks
+The mythical man-month
