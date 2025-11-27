@@ -12,3 +12,6 @@
 
 ## Confusion
 I am starting to think that my sleep has little to do with why i cant work. During lectures i am trying not to sleep. At certain study spots i am very tired. But when i went to the health science centre at night i was able to study for 1:30 straight. But sometimes i cant study at this place because once again, i feel tired. it is very inconsistent. 
+
+### Hypothesis
+What if i am just hungy? no food = no chemical energy = tired no matter what
