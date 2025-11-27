@@ -25,3 +25,5 @@ $$
 2 & \dots & 4 & -1
 \end{vmatrix}
 $$
+
+[Linear Algebra 1st Year - Google Drive](https://drive.google.com/drive/u/0/folders/11ecM_CXL9PqYLogiN7XIKrCtEHn5oAeT)
