@@ -9,3 +9,6 @@
 1. Revising and paraphrasing notes, flora and focus tree apps, not eating until i finish a section, taking breaks to exercise or talk or snack, working in intervals and consistency
 2. I look at my notes and do the practice questions
 3. Understand material then spam practice tests. If I don't understand the material I go thru tests with Google and look up everything idk how to do
+
+## Confusion
+I am starting to think that my sleep has little to do with why i cant work. During lectures i am trying not to sleep. At certain study spots i am very tired. But when i went to the health science centre at night i was able to study for 1:30 straight. But sometimes i cant study at this place because once again, i feel tired. it is very inconsistent. 
