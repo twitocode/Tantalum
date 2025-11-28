@@ -15,3 +15,8 @@ I am starting to think that my sleep has little to do with why i cant work. Duri
 
 ### Hypothesis
 What if i am just hungy? no food = no chemical energy = tired no matter what
+
+## Results
+eat + no sleep = can focus for bursts
+no eat + sleep = cant focus
+eat + sleep = focus mode
