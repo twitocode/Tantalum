@@ -74,7 +74,7 @@ Relies heavily on mathematical techniques (especially logic and discrete mathema
 3. **Modularity**: Complex systems should be divided into smaller parts, called modules.  
 4. **Least Privilege**: Each subject should be given the fewest privileges needed for it to perform its task.  
 5. **Formality**: Reasoning should be done using a language with a formal syntax and a precise semantics.  
-6. **Abstraction**: What is important should be separated out from what is irrelevant.  
+6. **Abstraction**: What is important should be separated out from what is irrelevant. 
 7. **Anticipation of change**: Future change should be anticipated and planned for.  
 8. **Generality**: Whenever possible, a more general problem should be solved instead of the problem at hand.  
 9. **Incrementality**: A problem should be attacked by producing successively closer approximations to a solution
