@@ -20,3 +20,11 @@ What if i am just hungy? no food = no chemical energy = tired no matter what
 eat + no sleep = can focus for bursts
 no eat + sleep = cant focus
 eat + sleep = focus mode
+
+# Things i struggled with this semester
+1. Taking notes during class. I literally wrote down everything, people like kyle go way way too fast. 
+2. I do not look at my stuff after school **VERY BAD**
+3. Did not ask any questions
+4. Didnt do homework everyday, only like a week before midterm/exam
+
+
