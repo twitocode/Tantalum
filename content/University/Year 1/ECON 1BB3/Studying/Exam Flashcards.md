@@ -1,8 +1,6 @@
 ---
 TARGET DECK: Year 1::ECON 1BB3::Exam
 ---
-Here are the flashcards for your entire ECON 1BB3 course, generated in Neuracache style:
-
 What is the Aggregate Demand (AD) and Aggregate Supply (AS) model used for? #flashcard
 To explain short-run fluctuations in real GDP and the price level.
 
