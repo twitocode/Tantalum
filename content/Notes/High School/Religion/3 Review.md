@@ -29,6 +29,8 @@ A: Also known as a baptismal mission. It is a calling from God. ==Add more to th
 
 Q: What is a call story 
 A: Stories where God sends a person, usually a prophet on a mission. 
+<!--ID: 1764546368931-->
+
 
 
 Q: Define eschatological 
@@ -37,6 +39,8 @@ A: Pertaining to the end of time, In the sense of its fullness. It is an ethics 
 
 Q: What is Parousia 
 A: The second coming of Christ (the rapture)
+<!--ID: 1764546368947-->
+
 
 
 Q: What is the main concern of the Old Testament?
@@ -49,14 +53,20 @@ A: The Gospels that have texts which when set side by side, show a similar accou
 
 Q: Kingdom of God, 
 A: Also known as the Kingdom of Heaven. It literally just means God
+<!--ID: 1764546368959-->
+
 
 
 Q: What is the innermost secret of the New Testament
 A: God's very being is love ==Change this== 
+<!--ID: 1764546368970-->
+
 
 
 Q: Define covenant, 
 A: A formal, solemn agreement or contract between two or more parties. 
+<!--ID: 1764546368978-->
+
 
 
 Q: Define exegesis 
@@ -69,10 +79,14 @@ A: The study of how texts should be interpreted. The text's meaning in today's t
 
 Q: Talk about the power of the name YHWH,
 A: It has the power to change the Israelite's history. It is a source of judgement. **HUH???**
+<!--ID: 1764546368995-->
+
 
 
 Q: Name each of the Corporal Works of Mercy,
 A: feed the hungry, give drink to the thirsty, clothe the naked, shelter the homeless, visit the sick, visit the imprisoned, and bury the dead
+<!--ID: 1764546369002-->
+
 
 Q: Who was Matthew 
 A: 
