@@ -1,6 +1,6 @@
 ---
 epoch: 1764544911760
-modelKey: "gemini-2.5-pro|google"
+modelKey: "gemini-2.5-flash|google"
 topic: "Macroeconomics Notes Overview"
 
 
@@ -34,3 +34,30 @@ Whitespace is ignored!
 * Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 125000, model: gemini-2.5-pro
 Please retry in 6.70771002s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-pro"},"quotaValue":"125000"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"6s"}]</errorChunk>
 [Timestamp: 2025/11/30 18:22:53]
+
+**user**: [[Chapter 9 Notes]] 
+
+could you make flashcards for my entire course for my next exam
+
+In Neuracache style, to make a flashcard you do #flashcard
+The next lines then become the back of the flashcard
+
+If you want, it's certainly possible to
+do a multi-line question #flashcard
+You just need to make sure both
+the question and answer are one paragraph.
+
+And, of course #flashcard
+
+
+Whitespace is ignored!
+[[AD and AS Analysis]] [[Economics_Chapter_10_Notes@20251109_165141]] [[Money, Banks, and the Bank of Canada]] [[Chapter 11 Notes]] [[Monetary Policy]] [[Chapter 12 Notes]] [[Fiscal Policy]] 
+
+[Context: Notes: University/Year 1/ECON 1BB3/Chapter 9 Notes.md, University/Year 1/ECON 1BB3/AD and AS Analysis.md, Assets/copilot-conversations/Economics_Chapter_10_Notes@20251109_165141.md, University/Year 1/ECON 1BB3/Money, Banks, and the Bank of Canada.md, University/Year 1/ECON 1BB3/Chapter 11 Notes.md, University/Year 1/ECON 1BB3/Monetary Policy.md, University/Year 1/ECON 1BB3/Chapter 12 Notes.md, University/Year 1/ECON 1BB3/Fiscal Policy.md]
+[Timestamp: 2025/11/30 18:27:55]
+
+**ai**: 
+<errorChunk>[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse: [429 ] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 250000, model: gemini-2.5-flash
+Please retry in 47.409586679s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"250000"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"47s"}]</errorChunk>
+[Timestamp: 2025/11/30 18:31:12]
