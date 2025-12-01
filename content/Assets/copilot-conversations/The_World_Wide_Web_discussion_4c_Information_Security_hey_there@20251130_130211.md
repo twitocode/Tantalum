@@ -14,11 +14,15 @@ could you make flashcards for my entire course for my next exam
 
 In Neuracache style, to make a flashcard you do #flashcard
 The next lines then become the back of the flashcard
+<!--ID: 1764547173362-->
+
 
 If you want, it's certainly possible to
 do a multi-line question #flashcard
 You just need to make sure both
 the question and answer are one paragraph.
+<!--ID: 1764547173363-->
+
 
 And, of course #flashcard
 
@@ -26,6 +30,8 @@ And, of course #flashcard
 Whitespace is ignored!
 [Context: Notes: University/Year 1/CS 1JC3/Algebraic Data Types.md, University/Year 1/CS 1JC3/brother this stinks.md, University/Year 1/CS 1JC3/Computational Thinking.md, University/Year 1/CS 1JC3/CS 1JC3.md, University/Year 1/CS 1JC3/Data.md, University/Year 1/CS 1JC3/dicussion 4b.md, University/Year 1/CS 1JC3/discussion 10a.md, University/Year 1/CS 1JC3/discussion 10b.md, University/Year 1/CS 1JC3/discussion 10c.md, University/Year 1/CS 1JC3/discussion 11a.md, University/Year 1/CS 1JC3/discussion 11b.md, University/Year 1/CS 1JC3/discussion 12a.md, University/Year 1/CS 1JC3/discussion 12b.md, University/Year 1/CS 1JC3/discussion 12c.md, University/Year 1/CS 1JC3/discussion 2a.md, University/Year 1/CS 1JC3/discussion 2b.md, University/Year 1/CS 1JC3/discussion 2c.md, University/Year 1/CS 1JC3/discussion 3a.md, University/Year 1/CS 1JC3/discussion 3b.md, University/Year 1/CS 1JC3/discussion 3c.md, University/Year 1/CS 1JC3/discussion 4a.md, University/Year 1/CS 1JC3/discussion 4c.md, University/Year 1/CS 1JC3/discussion 5a.md, University/Year 1/CS 1JC3/discussion 5b.md, University/Year 1/CS 1JC3/discussion 6a.md, University/Year 1/CS 1JC3/discussion 6b.md, University/Year 1/CS 1JC3/discussion 7a.md, University/Year 1/CS 1JC3/discussion 7b.md, University/Year 1/CS 1JC3/discussion 8a.md, University/Year 1/CS 1JC3/discussion 8b.md, University/Year 1/CS 1JC3/discussion 8c.md, University/Year 1/CS 1JC3/discussion 9a.md, University/Year 1/CS 1JC3/discussion 9b.md, University/Year 1/CS 1JC3/discussion 9c.md, University/Year 1/CS 1JC3/Discussion Session 01b day1-p2.md, University/Year 1/CS 1JC3/Exercises 06.md, University/Year 1/CS 1JC3/Functional Programming.md, University/Year 1/CS 1JC3/hey there.md, University/Year 1/CS 1JC3/Information Security.md, University/Year 1/CS 1JC3/Intro.md, University/Year 1/CS 1JC3/Logic.md, University/Year 1/CS 1JC3/Numbers.md, University/Year 1/CS 1JC3/Operating System and the Internet.md, University/Year 1/CS 1JC3/Recursion.md, University/Year 1/CS 1JC3/Software Development.md, University/Year 1/CS 1JC3/Studying/Historical figures in computing.md, University/Year 1/CS 1JC3/Studying/Midterm 2 Topics.md, University/Year 1/CS 1JC3/The World Wide Web.md, University/Year 1/CS 1JC3/Three Problem Solving Methods.md, University/Year 1/CS 1JC3/What is Computational Thinking.md]
 [Timestamp: 2025/11/30 13:02:11]
+<!--ID: 1764547173364-->
+
 
 **ai**: Of course! Here are flashcards in the Neuracache style, created from your course notes for [[CS 1JC3]].
 
@@ -33,6 +39,8 @@ Whitespace is ignored!
 
 What did Gottfried Leibniz postulate with *characteristica universalis* and *calculus ratiocinator*? #flashcard
 He postulated *characteristica universalis*, a language in which all scientific ideas could be expressed, and *calculus ratiocinator*, a computing device that could determine if those ideas were true or false. This was later proven theoretically impossible by Alonzo Church and Alan Turing.
+<!--ID: 1764547173365-->
+
 
 ***
 
@@ -43,11 +51,15 @@ The belief that what is intuitively computable is precisely what a Turing machin
 
 What is the difference between imperative and declarative programming? #flashcard
 Imperative programs are a sequence of statements expressing *how* a program will work (e.g., a for loop). Declarative programs are a sequence of statements expressing *what* the program will achieve, not how (e.g., `array.map`). Functional programming is a declarative paradigm.
+<!--ID: 1764547173366-->
+
 
 ***
 
 What is the difference between syntax and semantics? #flashcard
 **Syntax** is the formal structure and symbols of a language (e.g., `2 + 3`). **Semantics** is the meaning or value denoted by that syntax (e.g., the operation of addition on the numbers two and three).
+<!--ID: 1764547173367-->
+
 
 ***
 
@@ -58,11 +70,15 @@ The process of turning a function that takes multiple arguments at once into a c
 
 What did Russel's Paradox reveal about naive set theory? #flashcard
 It revealed a fundamental flaw by considering the set R = {x | x is a set and x ∉ x}. Asking whether R contains itself (R ∈ R) leads to a contradiction in both cases, which prompted the development of more rigorous axiomatic set theories.
+<!--ID: 1764547173368-->
+
 
 ***
 
 How do you negate a number in two's complement representation? #flashcard
 You invert all of its bits and then add 1.
+<!--ID: 1764547173369-->
+
 
 ***
 
@@ -70,31 +86,43 @@ What are the special values that can result from floating-point arithmetic? #fla
 - **-0.0 / 0.0** (underflow, when a result is too close to zero)
 - **Infinity / -Infinity** (overflow, when a result is too large or small)
 - **NaN** (Not a Number, for undefined results like $\sqrt{-1}$)
+<!--ID: 1764547173370-->
+
 
 ***
 
 What is a complete set of boolean functions, and what is an example? #flashcard
 A complete set of boolean functions is a set of operators that can be used to define every possible boolean function. Examples include `{and, not}`, `{or, not}`, `{nand}` alone, or `{nor}` alone.
+<!--ID: 1764547173371-->
+
 
 ***
 
 What is the difference between weak induction and strong induction? #flashcard
 **Weak induction** (mathematical induction) assumes $P(k)$ is true to prove $P(k+1)$. **Strong induction** assumes $P(y)$ is true for *all* $y < k$ to prove $P(k)$. Strong induction provides a stronger induction hypothesis.
+<!--ID: 1764547173372-->
+
 
 ***
 
 What is tail recursion and why is it efficient? #flashcard
 Tail recursion is when a function's recursive call is the very last operation performed. This allows the compiler to optimize the recursion into an iteration with O(1) space complexity, avoiding the risk of stack overflow.
+<!--ID: 1764547173373-->
+
 
 ***
 
 What is the difference between Sum and Product types in Algebraic Data Types? #flashcard
 **Sum Types** are algebraic types with more than one constructor, representing an "or" relationship (e.g., `data Bool = False | True`). **Product Types** have only one constructor and group values together like a tuple, representing an "and" relationship (e.g., `data Point = MakePoint Float Float`).
+<!--ID: 1764547173374-->
+
 
 ***
 
 What do "No junk" and "No confusion" mean for algebraic data types? #flashcard
 **No junk** means every value of the type can be constructed using its constructors. **No confusion** means there is only one unique way to construct each value; different constructor expressions cannot result in the same value.
+<!--ID: 1764547173375-->
+
 
 ***
 
@@ -104,16 +132,22 @@ What are the 5 layers of the TCP/IP Internet Protocol Suite? #flashcard
 3.  **Internet Layer** (transmits IP datagrams using IP addresses)
 4.  **Transport Layer** (transmits TCP segments or UDP datagrams using ports)
 5.  **Application Layer** (HTTP, SMTP, etc.)
+<!--ID: 1764547173376-->
+
 
 ***
 
 What is a process context switch in an operating system? #flashcard
 When a process's allotted time slice on the CPU ends, the OS suspends it, saves its current state (its context), and gives another process control of the CPU.
+<!--ID: 1764547173377-->
+
 
 ***
 
 What is the primary purpose of the Domain Name System (DNS)? #flashcard
 DNS is a hierarchical system that maps human-readable host names (like `humanities.mcmaster.ca`) to machine-readable IP addresses (like `199.17.40.210`).
+<!--ID: 1764547173378-->
+
 
 ***
 
@@ -121,21 +155,29 @@ What are the three main goals of information security, also known as the CIA tri
 1.  **Confidentiality**: Protecting information from unauthorized disclosure.
 2.  **Integrity**: Ensuring information has not been maliciously or accidentally modified.
 3.  **Availability**: Ensuring information and resources can be used as needed.
+<!--ID: 1764547173379-->
+
 
 ***
 
 How is confidentiality achieved using public-key (asymmetric) encryption? #flashcard
 The sender encrypts the message with the receiver’s **public key**. The receiver is the only one who can then decrypt the message using their corresponding **private key**.
+<!--ID: 1764547173380-->
+
 
 ***
 
 How are digital signatures created and verified using public-key encryption? #flashcard
 The sender encrypts a message (or its hash) with their own **private key** to create a signature. Anyone can then use the sender's **public key** to decrypt it, which verifies the sender's identity (non-repudiation) and that the message has not been altered (integrity).
+<!--ID: 1764547173381-->
+
 
 ***
 
 What is the core principle behind the security of the RSA algorithm? #flashcard
 Its security is based on the mathematical infeasibility of factoring the product of two very large prime numbers. The product is part of the public key, while the prime factors themselves are part of the private key.
+<!--ID: 1764547173382-->
+
 
 ***
 
@@ -147,16 +189,22 @@ What are the phases of the waterfall model of software development? #flashcard
 5.  **Verification**
 6.  **Deployment**
 Development follows these phases in a linear, sequential order.
+<!--ID: 1764547173383-->
+
 
 ***
 
 What is the difference between blackbox and whitebox testing? #flashcard
 **Blackbox testing** selects test cases based only on the software's requirements and specifications, without looking at the internal code. **Whitebox testing** selects test cases based on the code's implementation, aiming to cover all paths or statements.
+<!--ID: 1764547173384-->
+
 
 ***
 
 What is the software engineering principle of Information Hiding? #flashcard
 It is the practice of hiding implementation details that are likely to change inside a module, exposing only a stable interface. This allows the internal "secret" of a module to be modified without affecting other parts of the system that depend on it.
+<!--ID: 1764547173385-->
+
 
 ***
 
@@ -164,12 +212,16 @@ What are the three problem-solving methods discussed in the course? #flashcard
 1.  Recursion & Induction
 2.  Little Languages (Domain-Specific Languages)
 3.  Copy, Modify, Compare, and Generalize (CMCG)
+<!--ID: 1764547173386-->
+
 
 ***
 
 What is a monoid? #flashcard
 A monoid is an algebraic structure $(m, \cdot, e)$ consisting of a set $m$, a binary associative operator $(\cdot)$, and an identity element $e$ such that $e \cdot x = x = x \cdot e$ for any $x$ in $m$. Examples include $(\mathbb{R}, +, 0)$ and $(\text{Strings}, \text{concat}, \text{""})$.
 [Timestamp: 2025/11/30 13:02:48]
+<!--ID: 1764547173387-->
+
 
 **user**: no like do it for each lecture for the entire course as many flashcards as you can
 [Timestamp: 2025/11/30 13:04:24]
