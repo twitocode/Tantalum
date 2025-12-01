@@ -4,8 +4,8 @@
 - [x] Macroeconomics: Setup Flashcards
 
 ### 2025-12-01
-- [ ] Start Studying: Calculus, Comp Thinking
-- [ ] Calculus: lec 2-4
+- [x] Start Studying: Calculus, Comp Thinking
+- [x] Calculus: lec 2-4
 - [ ] Intro to Computational Thinking: Comp Thinking, Functional Programming
 
 ### 2025-12-02
