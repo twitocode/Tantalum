@@ -10,7 +10,7 @@
 
 ### 2025-12-02
 - [x] Calculus: lec 5-8
-- [ ] Intro to Computational Thinking: Numbers & Logic
+- [x] Intro to Computational Thinking: Numbers & Logic
 
 ### 2025-12-03
 - [ ] Start Studying: Linear Algebra
