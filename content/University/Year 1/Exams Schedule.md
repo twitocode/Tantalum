@@ -6,10 +6,10 @@
 ### 2025-12-01
 - [x] Start Studying: Calculus, Comp Thinking
 - [x] Calculus: lec 2-4
-- [ ] Intro to Computational Thinking: Comp Thinking, Functional Programming
+- [x] Intro to Computational Thinking: Comp Thinking, Functional Programming
 
 ### 2025-12-02
-- [ ] Calculus: lec 5-8
+- [x] Calculus: lec 5-8
 - [ ] Intro to Computational Thinking: Numbers & Logic
 
 ### 2025-12-03
