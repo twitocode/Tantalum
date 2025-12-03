@@ -13,8 +13,8 @@
 - [x] Intro to Computational Thinking: Numbers & Logic
 
 ### 2025-12-03
-- [ ] Start Studying: Linear Algebra
-- [ ] Calculus: lec 9-12
+- [x] Start Studying: Linear Algebra
+- [x] Calculus: lec 9-12
 - [ ] Linear Algebra: lec 9, 10, 14
 - [ ] Intro to Computational Thinking: Recursion & Algebraic Data Types
 
