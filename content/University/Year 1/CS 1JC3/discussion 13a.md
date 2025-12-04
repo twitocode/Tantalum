@@ -74,3 +74,25 @@ the induction principle for this would be
 a *degenerate induction principle*
 show it holds for false and it holds for True, then it must hold for all inputs
 $P(False) \land P(True) \implies \forall x \in Bool \ . P(x)$
+
+
+sum types have more than 1 consturctor
+product types have constructors with more than 1 argument
+
+$(\lambda y . y) N$
+$(M,N)$
+$$\begin{align}
+M &= (\lambda x.x)(\lambda y.y) \ \\
+&= (\lambda y.y)
+\end{align}
+$$
+
+it could be redex if it reduces but it does not always reduce to redex
+
+modularity is a special case of separation of concerns
+RSA is a public key encryption algorithm
+
+public key - $a \times b$
+private key = $(a, b)$
+
+to get private key  you need to factor public key, but that is mathematically infeasible
