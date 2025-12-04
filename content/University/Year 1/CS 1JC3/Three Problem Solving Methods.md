@@ -58,12 +58,16 @@ x ‘natTimes‘ Zero = Zero
 x ‘natTimes‘ ( Suc y ) = x ‘natPlus‘ ( x ‘natTimes‘ y )
 ```
 
-**Weak Induction (Mathematical Inductin)** is the structural induction principle for Nat:
+**Weak Induction (Mathematical Induction)** is the structural induction principle for Nat:
 - For any property $P$. if 
 	- $P \\\ Zero$ holds and
 	- $P \\\ (Suc \\\ x)$ holds whenever $P \\\ x$ holds
 - then $P \\\ x$ holds for all values $x$ of type Nat
 Can be used to prove theorems about Nat and recursively defined functions on Nat such as natPlus and natTimes
+
+Ex
+$\forall x . \ P(x)$
+$(P(0) \land (\forall y . \ P (y) \implies P(y + 1)) \implies \forall x . \ P(x))$
 
 **Commutativity of natPlus:**
 `x ‘natPlus‘ y == y ‘natPlus‘ x.`
@@ -75,6 +79,7 @@ Can be used to prove theorems about Nat and recursively defined functions on Nat
 	- $P(x)$ holds whenever $P(0), \dots, P(x-1)$ hold
 - then $P(x)$ holds for all $x \in \mathbb{N}$
 
+$P'(x) = P(0) \land \dots \land P(x)$
 
 > [!NOTE] Theorem
 > Weak and strong induction are equivalent to each other
