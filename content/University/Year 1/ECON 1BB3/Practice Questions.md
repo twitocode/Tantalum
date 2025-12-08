@@ -77,48 +77,48 @@
 **11.** Which point is attainable but inefficient on a Production Possibilities Frontier?
 
 - A) A point on the PPF curve
-- B) A point outside the PPF curve
+- **B) A point outside the PPF curve**
 - C) A point inside the PPF curve
 - D) All points on the PPF are efficient
 
 **12.** Economic growth is best represented by:
 
 - A) Moving from one point to another point on the same PPF
-- B) A rightward shift of the PPF curve
+- **B) A rightward shift of the PPF curve**
 - C) Producing at a point outside the PPF
 - D) Producing at a point inside the PPF
 
 **13.** Comparative advantage is best defined as:
 
 - A) The ability to produce more output with the same resources
-- B) The ability to produce a good at a lower opportunity cost than competitors
+- **B) The ability to produce a good at a lower opportunity cost than competitors**
 - C) Having all the latest technology
 - D) Being the most efficient producer overall
 
 **14.** Two countries can benefit from trade even if one country is better at producing everything because:
 
 - A) The less efficient country has absolute advantage in something
-- B) Both countries likely have comparative advantages in different goods
+- **B) Both countries likely have comparative advantages in different goods**
 - C) International trade creates new resources
 - D) Prices will equalize across countries
 
 **15.** Canada can produce 100 barrels of oil or 400 tonnes of wheat per month. Mexico can produce 120 barrels of oil or 240 tonnes of wheat per month. Which country has an absolute advantage in wheat?
 
-- A) Canada
+- **A) Canada**
 - B) Mexico
 - C) Both countries have equal advantage
 - D) Neither country has an advantage
 
 **16.** Using the same data as Question 15, what is Canada's opportunity cost of producing one barrel of oil?
 
-- A) 4 tonnes of wheat
+- **A) 4 tonnes of wheat**
 - B) 0.25 tonnes of wheat
 - C) 120 barrels of oil
 - D) 2 tonnes of wheat
 
 **17.** If Mexico trades 30 barrels of oil for 60 tonnes of Canadian wheat, this means the trade price is:
 
-- A) 2 wheat per oil
+- **A) 2 wheat per oil**
 - B) 0.5 wheat per oil
 - C) 1 wheat per oil
 - D) 3 wheat per oil
@@ -126,21 +126,21 @@
 **18.** Which of the following causes a PPF to shift outward (economic growth)?
 
 - A) Unemployed workers finding jobs
-- B) A technological improvement in production
+- **B) A technological improvement in production**
 - C) Moving from inside the PPF to the PPF itself
 - D) A decrease in consumer demand
 
 **19.** A bowed-out (curved) PPF, rather than a straight line, indicates:
 
 - A) Constant opportunity costs
-- B) Increasing marginal opportunity costs
+- **B) Increasing marginal opportunity costs**
 - C) Decreasing costs of production
 - D) Economic inefficiency
 
 **20.** When an economy operates inside its PPF, this represents:
 
 - A) Maximum productive efficiency
-- B) A situation where some resources are unemployed or underutilized
+- **B) A situation where some resources are unemployed or underutilized**
 - C) The most desirable outcome for society
 - D) Long-term economic growth
 
