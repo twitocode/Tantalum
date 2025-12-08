@@ -4,6 +4,7 @@ class: ECON 1BB3
 tags:
   - "#classnote"
 ---
+
 # What Is Monetary Policy?
 **Monetary policy**: The actions the Bank of Canada takes to manage the money supply and interest rates to achieve its macroeconomic policy objectives.
 
