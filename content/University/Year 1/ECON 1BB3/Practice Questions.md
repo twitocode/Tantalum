@@ -151,14 +151,14 @@
 **21.** Which of the following would cause the demand curve for coffee to shift to the RIGHT?
 
 - A) An increase in the price of coffee
-- B) A decrease in the price of tea (a substitute)
+- **B) An increase in the price of tea (a substitute)**
 - C) A decrease in consumer income (assuming normal good)
 - D) News that coffee causes health problems
 
 **22.** The law of demand states that:
 
 - A) When demand increases, price increases
-- B) Holding other factors constant, as price rises, quantity demanded falls
+- **B) Holding other factors constant, as price rises, quantity demanded falls**
 - C) Suppliers always raise prices when demand increases
 - D) Quantity supplied equals quantity demanded
 
@@ -166,7 +166,7 @@
 
 - A) Quantity supplied equals quantity demanded at the market price
 - B) Quantity supplied exceeds quantity demanded
-- C) Quantity demanded exceeds quantity supplied at the current price
+- **C) Quantity demanded exceeds quantity supplied at the current price**
 - D) The supply curve shifts left
 
 **24.** Which change would cause the supply curve for smartphones to shift LEFT?
@@ -174,18 +174,18 @@
 - A) A decrease in the price of semiconductors (an input)
 - B) Technological improvements in manufacturing
 - C) An increase in the number of smartphone manufacturers
-- D) Expectations that prices will be lower next year
+- **D) Expectations that prices will be lower next year**
 
 **25.** When the price of a complementary good decreases, the demand for the original good:
 
-- A) Decreases
+- **A) Decreases**
 - B) Increases
 - C) Remains unchanged
 - D) Becomes perfectly inelastic
 
 **26.** If hamburgers and hot dogs are substitutes, and the price of hot dogs decreases, what happens to the demand for hamburgers?
 
-- A) Demand increases
+- **A) Demand increases**
 - B) Demand decreases
 - C) Quantity demanded decreases
 - D) Quantity demanded increases
@@ -194,7 +194,7 @@
 
 - A) Quantity demanded exceeds quantity supplied
 - B) Quantity supplied exceeds quantity demanded
-- C) Quantity demanded equals quantity supplied
+- **C) Quantity demanded equals quantity supplied**
 - D) Neither buyers nor sellers are satisfied
 
 **28.** If the price of pizza is above the equilibrium price, there is a:
@@ -202,12 +202,12 @@
 - A) Shortage, and prices will tend to rise
 - B) Shortage, and prices will tend to fall
 - C) Surplus, and prices will tend to rise
-- D) Surplus, and prices will tend to fall
+- **D) Surplus, and prices will tend to fall**
 
 **29.** An increase in consumer income would shift the demand curve for a normal good:
 
 - A) To the left
-- B) To the right
+- **B) To the right**
 - C) Upward along the curve
 - D) Downward along the curve
 
@@ -215,7 +215,7 @@
 
 - A) Price will increase
 - B) Price will decrease
-- C) Quantity will increase
+- **C) Quantity will increase**
 - D) Quantity will decrease
 
 ---
