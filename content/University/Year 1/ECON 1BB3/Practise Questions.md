@@ -1,8 +1,4 @@
-# ECON 1BB3: Introductory Macroeconomics
-
-## Comprehensive Practice Questions
-
----
+*From Claude*
 
 ## CHAPTER 1: SCARCITY, INCENTIVES, AND ECONOMIC MODELS
 
