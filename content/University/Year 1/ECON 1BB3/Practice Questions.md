@@ -3,21 +3,21 @@
 **1.** Which of the following best describes scarcity?
 
 - A) Resources are unlimited but wants are limited
-- B) Unlimited wants exceed limited resources available
+- **B) Unlimited wants exceed limited resources available**
 - C) Prices of goods are too high
 - D) Markets cannot allocate resources efficiently
 
 **2.** A student has 10 hours to study for two exams. Devoting one additional hour to economics means one less hour studying biology. This exemplifies:
 
 - A) The law of diminishing returns
-- B) A trade-off and the concept of opportunity cost
+- **B) A trade-off and the concept of opportunity cost**
 - C) Productive efficiency
 - D) Allocative efficiency
 
 **3.** Economists assume people are rational because:
 
 - A) Everyone makes perfect decisions
-- B) People make decisions they believe will make them happy, comparing benefits to costs
+- **B) People make decisions they believe will make them happy, comparing benefits to costs**
 - C) People never make mistakes
 - D) People always have complete information
 
@@ -25,7 +25,7 @@
 
 - A) The unemployment rate increased by 2% this year
 - B) Higher minimum wages reduce employment for low-skilled workers
-- C) The government should raise taxes on the wealthy
+- **C) The government should raise taxes on the wealthy**
 - D) Real GDP grew faster in 2022 than in 2021
 
 **5.** Emma can produce 5 essays or 15 problem sets in one week. James can produce 8 essays or 12 problem sets in one week. Who has the comparative advantage in essay writing?
@@ -33,12 +33,12 @@
 - A) Emma, because she can produce essays faster
 - B) James, because he can produce more essays total
 - C) Emma, because her opportunity cost of one essay is 3 problem sets
-- D) James, because his opportunity cost of one essay is 1.5 problem sets
+- **D) James, because his opportunity cost of one essay is 1.5 problem sets**
 
 **6.** You're offered two job opportunities: Job A pays $50,000/year but requires giving up a scholarship worth $8,000/year. Job B pays $45,000/year with no scholarship. What is the opportunity cost of taking Job A?
 
 - A) $50,000
-- B) $45,000
+- **B) $45,000**
 - C) $8,000
 - D) $58,000
 
@@ -47,19 +47,19 @@
 - A) Drivers speed on empty highways even though it's illegal
 - B) Banks reduce security measures when robbery rates are low and economically justified
 - C) Students study harder when grades are curved
-- D) All of the above
+- **D) All of the above**
 
 **8.** Economic models are useful because they:
 
 - A) Represent reality with perfect accuracy
-- B) Are simple simplifications that help us understand complex relationships
+- **B) Are simple simplifications that help us understand complex relationships**
 - C) Eliminate the need for real-world data
 - D) Always predict the future correctly
 
 **9.** Optimal decisions are made at the margin, which means:
 
 - A) We should only consider the total costs and benefits
-- B) We compare additional (marginal) benefits to additional (marginal) costs
+- **B) We compare additional (marginal) benefits to additional (marginal) costs**
 - C) We should maximize total profit at all times
 - D) We ignore small changes in variables
 
@@ -68,7 +68,7 @@
 - A) What goods and services will be produced?
 - B) How will goods and services be produced?
 - C) Who will receive the goods and services?
-- D) What is the optimal price for every good?
+- **D) What is the optimal price for every good?**
 
 ---
 
