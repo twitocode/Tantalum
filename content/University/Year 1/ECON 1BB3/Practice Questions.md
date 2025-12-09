@@ -226,12 +226,11 @@
 
 - A) The sale of a used car from one person to another
 - B) A parent providing childcare at home
-- C) The government hiring a teacher
+- **C) The government hiring a teacher**
 - D) Underground economy transactions (illegal goods)
 
 **32.** Nominal GDP differs from Real GDP because:
-
-- A) Nominal GDP includes inflation, while real GDP holds prices constant
+- **A) Nominal GDP is calculated using current year prices, while real GDP uses base year prices**
 - B) Nominal GDP is measured in dollars, real GDP is measured in units
 - C) They measure different things about the economy
 - D) Real GDP is never accurate
@@ -239,20 +238,20 @@
 **33.** The GDP deflator is calculated as:
 
 - A) (Real GDP / Nominal GDP) × 100
-- B) (Nominal GDP / Real GDP) × 100
+- **B) (Nominal GDP / Real GDP) × 100**
 - C) Nominal GDP - Real GDP
 - D) (Inflation Rate / GDP) × 100
 
 **34.** Inventories are included in GDP because:
 
 - A) They represent unused productive capacity
-- B) Goods produced but not sold in a given year still represent production
+- **B) Goods produced but not sold in a given year still represent production**
 - C) They are capital goods
 - D) They show what firms are planning to produce next year
 
 **35.** Which of the following would be counted in GDP?
 
-- A) The imputed rent on owner-occupied housing
+- **A) The imputed rent on owner-occupied housing**
 - B) A stock transaction between two investors
 - C) An illegal drug sale
 - D) Household production like cooking
@@ -261,12 +260,12 @@
 
 - A) The year it was built only
 - B) Every year through its "imputed rent"
-- C) Both the year it was built and subsequent years through its service flow
+- **C) Both the year it was built and subsequent years through its service flow**
 - D) Never, because houses are not final goods
 
 **37.** If nominal GDP increases by 10% but real GDP increases by only 5%, this indicates:
 
-- A) The economy is shrinking
+- **A) The economy is shrinking**
 - B) There is approximately 5% inflation
 - C) Real output decreased
 - D) Productivity increased significantly
@@ -275,12 +274,12 @@
 
 - A) It doesn't account for leisure time
 - B) It includes environmental damage as a positive
-- C) It captures underground economy transactions
+- **C) It captures underground economy transactions**
 - D) It doesn't measure income distribution
 
 **39.** If real GDP grows but per capita real GDP falls, this could be because:
 
-- A) Population is growing faster than output
+- **A) Population is growing faster than output**
 - B) Prices are increasing
 - C) The economy is in a recession
 - D) Unemployment is rising
@@ -288,7 +287,7 @@
 **40.** When calculating real GDP, economists use:
 
 - A) Current year prices for all goods
-- B) Base year prices for all goods
+- **B) Base year prices for all goods**
 - C) Average of current and base year prices
 - D) The prices consumers actually pay
 
