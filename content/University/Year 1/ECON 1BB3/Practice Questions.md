@@ -299,26 +299,26 @@
 
 - A) All working-age people in the country
 - B) Only employed people
-- C) Employed people plus unemployed people actively seeking work
+- **C) Employed people plus unemployed people actively seeking work**
 - D) Working-age people minus students
 
 **42.** Which person would be classified as "not in the labour force"?
 
 - A) Sarah, unemployed, who looked for a job last week
-- B) Tom, a full-time student not working
+- **B) Tom, a full-time student not working**
 - C) Maria, laid off but expecting to be called back
 - D) James, working part-time while in school
 
 **43.** Cyclical unemployment occurs because:
 
 - A) Workers lack the skills for available jobs
-- B) The economy goes through business cycles with recessions
+- **B) The economy goes through business cycles with recessions**
 - C) Workers are between jobs
 - D) Seasonal factors affect employment
 
 **44.** If the inflation rate is higher than expected:
 
-- A) Borrowers gain and lenders lose
+- **A) Borrowers gain and lenders lose**
 - B) Borrowers lose and lenders gain
 - C) Both gain equally
 - D) The effect depends on the nominal interest rate
@@ -327,27 +327,27 @@
 
 - A) Unemployment caused by business cycle recessions
 - B) Unemployment due to lack of skills matching job requirements
-- C) Short-term unemployment while workers search for jobs
+- **C) Short-term unemployment while workers search for jobs**
 - D) Unemployment due to seasonal work patterns
 
 **46.** Structural unemployment might be caused by:
 
 - A) A temporary recession
 - B) Workers searching for better job matches
-- C) Geographic mismatch between jobs and workers
+- **C) Geographic mismatch between jobs and workers**
 - D) Low consumer confidence
 
 **47.** Natural rate of unemployment includes:
 
 - A) Frictional unemployment only
 - B) Cyclical unemployment only
-- C) Frictional and structural unemployment
+- **C) Frictional and structural unemployment**
 - D) All types of unemployment
 
 **48.** A minimum wage set above the equilibrium wage will likely cause:
 
 - A) Increased employment for all workers
-- B) Unemployment, especially among less-skilled workers
+- **B) Unemployment, especially among less-skilled workers**
 - C) Lower prices for goods and services
 - D) No change in employment
 
@@ -355,13 +355,13 @@
 
 - A) The overall price level in the economy
 - B) The average prices of goods produced in Canada
-- C) Prices of goods purchased by a typical household
+- **C) Prices of goods purchased by a typical household**
 - D) Government spending on goods and services
 
 **50.** If your nominal wage increased by 5% but inflation was 3%, your real wage:
 
 - A) Increased by 5%
-- B) Increased by approximately 2%
+- **B) Increased by approximately 2%**
 - C) Decreased by 3%
 - D) Remained unchanged
 
