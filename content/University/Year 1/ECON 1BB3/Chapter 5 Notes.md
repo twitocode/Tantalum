@@ -4,7 +4,7 @@ class: ECON 1BB3
 tags:
   - "#classnote"
 ---
-## Understanding the Labour Force
+- [ ] ## Understanding the Labour Force
 
 *   **Working-age Population**: Individuals aged 15 and older.
 *   **Labour Force**: All people who are working or *actively* looking for work (anyone who could work on short notice).
