@@ -4,7 +4,7 @@ tags:
   - lecture
 class: CS 1MD3
 ---
-```python
+	```python
 from typing import List
 import random
 
