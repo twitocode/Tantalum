@@ -601,7 +601,7 @@
 **82.** The short-run aggregate supply curve is upward sloping because:
 
 - A) Firms always want to produce more at higher prices
-- B) Wages and some prices are sticky in the short run
+- **B) Wages and some prices are sticky in the short run**
 - C) Technology improves as prices rise
 - D) Long-run growth is positive
 
@@ -623,33 +623,33 @@
 
 - A) The SRAS curve only
 - B) The LRAS curve only
-- C) Both the SRAS and LRAS curves at the same point
+- **C) Both the SRAS and LRAS curves at the same point**
 - D) Neither curve
 
 **86.** When real GDP is below potential GDP (recession), the automatic adjustment mechanism works through:
 
 - A) Increased aggregate demand
 - B) Workers accepting lower wages and firms accepting lower prices, shifting SRAS right
-- C) Government intervention
+- **C) Government intervention**
 - D) Rising unemployment forcing people to work harder
 
 **87.** An unexpected increase in oil prices would:
 
 - A) Shift AD to the left
-- B) Shift SRAS to the left
+- **B) Shift SRAS to the left**
 - C) Shift LRAS to the left
 - D) Create a movement along the AD curve
 
 **88.** The wealth effect explains why the AD curve is downward sloping because:
 
-- A) Higher prices reduce consumer purchasing power and consumption
+- **A) Higher prices reduce consumer purchasing power and consumption**
 - B) Higher prices increase investment
 - C) Inflation reduces government spending
 - D) Interest rates rise with prices
 
 **89.** The interest rate effect on aggregate demand explains that:
 
-- A) Higher price levels increase the demand for money, driving up interest rates and reducing investment
+- **A) Higher price levels increase the demand for money, driving up interest rates and reducing investment**
 - B) Lower interest rates automatically increase prices
 - C) Investment always increases with consumption
 - D) Government spending is inversely related to interest rates
@@ -658,7 +658,7 @@
 
 - A) Real GDP will increase but prices will fall
 - B) Real GDP will decrease and prices will rise
-- C) Both real GDP and the price level will increase
+- **C) Both real GDP and the price level will increase**
 - D) Neither real GDP nor prices will change
 
 ---
