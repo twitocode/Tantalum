@@ -372,7 +372,7 @@
 **51.** The Rule of 70 is used to:
 
 - A) Calculate inflation accurately
-- B) Estimate how many years it takes a variable to double at a constant growth rate
+- **B) Estimate how many years it takes a variable to double at a constant growth rate**
 - C) Determine if unemployment is too high
 - D) Find the equilibrium interest rate
 
@@ -381,12 +381,12 @@
 - A) Increasing demand for loanable funds
 - B) Decreasing demand for loanable funds
 - C) Increasing supply of loanable funds
-- D) Shifting both supply and demand left
+- **D) Shifting both supply and demand left**
 
 **53.** Human capital includes:
 
 - A) Physical machinery and equipment
-- B) Knowledge, skills, and education accumulated by workers
+- **B) Knowledge, skills, and education accumulated by workers**
 - C) Natural resources like land and minerals
 - D) Government spending on education
 
@@ -394,7 +394,7 @@
 
 - A) Technological improvements
 - B) An increase in the labour force
-- C) An increase in the price level
+- **C) An increase in the price level**
 - D) Capital accumulation
 
 **55.** If the government decreases spending while taxes stay the same, in the loanable funds market:
@@ -402,11 +402,11 @@
 - A) Supply of loanable funds increases
 - B) Supply of loanable funds decreases
 - C) Demand for loanable funds increases
-- D) The real interest rate must rise
+- **D) The real interest rate must rise**
 
 **56.** In a closed economy, saving must equal:
 
-- A) Investment
+- A) **Investment**
 - B) Government spending
 - C) Consumption
 - D) Exports
@@ -416,18 +416,18 @@
 - A) Government spending exceeds tax revenue
 - B) Government revenue exceeds spending
 - C) The government has no debt
-- D) Taxes are too low
+- **D) Taxes are too low**
 
 **58.** Which of the following increases the supply of loanable funds?
 
 - A) A government budget deficit
 - B) Increased business optimism
-- C) An increase in private saving
+- **C) An increase in private saving**
 - D) A decrease in the capital stock
 
 **59.** Crowding out occurs in the loanable funds market when:
 
-- A) Government borrowing increases, driving up interest rates
+- **A) Government borrowing increases, driving up interest rates**
 - B) Interest rates fall due to increased saving
 - C) Investment increases faster than saving
 - D) The economy experiences a recession
@@ -435,7 +435,7 @@
 **60.** Long-run economic growth primarily depends on:
 
 - A) How much consumption households do
-- B) Increases in labour productivity
+- **B) Increases in labour productivity**
 - C) The size of government spending
 - D) The level of unemployment
 
@@ -446,7 +446,7 @@
 **61.** Labour productivity is measured as:
 
 - A) Total output produced
-- B) Output per hour of work (or per worker)
+- **B) Output per hour of work (or per worker)**
 - C) The amount of capital per worker
 - D) The growth rate of the economy
 
@@ -455,33 +455,33 @@
 - A) Technological change
 - B) Increases in capital per worker
 - C) Increases in the labour force
-- D) Higher consumption spending
+- **D) Higher consumption spending**
 
 **63.** New Growth Theory emphasizes:
 
 - A) The role of physical capital accumulation
-- B) Knowledge capital and R&D as key to growth
+- **B) Knowledge capital and R&D as key to growth**
 - C) Natural resource availability
 - D) Government spending levels
 
 **64.** A country with weak rule of law and poor property rights protection will likely:
 
 - A) Grow faster because there's less regulation
-- B) Grow slower because firms won't invest
+- **B) Grow slower because firms won't invest**
 - C) Have the same growth as other countries
 - D) Experience faster technological change
 
 **65.** Patents and copyrights are important for economic growth because they:
 
 - A) Reduce innovation by creating monopolies
-- B) Incentivize R&D by allowing firms to profit from inventions
+- **B) Incentivize R&D by allowing firms to profit from inventions**
 - C) Prevent all companies from using new technology
 - D) Increase government revenue
 
 **66.** Diminishing returns to capital means:
 
 - A) Each additional unit of capital produces the same output gain
-- B) Each additional unit of capital produces a smaller output gain
+- **B) Each additional unit of capital produces a smaller output gain**
 - C) Capital accumulation is not important for growth
 - D) Technology cannot improve productivity
 
@@ -489,13 +489,13 @@
 
 - A) Physical capital
 - B) Natural resources
-- C) Human capital
+- **C) Human capital**
 - D) Technological capital
 
 **68.** Brain drain refers to:
 
 - A) Economic decline due to poor policy
-- B) Loss of highly educated workers to other countries
+- **B) Loss of highly educated workers to other countries**
 - C) Inefficient use of capital
 - D) Decreased demand for skilled workers
 
@@ -503,12 +503,12 @@
 
 - A) Imposing tariffs on imports
 - B) Reducing government spending on R&D
-- C) Protecting intellectual property with patents
+- **C) Protecting intellectual property with patents**
 - D) Limiting foreign direct investment
 
 **70.** If all other factors are equal, a country with a higher saving rate will likely:
 
-- A) Have more investment and faster growth
+- **A) Have more investment and faster growth**
 - B) Have lower consumption today and in the future
 - C) Experience higher inflation
 - D) Have a higher natural rate of unemployment
@@ -520,13 +520,13 @@
 **71.** In the aggregate expenditure model, equilibrium occurs when:
 
 - A) Consumption equals investment
-- B) Aggregate expenditure equals real GDP
+- **B) Aggregate expenditure equals real GDP**
 - C) The price level is constant
 - D) Government spending equals taxes
 
 **72.** The marginal propensity to consume (MPC) is:
 
-- A) The slope of the consumption function
+- **A) The slope of the consumption function**
 - B) Total consumption divided by total income
 - C) The amount households save
 - D) The change in saving divided by change in income
@@ -536,32 +536,32 @@
 - A) 0.75
 - B) 1.33
 - C) 2
-- D) 4
+- **D) 4**
 
 **74.** Which would NOT shift the aggregate expenditure line?
 
 - A) A change in consumer wealth
-- B) A change in the price level
+- **B) A change in the price level**
 - C) A change in business confidence
 - D) An increase in government spending
 
 **75.** An increase in the price level causes the aggregate expenditure line to:
 
 - A) Shift upward
-- B) Shift downward
+- **B) Shift downward**
 - C) Become steeper
 - D) Become flatter
 
 **76.** If planned spending exceeds planned output, inventories will:
 
 - A) Rise, and firms will increase production
-- B) Fall, and firms will decrease production
+- **B) Fall, and firms will decrease production**
 - C) Fall, and firms will increase production
 - D) Rise, and firms will decrease production
 
 **77.** The multiplier effect occurs because:
 
-- A) Increased spending creates income for others, who then spend part of it
+- **A) Increased spending creates income for others, who then spend part of it**
 - B) The government automatically increases spending
 - C) Interest rates fall when spending increases
 - D) Investment automatically increases with consumption
@@ -570,7 +570,7 @@
 
 - A) The consumption function shifts down
 - B) We move down along the consumption function
-- C) The aggregate expenditure line shifts up
+- **C) The aggregate expenditure line shifts up**
 - D) The MPC decreases
 
 **79.** In a closed economy with no government, if MPC = 0.80 and investment increases by $100 billion, equilibrium real GDP will increase by:
@@ -578,13 +578,13 @@
 - A) $100 billion
 - B) $125 billion
 - C) $400 billion
-- D) $500 billion
+- **D) $500 billion**
 
 **80.** The marginal propensity to save (MPS) plus the MPC must equal:
 
 - A) 0
 - B) 0.5
-- C) 1
+- **C) 1**
 - D) The multiplier
 
 ---
@@ -594,7 +594,7 @@
 **81.** The aggregate demand curve slopes downward because:
 
 - A) As price level rises, the quantity demanded increases
-- B) Higher price levels reduce consumption, investment, and net exports
+- **B) Higher price levels reduce consumption, investment, and net exports**
 - C) Firms produce less when prices are high
 - D) The economy operates less efficiently at high prices
 
@@ -608,7 +608,7 @@
 **83.** Which would shift the AD curve to the LEFT?
 
 - A) An increase in the price level
-- B) A decrease in consumer confidence
+- **B) A decrease in consumer confidence**
 - C) A technological improvement
 - D) An increase in the labour force
 
@@ -616,7 +616,7 @@
 
 - A) The economy experiences recession with deflation
 - B) Economic growth is very rapid
-- C) There is both inflation and stagnation (low growth/recession)
+- **C) There is both inflation and stagnation (low growth/recession)**
 - D) The price level remains constant
 
 **85.** In long-run equilibrium, the AD curve intersects:
