@@ -669,19 +669,19 @@
 
 - A) Medium of exchange only
 - B) Unit of account only
-- C) All of: medium of exchange, unit of account, store of value, standard of deferred payment
+- **C) All of: medium of exchange, unit of account, store of value, standard of deferred payment**
 - D) Store of value only
 
 **92.** The double coincidence of wants problem in barter is solved by:
 
 - A) Better negotiating skills
-- B) The use of money
+- **B) The use of money**
 - C) Government intervention
 - D) Fixed prices
 
 **93.** If the desired reserve ratio is 0.20 and a bank receives a $1,000 deposit:
 
-- A) The bank must keep $200 as reserves
+- **A) The bank must keep $200 as reserves**
 - B) The bank must keep $1,000 as reserves
 - C) The bank must loan out $200
 - D) The bank cannot loan out any money
@@ -696,20 +696,20 @@
 **95.** The simple deposit multiplier equals:
 
 - A) The desired reserve ratio
-- B) 1 divided by the desired reserve ratio
+- **B) 1 divided by the desired reserve ratio**
 - C) The money supply divided by reserves
 - D) The price level divided by real GDP
 
 **96.** According to the Quantity Theory of Money, if money supply grows faster than real GDP:
 
 - A) Deflation will occur
-- B) The price level will fall
+- **B) The price level will fall**
 - C) Inflation will occur
 - D) Real GDP will decrease
 
 **97.** In the equation M × V = P × Y, the variable V represents:
 
-- A) The value of money
+- **A) The value of money**
 - B) Velocity of money (how often money changes hands)
 - C) The variability of prices
 - D) The volume of production
@@ -718,21 +718,21 @@
 
 - A) Commodity money has value only as money
 - B) Fiat money is backed by gold
-- C) Commodity money has value independent of its use as money
+- **C) Commodity money has value independent of its use as money**
 - D) Commodity money is always scarce
 
 **99.** Which of the following is part of the money supply (M1+)?
 
 - A) Savings accounts
 - B) Stocks and bonds
-- C) Currency in the hands of the public and chequable deposits
+- **C) Currency in the hands of the public and chequable deposits**
 - D) Real estate
 
 **100.** Bank runs occur because:
 
 - A) Banks always have insufficient reserves to meet all withdrawals
 - B) The reserve ratio is too high
-- C) Depositors fear the bank won't have enough funds, creating a self-fulfilling prophecy
+- **C) Depositors fear the bank won't have enough funds, creating a self-fulfilling prophecy**
 - D) The government increases interest rates
 
 ---
@@ -742,14 +742,14 @@
 **101.** The Bank of Canada's primary monetary policy goal is:
 
 - A) Maximizing employment
-- B) Maintaining price stability (inflation target of 1-3%)
+- **B) Maintaining price stability (inflation target of 1-3%)**
 - C) Maximizing GDP growth
 - D) Minimizing interest rates
 
 **102.** When the Bank of Canada wants to combat a recession, it should:
 
 - A) Increase the policy interest rate target
-- B) Decrease the policy interest rate target
+- **B) Decrease the policy interest rate target**
 - C) Do nothing and let the economy self-correct
 - D) Increase taxes
 
@@ -763,7 +763,7 @@
 **104.** The money demand curve slopes:
 
 - A) Upward because higher interest rates encourage saving
-- B) Downward because higher interest rates increase the opportunity cost of holding money
+- **B) Downward because higher interest rates increase the opportunity cost of holding money**
 - C) Downward because prices are falling
 - D) Upward because more money is needed when GDP increases
 
@@ -778,20 +778,20 @@
 
 - A) To the left
 - B) To the right
-- C) Does not shift, only causes movement along the curve
+- **C) Does not shift, only causes movement along the curve**
 - D) Upward
 
 **107.** Contractionary monetary policy is appropriate when:
 
 - A) The economy is in a recession
 - B) Unemployment is very high
-- C) Inflation is rising above the target range
+- **C) Inflation is rising above the target range**
 - D) Real GDP is below potential GDP
 
 **108.** The transmission mechanism of monetary policy works through:
 
 - A) Direct effect on prices
-- B) Changes in interest rates affecting aggregate demand
+- **B) Changes in interest rates affecting aggregate demand**
 - C) Changes in the supply of loanable funds
 - D) Government spending decisions
 
@@ -817,13 +817,13 @@
 
 - A) Changes in the money supply
 - B) Changes in interest rates
-- C) Changes in government spending and taxes
+- **C) Changes in government spending and taxes**
 - D) Changes in reserve requirements
 
 **112.** Automatic stabilizers include:
 
 - A) Discretionary government spending increases
-- B) Tax revenue and transfer payments that automatically adjust with the business cycle
+- **B) Tax revenue and transfer payments that automatically adjust with the business cycle**
 - C) Central bank interest rate changes
 - D) Deliberate government policy decisions
 
