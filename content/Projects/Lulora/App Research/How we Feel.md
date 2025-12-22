@@ -1,3 +1,4 @@
+
 ![[Pasted image 20251220175849.png]]
 ![[Pasted image 20251220175856.png]]
 ![[ScreenRecording_12-20-2025 17-59-14_1.gif]]
