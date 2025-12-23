@@ -39,4 +39,7 @@ Features include:
 - Stanley-Brown Protocol - A "help" plan that the user makes in a calm state that can maybe popup when the user is typing something that suggests they're in distress
 
 
-Ho 
+# Tech Stack
+## Frontend
+
+## Backend
