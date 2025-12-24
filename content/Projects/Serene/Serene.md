@@ -41,6 +41,12 @@ Features include:
 
 # Tech Stack
 ## Frontend
+- Next.JS
+- Zustand
+- React Query
+- shadcn
+- TailwindCSS
+- Lucide Icons
 - 
 ## Backend
 - Hono
