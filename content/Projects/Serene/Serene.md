@@ -41,5 +41,11 @@ Features include:
 
 # Tech Stack
 ## Frontend
-
+- 
 ## Backend
+- Hono
+- Better-Auth
+- Neon PostgreSQL - general storage
+- Drizzle
+- Redis - session storage
+- Gemini flash lite - ai responses
