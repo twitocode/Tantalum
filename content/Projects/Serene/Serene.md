@@ -43,7 +43,8 @@ Features include:
 ## Frontend
 - Next.JS
 - Zustand
-- React Query
+- Tanstack Query
+- Tanstack Form
 - shadcn
 - TailwindCSS
 - Lucide Icons
