@@ -41,7 +41,7 @@ Features include:
 
 # Tech Stack
 ## Frontend
-- Next.JS
+- Tanstack Start
 - Zustand
 - Tanstack Query
 - Tanstack Form
