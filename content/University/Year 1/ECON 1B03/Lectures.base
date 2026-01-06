@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("University/Year 1/ECON 1B03")
+        - file.hasTag("lecture")
+    sort:
+      - property: file.name
+        direction: ASC
