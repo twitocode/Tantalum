@@ -22,6 +22,7 @@ Features include:
 	- 54321 rule
 	- Forest app 
 	- Box breathing
+	- *can view even when not logged in*
 - Daily Checkin
 	- Steps
 		1. Emotional Identification
