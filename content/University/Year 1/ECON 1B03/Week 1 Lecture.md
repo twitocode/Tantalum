@@ -4,6 +4,7 @@ tags:
   - lecture
 class: ECON 1B03
 ---
+
 economics is the study of human behaviour and choice
 
 opporutinite sand choices are limited by scare resources
