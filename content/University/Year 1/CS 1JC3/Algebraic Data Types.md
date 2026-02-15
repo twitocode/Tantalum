@@ -136,7 +136,6 @@ $$\implies \forall x: Nat . P \ x$$
 the property needs to hold at Zero and the successor of Nat
 $\land$ - logical and
 This is **mathematical induction** (weak induction)
-
 #### Prove $\forall x: Nat. 0 + x = x$
 1. Let $P\ x\equiv 0 + x = x$
 2. Base Case: Show $P \ 0$
