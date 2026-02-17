@@ -29,8 +29,8 @@
 
 ### Proof Techniques
 
-- [ ] **Direct proof**: Assume P(c) is true, show Q(c) is true
-- [ ] **Proof by contraposition**: Prove ¬Q(c) → ¬P(c) instead of P(c) → Q(c)
+- [x] **Direct proof**: Assume P(c) is true, show Q(c) is true
+- [x] **Proof by contraposition**: Prove ¬Q(c) → ¬P(c) instead of P(c) → Q(c)
 - [ ] **Proof by contradiction**: Assume P(c) ∧ ¬Q(c) and derive a contradiction
 - [ ] **Proof by cases**: Break P(c) into cases P₁(c) ∨ P₂(c) ∨ ... and prove each
 
