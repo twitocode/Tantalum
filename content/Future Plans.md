@@ -1,0 +1,3 @@
+- start machine learning
+- PROPERLY learn c++ and python
+- find ways to make money
