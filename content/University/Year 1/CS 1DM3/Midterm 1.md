@@ -9,7 +9,7 @@
 
 ### Logical Equivalences
 
-- [ ] Tautologies and contradictions
+- [x] Tautologies and contradictions
 - [ ] Equivalence laws: identity, domination, idempotent, double negation, commutative, associative, distributive, De Morgan's, absorption, negation, implication laws
 - [ ] How to prove logical equivalences using laws (not just truth tables)
 
