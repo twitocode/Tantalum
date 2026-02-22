@@ -169,3 +169,11 @@ When comparing two functions to see which is "better" (faster), use this hierarc
 
 **Pro-tip for the Midterm:** Your notes mention that $n!$ is $O(n^n)$ and $n^b$ is $O(c^n)$ for $b, c > 1$. This is a common test question for comparing function growth!
 [Timestamp: 2026/02/21 21:57:39]
+
+**user**: 2, 3, 4, 4, 3, no clue
+[Context: Notes: University/Year 1/CS 1DM3/Midterm 1.md]
+[Timestamp: 2026/02/22 17:16:16]
+
+**ai**: 
+<errorChunk>This model does not support images</errorChunk>
+[Timestamp: 2026/02/22 17:16:16]
