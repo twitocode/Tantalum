@@ -48,10 +48,10 @@
 
 ### Set Operations
 
-- [ ] Union (∪), intersection (∩), difference (−), complement (Ā)
+- [x] Union (∪), intersection (∩), difference (−), complement (Ā)
 - [ ] Symmetric difference (⊕)
 - [ ] Set identities: De Morgan's laws, distributive laws, absorption laws
-- [ ] Cartesian product: A × B = {(a,b) | a ∈ A, b ∈ B}
+- [x] Cartesian product: A × B = {(a,b) | a ∈ A, b ∈ B}
 
 ### Functions
 
