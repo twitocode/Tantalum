@@ -3,6 +3,7 @@ CreatedAt: 2025-11-06
 class: CS 1JC3
 tags:
   - "#classnote"
+banner: University/Year 1/ECON 1BB3/Chapter 12 Economics/Attachments/10604BE5-725B-4EC2-A0DB-EB23AA3737E0.png
 ---
 How do we solve problems?
 1. Recursion & Induction
