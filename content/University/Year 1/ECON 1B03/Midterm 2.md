@@ -9,11 +9,11 @@
 
 **Unit 6: Consumer Choice (Chapter 8)**
 
-- [ ] Utility and consumer decision making, including the concepts of total utility, marginal utility, satiation, and the law of diminishing marginal utility.
-- [ ] The consumer's budget constraint and how to find the optimum consumption bundle (maximizing utility).
+- [x] Utility and consumer decision making, including the concepts of total utility, marginal utility, satiation, and the law of diminishing marginal utility.
+- [x] The consumer's budget constraint and how to find the optimum consumption bundle (maximizing utility).
 - [ ] Where demand curves come from, specifically how price changes trigger the substitution effect and income effect.
-- [ ] Social influences on consumer decision making.
-- [ ] Behavioural economics, including how consumers handle uncertainty, risk aversion vs. risk neutrality, and irrational decision-making pitfalls.
+- [x] Social influences on consumer decision making.
+- [x] Behavioural economics, including how consumers handle uncertainty, risk aversion vs. risk neutrality, and irrational decision-making pitfalls.
 
 **Unit 7: Production and Costs (Chapter 9)**
 
