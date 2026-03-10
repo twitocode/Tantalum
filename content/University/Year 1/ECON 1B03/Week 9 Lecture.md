@@ -1,0 +1,7 @@
+---
+CreatedAt: 2026-03-10
+tags:
+  - lecture
+class: ECON 1B03
+---
+The time changed over the weekend. I mean it's already been a couple of days, but you never know. I mean there are some people who just don't figure it out. And of course the weather's starting to get nicer too. I mean so it is nice to be sitting outside in the morning, but you've all made the choice to come here and then spend your time indoors in class learning about economics. I think that's a great choice, but of course you do have other options, opportunity costs, you're missing out on the really nice spring weather. But still, this is probably your better option, especially because we're coming towards the end. We've only got four weeks left. Yeah, for all of you who were in first year, I mean, think about that, you can come a really long way. We'll get the grades for the second term test a little bit later this week. We usually get them by Wednesday or Thursday because they don't take that long to scan. So you'll find out pretty soon how well you did. But don't forget, regardless of if you did really, really well or really, really not well, you can still go to the tutorials over the next few weeks. The tutorials, even if you've done. 
