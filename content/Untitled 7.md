@@ -39,14 +39,22 @@ Answer each question in 1-3 sentences. Focus on explaining the concept clearly i
 3. **Algorithms**
 
 	1. `inorder` traversal of a BST always produces a sorted sequence. Why? How does this connect to `insertionSort`?
-	   
+	    By the BST property, everything in a node's left subtree has a smaller key and everything in the right subtree has a larger key. Inorder visits left -> root -> right, so it always processes smaller values before larger ones, creating a sorted sequence. `insertionSort` achieves the same result differently by repeatedly placing each element into its correct position in a growing sorted prefix.
 		
 	2. How does the left/right decision in `bstInsert` relate to the decision you made in `binarySearch`?
-	
+	   	Both make the exact same comparison decision: 
+		   	if the target is less than the current node/midpoint, go left; 
+		   	if greater, go right. 
+		`bstInsert` builds a structure where this property holds, and `binarySearch` exploits that same property to halve the search space at each step. They are two sides of the same ordered-partition idea.
+
 	3. What is the worst case for BST insertion, and when does it occur? What does the tree look like in that case?
+	   The worst case is O(n) per insertion, occurring when you insert elements in already-sorted order (or reverse-sorted). Every new element is always larger or always smaller than the previous, so the tree degenerates into a linear chain; kind of like a linked list.
+
 
 4. **Recursion**
 
 	1. What happens to the call stack when you call `inorder` on a tree of height 5? How many stack frames are active at the deepest point?
-	
+	   Each recursive call pushes a new stack frame containing the local root pointer and the return address. At the deepest point (the leftmost leaf at depth 5), there are 6 active frames on the call stack at the same time. Once that frame returns, frames are popped back up as the traversal unwinds.
+			
 	2. Why is `binarySearch` easier to implement recursively than iteratively?
+	The recursive form is easier because each call handles a strictly smaller subarray, the base case (empty array) is obvious, and there's no index arithmetic to maintain across iterations. An iterative version requires manually tracking `low` and `high` indices and updating them correctly.
