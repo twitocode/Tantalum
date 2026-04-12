@@ -6,10 +6,11 @@
 
 **Basic Syntax, Data Types, and Operators**
 
-- [ ] **Syntax & Control Flow:** Unlike Python, C requires semicolons to terminate statements and uses curly braces `{}` to define code blocks. Control flow mechanisms include `if`/`else` statements, `switch` statements (which use computed jumps and require `break` keywords to prevent fall-through), loops (`for`, `while`, `do while`), and jump statements (`break`, `continue`, `goto`).
-- [ ] **Data Types:** You learned basic types like `int`, `float`, and `double` (which uses the IEEE 754 standard and should not be compared using `==` due to precision limits). C also features `enum` for creating named integer constants, `typedef` to create aliases for types, and `<stdint.h>` for fixed-width integers like `int32_t`.
-- [ ] **Character Arithmetic:** Characters (`char`) are stored as their underlying integer ASCII values, meaning you can directly perform mathematical operations on them.
-- [ ] **Operators:** C includes standard arithmetic operators, but notably, **integer division** truncates fractional parts if both operands are integers. You also learned about increment/decrement operators (`++`, `--`) and **bitwise operators** (`&`, `|`, `^`, `~`, `<<`, `>>`) for masking and manipulating individual binary bits.
+- [x] **Syntax & Control Flow:** Unlike Python, C requires semicolons to terminate statements and uses curly braces `{}` to define code blocks. Control flow mechanisms include `if`/`else` statements, `switch` statements (which use computed jumps and require `break` keywords to prevent fall-through), loops (`for`, `while`, `do while`), and jump statements (`break`, `continue`, `goto`).
+- [x] **Data Types:** You learned basic types like `int`, `float`, and `double` (which uses the IEEE 754 standard and should not be compared using `==` due to precision limits). C also features `enum` for creating named integer constants, `typedef` to create aliases for types, and `<stdint.h>` for fixed-width integers like `int32_t`.
+- [x] **Character Arithmetic:** Characters (`char`) are stored as their underlying integer ASCII values, meaning you can directly perform mathematical operations on them.
+- [x] **Operators:** C includes standard arithmetic operators, but notably, **integer division** truncates fractional parts if both operands are integers. You also learned about increment/decrement operators (`++`, `--`) 
+- [ ] **Bitwise Operators** (`&`, `|`, `^`, `~`, `<<`, `>>`) for masking and manipulating individual binary bits.
 
 **Arrays and Strings**
 
