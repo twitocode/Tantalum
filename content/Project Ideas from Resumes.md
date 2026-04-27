@@ -214,3 +214,128 @@ _Software Engineering Intern | Aug. 2024 – May 2025_
 - Utilized Twilio and Google's Firestore APIs to send text notifications, enabling user authentication, and organizing users' data.
     
 - Leveraged Xcode's UI and WebKit framework to connect/display CDC's data, allowing the user to access Covid-19 related data.
+
+## WORK EXPERIENCE
+
+**New York Life Insurance** | _Incoming Software Engineer Intern_ | May 2026
+
+**PantherWatch-Frontend** | _Software Engineering (Independent Project) - Atlanta, GA_ | August 2025 - December 2025
+
+- Developed a modular, frontend interface using **React and Vite** that consumes backend APIs to deliver real-time seat availability and course tracking.
+    
+- Implemented **Supabase Google OAuth** authentication in the web client, enabling secure user login while coordinating with backend validation and access control.
+    
+
+**FactSet** | _Software Engineering Extern - Norwalk, CT_ | May 2025
+
+- Implemented recommendation algorithms producing personalized budgeting insights for **1,000+ simulated financial profiles**, improving decision-making efficiency.
+    
+- Collaborated with a 3 person engineering team to design and deploy an **AI assistant bot** projected to **reduce financial planning time by 25%** for end users.
+    
+
+---
+
+## EXPERIENCE
+
+**Tesla** | January 2023 – March 2023
+
+_Software Engineer Intern — Factory Software Team | Fremont, CA_
+
+- 12-week spring internship - Factory Software Team
+    
+
+**Toast, Inc.** | September 2022 – Present
+
+_Software Engineer Intern | San Francisco, CA_
+
+- Led integration of **3rd-party loyalty system** for restaurant guests to earn points and redeem rewards by ordering food on Toast's online ordering product
+    
+- **Decreased 33% of customer churn** by modifying legacy recommendation system of Toast's products on restaurant onboarding portal
+    
+- Fixed **"Code-Red" bug** that blocked millions of users from ordering online when restaurants experienced an outage
+    
+- Technologies used: Apollo GraphQL, React.js, TypeScript, Kotlin, Tailwind CSS, Jenkins, Heroku
+    
+
+**Capital One** | June 2022 – August 2022
+
+_Software Engineer Intern | Chicago, IL_
+
+- Designed & developed full-stack application that eliminates the need for engineers to hardcode configuration files & reduces several minutes of deployment time per acquisition partner
+    
+- Deployed **cloud infrastructure for Lambda functions [and S3] buckets** by building pipelines that trigger upon every PR
+    
+- Implemented **enterprise-grade SSO security layer** on [web] application by writing a **custom library service** that leverages hashed code challenges, access tokens, red[irects,] and internal protocols
+    
+- Developed serverless lambda functions on AWS that [serializ]es data from frontend & writes it to JSON file in S3
+    
+- Technologies used: Go (Golang), React.js, Node.js, Java, AWS Lambda | S3 | CloudFront, YAML, Jenkins
+    
+
+**Cadent** | March 2022 – May 2022
+
+_Software Engineer Intern | San Jose, CA_
+
+- Built **full-stack diagnostics dashboard** that visualizes advertisement metric delivery on customer campaigns
+    
+- **Merged code into production** allowing developers company-wide to use my dashboard and **save 15% of debugging**
+    
+- Spearheaded entire design process of system architecture & **was approved by the director of engineering**
+    
+- Graphed **several million data points** by building 2 new endpoints that efficiently query data from Google Cloud
+    
+- Technologies used: Google Cloud BigQuery, Java + Spring Boot, Angular, TypeScript, amCharts
+    
+
+**Software & Computer Engineering Society** | June 2021 – August 2021
+
+_Software Engineer Intern | San Jose, CA_
+
+- Replaced **gRPC infrastructure with REST APIs** to fix 2D & 3D printing services used by **1,500+ club members**
+    
+- Leveraged cloud-based queue system to read **S3 hosted files**, increasing PDF size support from **256KB to 10MB**
+    
+- Implemented **unit tests** across frontend pages using **stubs**, speeding code deployment by 15% & reducing bug tickets
+    
+- Technologies used: AWS SQS & S3, Node.js, Express.js, Sinon.js, Mocha.js, OpenVPN
+    
+
+---
+
+## PROJECTS
+
+**MedaPath** | 2nd place Hacklanta Cox track winner | March 2026
+
+- Built the frontend for MedaPath, a 2nd place hackathon-winning medical analysis platform, using React, TypeScript, HTML, and CSS to **create a responsive and user-friendly experience aligned with the product's clinical workflow.**
+    
+- Designed core user interfaces in Google Sketch and integrated Google Gemini to support medical analysis features, **helping translate complex health-related input into clearer, more usable insights for users.**
+    
+
+**EasePath** | November 2025 - March 2026
+
+- Engineered and deployed a full-stack job application automation platform using Spring Boot (Java), React/Vite, and TypeScript, featuring Google OAuth authentication and real-time job listings via RapidAPI.
+    
+- Developed a JavaScript browser extension and OpenAI-driven workflow that learns from past applications to continuously **improve automated job submissions.**
+    
+
+**Drop It | Google Drive Replica** | GitHub Repository
+
+- Individually developed **dropbox application** that allows users to upload, edit, view, & download files locally
+    
+- Constructed Node.js API server enabling file upload to **S3 bucket** & user information into **MySQL database**
+    
+
+**Social Network | Mock Facebook Program** | GitHub Repository
+
+- Utilized **abstraction & data structures** in Java to perform CRUD operations to simulate social media features
+    
+- Leveraged **hashed dictionaries & graphs** to store account profiles & establish edge connections for mutual friends
+    
+
+---
+
+## LEADERSHIP
+
+**Residential Assistant** | _Atlanta, GA_ | Aug 2024 - Present
+
+- Developed and managed a community engagement project that **increased park usage by 60%** within one year, fostering a stronger connection between the facility and local residents, **which led to a 25% rise in event bookings.**
