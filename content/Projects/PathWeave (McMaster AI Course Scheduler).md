@@ -3,6 +3,10 @@ Students around McMaster struggle with finding the perfect schedule for them. Es
 
 # Solution
 PathWeave asks the student some questions such as what they want to do in the future, if the student has a job, current program and year, where they live (or general area haven't decided) and then generates multiple program schedules. These schedules are ranked based off of walking distance in-between classes, rate my professor scores to see if the class is worthwhile to go to. live data class data will be webscrapped. 
+
+## Possible features to add in the future
+- Winter routes (the least amount of snow based on weather data or where is often cleaned up by snow crews)
+
 # Stack
 ## Frontend
 - NextJS
@@ -13,6 +17,6 @@ PathWeave asks the student some questions such as what they want to do in the fu
 - Postgres - neon
 - supabase auth
 - groq inference - gpt 70b oss
-- playwright + beautifulsoup for webscraping
+- playwright + beautifulsoup for webscraping mytimetable and academic calendar
 - reddit api to search up professors
 - [ratemyprofessors-client · PyPI](https://pypi.org/project/ratemyprofessors-client/) 
