@@ -1,0 +1,8 @@
+[BANDAI Hobby HG #19 1/144 Gundam Aerial Rebuild "Gundam: The Witch from Mercury" Model Kit - Canada Computers & Electronics](https://www.canadacomputers.com/en/model-building-kits/257019/bandai-hobby-hg-19-1-144-gundam-aerial-rebuild-gundam-the-witch-from-mercury-model-kit-2645142.html?keyword=gundam%20hg)
+[BANDAI Hobby HG 1/144 RX-78-02 GUNDAM (GUNDAM THE ORIGIN Ver.) "Mobile Suit Gundam" Model Kit - Canada Computers & Electronics](https://www.canadacomputers.com/en/model-building-kits/262054/bandai-hobby-hg-1-144-rx-78-02-gundam-gundam-the-origin-ver-mobile-suit-gundam-model-kit-5058929.html)
+[BANDAI HOBBY HG 1/144 Mobile Suit Gundam GQuuuuuuX POLICE ZAKU - Canada Computers & Electronics](https://www.canadacomputers.com/en/model-building-kits/272623/bandai-hobby-hg-1-144-mobile-suit-gundam-gquuuuuux-police-zaku-5068566.html)
+[Mobile Suit Gundam SEED Freedom 1/144 HG Lightning Buster Gundam - EBGames.ca](https://www.ebgames.ca/Toys-Collectibles/Games/923874/mobile-suit-gundam-seed-freedom-1-144-hg-lightning-buster-gundam)
+[Gundam Seed Freedom Infinite Justice Gundam Type II 1/144 HG - EBGames.ca](https://www.ebgames.ca/Toys-Collectibles/Games/923871/gundam-seed-freedom-infinite-justice-gundam-type-ii-1-144-hg)
+[Mobile Suit Gundam SEED Freedom Duel Blitz Gundam 1/144 HG - EBGames.ca](https://www.ebgames.ca/Toys-Collectibles/Games/923884/mobile-suit-gundam-seed-freedom-duel-blitz-gundam-1-144-hg)
+[Gundam GQuuuuuuX #9 GAIA'S/ORTEGA’S RICK DOM(GQ) Model Kit - HG - EBGames.ca](https://www.ebgames.ca/Toys-Collectibles/Games/934975/gundam-gquuuuuux-9-gaias-ortega-s-rick-dom-gq-model-kit-hg)
+[Fetching Title#ckut](https://www.ebgames.ca/Toys-Collectibles/Games/923884/mobile-suit-gundam-seed-freedom-duel-blitz-gundam-1-144-hg)
