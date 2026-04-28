@@ -23,3 +23,5 @@ PathWeave asks the student some questions such as what they want to do in the fu
 
 # User Flow
 1. Go to landing page
+2. Go to login page (google oauth only)
+3. redirect to main page (not a dashboard - simple ui)
