@@ -20,3 +20,6 @@ PathWeave asks the student some questions such as what they want to do in the fu
 - playwright + beautifulsoup for webscraping mytimetable and academic calendar
 - reddit api to search up professors
 - [ratemyprofessors-client · PyPI](https://pypi.org/project/ratemyprofessors-client/) 
+
+# User Flow
+1. Go to landing page
