@@ -25,3 +25,9 @@ PathWeave asks the student some questions such as what they want to do in the fu
 1. Go to landing page
 2. Go to login page (google oauth only)
 3. redirect to main page (not a dashboard - simple ui)
+4. ask the user some onboarding questions
+	- Their plan for the future if they have one
+	- where they live - *probably need privacy policy*
+	- current year and program
+	- if they have a job then what times?
+5. POST to server
