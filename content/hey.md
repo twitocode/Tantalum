@@ -8,7 +8,7 @@ Total programs: 417
 
 - [x] Computer Science I/Computer Science I Co-Op (B.A.Sc.)
 
-- [ ] Honours Applied Psychology in Human Behaviour (B.A.Sc.)
+- [x] Honours Applied Psychology in Human Behaviour (B.A.Sc.)
 
 - [ ] Honours Applied Psychology in Human Behaviour - Autism and Behavioural Science Specialization (B.A.Sc.)
 
