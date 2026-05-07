@@ -6,7 +6,7 @@ Total programs: 417
 
   
 
-- [ ] Computer Science I/Computer Science I Co-Op (B.A.Sc.)
+- [x] Computer Science I/Computer Science I Co-Op (B.A.Sc.)
 
 - [ ] Honours Applied Psychology in Human Behaviour (B.A.Sc.)
 
