@@ -10,13 +10,13 @@ Total programs: 417
 
 - [x] Honours Applied Psychology in Human Behaviour (B.A.Sc.)
 
-- [ ] Honours Applied Psychology in Human Behaviour - Autism and Behavioural Science Specialization (B.A.Sc.)
+- [x] Honours Applied Psychology in Human Behaviour - Autism and Behavioural Science Specialization (B.A.Sc.)
 
 - [ ] Honours Applied Psychology in Human Behaviour - Early Childhood Studies Specialization (B.A.Sc.)
 
-- [ ] Honours Computer Science as a Second Degree (B.A.Sc.)
+- [x] Honours Computer Science as a Second Degree (B.A.Sc.)
 
-- [ ] Honours Computer Science, Honours Computer Science Co-op (B.A.Sc.)
+- [x] Honours Computer Science, Honours Computer Science Co-op (B.A.Sc.)
 
 - [ ] Honours Sustainable Chemistry (B.A.Sc.)
 
@@ -78,7 +78,7 @@ Total programs: 417
 
 - [ ] Combined Honours in Work and Labour Studies and Another Subject (B.A.)
 
-- [ ] Economics I
+- [x] Economics I
 
 - [ ] Honours Aging and Society (B.A.)
 
@@ -86,7 +86,7 @@ Total programs: 417
 
 - [ ] Honours Aging and Society Specialization in Mental Health and Addiction (B.A.)
 
-- [ ] Honours Anthropology (B.A.)
+- [x] Honours Anthropology (B.A.)
 
 - [ ] Honours Anthropology Co-op (B.A.)
 
@@ -100,7 +100,7 @@ Total programs: 417
 
 - [ ] Honours Communication Studies with a Specialized Minor in Commerce (B.A.)
 
-- [ ] Honours Economics (B.A.)
+- [x] Honours Economics (B.A.)
 
 - [ ] Honours Economics (B.A.) - Accelerated Option
 
