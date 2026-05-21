@@ -12,31 +12,16 @@ PathWeave asks the student some questions such as what they want to do in the fu
 - The users will then be able to see the lectures/labs/tutorials for their course, who teaches it, ratemyprofessor rating and difficulty, (and in the future, user sentiment).
 - Then the user can see their schedule on the calendar or more importantly, users can see the routes that they would have to take each day based on their schedule, and whether for example a class is worth their time
 ## Possible features to add in the future
-- Winter routes (the least amount of snow based on weather data or where is often cleaned up by snow crews)
-
-# Stack
-## Frontend
-- NextJS
-- react-flow
-- tailwindcss
-## Backend
-- python
-- Postgres - neon
-- supabase auth
-- groq inference - gpt 70b oss
-- playwright + beautifulsoup for webscraping mytimetable and academic calendar
-- reddit api to search up professors
-- [ratemyprofessors-client · PyPI](https://pypi.org/project/ratemyprofessors-client/) 
-
-# User Flow
-1. Go to landing page
-2. Go to login page (google oauth only)
-3. redirect to main page (not a dashboard - simple ui)
-4. ask the user some onboarding questions
-	- Their plan for the future if they have one
-	- where they live - *probably need privacy policy*
-	- current year and program
-	- if they have a job then what times?
-5. POST to server
+- High Priority
+	- Professor Comparison View - modal popup
+	- Workload balancing score - Oh youre going to have a brutal semester
+	- Prerequesite chain visualizer
+- Low Priority
+	- Winter routes (the least amount of snow based on weather data or where is often cleaned up by snow crews)
+	- Students like you took ...
 
 
+
+# How is this different from MakeTheSeat?
+MakeTheSeat is all about the logistics side of things - already knowing what you want
+PathWeave is more about the decision side of things - figuring out what i want
