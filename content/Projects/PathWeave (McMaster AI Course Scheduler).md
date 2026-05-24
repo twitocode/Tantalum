@@ -30,5 +30,26 @@ PathWeave is more about the decision side of things - figuring out what i want
 # Design
 ## Inspiration
 [Cofounder lets you run an entire company with agents](https://cofounder.co/?ref=lapaninja)
+[Altalogy \| Design and Engineering Studio](https://www.altalogy.com/?ref=gic-website) **MAIN DESIGN HERE**
 ![[CleanShot 2026-05-24 at 14.46.42.png]]
 
+[World Labs](https://www.worldlabs.ai/)
+![[CleanShot 2026-05-24 at 15.15.45.png]]
+![[CleanShot 2026-05-24 at 15.16.00.png]]
+
+**Keep with the matrix style** [Factory \| Agent-Native Software Development](https://factory.ai/)
+![[CleanShot 2026-05-24 at 15.16.38.png]]
+
+**The old aesthetic** - [Ape AI - AI Stock Market Companion \| ChatGPT for Stock Discovery, Analysis & Trading](https://askape.com/)
+![[CleanShot 2026-05-24 at 15.18.40.png]]
+
+**Sorta like what i am doing right now** - [Paperclip – The app people use to manage AI agents for work](https://paperclip.ing/)
+![[CleanShot 2026-05-24 at 15.19.18.png]]
+**Also like what i am doing right now** - [Relace - AI Models & Infrastructure for Coding Agents \| Fast Code Generation](https://relace.ai/)
+![[CleanShot 2026-05-24 at 15.20.20.png]]
+
+[Fora — The community platform for creators](https://fora.so/?ref=land-book.com)
+![[CleanShot 2026-05-24 at 15.22.39.png]]
+
+**really good** - [Opennote](https://www.opennote.com/?ref=land-book.com)
+![[CleanShot 2026-05-24 at 15.23.20 1.png]]
