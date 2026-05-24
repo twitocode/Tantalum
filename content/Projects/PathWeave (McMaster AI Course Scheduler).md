@@ -25,3 +25,10 @@ PathWeave asks the student some questions such as what they want to do in the fu
 # How is this different from MakeTheSeat?
 MakeTheSeat is all about the logistics side of things - already knowing what you want
 PathWeave is more about the decision side of things - figuring out what i want
+
+
+# Design
+## Inspiration
+[Cofounder lets you run an entire company with agents](https://cofounder.co/?ref=lapaninja)
+![[CleanShot 2026-05-24 at 14.46.42.png]]
+
