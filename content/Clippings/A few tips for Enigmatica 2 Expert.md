@@ -9,6 +9,46 @@ description: "I'm playing through E2:E at the moment and there are a few things 
 tags:
   - "clippings"
 ---
+
+### Power Generation & Management
+
+- **Early Game Progression:** Start with IE waterwheels to craft Mekanism wind turbines. Move to Ethylene in a Gas Burning Generator, then Advanced Generators, and finally a Nuclearcraft Fusion Reactor.
+- **Passive Power:** Early on, use Mekanism wind generators, IE thermoelectric generators, or Nuclearcraft RTGs (if isotopes are available).
+- **IC2 Integration:** Use Mekanism universal-cables to power Industrialcraft machines. They convert RF to EU automatically, preventing explosions and removing the need for transformer upgrades.
+- **Wireless Power:** Use RFTools powercells for wireless power until you can progress to Flux Networks.
+
+### Storage & Inventory
+
+- **Backpacks:**
+- **Backpacks Mod:** Tier 3 Large Backpack (54 slots) fits in its own slot and has a keybind.
+- **Cyclic:** Storage Bag (77 slots) features auto-pickup and auto-deposit.
+- **Iron Backpacks:** Diamond backpack (77 slots) is great for tools and can be keybound.
+- **Storage Systems:**
+- **RFTools Storage Scanner:** Acts as a "poor man's AE2," allowing you to view and craft from all nearby inventories once you have steel casings.
+- **IC2 Storage Boxes:** A great alternative or upgrade to the Storage Scanner for higher-tier storage.
+
+### Movement & Exploration
+
+- **Fast Travel:** Combine the Slimesling with a Quantumsuit jetpack for extremely high-speed travel.
+- **Base Speed:** Use Concrete Floors in your base to increase movement speed ("zoom zoom").
+- **Skipping Night:** Use the Openblocks Sleeping Bag combined with a Sleep charm to instantly skip to daytime without resetting your spawn point.
+- **Twilight Forest:** Visit this dimension to veinmine massive trees if you need large quantities of wood quickly.
+
+### Crafting & Tools
+
+- **Tinker's Construct:**
+- Use **Smart I/O** on the smeltery to automate the creation of plates and gears.
+- Use **Pyrotheum** as fuel in the smeltery for a significant speed upgrade.
+- **Automated Crafting:** The RFTools Storage Scanner allows for quick crafting using materials from nearby chests, though it may struggle with items that have durability (like IC2 batteries).
+
+### Resources & Survival
+
+- **Dairy/Nutrition:** Keep a vanilla cow and a bucket at your base. Drinking milk allows you to top off your dairy nutrition level in seconds, allowing you to skip complex Animania food processing.
+
+
+___
+
+
 - Early game power progression for me is: IE waterwheel so I can make Mekanism wind turbines. After that I go for Ethylene in a Gas Burning Generator until I can get an Advanced Generator going. Then I go straight for Nuclearcraft Fusion Reactor. RF Tool powercells give you access to wireless power until you can get Flux Networks going (that is a deep, deep rabbit hole).
 - IC2
 - A very helpful thing is the existence of mekanism and their universal-cables. They are by far not the best option for transferring rf around, but they can power your Industrialcraft machines by converting RF to EU.
