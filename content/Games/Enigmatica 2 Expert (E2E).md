@@ -1,0 +1,2 @@
+# Base Designs
+![[Pasted image 20260607012756.png]]![[Pasted image 20260607012814.png]]![[Pasted image 20260607012843.png]]![[Pasted image 20260607012849.png]]![[Pasted image 20260607012916.png]]![[Pasted image 20260607012921.png]]![[Pasted image 20260607012933.png]]![[Pasted image 20260607012937.png]]![[Pasted image 20260607012944.png]]
