@@ -22,3 +22,11 @@ Recently I worked on my own search engine from scratch called Sift which is a co
 
 **This sub-team requires 2-4 hours of weekly commitment. How do you plan on managing your personal schedule with this extra-curricular? (400 character limit)**
 My classes are primarily concentrated in the afternoon, leaving my mornings, evenings, and weekends flexible. I plan to set aside a consistent 2-4 hour block each week for the team and schedule my coursework around it. Since I currently have no other major extracurricular commitments, I can dedicate my time to the team and readjust my schedule when needed.
+
+
+**Tell us about any experience that could help you contribute to Sentinel. This could be a project, internship, course, research experience, hackathon, or something you learned independently. What did you personally work on? (700 character limit)**
+
+==I built Sift, a search engine from scratch in Go with a concurrent crawler, custom inverted index, memory-mapped postings, and BM25 ranking. This hands-on experience with tokenization, ranking algorithms, and indexing directly translates to Sentinel’s hybrid keyword/semantic RAG and manifest parsing. At DeltaHacks, I built the Python/FastAPI backend for Waypoint, developing agent-based simulations that modeled behavior and coordinated state. Combined with Serene (ASP.NET Core/PostgreSQL with AI tooling), I have strong experience designing robust data pipelines, agent workflows, and backend architectures, ready to contribute to Sentinel’s specialized review agents and MCP tools.==
+
+**What interests you about Sentinel, and what would you personally like to learn or build by working on the project? (500 character limit)**
+Sentinel interests me because of its AI/ML, backend development and cloud computing areas of focus. I have yet to work on a large scale project with more than 3 other members that required this many technology fields to be used. I have been using LangChain and LangGraph to make a git diff viewer and I found it really cool how multiple models could... In my free time I watch the youtube LowLevel who speaks about security risks with AI in modern systems; such as escaping sandboxes (huggingface and openai), promp injection
