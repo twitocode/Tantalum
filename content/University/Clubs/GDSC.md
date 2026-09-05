@@ -44,3 +44,4 @@ I would first identify what changed and check new dependencies against vulnerabi
 **AI agents can make mistakes or confidently produce incorrect information. If Sentinel flags a pull request as a security risk, what information would you want the system to show before you trusted its recommendation? (500 character limit)**
 
 **Sentinel will initially focus on dependency, CI/CD, and release security. What is one feature, security problem, or direction you think would be interesting for the project to explore later? Why? (400 character limit)**
+
