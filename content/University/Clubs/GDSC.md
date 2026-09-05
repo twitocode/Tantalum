@@ -38,7 +38,7 @@ Sentinel interests me because it combines AI/ML, backend development, cloud comp
 I built Sift, a search engine from scratch in Go with a concurrent crawler, an inverted index, memory-mapped postings, and performance metrics tracking. This hands-on experience with tokenization, ranking algorithms, and indexing directly translates to Sentinel’s.... At DeltaHacks, I built the Python/FastAPI backend for my project Waypoint in which I deployed it with Docker to Google Cloud Run. I helped make agent-based simulations that modelled behaviour and coordinated state. Combined with my other project Serene (ASP.NET Core/PostgreSQL with vector searching), I have experience designing simple data pipelines, agent workflows, and backend architectures.
 
 **Imagine Sentinel notices an unusual change in a pull request. For example, a new dependency was added or part of the deployment process was changed. You don't immediately know whether the change is dangerous. How would you approach figuring out whether it is safe? Walk us through your thought process. (700 character limit)**
-
+The first thing i would do i check 
 **AI agents can make mistakes or confidently produce incorrect information. If Sentinel flags a pull request as a security risk, what information would you want the system to show before you trusted its recommendation? (500 character limit)**
 
 **Sentinel will initially focus on dependency, CI/CD, and release security. What is one feature, security problem, or direction you think would be interesting for the project to explore later? Why? (400 character limit)**
