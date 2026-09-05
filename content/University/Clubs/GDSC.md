@@ -30,3 +30,15 @@ My classes are primarily concentrated in the afternoon, leaving my mornings, eve
 
 **What interests you about Sentinel, and what would you personally like to learn or build by working on the project? (500 character limit)**
 Sentinel interests me because of its AI/ML, backend development and cloud computing areas of focus. I have yet to work on a large scale project with more than 3 other members that required this many technology fields to be used. I have been using LangChain and LangGraph to make a git diff viewer and I found it really cool how multiple models could... In my free time I watch the youtube LowLevel who speaks about security risks with AI in modern systems; such as escaping sandboxes (huggingface and openai), promp injection
+
+Sentinel interests me because it combines AI/ML, backend development, cloud computing, and security. I have been using LangChain and LangGraph to build a Git diff reviewer, and I want to learn how to apply similar agentic systems to a larger production project. I’m also interested in AI security, particularly prompt injection and sandbox escapes, which I’ve been learning about independently. I’d like to contribute to Sentinel while developing stronger security and cloud skills.
+
+**Tell us about any experience that could help you contribute to Sentinel. This could be a project, internship, course, research experience, hackathon, or something you learned independently. What did you personally work on? (700 character limit)**
+
+I built Sift, a search engine from scratch in Go with a concurrent crawler, an inverted index, memory-mapped postings, and performance metrics tracking. This hands-on experience with tokenization, ranking algorithms, and indexing directly translates to Sentinel’s.... At DeltaHacks, I built the Python/FastAPI backend for my project Waypoint in which I deployed it with Docker to Google Cloud Run. I helped make agent-based simulations that modelled behaviour and coordinated state. Combined with my other project Serene (ASP.NET Core/PostgreSQL with vector searching), I have experience designing simple data pipelines, agent workflows, and backend architectures.
+
+**Imagine Sentinel notices an unusual change in a pull request. For example, a new dependency was added or part of the deployment process was changed. You don't immediately know whether the change is dangerous. How would you approach figuring out whether it is safe? Walk us through your thought process. (700 character limit)**
+
+**AI agents can make mistakes or confidently produce incorrect information. If Sentinel flags a pull request as a security risk, what information would you want the system to show before you trusted its recommendation? (500 character limit)**
+
+**Sentinel will initially focus on dependency, CI/CD, and release security. What is one feature, security problem, or direction you think would be interesting for the project to explore later? Why? (400 character limit)**
