@@ -45,3 +45,4 @@ I would first identify what changed and check new dependencies against vulnerabi
 
 **Sentinel will initially focus on dependency, CI/CD, and release security. What is one feature, security problem, or direction you think would be interesting for the project to explore later? Why? (400 character limit)**
 
+	One thing that I noticed when reading the readme is that Sentinel does not keep track of any security regressions. From my understand
