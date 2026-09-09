@@ -21,3 +21,7 @@ course is about logical reaosnig
 axioms, associativityh, symmetry, additive identity, multiplicative identity, distributivity, unary minus, subtraction
 
 binary infix operator
+
+command correctness statement
+
+$$(x=0) \space \implies[x := x+1] \space\space (x+1)$$
