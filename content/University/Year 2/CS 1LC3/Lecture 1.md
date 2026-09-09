@@ -19,3 +19,5 @@ Logical reaosning means creating proofs
 course is about logical reaosnig 
 
 axioms, associativityh, symmetry, additive identity, multiplicative identity, distributivity, unary minus, subtraction
+
+binary infix operator
