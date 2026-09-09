@@ -17,3 +17,5 @@ recognize $$x \neq 0 \land \frac{{16+4x}}{12}=\frac{{16+x}}{12-x}$$ as a constru
 Logical reaosning means creating proofs
 
 course is about logical reaosnig 
+
+axioms, associativityh, symmetry, additive identity, multiplicative identity, distributivity, unary minus, subtraction
