@@ -25,3 +25,7 @@ binary infix operator
 command correctness statement
 
 $$(x=0) \space \implies[x := x+1] \space\space (x+1)$$
+$$
+\cdot 4 + 4 \frac{4}{4}
+
+$$
