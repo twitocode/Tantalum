@@ -1,11 +1,11 @@
 ---
 tags:
   - course
-class: Year 2
-course name: Logical Reasoning
-year: "2"
-semester: Fall 2026
-professor: Wolfram Kahl
+class: CS 2GA3
+course name:
+year:
+semester:
+professor:
 ---
 ## Course Information
 - **Office Hours:**  
@@ -21,4 +21,4 @@ professor: Wolfram Kahl
 - **GitHub/Class Repo:**  
 
 ## Lectures
-![[University/Year 1/Year 2/Lectures.base]]
+![[University/Year 1/CS 2GA3/Lectures.base]]
