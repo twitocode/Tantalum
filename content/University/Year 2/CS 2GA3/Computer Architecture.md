@@ -14,3 +14,6 @@ store, retrieve, and process are divided into instruction sets executed by the c
 the eniac had to use 50k vacuum tubes
 
 turing machines can simulate any computation that a modern computer can perform (using 0s and 1s)
+
+risc-v opensource
+
