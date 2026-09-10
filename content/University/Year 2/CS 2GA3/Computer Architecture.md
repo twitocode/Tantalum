@@ -17,3 +17,6 @@ turing machines can simulate any computation that a modern computer can perform 
 
 risc-v opensource
 
+AI is allowed in the course but you must say where you used it
+
+being inside a system makes it harder to see whether you are wrong or not 
