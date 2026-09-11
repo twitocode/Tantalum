@@ -20,3 +20,9 @@ risc-v opensource
 AI is allowed in the course but you must say where you used it
 
 being inside a system makes it harder to see whether you are wrong or not 
+
+$$
+\int^1_{4}{x}dx
+$$
+
+$$1 \cdot 4 = \frac{4}{2} + \sum $$

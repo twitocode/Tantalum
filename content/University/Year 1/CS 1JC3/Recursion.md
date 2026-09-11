@@ -87,3 +87,12 @@ linearSearch x (y:ys) p
 - **Inventory of Regex**
 - Contributions to constructive logic
 - Wrote Introduction to Mathematics
+  
+
+```
+
+
+asdasds
+a
+d
+dsad
