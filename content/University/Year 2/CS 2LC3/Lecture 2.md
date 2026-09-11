@@ -19,3 +19,6 @@ THIS CLASS ONLY REALLY SEEMS IMPORTANT FOR SOFTWARE SUCH AS COMPILERS WHEN ORDER
 
 $b^2 \leq n \leq  (b+1)^2$
 abcdefghijklmnopqrstuvwxyz now i know my abcs next time won't you sing with me
+
+
+BE EXPICIT WITH PARENTHESES TO MAKE CALCULATIONS EASIER 
