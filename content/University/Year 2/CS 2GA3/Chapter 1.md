@@ -17,3 +17,8 @@ Instruction set architecture > ( algo desing, processo and memory I/O system ) i
 4. Pipelining
 	1. common form of paraellism
 5. Prediction
+6. hierachy of memories
+7. dependability via redundancy
+
+hardware only does simple low level instructions
+
