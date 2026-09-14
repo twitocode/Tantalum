@@ -43,7 +43,6 @@ $$\sqrt{ \frac{4\pi^2r^3}{Gm} } = T$$
 
 ### Orbital Radius $r$
 $$\sqrt[3]{ \frac{Gm_{2}T^2}{4\pi^2} } = r$$
-
 #### Geosynchronous Orbit
 When the orbital period of a satellite is equal to the period of rotation of a planet on its axis
 
