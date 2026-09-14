@@ -31,3 +31,7 @@ $$
 
 [Data Structures Visualizer](https://datastructuresvisualization.netlify.app/)
 =
+
+[Best Website Design Inspiration \| Siteinspire](https://www.siteinspire.com/)
+[Best website design & fonts inspiration feed \| MaxiBestOf](https://maxibestof.one/)
+[Recent — Design Inspiration](https://recent.design/)

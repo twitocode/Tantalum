@@ -6,8 +6,8 @@
 5. Augusta
 6. Luuk Herssen
 7. Cartethyia
-8. Carlotta
-9. Zani
+8. Zani
+9. Carlotta
 10. Mornye
 
 
