@@ -25,3 +25,4 @@ Desired execution time = current execution time * X% reduction
 CR = (NoI $\cdot$ CPI) / ET
 
 Clock rate = 1 / Clock Cycle Time
+
