@@ -9,3 +9,5 @@ class: CS 2GA3
 cache is the fastest memory -> ram -> ssd/hdd
 
 controller is a finite state machine
+
+an arm proecessor is like a core within an A5 cpu
