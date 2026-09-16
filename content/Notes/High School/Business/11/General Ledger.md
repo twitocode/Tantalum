@@ -1,0 +1,18 @@
+---
+CreatedAt: 2024-03-26
+MOC: "[[BAF3M1 MOC]]"
+tags:
+  - Unit-3
+aliases:
+  - Forwarding
+  - Forward
+TARGET DECK: Grade 11::BAF3M1::Unit 3
+---
+# General Ledger
+## What happens when account is filled with transactions?
+
+**Forwarding**
+A new account page must be opened and the last balance from the filled account balance must be transferred to the new account.
+
+
+![[slide_6.jpg]]

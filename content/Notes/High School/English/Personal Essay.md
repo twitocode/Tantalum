@@ -1,0 +1,65 @@
+---
+CreatedAt: 2025-03-19
+MOC: "[[ENG4U1 MOC]]"
+tags:
+  - English
+aliases:
+---
+> [!NOTE]
+> **Topic:** Think of a moment that force you to confront or question who you are a person. Write a personal essay on how this experience helped you connect with your past, your heritage or your identity.
+
+# What is this thing about?
+- Talking about how I had to confront who I was in terms of my academic journey.
+	- I wish I did more during my 4 years of high school
+		- Not having any friends made it harder for me to have the confidence to join clubs. 
+		- Mr. Pinto asked me to join robotics - *state reason why*
+- I went to Toronto to visit UTSG
+	- This was the first time I have ever been on a subway. 
+		- **Describe the rush**  - The walls were rushing past more, or really, I was rushing past the walls. Some people were fast asleep. Some people were reading a book; flicking their the pages with their fingers. This was the first time I have ever been on a subway. On the subway ceilings, there was an enclave of advertisements, each which distinctive messages. **Talk about the map with LEDs**
+	- It was very exhilarating. I felt dreamy when I was there. I kept thinking about how my life for the next 4 years would be there.
+		- **Describe scenery** - *make it feel like a dream*, sight, smell, hearing (bustling city)
+		  Looking at the city that I could live in, I was flying throughout the different buildings. Vintage, brutalist, and modern; they were all **….** From the turkey-like architecture of Robarts Library, to the **….** I could smell spicy but sweat aroma of the street food near the athletic center.
+		- Then I though about the price
+	- However in the back of my mind, I kept thinking about the requirements for getting in the programs I want. I choose engineering science and computer science at UTSG. The requirements are staggering. I think there is a very low chance of me getting in
+		- I kept comparing myself to others in my school and online.
+			- **Describe the feeling** - *taste, touch, sight*
+			- It was the feeling of being in a black room when a thick and firm hand touching my shoulder and directing my eyes to multiple fish-eye lensed perspectives of students winning contests and awards. 
+		- There are some robotics kids in my classes that are much smarter than me; there are more like them all across Ontario.
+			- My brother is in Robotics, and other clubs like Model UN. He is already doing much better than I ever was and he is in grade 10. 
+- I also went to Toronto to go to a car show
+	- We had to park far which meant that we had to walk through the streets. 
+		- Many homeless people
+			- Toronto is very expensive,
+			- City life seamed glamourous because I only ever lived in the suburbs. I’ve grown sick and tired of having to drive everywhere. However this **glamorous feeling only can materialize if you have a good job.**
+			-  If I do not get into my programs that I want, would I end up with a job or no job which will make me end up like the people I saw on the streets?
+				- This made me worry about the risk of AI impacting my future career choices. Will I have to settle with a lower salary than promised a year ago?
+- Past heritage, identity?
+	- Before I moved to Hamilton, I had many friends, some of which I still talk to everyday. I could not see my friends in person everyday. 
+		- I had
+	- I always wanted to be the smartest in my class ever since grade 5. I remember beating everyone in quick multiplication games.
+
+# Outline
+- Intro Paragraph
+- First Body Paragraph
+- Second Body Paragraph
+- Third Body Paragraph
+- Conclusion
+
+
+
+**Irrelevant for the most part**
+==In the summer of 2024, I visited UTSG with my family. My family I drive to Yorkdale mall because parking in Toronto is expensive. I then went to board the TTC subway which they made me pay for. When we got onto the subway, **Describe the rush**  - The walls were rushing past more, or really, I was rushing past the walls. Some people were fast asleep. Some people were reading a book; flicking their the pages with their fingers. This was the first time I have ever been on a subway. On the subway ceilings, there was an enclave of advertisements, each which distinctive messages. **Talk about the map with LEDs**. **TALK ABOUT WHY THIS WAS IMPORTANT" When** we got off the subway I arrived near Queen's park, where the provincial government was.  
+
+# The actual essay
+
+Have you ever felt that the feeling of drowning in your own thoughts because of a tiny trigger in your life? Have you every felt the existential feeling of your stomach dropping to the floor because you fear what will happen to you in the future? If you currently have your life figured out and too advantage of every opportunity you could, then probably not. **Take advantage of the opportunities you’re given in life, or else you will lose out on shortcuts to success and feel dissatisfied with yourself**. My time at the University of Toronto St. George Campus (UTSG) in the summer was exhilarating but also made me worried about my future. 
+
+
+
+While I was at UTSG, I took as my photos as I could. I was in a group with others and a tour guide. The first stop was the engineering building; when I entered, I kept daydreaming about coming here during school. Looking at the city that I could live in, I was flying throughout the different buildings. Vintage, brutalist, and modern; they were all **….** From the turkey-like architecture of Robarts Library, to the **….** I could smell spicy but sweat aroma of the street food near the athletic center. However I also could not shake the feeling of not being admitted here. I choose computer engineering and computer science at UTSG, which have staggering requirements in my view. My chance of getting into UTSG is very low. I kept trying to ignore the fundamental issues I would need tackle to come here. UTSG is an expensive and prestigious school. My parents are not that rich so I may not be able to go to this school even if I do get it. It took around 10 years before I finally moved out of my old apartment into my new house. Toronto is one of the most expensive cities in the world. 
+
+As I lived through the years, I kept comparing myself to others. I spent most of my high school journey without friends. which made things difficult In some of my classes, especially my computer engineering class, it was the feeling of being in a black room when a thick and firm hand touching my shoulder and directing my eyes to multiple fish-eye lensed perspectives of students winning contests and awards. Grades were something easier for me to focus on. Last year I was top 5 at Bishop Ryan for grades. Standing beside me were students who did much more than study; they were club leaders and joined multiple teams. I remember seeing many homeless people throughout Toronto. I have a small fear of becoming like them if I not succeed in life. The city seemed glamorous to me because I have only ever lived in the suburbs. However this glamorous feeling I felt can only materialize if you have a good job. If I do not get into the programs that I want, will I end up like the people on the streets? With the rise of AI in the workforce, I feel even more worried about my future.
+
+Back in grade 9, I was in Mr. Pinto’s computer engineering class. He saw potential in me; he asked whether I wanted to join the robotics club at school. I ended up saying no to Mr. Pinto’s question, which ended up becoming one of my biggest regrets in high school. Some of my classmates are in the robotics club, including my own brother. The main reason why I did not join was because I had issue talking with others. I have been getting better at talking with others, especially in grade 12, however I was not always like this. Before I moved to Hamilton in grade 7, I had many friends and I was very talkative. I am not sure what happened that caused me to be shy and quiet. The lack of support I had meant that there was no one to push me to achieve the best person that I could have been. It has been goal to be the smartest in my class. I had great memories of defeating my classmates in quick multiplication in elementary school. High school and my visit to UTSG made me realize that I am severely behind everyone else going into the fields that I want to go in to.
+
+Ultimately,  mental health was a huge obstacle I had to face throughout my 6 years of living in Hamilton. It prevented me from being the best version of myself. It prevented me from pursing the opportunities handed to me on a silver platter. For anyone who was in my position, take the leap of faith. You will feel less emotional baggage if you stop questioning whether an idea that is clearly good, is a bad one.

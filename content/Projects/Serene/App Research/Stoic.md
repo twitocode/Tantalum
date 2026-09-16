@@ -1,0 +1,15 @@
+![[Pasted image 20251220220842.png]]
+![[Pasted image 20251220220852.png]]
+![[Pasted image 20251220220934.png]]
+![[Pasted image 20251220220949.png]]
+![[Pasted image 20251220221003.png]]
+
+# Landing
+![[Pasted image 20251220221035.png]]
+![[Pasted image 20251220221056.png]]
+![[Pasted image 20251220221111.png]]
+![[Pasted image 20251220221125.png]]
+![[Pasted image 20251220221133.png]]
+![[Pasted image 20251220221145.png]]
+![[Pasted image 20251220221153.png]]
+![[Pasted image 20251220221212.png]]

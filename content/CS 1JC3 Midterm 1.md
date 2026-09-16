@@ -1,0 +1,24 @@
+- [x] Historial figures
+- [x] hindu-arabic system
+- [x] boolean (Propositional) logic
+- [x] Recursively defined functions
+- [x] List comprehension
+- [ ] Case studies - the use of numbers and how they're represented
+- [x] Floating point numbers
+- [x] Prelude Haskell functions
+- [x] Data types
+- [x] Two's compliment (not ones compliment)
+- [x] lambda expressions
+- [x] Programming paradigms
+- [x] polymorphic types
+	- `num a => a`
+- [x] machine integers
+- [x] types of thinking
+- [x] unary vs n-ary
+- [ ] pattern matching
+- [x] type classes - comes later tho
+- [ ] quick check - comes later tho
+- [x] Cardinality
+- [x] currying functions
+- [x] Noetherian Number Property (well-order)
+- [x] Properties of functions

@@ -1,0 +1,6 @@
+---
+artist:
+banner:
+tags:
+  - album
+---

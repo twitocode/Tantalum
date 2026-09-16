@@ -1,0 +1,236 @@
+---
+CreatedAt: 2025-03-23
+MOC: "[[HRT4M1 MOC]]"
+tags:
+  - Religion
+aliases: 
+TARGET DECK: Grade 12::HRT4M1::Unit 1 - Understanding Scripture::Section 2-3
+---
+
+Short answer probably
+- parable analysis
+
+# What is the decalogue?
+Another word for the 10 commandments.
+
+---
+# Name the five traits of a covenant
+1. Preamble
+2. Historical Prologue
+3. Submission/Conditions
+4. Witnesses
+5. Blessings and Curses
+
+---
+# Define typology
+A doctrine of theological types especially one that holds that things in the New Testament are foreshadowed or symbolized by things in the Old Testament. Compares both similarities and differences between items of the same "type". A type is some "person", "event", or "ceremony".
+
+---
+# Define vocation
+Also known as a baptismal vocation/mission. It is a calling from God.
+Essentially your job, the job you were always meant to pursue. 
+Could also be a call to the priesthood or sisterhood.
+
+---
+# What is a call story? What is its format?
+Stories where God sends a person, usually a prophet on a mission. 
+They usually follow this pattern:
+1. **Confrontation** with God
+2. Introductory **Speech**
+3. Imparting of a **Mission**
+4. **Objection** by the prophet-to-be
+5. **Reassurance** by God
+6. The **Sign**
+
+---
+# Define eschatological
+Pertaining to the end of time, in the sense of its fullness. It is an ethics that insists that we can already live what God will realize or reveal at the end.
+
+---
+# What is Parousia?
+The second coming of Christ
+
+---
+# What is the main concern of the Old Testament?
+The relationship between God and the Israelites (The chosen people)
+
+---
+# Define Synoptic Gospels, which ones are they?
+The Gospels that have texts which when set side by side, show a similar account of the life and death of Jesus Christ. They are **Matthew, Mark, and Luke.**
+
+---
+# Kingdom of God
+It is a symbol or metaphor for God, **not a place**
+It is God among us in our **words** and **actions**
+It is about the transformational rule of God over the hearts and lives of believers.
+Striving to achieve **INFINITE GOOD**
+
+___
+# What is needed to enter the Kingdom of God?
+A Personal Response - a radical change of heart and lifestyle.
+
+
+---
+# What is the innermost secret of the New Testament?
+**God's very being is love.**
+The whole mission and life of Jesus is a gift and an expression of God's love.
+
+---
+# Define covenant
+A formal, solemn agreement or contract between two or more parties.
+
+---
+# How were covenants used in ancient times?
+To establish relationships, obligations, and mutual responsibilities, often sealed by a symbolic act such as a ritual or sacrifice.
+
+___
+# What was the significance of covenants?
+They were sacred and often viewed as binding not just between the human parties but also between humans and the gods.
+
+
+---
+# Define exegesis
+The study of scripture texts in their original context.
+
+---
+# Define hermeneutics
+The study of how texts should be interpreted. The text's meaning in today's time.
+
+---
+# Talk about the power of the name YHWH
+Yahweh; It is the name of God.
+1. It revels God and His love for the Chosen people.
+2. It reveals what God will do for others.
+3. It is so sacred that bible writers made different versions of it, so that the original name could not be tainted.
+
+---
+# Name each of the Corporal Works of Mercy and give an example for each
+1. Feed the hungry
+2. Give drink to the thirsty
+3. Clothe the naked
+4. Shelter the homeless
+5. Visit the sick
+6. Visit the imprisoned
+7. Bury the dead
+
+
+---
+# Who is Matthew?
+One of the 12 apostles, a **former tax man**
+80 AD - 100 AD
+
+---
+# Who is Mark?
+Follower of peter so he was considered an "apostolic man" A Jewish Man, Not one of the twelve disciples. 
+65 AD - 70 AD
+
+---
+# Who is Luke?
+Not one of the twelve disciples, A doctor, believed to have written the acts of the apostles. he was a Gentile, he was a Greek convert.
+85 AD
+
+---
+# Who is John?
+A disciple of Jesus. 
+100AD
+
+---
+# How did Matthew portray Jesus?
+Portrayed Jesus as a teacher. The new Moses, draws parallels between them.
+
+---
+# How did Mark portray Jesus?
+Portrayed Jesus as a man in a hurry. A Jesus who is earthy and easy to relate to. A Jesus constantly hemmed in by crowds. A Jesus who we would be comfortable with.
+
+---
+# How did Luke portray Jesus?
+A compassionate and forgiving person. His salvation is available for everyone. He is a friend and advocate for those whom society ignores.
+
+---
+# How did John portray Jesus?
+Noble, Majestic, and Divine, coexistent with God. His humanity is undeniable, but possesses divinity as well. In control at all times, including in death.
+
+---
+# Who did Matthew write for?
+Wrote for the Jewish People.
+
+---
+# Who did Mark write for?
+Wrote for the Romans and Gentiles.
+
+---
+# Who did Luke write for?
+Wrote for the Gentiles.
+
+---
+# Who did John write for?
+Wrote for everyone.
+
+---
+# What was the Sermon on the Mount?
+A collection of teachings and ethical instructions made by Jesus to his followers. It challenged the status quo and calls individuals to live out God’s kingdom values.
+
+---
+# What did Jesus talk about in the Sermon on the Mount?
+1. The Beatitudes
+2. Fulfillment of the law
+3. Love your enemies
+4. The Lord’s prayer
+5. Avoiding Hypocrisy
+6. Trust in God
+7. The Golden Rule
+
+___
+# Explain the metaphor “Eye of the Needle”
+ **You must unload your material possessions. to enter heaven** Illustrates the difficulty for the rich man to enter the kingdom of God. You cannot enter it with wealth alone. Jesus challenged this notion; says it is a barrier between you and God.
+**Are you ready to throw your wealth away to follow God?**
+
+
+---
+# What challenges did Jewish followers of Jesus face in Matthew’s time?
+There was a division between those who followed Jesus and those who stuck to Jewish traditions. The Temple in Jerusalem was destroyed by the Romans in 70 CE.
+
+---
+# How did the Church emerge out of the split between the Jewish groups?
+Those who followed Jesus became Christians and formed the early church.
+
+---
+# What did Matthew’s gospel seek to accomplish?
+1. Keep the community united
+2. refrain from judging others
+3. accept the sinner among you
+4. for it to have a stable structure.
+
+---
+# How does Matthew portray Jesus as the incomparable teacher?
+Beginning - Establishes Jesus’ authority to teach. Middle - Matthew says that Jesus is the supreme teacher. End - Risen Jesus is giving instructions on how to disciple all nations.
+
+___
+# How does Matthew compare Jesus and Moses?
+
+| Moses                               | Jesus                             |
+| ----------------------------------- | --------------------------------- |
+| 10 commandments                     | Laws of Love (Beatitudes)         |
+| Blood spilled during Childhood      | Crucifixion                       |
+| Passover lamb blood on doors        | Sacrificial lamb                  |
+| Threatened and protected by Pharaoh | Threatened and protected by Herod |
+
+
+---
+# What was Matthew seeking to demonstrate with his gospel?
+Jesus is fulfilling the original intent of the Torah, not replacing it. Jesus is the New Moses, to convince the Jewish community he is the prophesized Messiah. Jesus invites us all to live the way of Jesus.
+
+___
+# How can you be Priest?
+**Teaching** - Helping others to see God
+
+
+___
+# How can you be a Prophet?
+**Spread** - the word of God, set examples, be a leader
+
+
+___
+# How can you be a king?
+**Serve** - serving others through the Corporal Works of Mercy
+

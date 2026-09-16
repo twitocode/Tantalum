@@ -1,0 +1,5 @@
+swe - [Open Role — Software Engineer Intern (Summer 2026) \| Ripple](https://ripple.com/careers/all-jobs/job/7469876/)
+swe - [Open Role — C++ Software Engineer Intern, RippleX Core Ledger (Summer 2026) \| Ripple](https://ripple.com/careers/all-jobs/job/7467107/)
+swe - [Open Role — Software Engineer Intern, RippleX DGE (Summer 2026) \| Ripple](https://ripple.com/careers/all-jobs/job/7460839/)
+swe - [Open Role — Software Engineer Intern, RippleX Platform (Summer 2026) \| Ripple](https://ripple.com/careers/all-jobs/job/7458195/)
+swe - [Open Role — Software Engineer Intern, RippleX Quality Enforcers (Summer 2026) \| Ripple](https://ripple.com/careers/all-jobs/job/7455922/)

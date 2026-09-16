@@ -1,0 +1,18 @@
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.hasTag("album")
+        - file.name != "Album Template"
+    order:
+      - artist
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+    cardSize: 330
+    image: note.banner
+    imageFit: ""
+  - type: table
+    name: View

@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+        - file.tags.contains("lecture")
+        - '!file.name.endsWith("Template")'
+        - class == "ECON 1BB3"
+    order:
+      - CreatedAt
+      - file.name
+    sort:
+      - property: file.ctime
+        direction: ASC

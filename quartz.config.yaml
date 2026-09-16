@@ -1,0 +1,387 @@
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+configuration:
+  pageTitle: Tantalum ʕ•ᴥ•ʔ
+  pageTitleSuffix: ""
+  enableSPA: true
+  enablePopovers: true
+  analytics: null
+  locale: en-US
+  baseUrl: tantalum-vault.vercel.app
+  ignorePatterns:
+    - private
+    - templates
+    - Templates
+    - .obsidian
+    - Excalidraw
+    - .trash
+    - Daily Notes
+    # Exclude current assets larger than 2 MiB to reduce deployment size.
+    # Files below this threshold remain available to the generated site.
+    - "Assets/Artists’ AI dilemma_ can artificial intelligence make intelligent art_ _ Art _ The Guardian.pdf"
+    - "Assets/NET Roadmap.png"
+    - "Assets/Pasted image 20240329085516.png"
+    - "Assets/Pasted image 20240329090850.png"
+    - "Assets/Pasted image 20240329091023.png"
+    - "Assets/Pasted image 20240329091233.png"
+    - "Assets/Pasted image 20240329092012.png"
+    - "Assets/Pasted image 20240329092034.png"
+    - "Assets/Pasted image 20240329092055.png"
+    - "Assets/Pasted image 20240329092059.png"
+    - "Assets/Pasted image 20240329092149.png"
+    - "Assets/Pasted image 20240329092204.png"
+    - "Assets/Pasted image 20240329092230.png"
+    - "Assets/Pasted image 20240329092249.png"
+    - "Assets/Pasted image 20240329092327.png"
+    - "Assets/Pasted image 20240329092409.png"
+    - "Assets/Pasted image 20240329092446.png"
+    - "Assets/Pasted image 20240329092504.png"
+    - "Assets/Pasted image 20240329092534.png"
+    - "Assets/Pasted image 20240329092543.png"
+    - "Assets/Pasted image 20240329092548.png"
+    - "Assets/Pasted image 20240329092558.png"
+    - "Assets/Pasted image 20240408145733.png"
+    - "Assets/Pasted image 20240408145937.png"
+    - "Assets/Pasted image 20240408164055.png"
+    - "Assets/Pasted image 20240408164109.png"
+    - "Assets/Pasted image 20240430100453.png"
+    - "Assets/Pasted image 20240604093732.png"
+    - "Assets/Pasted image 20240611141453.png"
+    - "Assets/Pasted image 20240611141531.png"
+    - "Assets/Pasted image 20240614112708.png"
+    - "Assets/Pasted image 20240614112749.png"
+    - "Assets/Pasted image 20240624160408.png"
+    - "Assets/Pasted image 20250314191902.png"
+    - "Assets/Pasted image 20250728132149.png"
+    - "Assets/Pasted image 20250728132153.png"
+    - "Assets/Pasted image 20250728132221.png"
+    - "Assets/Pasted image 20250728132232.png"
+    - "Assets/Pasted image 20250728132239.png"
+    - "Assets/Pasted image 20250728132816.png"
+    - "Assets/Pasted image 20250728140305.png"
+    - "Assets/Pasted image 20250728140434.png"
+    - "Assets/Pasted image 20250728140543.png"
+    - "Assets/Pasted image 20250728141005.png"
+    - "Assets/Pasted image 20250803192340.png"
+    - "Assets/Pasted image 20250803192343.png"
+    - "Assets/Pasted image 20250803193434.png"
+    - "Assets/Pasted image 20250803193445.png"
+    - "Assets/Pasted image 20250803193528.png"
+    - "Assets/Pasted image 20250803193601.png"
+    - "Assets/Pasted image 20250803194934.png"
+    - "Assets/Pasted image 20250803194942.png"
+    - "Assets/Pasted image 20250804182459.png"
+    - "Assets/Pasted image 20250804182738.png"
+    - "Assets/Pasted image 20250804182801.png"
+    - "Assets/Pasted image 20250804183731.png"
+    - "Assets/Pasted image 20250804183947.png"
+    - "Assets/Pasted image 20250804184032.png"
+    - "Assets/Pasted image 20250804184036.png"
+    - "Assets/Pasted image 20250804184506.png"
+    - "Assets/Pasted Image 20251111130424_945.png"
+    - "Assets/Pasted image 20251220172143.png"
+    - "Assets/Pasted image 20251220214211.png"
+    - "Assets/Pasted image 20251220214427.png"
+    - "Assets/Pasted image 20251220214637.png"
+    - "Assets/Pasted image 20251220214653.png"
+    - "Assets/Pasted image 20251220214715.png"
+    - "Assets/Pasted image 20251220214727.png"
+    - "Assets/Pasted image 20251220214922.png"
+    - "Assets/Pasted image 20251220215843.png"
+    - "Assets/Pasted image 20260607012756.png"
+    - "Assets/Pasted image 20260607012916.png"
+    - "Assets/ScreenRecording_12-20-2025 17-27-34_1.gif"
+    - "Assets/ScreenRecording_12-20-2025 18-01-18_1.gif"
+    - "Assets/ScreenRecording_12-20-2025 21-52-05_1.gif"
+  theme:
+    fontOrigin: googleFonts
+    cdnCaching: true
+    typography:
+      header: Atkinson Hyperlegible
+      body: Atkinson Hyperlegible
+      code: Jetbrains Mono
+    colors:
+      lightMode:
+        light: "#faf8f8"
+        lightgray: "#e5e5e5"
+        gray: "#b8b8b8"
+        darkgray: "#4e4e4e"
+        dark: "#2b2b2b"
+        secondary: "#522e70"
+        tertiary: "#8d4ec2"
+        highlight: rgba(143, 159, 169, 0.15)
+        textHighlight: "#fff23688"
+      darkMode:
+        light: "#0c0f14"
+        lightgray: "#1D232D"
+        gray: "#5A657B"
+        darkgray: "#d4d4d4"
+        dark: "#ebebec"
+        secondary: "#7188A9"
+        tertiary: "#84a59d"
+        highlight: rgba(143, 159, 169, 0.15)
+        textHighlight: "#b3aa0288"
+plugins:
+  - source: "@quartz-community/created-modified-date"
+    enabled: true
+    options:
+      defaultDateType: created
+      priority:
+        - frontmatter
+        - git
+        - filesystem
+    order: 10
+  - source: "@quartz-community/syntax-highlighting"
+    enabled: true
+    options:
+      theme:
+        light: github-light
+        dark: github-dark
+      keepBackground: false
+    order: 20
+  - source: "@quartz-community/obsidian-flavored-markdown"
+    enabled: true
+    options:
+      comments: true
+      highlight: true
+      wikilinks: true
+      callouts: true
+      mermaid: true
+      parseTags: true
+      parseArrows: true
+      parseBlockReferences: true
+      enableInHtmlEmbed: false
+      enableYouTubeEmbed: true
+      enableVideoEmbed: true
+      enableCheckbox: true
+    order: 30
+  - source: "@quartz-community/github-flavored-markdown"
+    enabled: true
+    order: 40
+  - source: "@quartz-community/table-of-contents"
+    enabled: true
+    order: 50
+    layout:
+      position: right
+      priority: 30
+  - source: "@quartz-community/crawl-links"
+    enabled: true
+    options:
+      markdownLinkResolution: shortest
+    order: 60
+  - source: "@quartz-community/description"
+    enabled: true
+    order: 70
+  - source: "@quartz-community/latex"
+    enabled: true
+    options:
+      renderEngine: katex
+    order: 80
+  - source: "@quartz-community/citations"
+    enabled: false
+    order: 85
+  - source: "@quartz-community/hard-line-breaks"
+    enabled: true
+    order: 90
+  - source: "@quartz-community/ox-hugo"
+    enabled: false
+    order: 91
+  - source: "@quartz-community/roam"
+    enabled: false
+    order: 92
+  - source: "@quartz-community/quartz-fonts"
+    enabled: true
+  - source: "@quartz-themes/core"
+    enabled: false
+    options:
+      theme: default
+      mode: both
+      themeFonts: false
+  - source: "@quartz-community/remove-draft"
+    enabled: true
+  - source: "@quartz-community/explicit-publish"
+    enabled: false
+  - source: "@quartz-community/unlisted-pages"
+    enabled: true
+    options: {}
+    order: 45
+  - source: "@quartz-community/encrypted-pages"
+    enabled: true
+    options:
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: false
+      outputPath: static/encryptedContentIndex.json
+  - source: "@quartz-community/stacked-pages"
+    enabled: false
+    layout:
+      position: afterBody
+      priority: 50
+      display: all
+  - source: "@quartz-community/alias-redirects"
+    enabled: true
+  - source: "@quartz-community/content-index"
+    enabled: true
+    options:
+      enableSiteMap: true
+      enableRSS: true
+  - source: "@quartz-community/favicon"
+    enabled: true
+  - source: "@quartz-community/og-image"
+    enabled: true
+  - source: "@quartz-community/cname"
+    enabled: true
+  - source: "@quartz-community/canvas-page"
+    enabled: true
+  - source: "@quartz-community/content-page"
+    enabled: true
+  - source: "@quartz-community/folder-page"
+    enabled: true
+  - source: "@quartz-community/tag-page"
+    enabled: true
+  - source: "@quartz-community/explorer"
+    enabled: true
+    options:
+      title: Navigation
+    layout:
+      position: left
+      priority: 50
+  - source: "@quartz-community/graph"
+    enabled: true
+    layout:
+      position: right
+      priority: 5
+      display: desktop-only
+  - source: "@quartz-community/search"
+    enabled: true
+    layout:
+      position: left
+      priority: 20
+      group: toolbar
+      groupOptions:
+        grow: true
+  - source: "@quartz-community/backlinks"
+    enabled: true
+    layout:
+      position: afterBody
+      priority: 20
+      display: mobile-only
+  - source: "@quartz-community/article-title"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 10
+  - source: "@quartz-community/content-meta"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 20
+  - source: "@quartz-community/tag-list"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 30
+  - source: "@quartz-community/page-title"
+    enabled: true
+    layout:
+      position: left
+      priority: 10
+  - source: "@quartz-community/darkmode"
+    enabled: true
+    layout:
+      position: left
+      priority: 30
+      group: toolbar
+  - source: "@quartz-community/reader-mode"
+    enabled: true
+    layout:
+      position: left
+      priority: 35
+      group: toolbar
+  - source: "@quartz-community/breadcrumbs"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 5
+      condition: not-index
+  - source: "@quartz-community/comments"
+    enabled: false
+    options:
+      provider: giscus
+      options: {}
+    layout:
+      position: afterBody
+      priority: 10
+  - source: "@quartz-community/footer"
+    enabled: true
+    options:
+      links:
+        Source: https://github.com/twitocode/Tantalum
+    layout:
+      position: footer
+      priority: 50
+  - source: "@quartz-community/recent-notes"
+    enabled: true
+    options:
+      limit: 5
+      showTags: false
+    layout:
+      position: right
+      priority: 20
+      display: desktop-only
+  - source: "@quartz-community/spacer"
+    enabled: true
+    options: {}
+    order: 25
+    layout:
+      position: left
+      priority: 25
+      display: mobile-only
+  - source: "@quartz-community/bases-page"
+    enabled: true
+    options: {}
+    order: 50
+  - source: "@quartz-community/note-properties"
+    enabled: true
+    options:
+      includeAll: false
+      includedProperties:
+        - description
+        - tags
+        - aliases
+      excludedProperties: []
+      hidePropertiesView: true
+      delimiters: ---
+      language: yaml
+    order: 5
+    layout:
+      position: beforeBody
+      priority: 15
+      display: all
+  - source: "@quartz-community/obsidian-plugin-excalidraw"
+    enabled: true
+    options:
+      enableInteraction: true
+      darkMode: auto
+      exportPadding: 20
+    order: 50
+layout:
+  groups:
+    toolbar:
+      priority: 35
+      direction: row
+      gap: 0.5rem
+  byPageType:
+    "404":
+      positions:
+        beforeBody: []
+        left: []
+        right: []
+    content: {}
+    folder:
+      exclude:
+        - reader-mode
+    tag:
+      exclude:
+        - reader-mode
+    canvas: {}
+    bases: {}

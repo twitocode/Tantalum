@@ -1,0 +1,16 @@
+# Every anime i watched
+- Sword Art Online
+- My Hero Academia (seasons 1-4)
+- Death Note
+- Neon Genesis Evangelion
+- Jujutsu Kaisen
+- Gundam franchise (almost done)
+- Is it wrong to pick girls in a dungeon (1-3 i think)
+- Naruto ( first 10 episodes)
+- Cells at work (first 5 episodes)
+- Code Geass
+- One punch man( seasons 1-2)
+- Re:Zero (seasons 1-2)
+- Hunter Hunter (Season 1
+- Violet Evergarden (first 3 episodes)
+- Takt. op Destiny (first 4 episodes)

@@ -1,0 +1,126 @@
+---
+CreatedAt: 2025-06-04
+MOC: "[[HRT4M1 MOC]]"
+tags:
+  - Religion
+aliases: 
+TARGET DECK: Grade 12::HRT4M1::Exam
+---
+
+> [!NOTE] Layout
+> - 70 MC
+> - Parable Analysis
+> - 
+
+-   [x] 2 greatest Commandments,
+-   [x] 2nd creation story+what it is about,
+-   [x] 4 conditions of a truly sacramental marriage,
+-   [x] 4 Gospel writers and who they wrote for,
+-   [x] 5 types of love,
+-   [x] **5 types of prayer,**
+-   [x] annulment,
+-   [x] Aquinas and highest good+desire for good,
+-   [x] Aristotle+happiness, - line paper written
+-   [x] **cardinal virtues,**
+-   [x] chastity,
+-   [x] Church on contraception,
+-   [x] civil divorce,
+-   [x] **common good,**
+-   [x] concupiscence,
+-   [x] conjugal,
+-   [x] conscience, ethics,
+-   [x] conversion,
+-   [x] corporal works of mercy,
+-   [x] council of Trent on marriage,
+-   [x] Divine mercy,
+-   [x] domestic church,
+-   [x] during the marriage ceremony-who are the ministers of Christ's grace,
+-   [x] effects of fall from grace,
+-   [x] effects of original sin on male/female relationship,
+-   [x] **ethics,**
+-   [x] **eternal law,**
+-   [x] fruits/gifts of Holy Spirit
+-   [x] grace of God,
+-   [x] highest form of love is??,
+-   [x] how can young people today 'out love' secularism=new evangelization,
+-   [x] human dignity,
+-   [x] Incarnation of Jesus+why very important to/for faith,
+-   [x] indissolubility,
+-   [x] innermost secret of the N.T.,
+-   [x] Kohlbergs moral theory,
+-   [x] law of conscience,
+-   [x] moral stance,
+-   [x] Name of God,
+-   [x] natural family planning,
+-   [x] original sin,
+-   [x] **parousia + why must act now,**
+-   [x] Paschal Mystery,
+-   [x] penance
+-   [x] precepts of the Church,
+-   [x] prophet,
+-   [x] prudence,
+-   [x] restorative justice,
+-   [x] **revelation,**
+-   [x] the sacraments of service of communion,
+-   [x] **Sermon on the Mount + the messages(s) of it,**
+-   [x] sin according to the CCC,
+-   [x] sin of omission,
+-   [x] social cell,
+-   [x] the message behind St. PJPII's "salt and light" and what that means for young people,
+-   [x] the various types of sin,
+-   [x] theological virtues,
+-   [x] **vice,**
+-   [x] virtue, b
+-   [x] vocation,
+-   [x] what is the K. o. G.?????,
+-   [ ] good moral life,
+-   [x] Holy Spirit,
+-   [x] how to fulfil the Kingdom of God???,
+-   [x] Jesus left to His followers+why??,
+-   [ ] missionaries/prophets/up-standers/answer the call/what is the true call/give what is in you to give.
+-   [x] most important duty of parents is??,good moral life,
+-   [ ] O.T. and view of sin,
+-   [ ] people of the the Beatitudes,
+-   [x] sacrament(s),
+-   [ ] self-mastery,
+-   [ ] signs/symbols in Old Testament,
+-   [x] societal perspective of marriage,
+-   [ ] the more one does good the more ????,
+-   [x] what are the Gospels even about?,
+-   [ ] workers in the Vineyard, - unit 2 faith
+
+
+Parable Analysis
+You will analyze 1 of these: Good Samaritan, Parable of the Mustard Seed, Lost Coin, Lost Sheep, Prodigal Son, Workers in the Vineyard, Parable of Talents, Story of Rich Man and Jesus. You will need to identify the underlying meaning (hermeneutics) for us now.
+
+Hermeneutics: The study of how texts should be interpreted; the text's meaning in today's time.
+
+To develop as an ethical person one needs to
+- trust in the integrity of others
+- feel capable of acting morally
+- believe in objective truth and principles
+- despite ones limitations, one can overcome whatever threatens to diminish one's worth and dignity
+- have a sense of one's own identity
+- compassion: in order to forgive and be forgiven
+- have autonomy for the ability to follow on'es conscience
+- pursue a meaningful life, not just for one's self but also for others
+
+become makers of peace
+know the difference between good an evil light and ark life and death
+live a life of justice
+believe in the good.
+
+the servants are followers of christ that are entrusted to the gifts and opportunities that god has entrusted to them. we should use the opportunities for others and outselves to give more to god. When we only use his gifts for ourselves, we are breaking the realtioship between him and us. The faithful are awarded with rewards in heaven.
+
+
+this parable is basically saying that god does not choose favourites. the workers who worked longer are us and the workers who worked least are our neighbours. Love your neightbous and trea tthem the same way as yourself. 
+eternal life is not given by working harder. god is generous to everyone. 
+
+
+beleievei n htobjective truth and principles
+despirete ones limits one can recognzie their self worth and diginity
+compassion - forgive and be forgiven
+feel capable of acting morally
+have the authomyo to follow on'es conscinec
+havea senf o of one identity
+trust in the integrity of anothers 

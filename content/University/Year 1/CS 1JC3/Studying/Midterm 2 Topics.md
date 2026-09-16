@@ -1,0 +1,35 @@
+- [x] conventional encryption
+- [ ] How Haskell handles IO
+- [x] Algebraic types
+- [ ] Recursion and induction
+- [x] TCP/IP layering
+- [ ] Little language
+- [x] DNS system
+- [x] monoids - *not that important*
+- [x] Operating systems
+- [x] File systems
+- [ ] Networking
+- [x] information security and Data security (*almost no difference*)
+- [x] Historical figures in computing
+- [x] Hash functions
+- [x] Symmetric and Asymmetic encryption
+- [ ] One way encryption
+- [x] ascii
+- [x] unicode
+- [x] WWW
+- [ ] Problem solving methods
+- [x] processes scheduling
+- [ ] Lambda calculus
+- [x] mathematical infesability
+- [ ] Type Classes
+- [x] RSA
+	- [ ] prime factorization
+	- public key - large number
+	- private key - two smaller numberes
+- http
+- bipartite graph
+	- if i have two computeres connected using a crossover cable. then the crossover cable is a physical network
+- CLI GUI
+- Well ordered sets
+- software modules - Loggers, CMS, java/python/cpp libraries
+- Gaussian rationals - *least important on this list*

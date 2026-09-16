@@ -1,0 +1,1 @@
+everything is blue, his hair, he buttons, his cheeks, and now he so devoid of colour he dont know what to think, and he's blue, and he's blue

@@ -1,0 +1,4 @@
+#DailyNote 
+
+## Today's Tasks
+- [ ] 
