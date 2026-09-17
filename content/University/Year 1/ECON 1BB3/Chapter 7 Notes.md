@@ -27,9 +27,9 @@ tags:
 
 | Country | Real GDP per Capita, 1960 (2017 US dollars) | Growth in Real GDP per Capita, 1960–2019 | Real GDP per Capita, 2019 (2017 US dollars) |
 | ------- | ------------------------------------------- | ---------------------------------------- | ------------------------------------------- |
-| Ghana | \$4408 | 0.4% | \$5 546 |
-| Mexico | 6072 | 1.9 | 19 308 |
-| Türkiye | 5051 | 2.9 | 26 700 |
+| Ghana   | \$4408                                      | 0.4%                                     | \$5 546                                     |
+| Mexico  | 6072                                        | 1.9                                      | 19 308                                      |
+| Türkiye | 5051                                        | 2.9                                      | 26 700                                      |
 *Table 7.1: The Effects of Different Growth Rates on Living Standards*
 
 ## The Problem with Slow Economic Growth

@@ -29,7 +29,7 @@ add 2 3    -- gives 5
 -- But actually, this is shorthand for:
 (add 2) 3
 -- (add 2) returns a new function: \y -> 2 + y
-  ```
+```
 
 ## Important Paradoxes
 
