@@ -8,3 +8,4 @@ REMEMBER THEOREM 3.32 $p \lor q \equiv p \lor \lnot q \equiv p$
 
 unfolding a conjunction - do steps - fold into a conjunction
 
+shunting is like currying in haskell
