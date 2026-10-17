@@ -41,40 +41,41 @@ int fib(int n) {
 Assembly:
 ```nasm
 fib:   #label of the fib procedure
-  addi sp, sp, -12 #increase the stack pointer to store 3 integers
-  sw x1, 4(sp)  #store the return address in the stack 
-  sw x10, 0(sp) #store the return value in the stack
+  addi sp, sp, -12  # increase the stack pointer to store 3 integers
+  sw x1, 4(sp)      # store the return address in the stack 
+  sw x10, 0(sp)     # store the argument n
   
-  beq x10, 0, B0
-  beq x10, 1, B1
+  addi x29, x0, 1   # used for beq comparison 
+  beq x10, x0, B0   # if n == 0 go to the first base case
+  beq x10, x29, B1  # if n == 1 go to the second base case
    
-  addi x10, x10, -1 #store n - 1 for the first recursive call
-  jal x1, fib #get the result of f(n - 1)
-  sw x10, 8(sp) #store the result of fib(n - 1) as fib(n - 1) would override
+  addi x10, x10, -1 # store n - 1 for the first recursive call
+  jal x1, fib       # get the result of f(n - 1)
+  sw x10, 8(sp)     # store the result of fib(n - 1) as fib(n - 1) would override
   
-  lw x10, 0(sp) #restore the orignal value of n
+  lw x10, 0(sp)     # restore the orignal value of n
   
-  addi x10, x10, -2  #store n - 2 for the first recursive call
-  jal x1, fib #get the result of f(n - 2)
+  addi x10, x10, -2 # store n - 2 for the second recursive call
+  jal x1, fib       # get the result of f(n - 2)
   
-  lw x28, 8(sp) #restore fib(n - 1)
-  add x10, x10, x28 #get fib(n - 1) + fib (n - 2)
+  lw x28, 8(sp)     # restore fib(n - 1)
+  add x10, x10, x28 # get fib(n - 1) + fib (n - 2)
   
-  lw x1, 4(sp) # restore the original return address
-  addi sp, sp, 12 #pop 3 items from the stack
-  jalr x0, 0(x1) #returns back to the point in the eprogram where the procedure was called
+  lw x1, 4(sp)      # restore the original return address
+  addi sp, sp, 12   # pop 3 items from the stack
+  jalr x0, 0(x1)    # returns back to the point in the eprogram where the procedure was called
 
-B0: #label for the first base case  n == 0
-  lw x1, 4(sp) #reload the return address 
-  addi sp, sp, 12 #pop 3 items from the stack
-  addi x10, x0, 0 #return 0
-  jalr x0, 0(x1) #return to the caller
+B0:                 # label for the first base case  n == 0
+  lw x1, 4(sp)      # reload the return address 
+  addi sp, sp, 12   # pop 3 items from the stack
+  addi x10, x0, 0   # return 0
+  jalr x0, 0(x1)    # return to the caller
   
-B1: #label for the second base case n == 1
-  lw x1, 4(sp) #reload the return address 
-  addi sp, sp, 12 #pop 3 items from the stack
-  addi x10, x0, 1 #return 1
-  jalr x0, 0(x1) #return to the caller 
+B1:                 # label for the second base case n == 1
+  lw x1, 4(sp)      # reload the return address 
+  addi sp, sp, 12   # pop 3 items from the stack
+  addi x10, x0, 1   # return 1
+  jalr x0, 0(x1)    # return to the caller 
   
 ```
 **3. (4 Marks)** Translate procedure `f` into RISC-V assembly language. The C code for `f` is:
