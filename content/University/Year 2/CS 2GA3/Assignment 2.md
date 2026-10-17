@@ -51,9 +51,11 @@ fib:   #label of the fib procedure
   addi x5, x10, -1
   addi x6, x10, -2
   
-  jal
+  jal x1, fib #get the result of f(n - 1)
   
-  jalr x0, 0(x1) #returns back to the point in th eprogram where the procedure was called
+  
+  
+  jalr x0, 0(x1) #returns back to the point in the eprogram where the procedure was called
 
 B0: #label for the first base case 
   addi sp, sp 8
