@@ -41,13 +41,13 @@ int fib(int n) {
 Assembly:
 ```nasm
 fib:   #label of the fib procedure
-  addi sp, sp, -8
-  sw x1, 4(sp)
-  sw x10, 0(sp)
+  addi sp, sp, -8 #increase the stack pointer to store 2 integers
+  sw x1, 4(sp)  #store the return address in the stack 
+  sw x10, 0(sp) #store the return value in the stack
   
   beq x10, 0, B0
   beq x10, 1, B1
-  
+   
   addi x5, x10, -1
   addi x6, x10, -2
   
@@ -56,9 +56,13 @@ fib:   #label of the fib procedure
   jalr x0, 0(x1) #returns back to the point in th eprogram where the procedure was called
 
 B0: #label for the first base case 
+  addi sp, sp 8
+  addi x10, x0, 0
   jalr x0, 0(x1)
   
 B1: #label for the second base case
+  addi sp, sp 8
+  addi x10, x0, 1
   jalr x0, 0(x1)
   
 ```
