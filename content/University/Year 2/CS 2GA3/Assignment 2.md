@@ -12,13 +12,22 @@ provide:
 - **a. (1 mark)** The instruction type
 	This is a R-type instruction
 - **b. (1 mark)** Assembly language instruction
-    
+
+	```nasm
+	sub x6, x5, x7 
+	```
 - **c. (2 marks)** Binary representation
-    
+    opcode = $3 \cdot 16 + 3 = 51_{10} =  0110011_{2}$
+    funct3 = $0 = 000_{2}$
+    func7 = $2 \cdot 16 = 32_{10} = 0100000_{2}$
+    rs2 = $00101_{2}$
+    rs1 = $00111_{2}$
+    rd = $00110_{2}$
+    Binary representation = 0100 0000 0101 0011 1000 0011 0011 0011
 
 **2. Exercise 2.29 (4 Marks)** Implement the following C code in RISC-V assembly as one recursive routine. Please put comments in your code. The size of `int` is 4 bytes.
 
-```
+```c
 int fib(int n) {
     if (n == 0)
         return 0;
@@ -29,9 +38,27 @@ int fib(int n) {
 }
 ```
 
-**3. (4 Marks)** Translate procedure `f` into RISC-V assembly language. The C code for `f` is:
+Assembly:
+```nasm
+jal x1, fib
+fib:   #label of the fib procedure
+  addi sp, sp, -8
+  sw x1, 4(sp)
+  sw x10, 0(sp)
+  addi x5, x10, -1
+  addi x6, x10, -2
+  bne x6, 0, L0
+  bne x5, 1, L1
+  
+  
+  
+  jalr x0, 0(x1) #returns back to the point in th eprogram where the procedure was called
+
 
 ```
+**3. (4 Marks)** Translate procedure `f` into RISC-V assembly language. The C code for `f` is:
+
+```c
 int f (int g, int h, int i, int j) {
     return ((g + h) - i + ((g - h) + j));
 }
