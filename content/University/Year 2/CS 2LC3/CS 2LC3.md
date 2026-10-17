@@ -23,3 +23,4 @@ professor: Wolfram Kahl
 
 ## Lectures
 ![[University/Year 1/Year 2/Lectures.base]]
+
