@@ -48,24 +48,31 @@ fib:   #label of the fib procedure
   beq x10, 0, B0
   beq x10, 1, B1
    
-  addi x5, x10, -1
-  addi x6, x10, -2
-  
+  addi x10, x10, -1 #store n - 1 for the first recursive call
   jal x1, fib #get the result of f(n - 1)
+  add x28, x10, x0 #temporarily store the result of fib(n - 1) in x28
   
+  lw x10, 0(sp) #restore the orignal value of n
+  addi x10, x10, -2  #store n - 2 for the first recursive call
+  jal x1, fib #get the result of f(n - 2)
   
+  add x10, x10, x28 #get fib(n - 1) + fib (n - 2)
   
+  lw x1, 4(sp) # restore the original return address
+  addi sp, sp, 8 #pop 2 items from the stack
   jalr x0, 0(x1) #returns back to the point in the eprogram where the procedure was called
 
-B0: #label for the first base case 
-  addi sp, sp 8
-  addi x10, x0, 0
-  jalr x0, 0(x1)
+B0: #label for the first base case  n == 0
+  lw x1, 4(sp) #reload the return address 
+  addi sp, sp, 8 #pop 2 items from the stack
+  addi x10, x0, 0 #return 0
+  jalr x0, 0(x1) #return to the caller
   
-B1: #label for the second base case
-  addi sp, sp 8
-  addi x10, x0, 1
-  jalr x0, 0(x1)
+B1: #label for the second base case n == 1
+  lw x1, 4(sp) #reload the return address 
+  addi sp, sp, 8 #pop 2 items from the stack
+  addi x10, x0, 1 #return 1
+  jalr x0, 0(x1) #return to the caller 
   
 ```
 **3. (4 Marks)** Translate procedure `f` into RISC-V assembly language. The C code for `f` is:
