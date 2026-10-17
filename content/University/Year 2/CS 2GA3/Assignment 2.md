@@ -40,21 +40,27 @@ int fib(int n) {
 
 Assembly:
 ```nasm
-jal x1, fib
 fib:   #label of the fib procedure
   addi sp, sp, -8
   sw x1, 4(sp)
   sw x10, 0(sp)
+  
+  beq x10, 0, B0
+  beq x10, 1, B1
+  
   addi x5, x10, -1
   addi x6, x10, -2
-  bne x6, 0, L0
-  bne x5, 1, L1
   
-  
+  jal
   
   jalr x0, 0(x1) #returns back to the point in th eprogram where the procedure was called
 
-
+B0: #label for the first base case 
+  jalr x0, 0(x1)
+  
+B1: #label for the second base case
+  jalr x0, 0(x1)
+  
 ```
 **3. (4 Marks)** Translate procedure `f` into RISC-V assembly language. The C code for `f` is:
 
@@ -65,6 +71,18 @@ int f (int g, int h, int i, int j) {
 ```
 
 Assume arguments `g`, `h`, `i`, `j` are in registers `x10`, `x11`, `x12`, `x13`. Return value should be in `x10`. Please put comments in your code. The size of `int` is 4 bytes.
+```nasm
+f: #label for f
+  sub x28, x10, x11 # g - h
+  add x28, x28, x13 # (g - h) + j
+  
+  add x29, x10, x11 # g + h
+  sub x29, x29, x12 # (g + h) - i
+  
+  add x10, x29, x28 # ((g + h) - i + ((g - h) + j))
+  
+  jalr x0, 0(x1)
+```
 
 **4. Exercise 2.40 (4 Marks)** Assume that for a given program $70\%$ of the executed instructions are arithmetic, $10\%$ are load/store, and $20\%$ are branch.
 
