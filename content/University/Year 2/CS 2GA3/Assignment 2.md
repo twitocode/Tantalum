@@ -1,6 +1,6 @@
-Toheeb Eji
-400666188
-ejit@mcmaster.ca
+Name: Toheeb Eji
+Student ID: 400666188
+Mac ID: ejit
 ### Chapter 2: Instructions: Language of the Computer (16 Marks)
 
 **1. Exercise 2.14 (4 Marks)** For instruction described by the following RISC-V fields:  
@@ -14,7 +14,7 @@ provide:
 - **b. (1 mark)** Assembly language instruction
 
 	```nasm
-	sub x6, x5, x7 
+	sub x6, x5, x7
 	```
 - **c. (2 marks)** Binary representation
     opcode = $3 \cdot 16 + 3 = 51_{10} =  0110011_{2}$
@@ -97,13 +97,42 @@ f: #label for f
   
   add x10, x29, x28 # ((g + h) - i + ((g - h) + j))
   
-  jalr x0, 0(x1)
+  jalr x0, 0(x1) # exit out of the ufnction
 ```
 
 **4. Exercise 2.40 (4 Marks)** Assume that for a given program $70\%$ of the executed instructions are arithmetic, $10\%$ are load/store, and $20\%$ are branch.
 
 - **a. (2 marks)** Given this instruction mix and the assumption that an arithmetic instruction requires two cycles, a load/store instruction takes six cycles, and a branch instruction takes three cycles, find the average CPI.
-    
+$$
+\begin{align}
+\text{CPI} &= \sum^{4}_{i = 1}(\text{Relative Frequency} \cdot CPI_{i}) \\
+&= 0.7(2) + 0.1(6) + 0.2(3) \\
+&= 2.6 \ ~~~~
+\end{align}
+
+$$
 - **b. (1 mark)** For a $25\%$ improvement in performance, how many cycles, on average, may an arithmetic instruction take if load/store and branch instructions are not improved at all?
+    $$
+    \begin{align}
+      \text{New CPI} &= \frac{\text{Old CPI}}{1.25} \\ \\
+      &= 2.08 \\
+      2.08 &= 0.7(x) +  0.1(6) + 0.2(3)  \\
+      \frac{2.08 - 0.1(6) - 0.2(3)}{0.7} &= x \\
+      &= 1.2571428571 \\
+      &\approx 1.23
+    \end{align}
+    $$
     
 - **c. (1 mark)** For a $50\%$ improvement in performance, how many cycles, on average, may an arithmetic instruction take if load/store and branch instructions are not improved at all?
+- 
+  $$
+    \begin{align}
+      \text{New CPI} &= \frac{\text{Old CPI}}{1.5} \\ \\
+      &= 1.73 \\
+      1.73 &= 0.7(x) +  0.1(6) + 0.2(3)  \\
+      \frac{1.73 - 0.1(6) - 0.2(3)}{0.7} &= x \\
+      &= 0.7571428571 \\
+      &\approx 0.76
+    \end{align}
+    
+  $$
