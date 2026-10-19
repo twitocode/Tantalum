@@ -14,7 +14,7 @@ provide:
 - **b. (1 mark)** Assembly language instruction
 
 	```nasm
-	sub x6, x5, x7
+	sub x6, x7, x5
 	```
 - **c. (2 marks)** Binary representation
     opcode = $3 \cdot 16 + 3 = 51_{10} =  0110011_{2}$
@@ -41,7 +41,7 @@ int fib(int n) {
 Assembly:
 ```nasm
 fib:   #label of the fib procedure
-  addi sp, sp, -12  # increase the stack pointer to store 3 integers
+  addi sp, sp, -12  # adjust the stack for 3 items
   sw x1, 4(sp)      # store the return address in the stack 
   sw x10, 0(sp)     # store the argument n
   
@@ -51,7 +51,7 @@ fib:   #label of the fib procedure
    
   addi x10, x10, -1 # store n - 1 for the first recursive call
   jal x1, fib       # get the result of f(n - 1)
-  sw x10, 8(sp)     # store the result of fib(n - 1) as fib(n - 1) would override
+  sw x10, 8(sp)     # store the result of fib(n - 1) as fib(n - 2) would override
   
   lw x10, 0(sp)     # restore the orignal value of n
   
@@ -119,7 +119,7 @@ $$
       2.08 &= 0.7(x) +  0.1(6) + 0.2(3)  \\
       \frac{2.08 - 0.1(6) - 0.2(3)}{0.7} &= x \\
       &= 1.2571428571 \\
-      &\approx 1.23
+      &\approx 1.26
     \end{align}
     $$
     
