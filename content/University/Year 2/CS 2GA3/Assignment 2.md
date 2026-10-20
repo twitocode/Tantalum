@@ -97,7 +97,7 @@ f: #label for f
   
   add x10, x29, x28 # ((g + h) - i + ((g - h) + j))
   
-  jalr x0, 0(x1) # exit out of the ufnction
+  jalr x0, 0(x1) # exit out of the function
 ```
 
 **4. Exercise 2.40 (4 Marks)** Assume that for a given program $70\%$ of the executed instructions are arithmetic, $10\%$ are load/store, and $20\%$ are branch.
@@ -107,32 +107,41 @@ $$
 \begin{align}
 \text{CPI} &= \sum^{4}_{i = 1}(\text{Relative Frequency} \cdot CPI_{i}) \\
 &= 0.7(2) + 0.1(6) + 0.2(3) \\
-&= 2.6 \ ~~~~
+&= 2.6 \
 \end{align}
-
+\\
+\\
+\therefore \text{Average CPI} = 2.6
 $$
+
 - **b. (1 mark)** For a $25\%$ improvement in performance, how many cycles, on average, may an arithmetic instruction take if load/store and branch instructions are not improved at all?
+
     $$
     \begin{align}
       \text{New CPI} &= \frac{\text{Old CPI}}{1.25} \\ \\
       &= 2.08 \\
       2.08 &= 0.7(x) +  0.1(6) + 0.2(3)  \\
       \frac{2.08 - 0.1(6) - 0.2(3)}{0.7} &= x \\
-      &= 1.2571428571 \\
-      &\approx 1.26
+       1.2571428571 &= x \\
+      1.26 &\approx x
     \end{align}
+    \\
+    \\
+\therefore \text{Arithemetic instructions will now take 1.26 cycles on average}
     $$
-    
+
 - **c. (1 mark)** For a $50\%$ improvement in performance, how many cycles, on average, may an arithmetic instruction take if load/store and branch instructions are not improved at all?
-- 
+
   $$
     \begin{align}
       \text{New CPI} &= \frac{\text{Old CPI}}{1.5} \\ \\
       &= 1.73 \\
       1.73 &= 0.7(x) +  0.1(6) + 0.2(3)  \\
       \frac{1.73 - 0.1(6) - 0.2(3)}{0.7} &= x \\
-      &= 0.7571428571 \\
-      &\approx 0.76
+      0.7571428571  &= x\\
+      0.76 &\approx x
     \end{align}
-    
+\\
+\\
+\therefore \text{Arithemetic instructions will now take 0.76 cycles on average}    
   $$
