@@ -13,6 +13,7 @@ f = g + (h - 5); x5, x6, x7
 ```
 addi is add immediate
 
+addi x23, x0, 1232 = x23 = 0 + 1232
 addi x5, x7, -5
 add x5, x5, x6
 ```
@@ -22,6 +23,9 @@ if it was
 f = g - (h - 5)
 ```
 
+f = x23
+g = x24
+h = x25
 ```asm
 addi x5, x7, -5
 sub x5, x6, x5
@@ -40,6 +44,7 @@ A, B -> x10, x11
 ```asm
 find index
 sub x30, x28, x29
+
 slli x30, x30, 2
 add x3 x10, x30
 
