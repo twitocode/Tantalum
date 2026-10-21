@@ -52,6 +52,16 @@ lw x30, 0(x3)
 sw x30 32(x11)
 ```
 
+```
+find index
+sub x30, x28, x29
+
+slli x30, x30, 2
+
+lw x50, x3(x10) 
+sw x50, 32(x11)
+```
+
 lw -  load word
 sw - store word
 
