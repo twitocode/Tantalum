@@ -5,7 +5,7 @@ tags:
 class: CS 2GA3
 ---
 **Based on week 8 tutorial slides**
-
+$$\mathbf{I \equiv o \le r \le |L| \land v \notin L[o, r)}\quad \text{}$$
 Exercise 1
 a) blue control lines
 b) 
