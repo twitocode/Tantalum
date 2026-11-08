@@ -111,6 +111,3 @@ srai - shift right arithmetic immediate (shift right and add (x = 1))
 2s compliment -> 0000 0000 0000 0000 0000 0000 0000 0011
 convert to decimal
 x12 = -3
-
-
-
